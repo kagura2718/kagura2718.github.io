@@ -1,0 +1,142 @@
+Date: Wed, 17 May 2017 05:44:47 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+Malaysia Egg
+
+Japan, Ishikawa-ken, Hakui-gun, Hōdatsushimizu-chō, 国道249号線
+
+
+
+
+Portal - Malaysia Egg
+
+Map
+
+
+LINK DESTROYED
+
+
+志雄町閉町記念碑: Nanao Highway, Shio, Hōdatsushimizu-chō, Hakui-gun,  
+Ishikawa-ken 929-1425, Japan
+
+
+
+
+Portal - 志雄町閉町記念碑
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 12:44 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 40%
+Owner: kagura2718
+
+
+
+
+
+
+宝達志水八幡宮
+
+I-175 Oginoshima, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1412,  
+Japan
+
+
+
+
+Portal - 宝達志水八幡宮
+
+Map
+
+
+LINK DESTROYED
+
+
+志雄町閉町記念碑: Nanao Highway, Shio, Hōdatsushimizu-chō, Hakui-gun,  
+Ishikawa-ken 929-1425, Japan
+
+
+
+
+Portal - 志雄町閉町記念碑
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 12:44 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 85%
+Owner: kagura2718
+
+
+
+
+
+
+志乎神社 本殿
+
+Japan, 〒929-1412 Ishikawa-ken, Hakui-gun, Hōdatsushimizu-chō, Oginoshima,  
+Chi−14−1, 志乎神社
+
+
+
+
+Portal - 志乎神社 本殿
+
+Map
+
+
+LINK DESTROYED
+
+
+志雄町閉町記念碑: Nanao Highway, Shio, Hōdatsushimizu-chō, Hakui-gun,  
+Ishikawa-ken 929-1425, Japan
+
+
+
+
+Portal - 志雄町閉町記念碑
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 12:44 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 85%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

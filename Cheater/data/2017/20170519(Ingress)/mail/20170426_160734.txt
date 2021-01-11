@@ -1,0 +1,47 @@
+Date: Wed, 26 Apr 2017 00:07:34 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+カトリック内灘教会
+
+4 Chome-1-127 Tsurugaoka, Uchinada-machi, Kahoku-gun, Ishikawa-ken  
+920-0271, Japan
+
+
+
+
+Portal - カトリック内灘教会
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by kagura99 at 07:07 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 96%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

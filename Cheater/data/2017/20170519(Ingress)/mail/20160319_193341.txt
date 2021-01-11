@@ -1,0 +1,84 @@
+Date: Sat, 19 Mar 2016 10:33:41 +0000
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L11
+
+
+DAMAGE REPORT
+
+
+
+ソフトバンクイオンタウン羽咋
+
+Ro-45 Ishinomachi, Hakui-shi, Ishikawa-ken 925-0026, Japan
+
+
+
+
+Portal - ソフトバンクイオンタウン羽咋
+
+Map
+
+
+LINKS DESTROYED
+
+
+滑り台: Ho-33 Sanden, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1406,  
+Japan
+
+
+
+
+
+Portal - 滑り台
+
+Map
+
+
+志雄運動公園体育センター: O-156 Yoshinoya, Hōdatsushimizu-chō, Hakui-gun,  
+Ishikawa-ken 929-1424, Japan
+
+
+
+
+
+Portal - 志雄運動公園体育センター
+
+Map
+
+
+運動公園入口: O-44 Yoshinoya, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken  
+929-1424, Japan
+
+
+
+
+Portal - 運動公園入口
+
+Map
+
+
+DAMAGE:
+3 Links destroyed by snowcolor55 at 10:33 hrs GMT
+2 Resonators remaining on this Portal.
+
+STATUS:
+Level 2
+Health: 9%
+Owner: kohukohu
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

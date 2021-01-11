@@ -1,0 +1,47 @@
+Date: Sat, 03 Dec 2016 17:37:14 -0800
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L14
+
+
+DAMAGE REPORT
+
+
+
+千里浜海岸遊歩道 花木案内板
+
+Japan, 〒925-0054 Ishikawa-ken, Hakui-shi, Chirihamamachi, Ta のと里山海道 
+(無料区間)
+
+
+
+
+Portal - 千里浜海岸遊歩道 花木案内板
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by snowcolor55 at 01:37 hrs GMT
+7 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 40%
+Owner: MU612TX
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

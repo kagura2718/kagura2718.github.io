@@ -1,0 +1,59 @@
+Date: Fri, 30 Sep 2016 17:05:19 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L13
+
+
+DAMAGE REPORT
+
+
+
+「川あり」の標識
+
+Japan, Ishikawa-ken, Hakui-shi のと里山海道(無料区間)
+
+
+
+
+Portal - 「川あり」の標識
+
+Map
+
+
+LINK DESTROYED
+
+
+夢半島のと: Japan, Ishikawa-ken, Kahoku-shi のと里山海道(無料区間)
+
+
+
+
+Portal - 夢半島のと
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 00:05 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 100%
+Owner: IEEE80211n
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

@@ -1,0 +1,46 @@
+Date: Tue, 08 Mar 2016 13:08:53 +0000
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L11
+
+
+DAMAGE REPORT
+
+
+
+螺旋階段
+
+Kita-222 Wakahinomachi, Kanazawa, Ishikawa Prefecture, Japan
+
+
+
+
+Portal - 螺旋階段
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by kagura99 at 13:08 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 6
+Health: 69%
+Owner: kohukohu
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

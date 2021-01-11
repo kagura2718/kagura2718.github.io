@@ -1,0 +1,46 @@
+Date: Sat, 15 Apr 2017 04:55:47 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+百年計
+
+92 Taiseidai, Uchinada-machi, Kahoku-gun, Ishikawa-ken 920-0267, Japan
+
+
+
+
+Portal - 百年計
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 11:55 hrs GMT
+1 Resonator remaining on this Portal.
+
+STATUS:
+Level 1
+Health: 41%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

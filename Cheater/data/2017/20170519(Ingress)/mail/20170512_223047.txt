@@ -1,0 +1,46 @@
+Date: Fri, 12 May 2017 06:30:47 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+Super Big Bowling Pin
+
+Kanazawa By-pass, Kanazawa, Ishikawa, Japan
+
+
+
+
+Portal - Super Big Bowling Pin
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 13:30 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

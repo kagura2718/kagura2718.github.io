@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1610269279261,
+  "index": "/index.htm",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/10.0312743c2488973a6ae1.js",
+        "/11.d69c6828a0bb23792946.js",
+        "/12.24b44fe545ba5c70f85f.js",
+        "/2.c4aa24c375301f97bc72.js",
+        "/3.02f7725200a113dacf63.js",
+        "/4.056068141dd5fc456462.js",
+        "/5.1102de413a6aeddbc62d.js",
+        "/9.88517080292079e4dd66.js",
+        "/common.99751ee31ea5687d4d61.js",
+        "/firebase-messaging-sw.js",
+        "/index.htm",
+        "/main.921e80cb07fbb4c49a4a.js",
+        "/manifest.webmanifest",
+        "/polyfills.bc913480f23c5c12cda7.js",
+        "/runtime.737efd3bf2417dc34b96.js",
+        "/scripts.690544d4b945a69231a5.js",
+        "/styles.8b5fc53b5e4e10e0b855.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/google-login.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/twitter-login.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/10.0312743c2488973a6ae1.js": "5907e70322c82a9ab5823a1f140b0e661be90c28",
+    "/11.d69c6828a0bb23792946.js": "d290566fe1a742c05287ed6892eca691f5f87c85",
+    "/12.24b44fe545ba5c70f85f.js": "415ee267c5dfd37eb0b8f1ac3b15164b61f80d0e",
+    "/2.c4aa24c375301f97bc72.js": "6e1c6b00013f2df3a55d1ec25d5313789d369439",
+    "/3.02f7725200a113dacf63.js": "24dd68672884037c23c7dc3d8d4c4ed20a916a40",
+    "/4.056068141dd5fc456462.js": "fc40aa78087c19d085ecc707b1ca01105e28337b",
+    "/5.1102de413a6aeddbc62d.js": "b83549eadd899a1c1e1f0bc07801b0664b9ee56b",
+    "/9.88517080292079e4dd66.js": "72c6182f2afca2418cec137e79a1c23a0fff17a5",
+    "/assets/google-login.png": "bc32c95532980eb76e3d12a57b840795ecb0ae16",
+    "/assets/icons/icon-128x128.png": "144702d153834105ade65d658bf85c82b45281e5",
+    "/assets/icons/icon-144x144.png": "d97eba071953b4b05d12dc6d0fbd970546fe2b66",
+    "/assets/icons/icon-152x152.png": "7a5223e0d289e9862df21de838775d59c45f4726",
+    "/assets/icons/icon-192x192.png": "971afd6835f1e37f297feec762a2e2ea8595dc3f",
+    "/assets/icons/icon-384x384.png": "7975b3d33e16e86400fb5dede63690dbdd677d9e",
+    "/assets/icons/icon-512x512.png": "b636b506fc1cdb28adbaa0878568682b04aa5943",
+    "/assets/icons/icon-72x72.png": "70e583d6d23bd6865cb5f55507d0ac8aecd47349",
+    "/assets/icons/icon-96x96.png": "642e492b3ad41a52655eecc9e3eed2d4e5d64964",
+    "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
+    "/common.99751ee31ea5687d4d61.js": "cf984426b5e8c553b17181f98d2e32f547ca6fc7",
+    "/firebase-messaging-sw.js": "57c5bd49ecc20b32860ab085a1c20820021a75fd",
+    "/index.htm": "9785b3e278075a1daaa653221e8c7f95826d3397",
+    "/main.921e80cb07fbb4c49a4a.js": "e6990f4bebd2a96b7776137159954abd134b07c2",
+    "/manifest.webmanifest": "bb631cfbe83af6b384cb2feb63b99dd0ec66b9e9",
+    "/polyfills.bc913480f23c5c12cda7.js": "29d471c5652f9bdb75fa2e9b9bf586ed798ac2f0",
+    "/runtime.737efd3bf2417dc34b96.js": "03683383f322d7184d2c6ec6fd07626e655395e2",
+    "/scripts.690544d4b945a69231a5.js": "67a8abc75283d497241d43b4e7e6f0bf0a49f79f",
+    "/styles.8b5fc53b5e4e10e0b855.css": "a83235e96a07e4659207c5695924524c7ad26848"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

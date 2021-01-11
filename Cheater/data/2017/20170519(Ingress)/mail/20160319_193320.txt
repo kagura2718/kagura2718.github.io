@@ -1,0 +1,46 @@
+Date: Sat, 19 Mar 2016 10:33:20 +0000
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L11
+
+
+DAMAGE REPORT
+
+
+
+ソフトバンクイオンタウン羽咋
+
+Ro-45 Ishinomachi, Hakui-shi, Ishikawa-ken 925-0026, Japan
+
+
+
+
+Portal - ソフトバンクイオンタウン羽咋
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by snowcolor55 at 10:33 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 62%
+Owner: kohukohu
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

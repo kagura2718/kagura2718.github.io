@@ -1,0 +1,59 @@
+Date: Fri, 03 Jun 2016 21:47:46 -0700
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L12
+
+
+DAMAGE REPORT
+
+
+
+善照坊 Zenshobo Temple
+
+2 Chome-5-20 Nagadohe, Kanazawa-shi, Ishikawa-ken 920-0867, Japan
+
+
+
+
+Portal - 善照坊 Zenshobo Temple
+
+Map
+
+
+LINK DESTROYED
+
+
+Jouju Zenji Temple: 3 Chome-13-22 Nagadohe, Kanazawa, Ishikawa, Japan
+
+
+
+
+Portal - Jouju Zenji Temple
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by snowcolor55 at 04:47 hrs GMT
+4 Resonators remaining on this Portal.
+
+STATUS:
+Level 3
+Health: 65%
+Owner: Drarabbit
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

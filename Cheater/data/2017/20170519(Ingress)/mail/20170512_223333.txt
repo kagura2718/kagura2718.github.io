@@ -1,0 +1,47 @@
+Date: Fri, 12 May 2017 06:33:33 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+お地蔵さん
+
+Kanazawa By-pass, Sa Sakuradamachi, Kanazawa-shi, Ishikawa-ken 920-0057,  
+Japan
+
+
+
+
+Portal - お地蔵さん
+
+Map
+
+
+DAMAGE:
+2 Resonators destroyed by kagura99 at 13:33 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

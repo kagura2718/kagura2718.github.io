@@ -1,0 +1,46 @@
+Date: Thu, 11 Feb 2016 08:02:46 +0000
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L10
+
+
+DAMAGE REPORT
+
+
+
+ＩＴＯ ＥＮ ＳＵＲＦＴＲＩＰ 社会貢献自販機
+
+uchinadamachioonebu６cyoume６９,ishikawaken,kahokugun,9200266,JAPAN
+
+
+
+
+Portal - ＩＴＯ ＥＮ ＳＵＲＦＴＲＩＰ 社会貢献自販機
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by snowcolor55 at 08:02 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 88%
+Owner: mar150203
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

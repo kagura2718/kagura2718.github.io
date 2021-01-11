@@ -1,0 +1,47 @@
+Date: Fri, 03 Jun 2016 22:19:17 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L12
+
+
+DAMAGE REPORT
+
+
+
+母校跡の碑
+
+12-13 Takaokamachi, Kanazawa-shi, Ishikawa-ken 920-0864, Japan
+
+
+
+
+Portal - 母校跡の碑
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 05:19 hrs GMT
+1 Mod destroyed by kagura99 at 05:19 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

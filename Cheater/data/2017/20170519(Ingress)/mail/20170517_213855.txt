@@ -1,0 +1,46 @@
+Date: Wed, 17 May 2017 05:38:55 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+出雲神社
+
+39 Ogichi, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1426, Japan
+
+
+
+
+Portal - 出雲神社
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by kagura99 at 12:38 hrs GMT
+4 Resonators remaining on this Portal.
+
+STATUS:
+Level 3
+Health: 26%
+Owner: jetmetal
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

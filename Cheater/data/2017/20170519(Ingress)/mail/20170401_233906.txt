@@ -1,0 +1,130 @@
+Date: Sat, 01 Apr 2017 07:39:06 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+七福神センター
+
+Japan, 〒929-1177 Ishikawa-ken, Kahoku-shi, Shiroo, Mu のと里山海道(無料区間 
+)
+
+
+
+
+Portal - 七福神センター
+
+Map
+
+
+LINKS DESTROYED
+
+
+蓮華山土俵: Tsu-109 Shio, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken  
+929-1425, Japan
+
+
+
+
+
+Portal - 蓮華山土俵
+
+Map
+
+
+「川あり」の標識: Japan, Ishikawa-ken, Hakui-shi のと里山海道(無料区間)
+
+
+
+
+
+Portal - 「川あり」の標識
+
+Map
+
+
+御山神社 鳥居: Tsu-60 Shimokawai, Tsubata-machi, Kahoku-gun, Ishikawa-ken  
+929-0305, Japan
+
+
+
+
+
+Portal - 御山神社 鳥居
+
+Map
+
+
+末森城跡 : Mo-126 Minamiyoshita, Hōdatsushimizu-chō, Hakui-gun,  
+Ishikawa-ken 929-1304, Japan
+
+
+
+
+
+Portal - 末森城跡
+
+Map
+
+
+専長寺: Ri-53 Shiroo, Kahoku-shi, Ishikawa-ken 929-1177, Japan
+
+
+
+
+
+Portal - 専長寺
+
+Map
+
+
+住吉神社: Ri-29 Shiroo, Kahoku-shi, Ishikawa-ken 929-1177, Japan
+
+
+
+
+
+Portal - 住吉神社
+
+Map
+
+
+子浦出雲神社: Re-217 Shio, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken  
+929-1425, Japan
+
+
+
+
+Portal - 子浦出雲神社
+
+Map
+
+
+DAMAGE:
+7 Links destroyed by kagura99 at 14:39 hrs GMT
+2 Resonators remaining on this Portal.
+
+STATUS:
+Level 1
+Health: 43%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

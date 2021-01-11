@@ -1,0 +1,61 @@
+Date: Mon, 06 Jun 2016 20:18:00 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L12
+
+
+DAMAGE REPORT
+
+
+
+kenyu-aika Statue
+
+Japan, Ishikawa Prefecture, Kahoku District, Uchinada, Daigaku, ２丁目２５ 
+−２
+
+
+
+
+Portal - kenyu-aika Statue
+
+Map
+
+
+LINK DESTROYED
+
+
+内灘図書館: 140 Taiseidai, Uchinada-machi, Kahoku-gun, Ishikawa-ken  
+920-0267, Japan
+
+
+
+
+Portal - 内灘図書館
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 03:18 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 85%
+Owner: mar150203
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

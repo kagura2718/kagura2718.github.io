@@ -1,0 +1,73 @@
+Date: Wed, 17 May 2017 06:22:12 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+杉野屋天満宮鳥居
+
+Japan, 〒929-1422 Ishikawa-ken, Hakui-gun, Hōdatsushimizu-chō, Suginoya,  
+O−２４甲
+
+
+
+
+Portal - 杉野屋天満宮鳥居
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 13:22 hrs GMT
+3 Resonators remaining on this Portal.
+
+STATUS:
+Level 2
+Health: 30%
+Owner: jetmetal
+
+
+
+
+
+
+神馬
+
+Wa-191 Suginoya, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1422, Japan
+
+
+
+
+Portal - 神馬
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 13:22 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

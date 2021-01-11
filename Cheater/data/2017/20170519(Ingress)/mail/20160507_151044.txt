@@ -1,0 +1,47 @@
+Date: Fri, 06 May 2016 23:10:44 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L12
+
+
+DAMAGE REPORT
+
+
+
+Ishikawa Sports Center
+
+Japan, 〒920-0000 Ishikawa Prefecture, Kanazawa, Wakahinomachi, Kita 県道 
+25号線
+
+
+
+
+Portal - Ishikawa Sports Center
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by kagura99 at 06:10 hrs GMT
+7 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 46%
+Owner: regolith1217
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

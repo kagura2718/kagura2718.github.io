@@ -1,0 +1,112 @@
+Date: Fri, 06 Jan 2017 01:19:41 -0800
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L14
+
+
+DAMAGE REPORT
+
+
+
+悲しいワンちゃん
+
+1 Chome-98 Fujieminami, Kanazawa-shi, Ishikawa-ken 920-0346, Japan
+
+
+
+
+Portal - 悲しいワンちゃん
+
+Map
+
+
+LINK DESTROYED
+
+
+お地蔵さん: Kanazawa By-pass, Sa Sakuradamachi, Kanazawa-shi, Ishikawa-ken  
+920-0057, Japan
+
+
+
+
+Portal - お地蔵さん
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by snowcolor55 at 09:19 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 5
+Health: 70%
+Owner: kagura2718
+
+
+
+
+
+
+お地蔵さん
+
+Kanazawa By-pass, Sa Sakuradamachi, Kanazawa-shi, Ishikawa-ken 920-0057,  
+Japan
+
+
+
+
+Portal - お地蔵さん
+
+Map
+
+
+LINKS DESTROYED
+
+
+悲しいワンちゃん: 1 Chome-98 Fujieminami, Kanazawa-shi, Ishikawa-ken  
+920-0346, Japan
+
+
+
+
+
+Portal - 悲しいワンちゃん
+
+Map
+
+
+戸板公園: Japan, Ishikawa Prefecture, Kanazawa, Sakuradamachi, ６１街区５
+
+
+
+
+Portal - 戸板公園
+
+Map
+
+
+DAMAGE:
+2 Links destroyed by snowcolor55 at 09:19 hrs GMT
+1 Resonator remaining on this Portal.
+
+STATUS:
+Level 1
+Health: 32%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

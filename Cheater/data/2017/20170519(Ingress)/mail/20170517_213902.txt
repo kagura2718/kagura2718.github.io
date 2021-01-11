@@ -1,0 +1,60 @@
+Date: Wed, 17 May 2017 05:39:02 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+蓮華山の石碑
+
+Ne-49 Shio, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1425, Japan
+
+
+
+
+Portal - 蓮華山の石碑
+
+Map
+
+
+LINK DESTROYED
+
+
+出雲神社: 39 Ogichi, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1426,  
+Japan
+
+
+
+
+Portal - 出雲神社
+
+Map
+
+
+DAMAGE:
+1 Link destroyed by kagura99 at 12:39 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 6
+Health: 57%
+Owner: jetmetal
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

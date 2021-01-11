@@ -1,0 +1,28 @@
+/* ************************ */
+/* Defined for each :poop:
+/* ************************ */
+
+.list-group-item {
+	background-color: #cccccc;
+}
+
+.screenshot {
+	width: 200px;
+}
+
+.scenary {
+	width: 400px;
+}
+
+header {
+	/* background-color: #666666; */
+}
+
+.sidebar {
+	width: 15%;
+	max-width: 180px;
+	position: fixed;
+	z-index: 10000;
+	padding-left: 0px;
+	padding-right: 0px;
+}

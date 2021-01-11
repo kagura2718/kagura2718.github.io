@@ -1,0 +1,72 @@
+Date: Sat, 25 Jun 2016 23:11:49 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L13
+
+
+DAMAGE REPORT
+
+
+
+コスモアイル羽咋
+
+Japan, Ishikawa Prefecture, Hakui, Tsurutamachi, Menda２５
+
+
+
+
+Portal - コスモアイル羽咋
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 06:11 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+
+Mercury Redstone Rocket
+
+Dōnokuchi-20-14 Tsurutamachi, Hakui-shi, Ishikawa-ken 925-0027, Japan
+
+
+
+
+Portal - Mercury Redstone Rocket
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 06:11 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

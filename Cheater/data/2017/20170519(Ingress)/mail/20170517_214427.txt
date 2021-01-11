@@ -1,0 +1,47 @@
+Date: Wed, 17 May 2017 05:44:27 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+志雄町閉町記念碑
+
+Nanao Highway, Shio, Hōdatsushimizu-chō, Hakui-gun, Ishikawa-ken 929-1425,  
+Japan
+
+
+
+
+Portal - 志雄町閉町記念碑
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 12:44 hrs GMT
+6 Resonators remaining on this Portal.
+
+STATUS:
+Level 4
+Health: 42%
+Owner: jetmetal
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

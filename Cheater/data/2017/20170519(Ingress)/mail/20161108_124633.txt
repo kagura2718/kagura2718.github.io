@@ -1,0 +1,46 @@
+Date: Mon, 07 Nov 2016 19:46:33 -0800
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L14
+
+
+DAMAGE REPORT
+
+
+
+Lawson ローソン 金沢諸江町
+
+[Unknown Location]
+
+
+
+
+Portal - Lawson ローソン 金沢諸江町
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by snowcolor55 at 03:46 hrs GMT
+1 Resonator remaining on this Portal.
+
+STATUS:
+Level 1
+Health: 72%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

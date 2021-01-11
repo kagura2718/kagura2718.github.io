@@ -1,0 +1,46 @@
+Date: Tue, 25 Apr 2017 17:21:23 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+Sunset Park
+
+1 Chome-4 Daigaku, Uchinada-machi, Kahoku-gun, Ishikawa-ken 920-0265, Japan
+
+
+
+
+Portal - Sunset Park
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 00:21 hrs GMT
+No remaining Resonators detected on this Portal.
+
+STATUS:
+Level 1
+Health: 0%
+Owner: [uncaptured]
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

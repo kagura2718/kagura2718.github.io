@@ -1,0 +1,49 @@
+#!/bin/bash
+
+mkdir -p "output"
+
+boundary_body_file=`tempfile`
+
+echo "Temp file is ${boundary_body_file}"
+
+find .  -maxdepth 1 -type f  -exec grep --files-with-matches -e '^Subject: .*\(kagura99\|snowcolor55\)' {} + | while read file ; do
+	echo "Processing ${file} ..."
+	date="$(formail -x Date < ${file})"
+	new_fn=$(date -d "${date}" '+%Y%m%d_%H%M%S')
+	new_file="./output/${new_fn}"
+	text_file="./output/${new_fn}.txt"
+	boundary=$(formail -X "Content-Type" < "${file}" | sed -n "s/.*boundary=\(.*\)/\1/p")
+	boundary=$(echo "${boundary}" | sed -e "s/\"//g")
+	body_encoding=""
+	rm -f "${new_file}" "${text_file}"
+
+	if [ -n "${boundary}" ] ; then
+		sed -n -e "/^--${boundary}$/,/^--${boundary}$/p" "${file}" | tail -n +2 | head -n -1 > "${boundary_body_file}"
+		body_encoding=$(cat "${boundary_body_file}" | formail -x "Content-Transfer-Encoding")
+	fi
+
+	formail -f -X Date < "${file}" >> "${new_file}"
+	formail -f -X From < "${file}" >> "${new_file}"
+	formail -f -X Subject < "${file}" >> "${new_file}"
+	formail -f -X Content-Type < "${file}" >> "${new_file}"
+	formail -f -X MIME-Version < "${file}" >> "${new_file}"
+	formail -f -X Content-Transfer-Encoding < "${file}" >> "${new_file}"
+	
+	formail -I "" < "${file}" >> "${new_file}"
+
+	formail -f -X Date < "${file}" >> "${text_file}"
+	formail -f -X Subject < "${file}" >> "${text_file}"
+	if [ -z "${boundary}" ] ; then
+		formail -I "" < "${file}" >> "${text_file}"
+	else 
+		echo "" >> "${text_file}"
+		if echo "${body_encoding}" | grep -q -i "base64" ; then
+			cat "${boundary_body_file}" | formail -I "" | nkf -W8 -mB -Lu >> "${text_file}"
+		else
+			cat "${boundary_body_file}" | formail -I "" >> "${text_file}"
+		fi
+	fi
+done
+
+
+rm -f "${boundary_body_file}"

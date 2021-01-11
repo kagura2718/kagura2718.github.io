@@ -1,0 +1,47 @@
+Date: Tue, 19 Jul 2016 04:36:29 -0700
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L13
+
+
+DAMAGE REPORT
+
+
+
+内灘聖書教会
+
+3 Chome-13 Chidoridai, Uchinada-machi, Kahoku-gun, Ishikawa-ken 920-0277,  
+Japan
+
+
+
+
+Portal - 内灘聖書教会
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by snowcolor55 at 11:36 hrs GMT
+5 Resonators remaining on this Portal.
+
+STATUS:
+Level 4
+Health: 9%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

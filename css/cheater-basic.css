@@ -1,0 +1,31 @@
+/* ************************ */
+/* Override basic.css */
+/* ************************ */
+body {
+	/* color: #fff; */
+	background-color: #ededed;
+}
+
+main > .container {
+	background-color: #dadada;
+	opacity: 0.80;
+}
+
+
+@media print, screen and (min-width: 0em) {
+  body {
+    background-image: url("/Images/CheaterPoopBedpan-Small.jpg");
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  body {
+    background-image: url("/Images/CheaterPoopBedpan-Medium.jpg");
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  body {
+    background-image: url("/Images/CheaterPoopBedpan-Large.jpg");
+  }
+}

@@ -1,0 +1,47 @@
+Date: Wed, 17 May 2017 05:41:56 -0700
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L15
+
+
+DAMAGE REPORT
+
+
+
+志雄郵便局
+
+Japan, 〒929-1425 Ishikawa-ken, Hakui-gun, Hōdatsushimizu-chō, Shio, Kō−48,  
+志雄郵便局
+
+
+
+
+Portal - 志雄郵便局
+
+Map
+
+
+DAMAGE:
+2 Resonators destroyed by kagura99 at 12:41 hrs GMT
+6 Resonators remaining on this Portal.
+
+STATUS:
+Level 4
+Health: 30%
+Owner: jetmetal
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

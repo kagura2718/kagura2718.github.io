@@ -1,0 +1,47 @@
+Date: Sat, 03 Dec 2016 17:48:32 -0800
+Subject: Ingress Damage Report: Entities attacked by kagura99
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L14
+
+
+DAMAGE REPORT
+
+
+
+能登半島 千里浜
+
+Japan, 〒925-0054 Ishikawa-ken, Hakui-shi, Chirihamamachi, Ta のと里山海道 
+(無料区間)
+
+
+
+
+Portal - 能登半島 千里浜
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by kagura99 at 01:48 hrs GMT
+1 Resonator remaining on this Portal.
+
+STATUS:
+Level 1
+Health: 1%
+Owner: Cross69
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

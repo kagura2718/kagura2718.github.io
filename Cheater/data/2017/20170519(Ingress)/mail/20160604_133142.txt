@@ -1,0 +1,46 @@
+Date: Fri, 03 Jun 2016 21:31:42 -0700
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L12
+
+
+DAMAGE REPORT
+
+
+
+人魚の石彫
+
+4-37 Motoechō, Kanazawa-shi, Ishikawa-ken 921-8012, Japan
+
+
+
+
+Portal - 人魚の石彫
+
+Map
+
+
+DAMAGE:
+1 Mod destroyed by snowcolor55 at 04:31 hrs GMT
+8 Resonators remaining on this Portal.
+
+STATUS:
+Level 7
+Health: 58%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+

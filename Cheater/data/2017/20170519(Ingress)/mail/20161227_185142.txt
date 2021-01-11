@@ -1,0 +1,46 @@
+Date: Tue, 27 Dec 2016 01:51:42 -0800
+Subject: Ingress Damage Report: Entities attacked by snowcolor55
+From: Niantic Project Operations <ingress-support@nianticlabs.com>
+
+** Ingress - Begin Transmission**
+
+
+
+Agent Name:kagura2718
+Faction:Resistance
+Current Level:L14
+
+
+DAMAGE REPORT
+
+
+
+寿
+
+3 Chome-106 Fujieminami, Kanazawa-shi, Ishikawa-ken, Japan
+
+
+
+
+Portal - 寿
+
+Map
+
+
+DAMAGE:
+1 Resonator destroyed by snowcolor55 at 09:51 hrs GMT
+7 Resonators remaining on this Portal.
+
+STATUS:
+Level 6
+Health: 36%
+Owner: kagura2718
+
+
+
+
+
+** Ingress - End Transmission **
+
+
+
