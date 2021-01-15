@@ -4,8 +4,8 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://kagura2718.github.io/",
+  "start_url": "https://kagura2718.github.io/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
