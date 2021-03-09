@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615297833626,
+  "timestamp": 1615298627065,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -23,7 +23,7 @@
         "/common.d4ee3a12f9b72a677d11.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
-        "/main.d538cba031ddcceb66ad.js",
+        "/main.fb6891057d73d42fb712.js",
         "/manifest.webmanifest",
         "/polyfills.0be09a276dbc2889925e.js",
         "/runtime.bea8ab0f416c45c98a3d.js",
@@ -86,9 +86,9 @@
     "/assets/testing/yellow-icon.jpg": "712178eb85a388fa46fb4a4b85482d9c894cdb44",
     "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
     "/common.d4ee3a12f9b72a677d11.js": "5896b366be79dd1e6e58534ef1e1e4b532372086",
-    "/firebase-messaging-sw.js": "b388bdd64984325cdfd167aedc0632b39f623c47",
-    "/index.htm": "f95f479f39bab206fd87fcbbe7771693c399c282",
-    "/main.d538cba031ddcceb66ad.js": "d7214547107c14a285825d42b2059ef550938e93",
+    "/firebase-messaging-sw.js": "54ca5fceb6dfc6634a5fd7c9ac556dc61e044be5",
+    "/index.htm": "1e3f5b6b372fc249abf6803b2461128ef57c6037",
+    "/main.fb6891057d73d42fb712.js": "d2e502bc07808ea8883b06a17e211e0ba27780f9",
     "/manifest.webmanifest": "f44019e79feb8c41b2b5f2f50ce98c793f70ccbe",
     "/polyfills.0be09a276dbc2889925e.js": "2e7eb72b8a60122dbd8f83cb04804af6318746f5",
     "/runtime.bea8ab0f416c45c98a3d.js": "22a31fd6c7655e4b1bf63000be7a23188127ebc8",

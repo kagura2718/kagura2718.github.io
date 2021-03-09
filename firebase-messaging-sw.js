@@ -10,6 +10,7 @@ importScripts('https://www.gstatic.com/firebasejs/8.2.10/firebase-messaging.js')
 const firebaseConfig = {
   projectId: "kagura2718githubpages",
   apiKey: "AIzaSyBgUewk_biDoZTc2N22Cci1wPamgiaYTzw",
+  authDomain: "kagura2718githubpages.firebaseapp.com",
   messagingSenderId: "955116005284",
   appId: "1:955116005284:web:99f5297fc9562faa640331",
 };
