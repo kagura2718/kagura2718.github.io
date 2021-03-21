@@ -4,8 +4,8 @@
 // Note that you can only use Firebase Messaging here, other Firebase libraries
 // are not available in the service worker.
 
-importScripts('https://www.gstatic.com/firebasejs/8.2.10/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/8.2.10/firebase-messaging.js');
+importScripts('https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/8.3.1/firebase-messaging.js');
 
 const firebaseConfig = {
   projectId: "kagura2718githubpages",
