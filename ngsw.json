@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617763874223,
+  "timestamp": 1617764933470,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -18,7 +18,6 @@
         "/13.5019e798a407b514add5.js",
         "/14.e429f39d1f28d1c00334.js",
         "/2.34feb6aa73d0ce24c96a.js",
-        "/3rdpartylicenses.txt",
         "/4.d164eea0ef17095573f3.js",
         "/5.82ac32024ac0f39560a0.js",
         "/9.16b8a6187a6acc4710b9.js",
@@ -26,7 +25,7 @@
         "/common.9011b743460f7c0712fe.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
-        "/main.1d95ad339fd2496aeafc.js",
+        "/main.787b531837bd5d29b549.js",
         "/manifest.webmanifest",
         "/polyfills.a150d511ee4f9a95e783.js",
         "/runtime.3277ee9fc17d90d93500.js",
@@ -251,7 +250,6 @@
     "/13.5019e798a407b514add5.js": "bdb9b750e960fe2c47fa6231965bf2cb37ebc066",
     "/14.e429f39d1f28d1c00334.js": "74659027c8217fb7957c71ca18975babaa0434ca",
     "/2.34feb6aa73d0ce24c96a.js": "f119bb6e79e8f8803b8391d38bd43eb62c69e1db",
-    "/3rdpartylicenses.txt": "60110ea371868dd43e898dbb2384af08ccd134c8",
     "/4.d164eea0ef17095573f3.js": "73347a0b07faa2e6cbc912e264b7de7e189d4dd8",
     "/5.82ac32024ac0f39560a0.js": "68f4e8fa81e373ebaf14ed56dc0413ca85cd8d51",
     "/9.16b8a6187a6acc4710b9.js": "94c95b5cc68404c608ff6e3fd3db103487ddcf89",
@@ -453,8 +451,8 @@
     "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
     "/common.9011b743460f7c0712fe.js": "8a3480166f840fdcea5cf2667317539e376d9e7d",
     "/firebase-messaging-sw.js": "508ff8afb247c630e3e2d7b90fb5ba8e33211bd7",
-    "/index.htm": "6857a83a208d7c55dd1227b90ae6c35b85dcb73d",
-    "/main.1d95ad339fd2496aeafc.js": "4179836b12dae69ad79f21dd98853446ff65fe9f",
+    "/index.htm": "765753f7e39a3d392dd015242194024d8def899d",
+    "/main.787b531837bd5d29b549.js": "c27a9435887d58ddce1d3f981503731b107c285f",
     "/manifest.webmanifest": "f44019e79feb8c41b2b5f2f50ce98c793f70ccbe",
     "/polyfills.a150d511ee4f9a95e783.js": "07601a459bd33ca76ffea9c89285558b52688f86",
     "/runtime.3277ee9fc17d90d93500.js": "6bb32f3d8834b77f56ccc3cec40bb5329d8e24c2",
