@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617697015881,
+  "timestamp": 1617763874223,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -18,9 +18,11 @@
         "/13.5019e798a407b514add5.js",
         "/14.e429f39d1f28d1c00334.js",
         "/2.34feb6aa73d0ce24c96a.js",
+        "/3rdpartylicenses.txt",
         "/4.d164eea0ef17095573f3.js",
         "/5.82ac32024ac0f39560a0.js",
         "/9.16b8a6187a6acc4710b9.js",
+        "/app-disclaimer.htm",
         "/common.9011b743460f7c0712fe.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
@@ -249,9 +251,11 @@
     "/13.5019e798a407b514add5.js": "bdb9b750e960fe2c47fa6231965bf2cb37ebc066",
     "/14.e429f39d1f28d1c00334.js": "74659027c8217fb7957c71ca18975babaa0434ca",
     "/2.34feb6aa73d0ce24c96a.js": "f119bb6e79e8f8803b8391d38bd43eb62c69e1db",
+    "/3rdpartylicenses.txt": "60110ea371868dd43e898dbb2384af08ccd134c8",
     "/4.d164eea0ef17095573f3.js": "73347a0b07faa2e6cbc912e264b7de7e189d4dd8",
     "/5.82ac32024ac0f39560a0.js": "68f4e8fa81e373ebaf14ed56dc0413ca85cd8d51",
     "/9.16b8a6187a6acc4710b9.js": "94c95b5cc68404c608ff6e3fd3db103487ddcf89",
+    "/app-disclaimer.htm": "4ef5cadbfec993d805828ddd61a634c2dbe805ed",
     "/assets/google-login.png": "bc32c95532980eb76e3d12a57b840795ecb0ae16",
     "/assets/icons/icon-128x128.png": "144702d153834105ade65d658bf85c82b45281e5",
     "/assets/icons/icon-144x144.png": "d97eba071953b4b05d12dc6d0fbd970546fe2b66",
