@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617835832430,
+  "timestamp": 1617838154372,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "/common.9011b743460f7c0712fe.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
-        "/main.fc9f03ad2b323a1658a6.js",
+        "/main.4416df3c24eedd6f8ccf.js",
         "/manifest.webmanifest",
         "/polyfills.a150d511ee4f9a95e783.js",
         "/runtime.3277ee9fc17d90d93500.js",
@@ -241,7 +241,21 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "importantIndices",
+      "patterns": [
+        "\\/PagesData\\/about\\.json"
+      ],
+      "strategy": "performance",
+      "maxSize": 128,
+      "maxAge": 86400000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/1.e5379c2e64c967b699af.js": "67a7e74d852e410c67acd7ba6b00fd37ba12ed07",
     "/10.4471259e0199315d46cc.js": "4ad895235ca3dd80e94df489c2666ebd2cbc402f",
@@ -451,8 +465,8 @@
     "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
     "/common.9011b743460f7c0712fe.js": "8a3480166f840fdcea5cf2667317539e376d9e7d",
     "/firebase-messaging-sw.js": "508ff8afb247c630e3e2d7b90fb5ba8e33211bd7",
-    "/index.htm": "52dab7c80e5289b87d3c1e6138e0cdd6dab708ed",
-    "/main.fc9f03ad2b323a1658a6.js": "73048d4aa80b27acc28ce6958870fd86ff4a58fb",
+    "/index.htm": "493cf717ea85255a12054c20ab00d0632b61db4b",
+    "/main.4416df3c24eedd6f8ccf.js": "94f2129e6811d5134b5b0b7c4ea526f175b609e7",
     "/manifest.webmanifest": "f44019e79feb8c41b2b5f2f50ce98c793f70ccbe",
     "/polyfills.a150d511ee4f9a95e783.js": "07601a459bd33ca76ffea9c89285558b52688f86",
     "/runtime.3277ee9fc17d90d93500.js": "6bb32f3d8834b77f56ccc3cec40bb5329d8e24c2",
