@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617838154372,
+  "timestamp": 1617862246097,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "/common.9011b743460f7c0712fe.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
-        "/main.4416df3c24eedd6f8ccf.js",
+        "/main.e9e363791b10bcc0da9e.js",
         "/manifest.webmanifest",
         "/polyfills.a150d511ee4f9a95e783.js",
         "/runtime.3277ee9fc17d90d93500.js",
@@ -243,13 +243,15 @@
   ],
   "dataGroups": [
     {
-      "name": "importantIndices",
+      "name": "gitweeMeta",
       "patterns": [
-        "\\/PagesData\\/about\\.json"
+        "\\/PagesData\\/",
+        "\\/GitweeData\\/",
+        "\\/UserData\\/"
       ],
       "strategy": "performance",
-      "maxSize": 128,
-      "maxAge": 86400000,
+      "maxSize": 512,
+      "maxAge": 7200000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -465,8 +467,8 @@
     "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
     "/common.9011b743460f7c0712fe.js": "8a3480166f840fdcea5cf2667317539e376d9e7d",
     "/firebase-messaging-sw.js": "508ff8afb247c630e3e2d7b90fb5ba8e33211bd7",
-    "/index.htm": "493cf717ea85255a12054c20ab00d0632b61db4b",
-    "/main.4416df3c24eedd6f8ccf.js": "94f2129e6811d5134b5b0b7c4ea526f175b609e7",
+    "/index.htm": "2d8172cf11ebff8e3f432027d112cb4cd31e697a",
+    "/main.e9e363791b10bcc0da9e.js": "36afa35c985f8eb54633358a7f280bce30e0bcb4",
     "/manifest.webmanifest": "f44019e79feb8c41b2b5f2f50ce98c793f70ccbe",
     "/polyfills.a150d511ee4f9a95e783.js": "07601a459bd33ca76ffea9c89285558b52688f86",
     "/runtime.3277ee9fc17d90d93500.js": "6bb32f3d8834b77f56ccc3cec40bb5329d8e24c2",
