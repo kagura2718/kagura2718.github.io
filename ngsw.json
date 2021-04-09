@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617942921114,
+  "timestamp": 1617947316481,
   "index": "/index.htm",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "/common.9011b743460f7c0712fe.js",
         "/firebase-messaging-sw.js",
         "/index.htm",
-        "/main.e9e363791b10bcc0da9e.js",
+        "/main.45ca2c38ad7281e5c1af.js",
         "/manifest.webmanifest",
         "/polyfills.a150d511ee4f9a95e783.js",
         "/runtime.3277ee9fc17d90d93500.js",
@@ -246,12 +246,37 @@
       "name": "gitweeMeta",
       "patterns": [
         "\\/PagesData\\/",
-        "\\/GitweeData\\/",
-        "\\/UserData\\/"
+        "\\/GitweeData\\/"
       ],
       "strategy": "performance",
       "maxSize": 512,
-      "maxAge": 7200000,
+      "maxAge": 3600000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "externalConstants",
+      "patterns": [
+        "https:\\/\\/(?:.+\\/)?favicon\\.ico"
+      ],
+      "strategy": "performance",
+      "maxSize": 128,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "userVersioned",
+      "patterns": [
+        "\\/UserData\\/"
+      ],
+      "strategy": "performance",
+      "maxSize": 64,
+      "maxAge": 2592000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -467,8 +492,8 @@
     "/assets/twitter-login.png": "faeea934fd7296208cf85bf97392ad4a48918b51",
     "/common.9011b743460f7c0712fe.js": "8a3480166f840fdcea5cf2667317539e376d9e7d",
     "/firebase-messaging-sw.js": "508ff8afb247c630e3e2d7b90fb5ba8e33211bd7",
-    "/index.htm": "2d8172cf11ebff8e3f432027d112cb4cd31e697a",
-    "/main.e9e363791b10bcc0da9e.js": "36afa35c985f8eb54633358a7f280bce30e0bcb4",
+    "/index.htm": "3c8ed261b8912f77db403be199ad957815b4b009",
+    "/main.45ca2c38ad7281e5c1af.js": "afeff338266df4617b4d3e35a296fa67bebdfc23",
     "/manifest.webmanifest": "f44019e79feb8c41b2b5f2f50ce98c793f70ccbe",
     "/polyfills.a150d511ee4f9a95e783.js": "07601a459bd33ca76ffea9c89285558b52688f86",
     "/runtime.3277ee9fc17d90d93500.js": "6bb32f3d8834b77f56ccc3cec40bb5329d8e24c2",

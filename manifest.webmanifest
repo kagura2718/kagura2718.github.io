@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "https://kagura2718.github.io/",
-  "start_url": "https://kagura2718.github.io/",
+  "start_url": "https://kagura2718.github.io/index.htm",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
