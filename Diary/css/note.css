@@ -1,0 +1,38 @@
+h1 {
+	all: unset;
+	font-size: 140%;
+	font-weight: bold;
+}
+
+h2 {
+	all: unset;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+h3 {
+	all: unset;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+h4 {
+	all: unset;
+	font-size: 100%;
+	font-weight: bold;
+}
+
+h5 {
+	all: unset;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+h6 {
+	all: unset;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+pre {
+}

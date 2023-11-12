@@ -1,0 +1,22 @@
+.main-content {
+	padding: "30px";
+}
+
+.album {
+	padding: "30px";
+}
+
+.album img {
+	/* width: 512px; */
+	height: 256px;
+	margin: 10px;
+}
+
+.author-photo {
+  margin: 20px;
+}
+
+
+.author {
+  margin: 10px;
+}

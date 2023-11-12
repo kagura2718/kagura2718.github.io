@@ -1,0 +1,20 @@
+body {
+	color: #fff;
+	background-color: #333;
+}
+
+body * {
+	color: #fff;
+	background-color: #333;
+}
+
+.screenshots {
+}
+
+.screenshot {
+	width: 200px;
+}
+
+.navbar-inverse .navbar-inner {
+	background-image: linear-gradient(to bottom,#333,#333);
+}

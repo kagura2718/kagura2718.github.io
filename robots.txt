@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kagura2718.github.io/sitemap1.xml

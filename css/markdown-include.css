@@ -1,0 +1,33 @@
+g-emoji {
+  font-family: Apple Color Emoji,Segoe UI,Segoe UI Emoji,Segoe UI Symbol;
+}
+
+@keyframes poopAnimation {
+    0% {
+    transform: scaleY(0.5) translateY(0.5rem);
+    }
+    25% {
+        transform: translateY(-1.5rem);
+    }
+    50% {
+    transform: scaleY(0.6) translateY(0.5rem);
+    }
+    75% {
+    transform: translateY(-0.9rem);
+    }
+    100% {
+    transform: scaleY(0.5) translateY(0.5rem);
+    }
+}
+
+g-emoji[alias="hankey"] {
+  animation-name: poopAnimation;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  display: inline-block;
+}
+
+.markdown-body img {
+  box-shadow: 5px 5px 20px 10px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,100 @@
+/* ***************** */
+/* Background */
+/* ***************** */
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+@media print, screen and (min-width: 0em) {
+  body {
+    background-image: url("/Images/MyBackground-Small.jpg");
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  body {
+    background-image: url("/Images/MyBackground-Medium.jpg");
+  }
+}
+
+@media print, screen and (min-width: 64em) {
+  body {
+    background-image: url("/Images/MyBackground-Large.jpg");
+  }
+}
+
+main > .container {
+	background-color: white;
+	opacity: 0.90;
+}
+
+.active-link {
+  /* background-color: white; */
+}
+
+/* ***************** */
+/* Basic definitions */
+/* ***************** */
+
+img.link-favicon {
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+}
+
+img.card-icon {
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+}
+
+img.profile-icon {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+
+@keyframes zoomSlightly {
+    from {
+        transform: none;
+    }
+    to {
+        /* transform: '*'; */
+    }
+}
+
+.gh-hoverable-card:hover {
+    animation-name: zoomSlightly;
+    animation-duration: 300ms;
+    transform: scale(1.05);
+}
+
+
+/* ***************** */
+/* Header definitions */
+/* ***************** */
+
+header {
+  /* RES color */
+	background-color: #4472CA;
+}
+
+#header-contact-dropdown {
+  color: #CFDEE7;
+}
+
+#header-update-button {
+  color: #CFDEE7;
+}
+
+.second-header {
+  color: #5E7CE2;
+}
+
+/* Base color */
+/* #4472CA */
+/* #5E7CE2 */
+/* #92B4F4 */
+/* #CFDEE7 */
