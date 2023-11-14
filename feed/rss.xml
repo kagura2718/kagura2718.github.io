@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-14T08:22:15.13Z</dc:date>
+    <dc:date>2023-11-14T13:04:41.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#eHS5bJQGpQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/13#FRs4_gRJYG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#hF6yBEAdkV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#c4lLFFvFoD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#mt3UVY1Al_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#POJKHHHodr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/13#V9HlRi8nlR"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#w4TszOpOxc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#jGPkM31H_j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#JevmP8AOuw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/10#8Z8FSWlHxe"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,15 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,北海道,Web,時事,炎上,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T08:22:15.13Z</dc:date>
+      <dc:date>2023-11-14T13:04:41.23Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#yonC8vIo-t">
-      <title>[モンハンNow] 2023-11-14 この子は至極読み易く、仕留めやすい。でも ⭐ が多くなると攻撃パターンは増えてる、かな？   ...</title>
+      <title>[ポケモンgo] [モンハンNow] 2023-11-14 この子は至極読み易く、仕留めやすい。でも ⭐ が多くなると攻撃パターンは増えてる、かな？   ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/14#yonC8vIo-t</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T08:22:15.13Z</dc:date>
+      <dc:date>2023-11-14T13:04:41.23Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#eHS5bJQGpQ">
       <title>[アニメ] 2023-11-11 甚爾 vs 伏黒は原作より長く描いたのね。なんで親子ってずっと気付かない設定なんだろうか。何 ...</title>
@@ -61,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T08:22:15.13Z</dc:date>
+      <dc:date>2023-11-14T13:04:41.23Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#hF6yBEAdkV">
       <title>[ポケモンgo] 2023-11-14 なんか、ときどきお気に入りマーク外れてる子がいるんだ。間違って外しちゃったのか例のやつなのか。 </title>
@@ -69,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T08:22:15.13Z</dc:date>
+      <dc:date>2023-11-14T11:02:14.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#c4lLFFvFoD">
+      <title>[生活] [北陸] 2023-11-14 荒天は続くよどこまでも。やってきた、北陸の冬…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/14#c4lLFFvFoD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-14T00:42:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#mt3UVY1Al_">
       <title>[モンハンNow] 2023-11-14 歩きながらだと ⭐ 5 ソロは辛い。近くの人が入ってくれれば、いけるんだが。  金沢の中心部 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-11T11:54:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/10#8Z8FSWlHxe">
-      <title>[生活] [料理] 2023-11-10 前の動画でガレットという料理の存在を知った。フランス料理に分類されるらしい。 ガレットとは？ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/10#8Z8FSWlHxe</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-10T20:31:26.00Z</dc:date>
     </item>
   </rdf:RDF>
