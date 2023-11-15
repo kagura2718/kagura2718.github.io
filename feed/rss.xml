@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-14T14:54:42.39Z</dc:date>
+    <dc:date>2023-11-15T02:49:51.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#ZZT_GYiu0w"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#yonC8vIo-t"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#eHS5bJQGpQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/13#FRs4_gRJYG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#M8OaxotTL_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#hF6yBEAdkV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#c4lLFFvFoD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#mt3UVY1Al_"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#pIS4zcsAEJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#czHmMxdV0z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#w4TszOpOxc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#jGPkM31H_j"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#JevmP8AOuw"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#ZZT_GYiu0w">
+      <title>[Web] [時事] [炎上] 2023-11-15 女風呂に侵入した疑いで男を逮捕　「心は女なのに、なぜいけないのか」と主張、桑名の温泉施設：中 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/15#ZZT_GYiu0w</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-15T02:49:51.41Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR">
       <title>[Web] [時事] [炎上] [北海道] 2023-11-14 熊についての勝手なストーリーを作って吹聴してまわってるのは保護活動家も NHK も aera ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,北海道,Web,時事,炎上,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T14:54:42.39Z</dc:date>
+      <dc:date>2023-11-14T18:38:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#yonC8vIo-t">
       <title>[ポケモンgo] [モンハンNow] 2023-11-14 この子は至極読み易く、仕留めやすい。でも ⭐ が多くなると攻撃パターンは増えてる、かな？   ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T14:54:42.39Z</dc:date>
+      <dc:date>2023-11-14T16:50:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#eHS5bJQGpQ">
       <title>[アニメ] 2023-11-11 甚爾 vs 伏黒は原作より長く描いたのね。なんで親子ってずっと気付かない設定なんだろうか。何 ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-14T13:27:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#M8OaxotTL_">
+      <title>[Web] [時事] [炎上] [文化] 2023-11-15 やっぱりネトウヨ属性の人達に、ジャニーズ擁護してる人達が多い感じだね。つまり被害者サイドを誹 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/15#M8OaxotTL_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,文化,Web,時事,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-14T11:14:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#hF6yBEAdkV">
       <title>[ポケモンgo] 2023-11-14 なんか、ときどきお気に入りマーク外れてる子がいるんだ。間違って外しちゃったのか例のやつなのか。 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-11T22:36:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/12#jGPkM31H_j">
-      <title>[時事] [国際] 2023-11-12 これもなかなかだな… どうやら黒人を狙ったという話もあり、どうも騒がれてるコンテキストとは違 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/12#jGPkM31H_j</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-11T12:36:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/11#JevmP8AOuw">
-      <title>[ポケモンgo] 2023-11-11 メガガブリアスイベントはすっかり忘れていた。慌てて出撃。 とりあえずメガシンカ  リモートで ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/11#JevmP8AOuw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-11T11:54:26.00Z</dc:date>
     </item>
   </rdf:RDF>
