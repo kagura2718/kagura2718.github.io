@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-17T12:17:22.80Z</dc:date>
+    <dc:date>2023-11-17T12:23:43.22Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#scT5mr13_o"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#fnIDVmy9BL"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#scT5mr13_o"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#-jD6sV0CQT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#VqJbGUZyMV"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#M8OaxotTL_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#2exyUFs-SR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/14#yonC8vIo-t"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/13#FRs4_gRJYG"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#scT5mr13_o">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#fnIDVmy9BL">
+      <title>[芸能] 2023-11-17 普通にかわいいと思ってたら、これが今の芦田愛菜か。  子役時代の映画『パシフィック・リム』は ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/17#fnIDVmy9BL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,芸能,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-17T12:23:43.22Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#scT5mr13_o">
       <title>[アニメ] 2023-11-16 無料で観れるから眺めてる。  女の子がかわいい  が、いかんせん迫力が… ないな。この手の  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/16#scT5mr13_o</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-17T12:17:22.80Z</dc:date>
+      <dc:date>2023-11-17T12:23:43.22Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV">
       <title>[Web] [時事] [NHK] 2023-11-17 ほとんど変わってない。チーン 😑 外国人技能実習制度見直し 新制度で名称「育成就労」とする案 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,NHK,Web,時事,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-17T12:17:22.80Z</dc:date>
+      <dc:date>2023-11-17T12:23:43.22Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#-jD6sV0CQT">
       <title>[歴史] [長野] 2023-11-16 最近、大河の影響か流れてくる甲斐武田の歴史を再勉強してるのだけど、諏訪湖の近辺、あの時代はど ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-14T16:50:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/13#FRs4_gRJYG">
-      <title>[モンハンNow] 2023-11-13 モンハンの刀の納刀から居合のアクション、すごくかっこいいんだけど、武器や振りやスキの大きさに ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/13#FRs4_gRJYG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-14T13:27:52.00Z</dc:date>
     </item>
   </rdf:RDF>
