@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-18T12:10:08.61Z</dc:date>
+    <dc:date>2023-11-18T12:11:19.39Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-16.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#uGYcAcQWUC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-13.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/18#wYw0VdfOx3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-18.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/18#PdyFu8eTvQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#fnIDVmy9BL"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-18T12:10:08.61Z</dc:date>
+      <dc:date>2023-11-18T12:11:19.39Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#uGYcAcQWUC">
       <title>[アニメ] 2023-11-17 楽しみだった魔虚羅 vs 宿儺は重厚に描くのかなと思ってた。努力の形跡は見られるね。 封印さ ...</title>
@@ -47,14 +47,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-18T04:53:43.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-13.htm">
-      <title>[NHK] 2023-11-13 視聴記録 「ドキュメント・エルサレム (再放送)」</title>
-      <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-13.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-16T00:36:40.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV">
       <title>[Web] [時事] [NHK] 2023-11-17 ほとんど変わってない。チーン 😑 外国人技能実習制度見直し 新制度で名称「育成就労」とする案 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV</link>
@@ -63,13 +55,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-17T20:23:26.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/18#wYw0VdfOx3">
+      <title>[生活] [北陸] 2023-11-18 荒天すぎてお出かけもできない。録画を処理しつつ呑んでいる 🍺</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/18#wYw0VdfOx3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-18T12:11:19.39Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-18.htm">
       <title>[登山] [Web] [NHK] 2023-11-18 「ヒマラヤ “悪魔の谷”～人跡未踏の秘境に挑む」 視聴記録</title>
       <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-18.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,登山,Web,NHK,登山,Web,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-18T12:10:08.61Z</dc:date>
+      <dc:date>2023-11-18T12:11:19.39Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/18#PdyFu8eTvQ">
       <title>[Web] [時事] [炎上] 2023-11-18 ここまで言っちゃったんだ。これはどうも  マジでばら撒いた  ようだなw 国葬やった人なのに ...</title>
