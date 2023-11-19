@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-19T03:21:53.68Z</dc:date>
+    <dc:date>2023-11-19T11:11:07.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#fwwkdGSrpv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#GdTm9yd416"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#p9-UN5xo3V"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-16.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#Q3hM2c5Bos"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#uGYcAcQWUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#O7y4VV4UtV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-18.htm"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#D9sMmMHjfd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#vEMfPifBT8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#iIqrg_0oix"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#FBEhjsP0hU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#8uNnOw9jUH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#Rl0JDkXxs_"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#fwwkdGSrpv">
-      <title>[生活] [北陸] 2023-11-19 今日も一日中、降らせるつもりかい？どす黒い空、うんざりなんだけど…</title>
+      <title>[生活] [北陸] 2023-11-19 冬タイヤ規制がところどころ出てるようだ。さすがにまだ冬タイヤに履き換えは面倒だし早すぎる。今 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/19#fwwkdGSrpv</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-19T03:21:53.68Z</dc:date>
+      <dc:date>2023-11-19T11:11:07.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#GdTm9yd416">
+      <title>[ポケモンgo] [北陸] 2023-11-19 ここ最近、ジム置きできる場所がほとんどない。もう面倒だからスクショもめったにしないのだけど、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/19#GdTm9yd416</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,北陸,ポケモンgo,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-19T11:11:07.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#p9-UN5xo3V">
+      <title>[生活] [料理] 2023-11-19 本日のだし巻き。別作業しながらだと形を整える余裕がなくなる。高級料亭だと料理人は、とにかくひ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/19#p9-UN5xo3V</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-19T09:43:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-16.htm">
       <title>[NHK] 2023-11-16 「NHK スペシャル 混迷の世紀 第10回 台頭する“第3極” インドの衝撃を追う」 視聴記録</title>
@@ -45,7 +61,15 @@
       <description>
         <![CDATA[日記,随筆,簡約版,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-19T03:21:53.68Z</dc:date>
+      <dc:date>2023-11-19T05:28:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#Q3hM2c5Bos">
+      <title>[Web] [時事] [炎上] [芸能] 2023-11-19 なんかちらちら見えてる情報からするとフィギュア羽生結弦の結婚相手を暴こうとしてたメディアがあ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/19#Q3hM2c5Bos</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,芸能,Web,時事,炎上,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-19T04:43:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/17#uGYcAcQWUC">
       <title>[アニメ] 2023-11-17 楽しみだった魔虚羅 vs 宿儺は重厚に描くのかなと思ってた。努力の形跡は見られるね。 封印さ ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-16T17:42:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#FBEhjsP0hU">
-      <title>[ポケモンgo] 2023-11-16 入ってた。  前に剱岳で見つけた子は間違えて捨ててしまったらしい。レアを捨てるときも確認しろ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/16#FBEhjsP0hU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-16T15:04:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/15#8uNnOw9jUH">
-      <title>[登山] [時事] [炎上] 2023-11-15 古いこの動画↓を眺めてたけど、こういう映像をみてると殺処分は「かわいそう」と感じる人もいるわ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/15#8uNnOw9jUH</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,時事,炎上,登山,時事,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-15T20:23:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/16#Rl0JDkXxs_">
-      <title>[登山] [Web] [炎上] 2023-11-16 ちらっと見えたんだけど、なんだこれ？ 2020 年のエントリ  ？？？？？？🤔 記録を見てい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/16#Rl0JDkXxs_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-15T19:28:58.00Z</dc:date>
     </item>
   </rdf:RDF>
