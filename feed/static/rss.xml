@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-23T03:23:14.02Z</dc:date>
+    <dc:date>2023-11-23T13:13:39.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TG/TGIolO7pDe.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/De/DelEbii_r1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6f/6fKF3saP4D.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hI/hISQg3IBuL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/if/ifoCMkeWV0.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qr/QrMQX3iQGn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rB/rBkggKikao.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bY/bY35e9_D1-.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6e/6emWy8d71U.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,随筆,簡約版,奥能登,紅葉,奥能登,紅葉</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-11-23T03:23:14.02Z</dc:date>
+    <dc:date>2023-11-23T13:13:39.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/De/DelEbii_r1.htm">
+    <title>[アニメ] 2023-11-23 『薬屋のひとりごと』 今は abema で無料なので眺めている。面白いぞ、これ。 薬屋のひと ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/De/DelEbii_r1.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-11-23T09:14:40.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6f/6fKF3saP4D.htm">
     <title>[ポケモンgo] 2023-11-21 入ってた。  ルカリオの処理がしたいのに、湧きがいまいちのような気がする。  ゴミ  いらな ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,北陸,ポケモンgo,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-11-19T16:31:52.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6e/6emWy8d71U.htm">
-    <title>[Web] [時事] [炎上] [芸能] 2023-11-19 なんかちらちら見えてる情報からするとフィギュア羽生結弦の結婚相手を暴こうとしてたメディアがあ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/6e/6emWy8d71U.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,時事,炎上,芸能,Web,時事,炎上,芸能</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-11-19T07:08:32.00Z</dc:date>
   </item>
 </rdf:RDF>
