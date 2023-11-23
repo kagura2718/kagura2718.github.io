@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-23T14:11:15.89Z</dc:date>
+    <dc:date>2023-11-23T14:19:09.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#xWrle8-0PW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#AqrcN-vueR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#M_pfrLPVeU"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#MwNu-5sBSX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#fwwkdGSrpv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#nv9JAY2_zY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zo8TcCHB3I"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-23T14:11:15.89Z</dc:date>
+      <dc:date>2023-11-23T14:19:09.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v">
+      <title>[生活] [金沢] 2023-11-23 あ、潰れた… ？  えーそうなんだ。入ったこと、あったかな。 【北安江店】営業終了日のお知ら ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-23T14:19:09.20Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#AqrcN-vueR">
       <title>[モンハンNow] 2023-11-23 金沢の市街地でも ハンターは 0 か。きついな、これは。  52  グレード 6 からいきな ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,料理,生活,食事,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-20T05:44:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zo8TcCHB3I">
-      <title>[モンハンNow] 2023-11-20 全然強化できねぇ 😩  今は片手剣派だけど、やっぱり刀の居合がかっこよすぎる。片手剣と並行で ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zo8TcCHB3I</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-20T01:26:52.00Z</dc:date>
     </item>
   </rdf:RDF>
