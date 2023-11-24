@@ -4,18 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-24T11:41:29.91Z</dc:date>
+    <dc:date>2023-11-24T12:38:44.25Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#DRj2Pq9IFF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#tdVbAio95s"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#AqrcN-vueR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#xWrle8-0PW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#M_pfrLPVeU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#6juscOB2To"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#UeFndAasNz"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,アニメ,Web,炎上,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T11:41:29.91Z</dc:date>
+      <dc:date>2023-11-24T12:38:44.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#tdVbAio95s">
       <title>[Web] [時事] [炎上] 2023-11-24 エイプリフール～4月1日scene2～ | はせ浩 オフィシャルブログ「はせ日記」Power ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T11:41:29.91Z</dc:date>
+      <dc:date>2023-11-24T12:38:44.25Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
+      <title>[奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,奥能登,紅葉,奥能登,紅葉]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-24T12:38:44.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C">
       <title>[Web] [炎上] 2023-11-24 スポーツ選手は完全に「私人」なんだよなぁ。著名になったことで選挙に通りやすくなるわけで、後に ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T11:41:29.91Z</dc:date>
+      <dc:date>2023-11-24T12:38:44.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v">
       <title>[生活] [金沢] 2023-11-23 あ、潰れた… ？  えーそうなんだ。買い物しに入ったこと、あったかな。会社自体が潰れたわけじ ...</title>
@@ -86,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-24T02:23:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
-      <title>[奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,奥能登,紅葉,奥能登,紅葉]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-23T13:13:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#M_pfrLPVeU">
       <title>[アニメ] 2023-11-23 『薬屋のひとりごと』 今は abema で無料なので眺めている。面白いぞ、これ。 薬屋のひと ...</title>
