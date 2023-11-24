@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-23T15:53:13.81Z</dc:date>
+    <dc:date>2023-11-24T02:23:01.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#xWrle8-0PW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#AqrcN-vueR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#13FQsmU7XJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#MwNu-5sBSX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/19#fwwkdGSrpv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#nv9JAY2_zY"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-23T15:53:13.81Z</dc:date>
+      <dc:date>2023-11-24T02:23:01.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn">
+      <title>[アニメ] 2023-11-24 今のところ 7 話まで公開されてるらしく呑みながら一気に観た。 背景の色使いと楓が、やっぱり ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-23T23:27:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v">
       <title>[生活] [金沢] 2023-11-23 あ、潰れた… ？  えーそうなんだ。入ったこと、あったかな。会社自体が潰れたわけじゃないのな ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-19T19:02:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#nv9JAY2_zY">
-      <title>[生活] [食事] [料理] 2023-11-20 照り焼きチキンな親子丼にしてみた。やっぱり卵の殻を剥くのがめんどくせぇ。(失敗した  茹で卵 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/20#nv9JAY2_zY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,食事,料理,生活,食事,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-20T05:44:23.00Z</dc:date>
     </item>
   </rdf:RDF>
