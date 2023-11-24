@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-24T13:03:19.31Z</dc:date>
+    <dc:date>2023-11-24T13:14:47.28Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#vS_wITztkB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#AqrcN-vueR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#xWrle8-0PW"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#p1IyC0LiPT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#IqswCv9q_T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#ADuT0OVXXf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zdCRsdZHyd"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,アニメ,Web,炎上,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T13:03:19.31Z</dc:date>
+      <dc:date>2023-11-24T13:14:47.28Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T13:03:19.31Z</dc:date>
+      <dc:date>2023-11-24T13:14:47.28Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
       <title>[奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
@@ -61,7 +61,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,奥能登,紅葉,奥能登,紅葉]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T13:03:19.31Z</dc:date>
+      <dc:date>2023-11-24T13:14:47.28Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C">
       <title>[Web] [炎上] 2023-11-24 スポーツ選手は完全に「私人」なんだよなぁ。著名になったことで選挙に通りやすくなるわけで、後に ...</title>
@@ -69,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T13:03:19.31Z</dc:date>
+      <dc:date>2023-11-24T13:14:47.28Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn">
       <title>[アニメ] 2023-11-24 今のところ 7 話まで公開されてるらしく呑みながら一気に観た。 背景の色使いと楓が、やっぱり ...</title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-24T09:04:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#vS_wITztkB">
+      <title>[アニメ] 2023-11-24  緑黄色社会 Official Site 原作漫画のサンプルを眺めてみると、これはアニメで魅 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/24#vS_wITztkB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-24T08:18:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#TGXqICUd9v">
       <title>[生活] [金沢] 2023-11-23 あ、潰れた… ？  えーそうなんだ。買い物しに入ったこと、あったかな。会社自体が潰れたわけじ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-21T01:17:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zdCRsdZHyd">
-      <title>[ポケモンgo] 2023-11-20 先週は 40km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/20#zdCRsdZHyd</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-20T22:44:28.00Z</dc:date>
     </item>
   </rdf:RDF>
