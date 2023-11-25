@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-25T11:55:25.97Z</dc:date>
+    <dc:date>2023-11-25T15:22:38.38Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#tdVbAio95s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#DRj2Pq9IFF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#1WZL9-ycn1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn"/>
@@ -26,18 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#6YeAcja2Bd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#NuY9T02Xb-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#SV4RMZPr6R"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#8YoXa-3aXH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#p1IyC0LiPT"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ">
-      <title>[登山] [生活] [紅葉] [宝達山] 2023-11-25 最後の一咲き     山頂付近は白い  遅い時間になると深い紅に変化する。写真じゃ分からんが。 </title>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e">
+      <title>[Web] [岐阜] 2023-11-25 郡上の大和町。この辺り、散策コースがあるらしいということで目をつけていたんだ 😨 下顎がない ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,岐阜,Web,岐阜]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-25T15:22:38.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a">
+      <title>[Web] [アニメ] 2023-11-25 『薬屋のひとりごと』どうやら中国方面でも既に人気があるから、金にはなるな。力が異常に入ってる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-25T15:22:38.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ">
+      <title>[登山] [生活] [紅葉] [宝達山] 2023-11-25 本日の作業終了後、燃焼のためダッシュで登ってきた。最後の一咲き     山頂付近は思ったより ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-25T11:55:25.97Z</dc:date>
+      <dc:date>2023-11-25T15:22:38.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
+      <title>[登山] [奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,奥能登,紅葉,登山,奥能登,紅葉]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-24T22:54:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#tdVbAio95s">
       <title>[Web] [時事] [炎上] 2023-11-24 エイプリフール～4月1日scene2～ | はせ浩 オフィシャルブログ「はせ日記」Power ...</title>
@@ -62,14 +86,6 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
-      <title>[奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,奥能登,紅葉,奥能登,紅葉]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T22:29:27.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C">
       <title>[Web] [炎上] 2023-11-24 スポーツ選手は完全に「私人」なんだよなぁ。著名になったことで選挙に通りやすくなるわけで、後に ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,志賀町,北陸,時事,志賀町,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-21T04:02:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#8YoXa-3aXH">
-      <title>[地理] [北海道] [岐阜] 2023-11-21 岐阜の面積は 10620km2 北海道は 83450km2 でさすがに比較にならなかった。北 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/21#8YoXa-3aXH</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,地理,北海道,岐阜,地理,北海道,岐阜]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-21T03:19:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#p1IyC0LiPT">
-      <title>[モンハンNow] 2023-11-21 ぼちぼち ⭐ 6 も狩れるようになってきた。  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/21#p1IyC0LiPT</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-21T10:03:04.00Z</dc:date>
     </item>
   </rdf:RDF>
