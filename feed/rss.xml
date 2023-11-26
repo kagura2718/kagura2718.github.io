@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-26T01:11:27.81Z</dc:date>
+    <dc:date>2023-11-26T03:15:42.12Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#DvyCjWyVgM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#vbHKbwCAYV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#tdVbAio95s"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#xWrle8-0PW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/23#M_pfrLPVeU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#6juscOB2To"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#UeFndAasNz"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,岐阜,Web,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T01:11:27.81Z</dc:date>
+      <dc:date>2023-11-26T03:15:42.12Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a">
       <title>[Web] [アニメ] 2023-11-25 『薬屋のひとりごと』どうやら中国方面でも既に人気があるから、金にはなるな。アニメに力が異常に ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T01:11:27.81Z</dc:date>
+      <dc:date>2023-11-26T02:05:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ">
       <title>[登山] [生活] [紅葉] [宝達山] 2023-11-25 本日の作業終了後、燃焼のためダッシュで登ってきた。最後の一咲き     山頂付近は思ったより ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T01:11:27.81Z</dc:date>
+      <dc:date>2023-11-26T01:18:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm">
       <title>[登山] [奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,随筆,簡約版,登山,奥能登,紅葉,登山,奥能登,紅葉]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-24T22:54:11.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w">
+      <title>[生活] [北陸] 2023-11-26 天気がええですな。冬の天気いい日はやることいっぱいだし、睡魔が襲ってくるし。困ったもんだな。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-26T00:11:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#DvyCjWyVgM">
       <title>[Web] [時事] 2023-11-26 クマの狩りなんて初めてみた。やっぱり肉食もやるんだな。これはますます脅威。相手の大きさを見て ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-22T06:43:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/21#UeFndAasNz">
-      <title>[漫画] 2023-11-21 呪術廻戦、今から読みはじめたら訳わかんないだろうな 😂 あの展開を愉しんでるの中年以降のおっ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/21#UeFndAasNz</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-22T03:32:51.00Z</dc:date>
     </item>
   </rdf:RDF>
