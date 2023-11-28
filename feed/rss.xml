@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-27T14:52:53.40Z</dc:date>
+    <dc:date>2023-11-28T02:58:41.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#8xE0Y3F0PE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#XUNdrUsy6a"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/28#xe3J3zfOvS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#Bv6tydH-Zi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#zO51pDrtHA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-11-22.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#iAcFdm5_QX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#pKFBMsI_4C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#1WZL9-ycn1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,文化,北陸,時事,奥能登,文化,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-27T14:52:53.40Z</dc:date>
+      <dc:date>2023-11-28T02:58:41.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#XUNdrUsy6a">
       <title>[ポケモンgo] 2023-11-27 先週は 75km </title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-27T14:52:53.40Z</dc:date>
+      <dc:date>2023-11-28T02:58:41.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/28#xe3J3zfOvS">
+      <title>[Ingress] [生活] [北陸] [モンハンNow] 2023-11-28 片手剣も知らん操作があった。長押しガード状態で咆哮も防げるらしい。で、カウンター攻撃に移行で ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/28#xe3J3zfOvS</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Ingress,生活,北陸,モンハンNow,Ingress,生活,北陸,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-28T02:06:07.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#Bv6tydH-Zi">
       <title>[アニメ] 2023-11-27 色街に移動してまた趣きが変化した。猫猫の声の質も変化したような…  自分で考えさせるように教 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-27T14:52:53.40Z</dc:date>
+      <dc:date>2023-11-28T00:29:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#zO51pDrtHA">
       <title>[時事] [炎上] [文化] 2023-11-27 57 歳で警部補なら頭の出来もいまいちだし、組織内でもあんまり出来がよくないと見做されてる人 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-24T10:27:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn">
-      <title>[アニメ] 2023-11-24 今のところ 7 話まで公開されてるらしく呑みながら一気に観た。 背景の色使いと楓が、やっぱり ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/24#iXJvGFlkjn</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-24T09:04:30.00Z</dc:date>
     </item>
   </rdf:RDF>
