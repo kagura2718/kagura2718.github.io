@@ -4,12 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-28T11:03:36.58Z</dc:date>
+    <dc:date>2023-11-28T16:09:07.08Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TG/TGIolO7pDe.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l1/l1H-yWTkTC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kf/kfNgWAuSnc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qk/QkJ8b1nR7j.htm"/>
@@ -31,14 +31,6 @@
       </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm">
-    <title>[Web] [時事] 2023-11-28 この追いかけてた人、元力士かな。18 ぐらいのちょい悪ぐらいは簡単に撃退できる。俸給に加えて ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,時事,Web,時事</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-11-28T11:03:36.58Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TG/TGIolO7pDe.htm">
     <title>[登山] [奥能登] [紅葉] 2023-11-22 ヒデッ坂 (羅漢山)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/TG/TGIolO7pDe.htm</link>
@@ -47,13 +39,21 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-11-24T22:54:11.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm">
+    <title>[Web] [時事] 2023-11-28 この追いかけてた人、元力士かな。18 ぐらいのちょい悪ぐらいは簡単に撃退できる。俸給に加えて ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,時事,Web,時事</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-11-28T16:09:07.08Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/l1/l1H-yWTkTC.htm">
     <title>[Web] [アニメ] 2023-11-28 これは youtuber 二人とも中国人の姉妹かな。正直、中国人側にどの辺りが刺さったのか、 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/l1/l1H-yWTkTC.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-11-28T11:03:36.58Z</dc:date>
+    <dc:date>2023-11-28T13:15:07.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kf/kfNgWAuSnc.htm">
     <title>[時事] [奥能登] [文化] [北陸] 2023-11-27 おそらくは両方とも苦しかったのを、ギリギリまで引き伸ばして、上時国家がちょっとだけ誤差の範囲 ...</title>
