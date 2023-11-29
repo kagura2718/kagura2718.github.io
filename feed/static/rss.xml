@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TG/TGIolO7pDe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U6/U6h6K3NcC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l1/l1H-yWTkTC.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/el/elXUaLDQdh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Aa/Aa-fVtxitk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kf/kfNgWAuSnc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qk/QkJ8b1nR7j.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jm/JmJbtFjBzV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c-/c-kahHT0Qj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aG/aGiJeqcJOL.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MK/MKOhGSWRd5.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-11-28T13:15:07.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/el/elXUaLDQdh.htm">
+    <title>[ポケモンgo] [Web] [PerazziBeretta] [かほく] 2023-11-29 へー、マンホールカードか。流行ってるのかな。 トップページ - かほく市立宇ノ気中学校 東京 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/el/elXUaLDQdh.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,Web,PerazziBeretta,かほく,ポケモンgo,Web,PerazziBeretta,かほく</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-11-28T16:24:55.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Aa/Aa-fVtxitk.htm">
     <title>[ポケモンgo] 2023-11-29 せっかくお披露目用に確保してるのに、昨日のは置くタイミングがなく無駄に終わった。集めるのやめ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-11-25T01:38:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/MK/MKOhGSWRd5.htm">
-    <title>[Web] [炎上] [アニメ] 2023-11-24 やっぱそうだよなぁ。作画の状態でなんとなく分かるもの。魔虚羅もかなり無理したんじゃない？と感 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/MK/MKOhGSWRd5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,アニメ,Web,炎上,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-11-25T02:52:10.00Z</dc:date>
   </item>
 </rdf:RDF>
