@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-11-30T02:45:45.25Z</dc:date>
+    <dc:date>2023-11-30T08:27:00.97Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#vdSi1Q2sy6"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#7jedVTebjg"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#sEo7hhqCw0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#vdSi1Q2sy6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#U4Gud4s2pa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#uV9yAp-KPa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/28#MjqSFoGDlS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/29#dfYKNE-AgX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/29#DGCG9xs5gb"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#Pb5GQAkRBm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/27#1RPL18yr09"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#gNT0GZbb9a"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#vdSi1Q2sy6">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#7jedVTebjg">
+      <title>[漫画] 2023-11-30 呪術廻戦、高羽の術式が収拾つかないから無理矢理終わらせた感があるな。まぁ週刊連載てそういうも ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/30#7jedVTebjg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-30T08:27:00.97Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#sEo7hhqCw0">
+      <title>[Web] [炎上] [文化] 2023-11-30 なんか見えた。😅 これ、やっぱり若いときの行為を激しく後悔してる女の人、多いってことだろうね ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/30#sEo7hhqCw0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-30T08:27:00.97Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#vdSi1Q2sy6">
       <title>[NHK] 2023-11-30 今年 (2023) の UTMF の長めの尺の番組をやっていた。  トップは中国勢が独占した ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/30#vdSi1Q2sy6</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-30T02:45:45.25Z</dc:date>
+      <dc:date>2023-11-30T08:27:00.97Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#U4Gud4s2pa">
       <title>[ポケモンgo] 2023-11-30 本日の最大強化 (PL40) </title>
@@ -46,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-29T21:48:55.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/30#uV9yAp-KPa">
+      <title>[登山] [Web] 2023-11-30 大杉谷吊橋事故の損害賠償請求訴訟とその影響 – 登山事故の法的責任を考えるぺージ 前に書いた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/30#uV9yAp-KPa</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-11-29T10:39:14.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/28#MjqSFoGDlS">
       <title>[NHK] 2023-11-28 晴山さん。どす黒い北陸の空を晴れさせてほしい。 </title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-11-26T02:05:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w">
-      <title>[生活] [北陸] 2023-11-26 夕方にははやくも雨… 北陸の冬、嫌い。  天気がええですな。冬の天気いい日はやることいっぱい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/26#I6VqILqN0w</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T00:38:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e">
-      <title>[Web] [岐阜] 2023-11-25 郡上の大和町。この辺り、散策コースがあるらしいということで目をつけていたんだ 😨 下顎がない ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/25#SW28MgYV_e</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,岐阜,Web,岐阜]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T08:23:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ">
-      <title>[登山] [生活] [紅葉] [宝達山] 2023-11-25 本日の作業終了後、燃焼のためダッシュで登ってきた。最後の一咲き     山頂付近は思ったより ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/11/25#UaDw2XqyuJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-11-26T01:18:50.00Z</dc:date>
     </item>
   </rdf:RDF>
