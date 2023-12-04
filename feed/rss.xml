@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/03#JUNevwg-xH"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#qisIK0eMiJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#HIU_w9MsEO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/03#Z1osCE41kn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/02#GdDFhSlWaD"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/01#N8LVQFI9of"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/02#mzIVHhbM3Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/01#jDvsawxSat"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/02#lE2O20bI_F"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-04T00:08:15.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#qisIK0eMiJ">
+      <title>[Web] [炎上] [文化] 2023-12-04 暇にもそりゃ弁護士はついてるよなぁ。調べたことなかった。  へーw 弁護士紹介 | あつみ法 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/04#qisIK0eMiJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-03T14:02:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#HIU_w9MsEO">
       <title>[Web] [時事] 2023-12-04 どの話をしてんのか知らんけど、食べ物ってそんなにコストがかかるポイントなのか？貧乏くせぇww </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,文化,長野,文化,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-02T02:45:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/02#lE2O20bI_F">
-      <title>[モンハンNow] 2023-12-02 おおー。これは近接タイプには良さげだ。youtube 動画だとなんであんなにボウガンとか銃み ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/02#lE2O20bI_F</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-01T13:21:04.00Z</dc:date>
     </item>
   </rdf:RDF>
