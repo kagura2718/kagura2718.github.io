@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-06T03:58:32.04Z</dc:date>
+    <dc:date>2023-12-06T04:09:39.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GG/GG5eOcH44B.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p_/p_NSC6-_kb.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Eb/Eb9NPW9CzD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ag/Ag6U0Msz8S.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pQ/pQ_Va_m6nx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WD/WDTg6d011k.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2h/2hoCLza9Cs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XI/XI70ZyhLZu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YO/YOBJ6Qf7CZ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OJ/OJ-fTWWJWt.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-06T03:58:32.04Z</dc:date>
+    <dc:date>2023-12-06T04:09:39.07Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/p_/p_NSC6-_kb.htm">
     <title>[漫画] [アニメ] 2023-12-05 薬屋のひとりごとが秀逸で他の Abema アニメはどうでもよくなってしまった。現在進行形で、 ...</title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-05T18:01:50.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Eb/Eb9NPW9CzD.htm">
+    <title>[Web] 2023-12-06 どれだけ殺人熊に生育するかもしれなくても、かわいいもんはかわいいのだ。 🐻  動いてる姿、寝 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Eb/Eb9NPW9CzD.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-05T12:21:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ag/Ag6U0Msz8S.htm">
     <title>[食事] [Web] [金沢] 2023-12-05 ほーう。これはどうかな。九州のラーメンて博多ラーメンぐらいしか… 聞いたことないな。 【開店 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-02T18:11:26.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OJ/OJ-fTWWJWt.htm">
-    <title>[Web] 2023-12-02 凍った路面のパリパリする音が気になってジャンプしたということかな。動物のこの跳躍、ほんとに観 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/OJ/OJ-fTWWJWt.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-02T19:33:54.00Z</dc:date>
   </item>
 </rdf:RDF>
