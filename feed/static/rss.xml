@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-07T08:44:14.49Z</dc:date>
+    <dc:date>2023-12-07T15:22:10.18Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9b/9bYLcr01AO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OC/OC0x9U4V-c.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cV/cV_1wek4Tp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yt/ytXg5Ej4FL.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eU/eUbnf1igLd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DD/DD-gindm3Q.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K4/K4ryM7C4QI.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9b/9bYLcr01AO.htm">
+    <title>[Web] [国際] 2023-12-07 😂 少林サッカーみたい。とても観てられないけど、中国がこういう文化と考えると面白い。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9b/9bYLcr01AO.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-07T15:22:10.18Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OC/OC0x9U4V-c.htm">
     <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2023-12-06 駅前レイドアワー、といいつつ無料パスを消化しただけで終了。  満を持して「太る」へ。店主っぽ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/OC/OC0x9U4V-c.htm</link>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-07T08:44:14.49Z</dc:date>
+    <dc:date>2023-12-07T12:30:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yt/ytXg5Ej4FL.htm">
     <title>[漫画] [アニメ] 2023-12-07 漫画も通して読んでみると、猫猫の元の性格はオープニングのイメージとはかなり違うな。花街育ちで ...</title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-06T16:33:15.00Z</dc:date>
+    <dc:date>2023-12-07T00:04:14.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Eb/Eb9NPW9CzD.htm">
     <title>[Web] 2023-12-06 どれだけ殺人熊に生育するかもしれなくても、かわいいもんはかわいいのだ。 🐻  かわいいは正義 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,NHK,Web,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-03T07:15:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/K4/K4ryM7C4QI.htm">
-    <title>[アニメ] 2023-12-02 改めてこの再放送を観てるけど、自分のシャアやセイラのイメージって、偏見だったのかもだな。 カ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/K4/K4ryM7C4QI.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-02T12:25:21.00Z</dc:date>
   </item>
 </rdf:RDF>
