@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-09T14:42:42.87Z</dc:date>
+    <dc:date>2023-12-09T14:47:40.25Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/M2/M2GG2MnLdF.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pQ/pQ_Va_m6nx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p_/p_NSC6-_kb.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FY/FY4qkQ-bTC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G6/G6OYJxKeoP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oA/oA_mDBZWty.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OC/OC0x9U4V-c.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZR/ZR8nGExapp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lc/lcgo5nV7Ql.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/td/tdoQv8SDvr.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yt/ytXg5Ej4FL.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,女性,漫画,アニメ,女性</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-09T14:42:42.87Z</dc:date>
+    <dc:date>2023-12-09T14:47:40.25Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pQ/pQ_Va_m6nx.htm">
+    <title>[漫画] [女性] 2023-12-04 少女漫画(?)は読んでると、くどいくらい「あたしはイケメンなんて少しも興味ないんだからねっ」 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pQ/pQ_Va_m6nx.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,女性,漫画,女性</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-05T18:48:36.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/p_/p_NSC6-_kb.htm">
     <title>[漫画] [アニメ] [女性] 2023-12-05 薬屋のひとりごとが秀逸で他の Abema アニメはどうでもよくなってしまった。現在進行形で、 ...</title>
@@ -46,6 +54,14 @@
         日記,つぶやき,雑記帳,漫画,アニメ,女性,漫画,アニメ,女性</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-05T18:01:50.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm">
+    <title>神楽@AR(拡張現実世界) 自己紹介</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm</link>
+    <description>
+        日記,長編日記,随筆</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2022-03-27T04:25:17.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FY/FY4qkQ-bTC.htm">
     <title>[登山] [生活] [宝達山] 2023-12-09 新しい駐車場が 70% ぐらい埋まっている。びっくり  どういう工事になるんだろうなぁ。どう ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-07T17:58:29.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/td/tdoQv8SDvr.htm">
-    <title>[Web] [炎上] [文化] 2023-12-08 相変わらずお馬鹿さんですなぁ 😣 😞 こんなのが我が国の軍の将校だったんですよ？  で、結局 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/td/tdoQv8SDvr.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-07T18:34:00.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yt/ytXg5Ej4FL.htm">
-    <title>[漫画] [アニメ] 2023-12-07 漫画も通して読んでみると、猫猫の元の性格はオープニングのイメージとはかなり違うな。花街育ちで ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/yt/ytXg5Ej4FL.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-07T12:20:05.00Z</dc:date>
   </item>
 </rdf:RDF>
