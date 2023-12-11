@@ -4,17 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-11T03:02:42.46Z</dc:date>
+    <dc:date>2023-12-11T03:41:06.39Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#WkFfpWtvmD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#OqAo6U7QDJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/10#j811Yg7sHo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#CM-7SMoJB9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/10#xVSmZvOBcr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#sIipxj9hCo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/10#UcRexvoZQT"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#JcaGFKkzkh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/05#eIFpRuzw_n"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/10#4VVNLI9bsr"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/07#9FlssOg9fv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#c7SakE7Jwh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/08#e9oEs2B7jk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#7KL6NyH3-S"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-11T03:02:42.46Z</dc:date>
+      <dc:date>2023-12-11T03:41:06.39Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#WkFfpWtvmD">
+      <title>[モンハンNow] 2023-12-11 モンハンはリリースから半年も経たず、すでに売上は下降中なのか。ポケモンよりも面白いのに… w ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/11#WkFfpWtvmD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-11T03:41:06.39Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#OqAo6U7QDJ">
+      <title>[Web] [奥能登] 2023-12-11 これは新聞でもちらっと読んだかな。いくつか内容にはダウトがありそうな予感。白い服で操船してる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/11#OqAo6U7QDJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-10T23:24:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/10#j811Yg7sHo">
       <title>[Web] [時事] [野球] 2023-12-10 ドジャースになったか。なんだかんだ、残るとばかり思ってた。 </title>
@@ -78,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,Web,アニメ,鬼滅の刃,漫画,Web,アニメ,鬼滅の刃]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-10T04:08:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/04#JcaGFKkzkh">
-      <title>[漫画] [女性] 2023-12-04 少女漫画(?)は読んでると、くどいくらい「あたしはイケメンなんて少しも興味ないんだからねっ」 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/04#JcaGFKkzkh</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,女性,漫画,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-05T18:48:36.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/05#eIFpRuzw_n">
       <title>[漫画] [アニメ] [女性] 2023-12-05 薬屋のひとりごとが秀逸で他の Abema アニメはどうでもよくなってしまった。現在進行形で、 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-08T12:55:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#7KL6NyH3-S">
-      <title>[Web] [文化] 2023-12-09 イーロンの言動や立ち位置って、ネトウヨ集団とすごく似てると思っていた。↓これで、それが確認さ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/09#7KL6NyH3-S</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-08T11:22:53.00Z</dc:date>
     </item>
   </rdf:RDF>
