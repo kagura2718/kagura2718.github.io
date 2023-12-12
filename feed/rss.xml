@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-11T14:17:54.80Z</dc:date>
+    <dc:date>2023-12-12T04:36:37.32Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#PaS6rbCX1V"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#PaS6rbCX1V"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wLV_F48KGt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#WkFfpWtvmD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#-rcLI1cE-Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#e3MRHPkrd1"/>
@@ -27,25 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#zTWU4ht9sX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#xdMKObNQ64"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#f95godoGSx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#6skBiCsRQ-"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#PaS6rbCX1V">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq">
+      <title>[登山] [Web] [炎上] 2023-12-11 ちらほら騒いでるのはこれか。命を預ける持ち物を間違えるわけないからね。  万死に値する。 😠</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-11T18:11:56.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#PaS6rbCX1V">
       <title>[Web] [時事] [炎上] [文化] 2023-12-11 この方の周辺から流れてくる話が酷くて目につくのだけど、どういう心境での突撃が行われてるのだろ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/11#PaS6rbCX1V</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,文化,Web,時事,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-11T14:17:54.80Z</dc:date>
+      <dc:date>2023-12-11T19:22:02.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq">
-      <title>[登山] [Web] [炎上] 2023-12-11 ちらほら騒いでるのはこれか。命を預ける持ち物を間違えるわけないからね。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/11#ZKQ7wjg_nq</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wLV_F48KGt">
+      <title>[歴史] 2023-12-12 四国、九州、中国地方の戦国時代史はほとんど知らないから面白い。東北は伊達政宗が有名だから、割 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wLV_F48KGt</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,歴史,歴史]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-11T14:17:54.80Z</dc:date>
+      <dc:date>2023-12-11T16:29:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/11#WkFfpWtvmD">
       <title>[モンハンNow] 2023-12-11 モンハンはリリースから半年も経たず、すでに売上は下降中なのか。ポケモンよりも面白いのに… w ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-09T03:33:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/09#6skBiCsRQ-">
-      <title>[食事] [料理] 2023-12-09 カルボ風味のニョッキを作ってみた。これはうめぇ。モチモチ  最近、料理の写真が増えたのは、当 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/09#6skBiCsRQ-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-08T23:48:12.00Z</dc:date>
     </item>
   </rdf:RDF>
