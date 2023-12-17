@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-17T07:18:59.15Z</dc:date>
+    <dc:date>2023-12-17T11:46:09.08Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iP/iPQfJTxAMN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hg/Hg3RNNWa9p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KW/KW3Sd4_BCB.htm"/>
@@ -27,25 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hr/hrWua2Ao99.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6k/6kJTq2GlDL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3M/3MdYiexkjQ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/54/54moxfkkDl.htm"/>
       </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm">
-    <title>[登山] [Web] 2023-12-17 この高度 (8300m) で人を担いだ状態でこのスピードで歩けるの、下り基調っぽいとはいえす ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-17T07:18:59.15Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm">
     <title>[モンハンNow] 2023-12-17 勝てねぇww  あっちのゲージも赤くなるまでは削れたけど… もっと立ち回りを改善しないとダメ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-17T07:18:59.15Z</dc:date>
+    <dc:date>2023-12-17T11:46:09.08Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm">
+    <title>[登山] [Web] 2023-12-17 この高度 (8300m) で人を担いだ状態でこのスピードで歩けるの、下り基調っぽいとはいえす ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/_d/_diH0DOsvq.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-17T11:46:09.08Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iP/iPQfJTxAMN.htm">
+    <title>[漫画] [アニメ] 2023-12-17 そういえば、少年漫画は悪い人というのを設定するからなぁ。それが結果としてバトルという形になる ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/iP/iPQfJTxAMN.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-17T11:46:09.08Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm">
     <title>[Ingress] [地理] 2023-12-16 My 全国地図</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-13T12:23:00.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/54/54moxfkkDl.htm">
-    <title>[Ingress] 2023-12-13 ここ、誰か水やりしてるみたいなんだけど、誰だろうな。レゾも mod も俺以外に刺さってないし ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/54/54moxfkkDl.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Ingress,Ingress</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-13T10:29:30.00Z</dc:date>
   </item>
 </rdf:RDF>
