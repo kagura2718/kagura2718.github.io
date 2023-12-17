@@ -4,19 +4,20 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-16T15:27:36.96Z</dc:date>
+    <dc:date>2023-12-17T02:11:33.57Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#5wJ79zrNon"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/17#5VBY4oSqWo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#5wJ79zrNon"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#Sr3fySEg-Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#lAcs2bey-t"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#rOVClx_Rqb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#_WeLtFzhGt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/15#lXFNNdkCsi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/15#0ZFkNrPbPY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/14#0JMYkPOqGD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/15#wt5jT580iI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/14#bGlxrcrB5s"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/13#kZMMkIJ02_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/13#DwfIs0_Gvp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/13#4a5it8X81P"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wJR_UnbLzY"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#5wJ79zrNon">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm">
+      <title>[Ingress] [地理] 2023-12-16 My 全国地図</title>
+      <link>https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,Ingress,地理,Ingress,地理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-17T02:11:33.57Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/17#5VBY4oSqWo">
+      <title>[ポケモンgo] 2023-12-17 どうやら今日もキュレム湧いてねぇな。せっかくの雪か強風ブーストだというのに… ⭐ 1 ばかり ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/17#5VBY4oSqWo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-17T00:59:29.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#5wJ79zrNon">
       <title>[ポケモンgo] 2023-12-16 へー、こんな感じ…  めちゃくちゃ強そう。 【ポケモンGO】キュレム(ブラックキュレム)の予 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/16#5wJ79zrNon</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-16T15:27:36.96Z</dc:date>
+      <dc:date>2023-12-17T00:49:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#Sr3fySEg-Z">
       <title>[ポケモンgo] [生活] [北陸] [モンハンNow] 2023-12-16 動けるようになったタイミングでキュレムがひとつも湧いてない。どうやら  ⭐ 1 レイドだけと ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,北陸,モンハンNow,ポケモンgo,生活,北陸,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-16T15:27:36.96Z</dc:date>
+      <dc:date>2023-12-16T23:23:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#lAcs2bey-t">
       <title>[ポケモンgo] 2023-12-16 夜になっても延々と ⭐ 1 が出続けてる。こんなにふざけたイベント… 💢 明日は外出できるか ...</title>
@@ -53,15 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-16T15:27:36.96Z</dc:date>
+      <dc:date>2023-12-16T22:36:23.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm">
-      <title>[Ingress] [地理] 2023-12-16 My 全国地図</title>
-      <link>https://kagura2718.github.io/Diary/essay/2023/2023-12-16.htm</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI">
+      <title>[登山] [Web] [白山] [紀伊] [中部] 2023-12-16 昨日の人、白山の記録も見つけた。なんだか危なっかしいなw この様子だとあんまり足が速くないし ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI</link>
       <description>
-        <![CDATA[日記,随筆,簡約版,Ingress,地理,Ingress,地理]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,白山,紀伊,中部,登山,Web,白山,紀伊,中部]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-16T15:27:36.96Z</dc:date>
+      <dc:date>2023-12-16T02:17:27.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#rOVClx_Rqb">
       <title>[アニメ] 2023-12-16 葬送のフリーレン、人気がかなりあるらしいのだけど、かなり寒い。同じくオタ系に好かれそうな薬屋 ...</title>
@@ -94,14 +110,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,登山,Web,文化,紀伊,Ingress,登山,Web,文化,紀伊]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-14T22:52:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI">
-      <title>[登山] [Web] [白山] [紀伊] [中部] 2023-12-16 昨日の人、白山の記録も見つけた。なんだか危なっかしいなw この様子だとあんまり足が速くないし ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/16#dljHx3trMI</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,白山,紀伊,中部,登山,Web,白山,紀伊,中部]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-15T20:10:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/14#0JMYkPOqGD">
       <title>[生活] [金沢] 2023-12-14 明日からは荒天続き。25km ほどゆるくランニング。 もう寒くなって歩いてる人も、外国人も疎 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-12T23:43:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wJR_UnbLzY">
-      <title>[アニメ] [女性] 2023-12-12 女の策動。こんな関係てほんとにあるのかね？まじで怖いんだが…  幼子の妃をその侍女が、当人に ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/12#wJR_UnbLzY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,女性,アニメ,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-12T13:43:20.00Z</dc:date>
     </item>
   </rdf:RDF>
