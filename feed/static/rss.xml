@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-19T02:56:10.62Z</dc:date>
+    <dc:date>2023-12-19T03:10:19.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CQ/CQcLFAHZZC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Tz/Tz5byxy0IY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/id/idTYH2vXVB.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SH/SHjnYT7CDM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X-/X-VWojNaAI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FO/FO5YuAp8Ac.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UB/UBrCixUX0o.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hg/Hg3RNNWa9p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KW/KW3Sd4_BCB.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ox/OxaUoKumQo.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,15 +37,15 @@
     <description>
         記録,ドキュメント,簡約版,生活,食事,生活,食事</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-19T02:56:10.62Z</dc:date>
+    <dc:date>2023-12-19T03:10:19.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Du/DukfJ7azQC.htm">
-    <title>[Web] [炎上] [文化] 2023-12-19 え、何これ…？ 300 用意できないのにいきなり国政政治家になろうとしてんの？ときどきお馬鹿 ...</title>
+    <title>[Web] [炎上] [文化] 2023-12-19 え、何これ…？ 300 用意できないのにいきなり国政政治家になろうとしてんの？この自称経済ア ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Du/DukfJ7azQC.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-19T02:56:10.62Z</dc:date>
+    <dc:date>2023-12-19T03:10:19.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/CQ/CQcLFAHZZC.htm">
     <title>[NHK] 2023-12-18 本日の晴山さん。近所のお山は既に雪山さんでしたがね。 </title>
@@ -70,6 +70,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-18T06:50:26.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/SH/SHjnYT7CDM.htm">
+    <title>[Web] [炎上] 2023-12-19 これは広義の当たり屋かなぁ。ブレーキも効きが悪いか、そもそもしっかり握ってないか？動画からは ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/SH/SHjnYT7CDM.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-18T13:25:49.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/X-/X-VWojNaAI.htm">
     <title>[ポケモンgo] 2023-12-18 先週は 60km </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-17T00:49:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ox/OxaUoKumQo.htm">
-    <title>[ポケモンgo] [生活] [北陸] [モンハンNow] 2023-12-16 動けるようになったタイミングでキュレムがひとつも湧いてない。どうやら  ⭐ 1 レイドだけと ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ox/OxaUoKumQo.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,北陸,モンハンNow,ポケモンgo,生活,北陸,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-16T23:23:10.00Z</dc:date>
   </item>
 </rdf:RDF>
