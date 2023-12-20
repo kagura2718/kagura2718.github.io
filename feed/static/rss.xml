@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-20T05:14:29.62Z</dc:date>
+    <dc:date>2023-12-20T08:02:28.36Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1Z/1ZhLOVWm0P.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rs/RsNwCTEHpj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ID/IDpPOBiaPk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fp/fpwnHK0wzI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/30/30qKj4a4S7.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X-/X-VWojNaAI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FO/FO5YuAp8Ac.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gc/Gc6gDEngXX.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm">
+    <title>[Ingress] [地理] 2023-12-16 My 全国地図</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/_P/_PA8oD8Qbz.htm</link>
+    <description>
+        日記,随筆,簡約版,Ingress,地理,Ingress,地理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-18T12:51:35.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1Z/1ZhLOVWm0P.htm">
     <title>[ポケモンgo] 2023-12-20 本日のメガマックス  本日の最大強化 (PL50) </title>
     <link>https://kagura2718.github.io/Gitwee/jump/1Z/1ZhLOVWm0P.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-20T05:14:29.62Z</dc:date>
+    <dc:date>2023-12-20T08:02:28.36Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rs/RsNwCTEHpj.htm">
+    <title>[モンハンNow] 2023-12-20 勝てるかっ こんなもん 💢 レベルが上がると攻撃動作までの時間も短くなってるのかな？  だが ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Rs/RsNwCTEHpj.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-20T08:02:28.36Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ID/IDpPOBiaPk.htm">
     <title>[Web] [文化] [北海道] 2023-12-17 「まるでこちらが悪者のよう」　ヒグマハンターの報償攻防 | 毎日新聞 働く人に金を渡したくな ...</title>
@@ -174,21 +190,5 @@
         日記,長編日記,随筆</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2022-03-27T04:25:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Gc/Gc6gDEngXX.htm">
-    <title>[沖縄] [九州] 2023-12-17 同僚助けようと溺れる　南大東島で２人死亡（沖縄テレビOTV） - Yahoo!ニュース 九州 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Gc/Gc6gDEngXX.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,沖縄,九州,沖縄,九州</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-17T22:10:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm">
-    <title>[モンハンNow] 2023-12-17 勝てねぇww  あっちのゲージも赤くなるまでは削れたけど… もっと立ち回りを改善しないとダメ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Z-/Z-pcPnGwqG.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-17T18:57:40.00Z</dc:date>
   </item>
 </rdf:RDF>
