@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-21T23:52:55.59Z</dc:date>
+    <dc:date>2023-12-22T00:37:24.25Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#kOe9z0jzhj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#ClnALgU9Qg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FRVUQ296Ca"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FBTMkmUDa9"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/19#OajpgR7MTT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/18#sHqnGMKFgj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/19#OXXzDW_hWj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/18#hAn4wiqXQz"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-21T23:52:55.59Z</dc:date>
+      <dc:date>2023-12-22T00:37:24.25Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#ClnALgU9Qg">
+      <title>[Web] [時事] [歴史] 2023-12-22 十字軍 - Wikipedia 大昔 (1000 年前) の十字軍の行動と現代のイスラエルで ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/22#ClnALgU9Qg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,歴史,Web,時事,歴史]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-22T00:37:24.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6">
       <title>[Web] [スポーツ] 2023-12-21 千代の富士 53 連勝の動画はみたことあるけど若い頃のはあんまり見たことなかったかもしれない ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-21T23:52:55.59Z</dc:date>
+      <dc:date>2023-12-22T00:37:24.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FRVUQ296Ca">
       <title>[モンハンNow] 2023-12-21 レベルが上がると金が足りなくなるらしい。そろそろ足りなくなる頃かな。  課金する気がないから ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-21T23:52:55.59Z</dc:date>
+      <dc:date>2023-12-22T00:37:24.25Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FBTMkmUDa9">
       <title>[漫画] [女性] [薬屋のひとりごと] 2023-12-21 これは… 『薬屋のひとりごと』とどっちが後発かな。『後宮食医の薬膳帖』 後宮食医の薬膳帖 廃 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-18T16:36:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/18#hAn4wiqXQz">
-      <title>[食事] [NHK] [料理] 2023-12-18 ガンジーの非暴力運動がどうたらいう微温いドキュメンタリーを眺めながら作った、本日のきまぐれカ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/18#hAn4wiqXQz</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,NHK,料理,食事,NHK,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-17T23:01:32.00Z</dc:date>
     </item>
   </rdf:RDF>
