@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-22T09:50:09.74Z</dc:date>
+    <dc:date>2023-12-22T10:03:19.21Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -17,6 +17,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lt/ltcMs5fujT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/h5/h5V8rOSEL1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qz/qzSu0OIc_S.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/da/dalEnFFPls.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ou/OudGU2elkW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jD0mKIBhHT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9C/9CttIyiYdi.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fp/fpwnHK0wzI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/s1/s1ZlfhMAo1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/30/30qKj4a4S7.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-22T09:50:09.74Z</dc:date>
+    <dc:date>2023-12-22T10:03:19.21Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bu/bunMxzRYpL.htm">
     <title>[Web] [スポーツ] 2023-12-21 千代の富士 53 連勝の動画はみたことあるけど若い頃のはあんまり見たことなかったかもしれない ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-22T09:50:09.74Z</dc:date>
+    <dc:date>2023-12-22T10:03:19.21Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/20/20jSGvDDqF.htm">
     <title>[Web] [時事] [歴史] 2023-12-22 十字軍 - Wikipedia 大昔 (1000 年前) の十字軍の行動と現代のイスラエルで ...</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,時事,歴史,Web,時事,歴史</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-22T09:50:09.74Z</dc:date>
+    <dc:date>2023-12-22T10:03:19.21Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6R/6RZLGzr4xF.htm">
     <title>[生活] [北陸] 2023-12-22 だいぶ降りましたな。軽い雪なので、また一週間もしたら煙のように消えることでしょう。</title>
@@ -61,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-22T09:50:09.74Z</dc:date>
+    <dc:date>2023-12-22T10:03:19.21Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -102,6 +102,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-22T00:47:59.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/da/dalEnFFPls.htm">
+    <title>[Web] [炎上] 2023-12-22 どこもかしこも産業が胡散臭くなってるなぁ。完全に  発展途上国  状態。今は過去に造られたイ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/da/dalEnFFPls.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-21T22:44:41.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ou/OudGU2elkW.htm">
     <title>[漫画] [アニメ] 2023-12-22 ヒッチの声… このアニメも後半になればなるほど、投下される資本は低下してるんじゃないかな。  ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-19T19:12:18.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm">
-    <title>[生活] [食事] 2023-12-19 外食一覧</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm</link>
-    <description>
-        記録,ドキュメント,簡約版,生活,食事,生活,食事</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-19T13:49:11.00Z</dc:date>
   </item>
 </rdf:RDF>
