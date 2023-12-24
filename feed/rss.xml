@@ -4,30 +4,30 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-24T04:19:11.11Z</dc:date>
+    <dc:date>2023-12-24T08:59:14.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#zbs2UdxqBv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#qlHWagVD6t"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#Hu0_IHsOne"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#JLsR1hC_EK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#gOapBUQFVp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#JkIxjh3nAO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#PvdA8kB_np"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#TNmfdRbmWN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#b52tn66-BV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#JQuiF1URpw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#ClnALgU9Qg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#mQG_FCEQPR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#kOe9z0jzhj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#A0yRX_1AAq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#nkea-drDcZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#eU2ivL1H9T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#8vrduqPIK8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#8WaNMQQzHq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FRVUQ296Ca"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#G-Qgwls7rN"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,31 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-24T04:19:11.11Z</dc:date>
+      <dc:date>2023-12-24T08:59:14.96Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#qlHWagVD6t">
+      <title>[ゲーム] [モンハンNow] 2023-12-24 ゲーム機のモンハンてこんな感じね。ごちゃっとしてる。モンハンNow のマルチもなんかごちゃっ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/24#qlHWagVD6t</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ゲーム,モンハンNow,ゲーム,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-24T04:14:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#Hu0_IHsOne">
+      <title>[登山] [生活] 2023-12-24 昨日はなぜか途中までスノーシューのヒールリフターを使い忘れていたので、ふくらはぎの筋肉痛がひ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/24#Hu0_IHsOne</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,登山,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-24T03:21:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#JLsR1hC_EK">
+      <title>[スポーツ] [野球] 2023-12-24 んー、ほとんど知らない投手だった。ランディ・ジョンソンが入ってるのが意外だった。20 世紀か ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/24#JLsR1hC_EK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,スポーツ,野球,スポーツ,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-23T21:37:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#gOapBUQFVp">
       <title>[Web] [炎上] [文化] [モンハンNow] 2023-12-23 モンハンはこの時期、車の中でやるのすら辛い。youtuber は… 雪が少ないエリアの人が多 ...</title>
@@ -70,6 +94,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-23T13:12:12.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ">
+      <title>[登山] [宝達山] 2023-12-23 本日の突破  本日の登頂  樹氷である。  久々にぐったり、思ってた以上の深雪で疲れた… 夕 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-23T09:42:59.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#b52tn66-BV">
       <title>[Web] 2023-12-22 へー、こんな動きをする生き物が… しかもかなり速いよね。 </title>
@@ -110,14 +142,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-22T16:21:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ">
-      <title>[登山] [宝達山] 2023-12-23 本日の突破  本日の登頂  樹氷である。  久々にぐったり、思ってた以上の深雪で疲れた… 夕 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-22T16:11:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#kOe9z0jzhj">
       <title>[生活] [北陸] 2023-12-22 だいぶ降りましたな。軽い雪なので、また一週間もしたら煙のように消えることでしょう。</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,北海道,NHK,北海道,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-22T00:00:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#8WaNMQQzHq">
-      <title>[モンハンNow] 2023-12-22 属性攻撃を強化するのに特化した防具強化は一段落したかな。  で、これから銭が足りなくなる。きっと。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/22#8WaNMQQzHq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-22T03:11:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FRVUQ296Ca">
-      <title>[モンハンNow] 2023-12-21 レベルが上がると金が足りなくなるらしい。そろそろ足りなくなる頃かな。  課金する気がないから ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/21#FRVUQ296Ca</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-22T00:47:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#G-Qgwls7rN">
-      <title>[時事] 2023-12-22 岸田さん、顔が暗いのもそうだけど、声が暗く沈んでるのが分かって面白いな 😂  この辺りで垣間 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/22#G-Qgwls7rN</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-21T23:42:19.00Z</dc:date>
     </item>
   </rdf:RDF>
