@@ -11,6 +11,8 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/h3/h3yUi5b9Yf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dL/dLtk9YvsK6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oZ/oZGUijgw9u.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pH/pHaugyQh8Q.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z1/z1hfloFyWv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yB/yB31l5KSd0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YM/YMUyoT-l-o.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bu/bunMxzRYpL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/20/20jSGvDDqF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MJ/MJUWBdAL90.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6R/6RZLGzr4xF.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -54,6 +54,22 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-24T17:45:06.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm">
+    <title>[モンハンNow] 2023-12-25 手がかじかむパターンだけじゃなくて、スマホがスリープから復帰した直後にゲーム用のメモリが s ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-24T17:39:27.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pH/pHaugyQh8Q.htm">
+    <title>[ポケモンgo] 2023-12-25 なかなか優秀なアタッカーで PvP 要員では？  本日の最大強化 (PL40) </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pH/pHaugyQh8Q.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-24T14:21:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/z1/z1hfloFyWv.htm">
     <title>[時事] [奥能登] [志賀町] 2023-12-25 やっぱり 40 代の方だね。汚職が発覚した直後は若い方に票が集まるものだ。しかし、年齢など関 ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-22T16:21:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6R/6RZLGzr4xF.htm">
-    <title>[生活] [北陸] 2023-12-22 だいぶ降りましたな。軽い雪なので、また一週間もしたら煙のように消えることでしょう。</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/6R/6RZLGzr4xF.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-22T14:44:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
 </rdf:RDF>
