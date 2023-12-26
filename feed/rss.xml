@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-25T12:27:32.03Z</dc:date>
+    <dc:date>2023-12-26T03:49:16.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#OQ-prK_Le7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#HycbL2lWll"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#eoADc-2bAU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#pT3s4Xu522"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/23#q1PG0EVERJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#b52tn66-BV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/22#JQuiF1URpw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#OQ-prK_Le7">
+      <title>[Web] [スポーツ] 2023-12-26 すげぇw どうやって固定してるんだろ。2010 年まではなんとか分からんでもないけど 202 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/26#OQ-prK_Le7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-26T03:49:16.23Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj">
       <title>[ポケモンgo] 2023-12-25 先週は 54km  モンハンが忙しくて、めんどくさいレジギガスはやる気がせん。やる時間もない…</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-25T12:27:32.03Z</dc:date>
+      <dc:date>2023-12-26T02:03:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#HycbL2lWll">
       <title>[モンハンNow] 2023-12-25 部屋でぬくぬくやってるときは割と一直線でクリアできる。 ⭐ 5 ジンオウガだけど。   課金 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-25T12:27:32.03Z</dc:date>
+      <dc:date>2023-12-25T23:19:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#eoADc-2bAU">
       <title>[漫画] [アニメ] [女性] 2023-12-24 『薬屋のひとりごと』は漫画で先読みしてるけど、元妓女のやり手婆もただの嫌な婆かと思ったら、な ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-22T21:58:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6">
-      <title>[Web] [スポーツ] 2023-12-21 千代の富士 53 連勝の動画はみたことあるけど若い頃のはあんまり見たことなかったかもしれない ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/21#IHPRTTjNO6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-22T16:57:20.00Z</dc:date>
     </item>
   </rdf:RDF>
