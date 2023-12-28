@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-28T03:40:58.25Z</dc:date>
+    <dc:date>2023-12-28T06:28:46.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#TMoOuZt9E_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#kIm9H3v6Cl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#cf7A_W62uV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#b_kTesQf7Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#QnxOaF57QA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#wsTSOKaRsE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#iVUaasD-sX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#nG_br_q2PH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#OQ-prK_Le7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#_cEy8chTSN"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#pT3s4Xu522"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#zbs2UdxqBv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#82uJcKdcZF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#5tyjmUQoSw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#Mr_yGRQfWc"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-28T03:40:58.25Z</dc:date>
+      <dc:date>2023-12-28T05:07:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#cf7A_W62uV">
       <title>[ポケモンgo] 2023-12-28 本日の最大強化 (PL40) </title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-28T03:09:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#b_kTesQf7Z">
+      <title>[モンハンNow] 2023-12-28 4 回ぐらい失敗してタイムアップ、かと思ったら…  最後にもう一回だけとやってみると、クリア ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/28#b_kTesQf7Z</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-27T21:58:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#QnxOaF57QA">
       <title>[モンハンNow] 2023-12-27 描画遅れが酷い。反応しねぇ 😭  今朝もカモのはずのドスギルオスくんとの途中に反応が遅れて敗 ...</title>
@@ -71,13 +79,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-27T18:17:55.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#iVUaasD-sX">
+      <title>[Web] [時事] [炎上] 2023-12-28 印象が悪いから名前を換えましょうって、旧統一教会みたいだな。あ… 我が国の政府って…  私が ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/28#iVUaasD-sX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-27T17:53:59.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#nG_br_q2PH">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2023-12-27 駅前でも大狩猟してくれる人おらんか。そうか…  5 分ぐらい粘って頑張ったので離脱しますね… ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/27#nG_br_q2PH</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-27T07:56:26.00Z</dc:date>
+      <dc:date>2023-12-27T10:48:47.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#OQ-prK_Le7">
       <title>[Web] [スポーツ] 2023-12-26 すげぇw どうやって固定してるんだろ。2010 年まではなんとか分からんでもないけど 202 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-24T17:39:27.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#5tyjmUQoSw">
-      <title>[ポケモンgo] 2023-12-25 なかなか優秀なアタッカーで PvP 要員では？  本日の最大強化 (PL40) </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/25#5tyjmUQoSw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-24T14:21:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#Mr_yGRQfWc">
-      <title>[時事] [奥能登] [志賀町] 2023-12-25 やっぱり 40 代の方だね。汚職が発覚した直後は若い方に票が集まるものだ。しかし、年齢など関 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/25#Mr_yGRQfWc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,志賀町,時事,奥能登,志賀町]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-24T12:50:23.00Z</dc:date>
     </item>
   </rdf:RDF>
