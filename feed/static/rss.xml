@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-28T06:28:46.00Z</dc:date>
+    <dc:date>2023-12-29T03:09:44.76Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GR/GRptQgyMiA.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nf/NfeFkdMw3K.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qs/qsNfzaitp7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nj/njkDvZ2lwz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TQ/TQ9AGg8sDs.htm"/>
@@ -26,11 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R0/R0Gm1fVPbd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/h3/h3yUi5b9Yf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dL/dLtk9YvsK6.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oZ/oZGUijgw9u.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GR/GRptQgyMiA.htm">
+    <title>[登山] [生活] 2023-12-29 3 年ぐらい懸案だった日曜大工がようやく片付いた。やってみたら 2 時間ぐらいなんだが、それ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/GR/GRptQgyMiA.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,登山,生活</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-29T03:09:44.76Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nf/NfeFkdMw3K.htm">
+    <title>[モンハンNow] 2023-12-29 Rare5 はけっこう出るね。  ストーリーを進めすぎると厄介らしいので、これでモンスターご ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Nf/NfeFkdMw3K.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2023-12-28T12:27:27.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qs/qsNfzaitp7.htm">
     <title>[アニメ] [女性] 2023-12-26 無理矢理現代の若者風にデフォルメする構図  何回か書いた気がするけど、この色使いが絶対に女性 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/qs/qsNfzaitp7.htm</link>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-24T18:58:14.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oZ/oZGUijgw9u.htm">
-    <title>[モンハンNow] 2023-12-24 おお、連続狩猟の ⭐ 6 いけた。当たりがいいとイケるのか。  残り 00:30 ぐらいのと ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/oZ/oZGUijgw9u.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-24T17:45:06.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm">
-    <title>[モンハンNow] 2023-12-25 手がかじかむパターンだけじゃなくて、スマホがスリープから復帰した直後にゲーム用のメモリが s ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/cx/cxb6P-23xx.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-24T17:39:27.00Z</dc:date>
   </item>
 </rdf:RDF>
