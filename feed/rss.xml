@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2023-12-29T03:30:50.58Z</dc:date>
+    <dc:date>2023-12-29T14:23:20.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#v_-NgASAMo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#FlV8tjU8HS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#P2ugRj76YE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#TMoOuZt9E_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#kIm9H3v6Cl"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#dc3cjx3svj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/25#HycbL2lWll"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/26#bXN1ZltqEY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#eoADc-2bAU"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,登山,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-29T03:30:50.58Z</dc:date>
+      <dc:date>2023-12-29T14:23:20.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#FlV8tjU8HS">
       <title>[Web] [時事] [北海道] 2023-12-29 僻地といっていい倶知安(くっちゃん)で一杯 2500 円… 物価高の時勢とはいえ、さすがに溜 ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,北海道,Web,時事,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-29T03:30:50.58Z</dc:date>
+      <dc:date>2023-12-29T14:23:20.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL">
+      <title>[モンハンNow] 2023-12-29 うーん、まだ届かない。はやく作りたい… ジンオウガ大刀 rare2 素材の方が集まりづらい感 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2023-12-29T05:43:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#P2ugRj76YE">
       <title>[モンハンNow] 2023-12-29 Rare5 はけっこう出るね。  ストーリーを進めすぎると厄介らしいので、これでモンスターご ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-25T23:05:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/24#eoADc-2bAU">
-      <title>[漫画] [アニメ] [女性] 2023-12-24 『薬屋のひとりごと』は漫画で先読みしてるけど、元妓女のやり手婆もただの嫌な婆かと思ったら、な ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/24#eoADc-2bAU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,女性,漫画,アニメ,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-24T08:57:00.00Z</dc:date>
     </item>
   </rdf:RDF>
