@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-01T12:42:01.47Z</dc:date>
+    <dc:date>2024-01-01T14:58:57.49Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#XtwZJiRnKr"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#UPQs1D5Ma6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#Ji_S3bHQxH"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#cf7A_W62uV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/28#b_kTesQf7Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#QnxOaF57QA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#wsTSOKaRsE"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-01T12:42:01.47Z</dc:date>
+      <dc:date>2024-01-01T14:58:57.49Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX">
+      <title>[Web] [炎上] 2024-01-01 すげぇw 馬鹿だ 😂  情報を眺めてるとヘリウム風船じゃなく水素らしい。馬鹿すぎる 😂  こ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-01T14:58:57.49Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-27T18:47:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/27#wsTSOKaRsE">
-      <title>[映画] 2023-12-27 重い腰をあげて、ようやく思い出のマーニーを通して観て、一週間ぐらいかけて観終わった。一応、ジ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/27#wsTSOKaRsE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,映画,映画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-27T18:17:55.00Z</dc:date>
     </item>
   </rdf:RDF>
