@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-01T05:39:17.00Z</dc:date>
+    <dc:date>2024-01-01T11:14:30.90Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2E/2EO39FMSj7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/od/od1Z75EQh1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rR/rRxogTMSgw.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cv/cvx0VzXLb9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4J/4J94I0AR7e.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fU/fU1lswX3U3.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XY/XYscLeWvJy.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2E/2EO39FMSj7.htm">
+    <title>[漫画] [アニメ] 2024-01-01 Abema をPC ブラウザから観るのと、テレビの大画面でじっくり観るのとでは、やはり見え方 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/2E/2EO39FMSj7.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-01T11:14:30.90Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,時事,告知,北陸,生活,時事,告知,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-31T21:09:04.00Z</dc:date>
+    <dc:date>2023-12-31T22:37:23.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rR/rRxogTMSgw.htm">
     <title>[アニメ] 2023-12-30 猫猫がフォンミンのとこに行ったの、唐突感があったから何かを見落としてたのかと思ったけど、見返 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-27T17:53:59.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XY/XYscLeWvJy.htm">
-    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2023-12-27 駅前でも大狩猟してくれる人おらんか。そうか…  5 分ぐらい粘って頑張ったので離脱しますね… ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/XY/XYscLeWvJy.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-27T10:48:47.00Z</dc:date>
   </item>
 </rdf:RDF>
