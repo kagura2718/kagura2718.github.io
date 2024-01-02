@@ -4,14 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-02T10:09:29.60Z</dc:date>
+    <dc:date>2024-01-02T12:58:41.01Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#iNX5cSfoMT"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#XtwZJiRnKr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#IeIdCEWiYO"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SrLUcAB_S7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#HLtp93Qh97"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#74CQmAKCyX"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/30#KUGrahMbNv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/30#t4kaJ_gslK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#FlV8tjU8HS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#iNX5cSfoMT">
+      <title>[ポケモンgo] 2024-01-02 不審者おじさんは年が明けてさらに不謹慎になっていた。  😂 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/02#iNX5cSfoMT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-02T12:58:41.01Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV">
       <title>[時事] [奥能登] [志賀町] 2024-01-02 目が醒めてテレビ映像を眺めてると珠洲から穴水、志賀町の富来エリアって感じの被害ですな。かなり ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,志賀町,時事,奥能登,志賀町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-02T10:09:29.60Z</dc:date>
+      <dc:date>2024-01-02T12:58:41.01Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M">
+      <title>[登山] [生活] [宝達山] 2024-01-02 本日の登頂  悠然とした北アルプス  登山道はほぼノーダメージ。強い。下山中に伐木業者が残し ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-02T08:51:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#XtwZJiRnKr">
       <title>[漫画] [アニメ] 2024-01-01 Abema をPC ブラウザから観るのと、テレビの大画面でじっくり観るのとでは、やはり見え方 ...</title>
@@ -54,14 +70,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-02T05:39:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M">
-      <title>[登山] [生活] [宝達山] 2024-01-02 本日の登頂  悠然とした北アルプス  登山道はほぼノーダメージ。強い。 地震直後の宝達山 - ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-02T03:59:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SrLUcAB_S7">
       <title>[モンハンNow] 2024-01-02 なんじゃこりゃ  黒ディア勝てる気がしねぇww どうしたらいいんだろ。ノーマルディアも突進が ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,北海道,Web,時事,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-29T15:45:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL">
-      <title>[モンハンNow] 2023-12-29 うーん、まだ届かない。はやく作りたい… ジンオウガ大刀 rare2 素材の方が集まりづらい感 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/29#pmJS2SKFVL</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-29T05:43:16.00Z</dc:date>
     </item>
   </rdf:RDF>
