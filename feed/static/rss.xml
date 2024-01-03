@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-02T21:53:42.00Z</dc:date>
+    <dc:date>2024-01-03T03:09:41.68Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/n3/n3cvihV7hL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ew/ewglU2Secb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G8/G8RfP7HX74.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fz/Fz3Y5-bQI0.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nb/nb3LrHWQPo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hb/hbXBUaSFta.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GR/GRptQgyMiA.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/L5/L5AmP3p_J3.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/n3/n3cvihV7hL.htm">
+    <title>[奥能登] 2024-01-03 今年度で営業終了のニュースになっていた、ここはどうなってるだろうな。充分自宅から近いので、こ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/n3/n3cvihV7hL.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,奥能登,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-03T03:09:41.68Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ew/ewglU2Secb.htm">
     <title>[ポケモンgo] 2024-01-02 不審者おじさんは年が明けてさらに不謹慎になっていた。  😂 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/ew/ewglU2Secb.htm</link>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,時事,奥能登,志賀町,時事,奥能登,志賀町</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-02T13:30:50.00Z</dc:date>
+    <dc:date>2024-01-02T14:49:53.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8h/8hK3pwktU3.htm">
     <title>[モンハンNow] 2024-01-03 初勝利！  やっと勝てた… 割と柔らかいんだな。当たりはじめるとどんどん削れる。  これが噂 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,生活,登山,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2023-12-29T18:57:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/L5/L5AmP3p_J3.htm">
-    <title>[モンハンNow] 2023-12-30 大連続狩猟は HP 2 倍ってことだけど、複数人が集まっても 2 倍なんかね？街中プレイで一 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/L5/L5AmP3p_J3.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2023-12-29T21:13:08.00Z</dc:date>
   </item>
 </rdf:RDF>
