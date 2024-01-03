@@ -11,6 +11,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#iNX5cSfoMT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#cZJzK019wV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#t3jE5XZo4Q"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#fCzPbq-Mmz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#XtwZJiRnKr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#IeIdCEWiYO"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/31#4jt2J5cHHo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/29#v_-NgASAMo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/30#KUGrahMbNv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2023/12/30#t4kaJ_gslK"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,志賀町,時事,奥能登,志賀町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-02T13:30:50.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#fCzPbq-Mmz">
+      <title>[モンハンNow] 2024-01-03 初勝利！  やっと勝てた… 割と柔らかいんだな。当たりはじめるとどんどん削れる。  これが噂 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/03#fCzPbq-Mmz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-02T11:29:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SfCLxkrV0M">
       <title>[登山] [生活] [宝達山] 2024-01-02 本日の登頂  悠然とした北アルプス  登山道はほぼノーダメージ。強い。下山中に伐木業者が残し ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2023-12-29T21:13:08.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2023/12/30#t4kaJ_gslK">
-      <title>[登山] [宝達山] 2023-12-30 今日は夜に用事があるので遠出はできなかった。またしつこく近場で運動。  前は富山方面から登っ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2023/12/30#t4kaJ_gslK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2023-12-29T20:10:17.00Z</dc:date>
     </item>
   </rdf:RDF>
