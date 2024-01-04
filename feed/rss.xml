@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-04T10:18:12.13Z</dc:date>
+    <dc:date>2024-01-04T13:52:44.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#GukhGuwGdn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#u81fH8cxNK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#kpOUR0ZcxM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#aWyYa0ojxp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#VrUbJO6RU_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#XWT6y9LUOE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#5IUSe6r-KN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#kfswhkHMQh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#Q3-K9TTJjt"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#IeIdCEWiYO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#SrLUcAB_S7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#HLtp93Qh97"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#74CQmAKCyX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-04T10:18:12.13Z</dc:date>
+      <dc:date>2024-01-04T13:52:44.87Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#u81fH8cxNK">
+      <title>[生活] [北陸] 2024-01-04 今日お出かけ日和だったな。もったいねぇ… まだ片付けしててさすがに邪魔になるかもしれないから ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/04#u81fH8cxNK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-04T13:52:44.87Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#kpOUR0ZcxM">
       <title>[時事] [奥能登] 2024-01-04 こういう風に砂浜に重機を持ち上げられるのか。ホバーボートか。普通に大型の重機は難しいよね。  ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-04T10:18:12.13Z</dc:date>
+      <dc:date>2024-01-04T12:48:59.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#aWyYa0ojxp">
       <title>[奥能登] 2024-01-03 これは七尾の城山だ。それなりの頻度で行く場所だからか、数秒間みるとどこかなんとなく分かってし ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-04T07:19:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#XWT6y9LUOE">
+      <title>[ポケモンgo] 2024-01-04 ポケモンとコラボか。すさまじい値段だ。35 万のバッグ… FENDI x FRGMT x P ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/04#XWT6y9LUOE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-04T02:40:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/03#5IUSe6r-KN">
       <title>[奥能登] 2024-01-03 奥能登東海岸の津波映像。珠洲市三崎町か。自転車でよく通る、狼煙岬のところだ。 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-02T01:36:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/02#74CQmAKCyX">
-      <title>[モンハンNow] 2024-01-02 やっと強化できる。ドスギルオス大刀   実用レベル (Grade6) まではあと少し…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/02#74CQmAKCyX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-01T22:42:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX">
-      <title>[Web] [炎上] 2024-01-01 すげぇw 馬鹿だ 😂  情報を眺めてるとヘリウム風船じゃなく水素らしい。馬鹿すぎる 😂  こ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/01#hTS7UKaVpX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-01T18:08:29.00Z</dc:date>
     </item>
   </rdf:RDF>
