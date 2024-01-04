@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-04T07:36:08.29Z</dc:date>
+    <dc:date>2024-01-04T08:38:44.46Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4H/4HHYP0G0vs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UN/UNQCrpN8zz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kY/kYSXG-ZwQG.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zt/ztqqSQQIzr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xa/xa0R9eWnPM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dz/dz7xqnxaS2.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4H/4HHYP0G0vs.htm">
+    <title>[奥能登] 2024-01-04 奥能登のどの映像も 3.11 の大津波の衝撃にはまったく及ばないのだけど、あのときチャリで走 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4H/4HHYP0G0vs.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,奥能登,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-04T08:38:44.46Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm">
     <title>[時事] [奥能登] 2024-01-04 こういう風に砂浜に重機を持ち上げられるのか。ホバーボートか。普通に大型の重機は難しいよね。  ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm</link>
     <description>
         日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-04T07:36:08.29Z</dc:date>
+    <dc:date>2024-01-04T08:38:44.46Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/UN/UNQCrpN8zz.htm">
     <title>[奥能登] 2024-01-03 これは七尾の城山だ。それなりの頻度で行く場所だからか、数秒間みるとどこかなんとなく分かってし ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,奥能登,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-04T07:36:08.29Z</dc:date>
+    <dc:date>2024-01-04T07:41:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kY/kYSXG-ZwQG.htm">
     <title>[NHK] 2024-01-03 ちらっと見えた桑子アナ、場末の女芸人みたいな顔になってたな。海外放浪系の番組だったかな。 あ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-01T18:08:29.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
 </rdf:RDF>
