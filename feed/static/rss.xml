@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-06T02:55:44.16Z</dc:date>
+    <dc:date>2024-01-06T03:02:49.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xX/xXbK4zJJ-g.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E6/E6avKhqdto.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2Z/2ZsuOgtesS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Cq/Cq-j8jgrZ0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7m/7mPA5MFm8B.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ua/UazHFB0oUc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/n3/n3cvihV7hL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qO/qOtMLp40N0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dq/Dqs7BSDc7m.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,地理,Web,地理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-06T02:55:44.16Z</dc:date>
+    <dc:date>2024-01-06T03:02:49.75Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E6/E6avKhqdto.htm">
+    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-01-05 金沢は割と平穏だった。時間帯の割に人は少ないような気はする。   駅がちょっとだけ壊れてた。 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/E6/E6avKhqdto.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-05T20:30:01.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2Z/2ZsuOgtesS.htm">
     <title>[奥能登] 2024-01-05 ヤセの断崖あたりのエリアは隆起ではなく、ほとんど崩落してそう。義経の船隠しはどうなってるかな ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,食事,料理,食事,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-03T13:09:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dq/Dqs7BSDc7m.htm">
-    <title>[ポケモンgo] 2024-01-03 いらね </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Dq/Dqs7BSDc7m.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-03T06:12:49.00Z</dc:date>
   </item>
 </rdf:RDF>
