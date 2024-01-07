@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-07T06:27:20.68Z</dc:date>
+    <dc:date>2024-01-07T06:32:07.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -16,9 +16,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#J2EiYEBkdA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#BZKQfE4T-P"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#ACvakJXTUj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#5fCaB0vSXk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#gS_aFow6Ca"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/05#fdJGDhraRI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/05#2vMT6EueR0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#e4N0scjuW0"/>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,奥能登,Ingress,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-07T06:27:20.68Z</dc:date>
+      <dc:date>2024-01-07T06:32:07.95Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_">
       <title>[Web] [地理] 2024-01-06 間地峠(まじだわ)か。鳥取にあるらしい。  ほほう。漢字が「訛って」峠になった、と。 </title>
@@ -95,6 +95,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-06T13:58:35.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4">
+      <title>[奥能登] [モンハンNow] 2024-01-07 これ、あの例の後藤真希か。モンハンのゲーム実況なんかやってるのか。最近、モンハンNow の動 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,モンハンNow,奥能登,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-06T12:34:39.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#5fCaB0vSXk">
       <title>[モンハンNow] 2024-01-06 黒ディアぼちぼち狩れるようになってきた。長距離だと二回足跳ねてから突進、近距離だと一回って違 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/06#5fCaB0vSXk</link>
@@ -110,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,宝達山,北陸,宝達山,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-06T10:48:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4">
-      <title>[奥能登] [モンハンNow] 2024-01-07 これ、あの例の後藤真希か。モンハンのゲーム実況なんかやってるのか。最近、モンハンNow の動 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/07#R14xwL7ff4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,モンハンNow,奥能登,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-06T10:23:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/05#fdJGDhraRI">
       <title>[Web] [時事] [炎上] 2024-01-05  この状況で自分の政治実績をアピールしちゃう感性と神経ってなかなかすさまじい 😅  あの映像 ...</title>
