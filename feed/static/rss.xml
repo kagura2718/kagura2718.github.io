@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-07T02:50:54.74Z</dc:date>
+    <dc:date>2024-01-07T03:51:21.04Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xX/xXbK4zJJ-g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Or/Or7Rlys99V.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xX/xXbK4zJJ-g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hy/Hy_-0aw2bs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9a/9a903deNrd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9A/9AWT1fVTlx.htm"/>
@@ -27,10 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8i/8i2eF5FfY9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4H/4HHYP0G0vs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ut/utnSkUlbsW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm">
+    <title>[生活] [金沢] [モンハンNow] 2024-01-06 町歩き中は防御重視スタイルで素材を集めることにいたしましょう。マルチプレイのときだけ火力重視 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-07T03:51:21.04Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Or/Or7Rlys99V.htm">
+    <title>[Ingress] [奥能登] 2024-01-07 地震の前からだけども、ジョルダン、完全に活動が失くなってるな。ここ数週間 AP は動いていな ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Or/Or7Rlys99V.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Ingress,奥能登,Ingress,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-07T03:51:21.04Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xX/xXbK4zJJ-g.htm">
     <title>[Web] [地理] 2024-01-06 間地峠(まじだわ)か。鳥取にあるらしい。  ほほう。漢字が「訛って」峠になった、と。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/xX/xXbK4zJJ-g.htm</link>
@@ -38,14 +54,6 @@
         日記,つぶやき,雑記帳,Web,地理,Web,地理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-06T18:29:59.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm">
-    <title>[生活] [金沢] [モンハンNow] 2024-01-06 町歩き中は防御重視スタイルで素材を集めることにいたしましょう。マルチプレイのときだけ火力重視 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-07T01:46:53.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hy/Hy_-0aw2bs.htm">
     <title>[時事] 2024-01-07 頻りに未曾有を「みぞうう」って発音してるから、俺が勘違いしてたのかと思ったけど、普通に  未 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-04T18:10:36.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm">
-    <title>[時事] [奥能登] 2024-01-04 こういう風に砂浜に重機を持ち上げられるのか。ホバーボートか。普通に大型の重機は難しいよね。  ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/jD/jDNRFadjPJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-04T12:48:59.00Z</dc:date>
   </item>
 </rdf:RDF>

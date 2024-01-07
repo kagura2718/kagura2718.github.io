@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-07T02:50:54.74Z</dc:date>
+    <dc:date>2024-01-07T03:51:21.04Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#oeJBFf1fIK"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#p7qwFpJPX9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#J2EiYEBkdA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#BZKQfE4T-P"/>
@@ -27,25 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#5XdXAnKAlV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#GukhGuwGdn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#u81fH8cxNK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#kpOUR0ZcxM"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl">
+      <title>[生活] [金沢] [モンハンNow] 2024-01-06 町歩き中は防御重視スタイルで素材を集めることにいたしましょう。マルチプレイのときだけ火力重視 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-07T03:51:21.04Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#oeJBFf1fIK">
+      <title>[Ingress] [奥能登] 2024-01-07 地震の前からだけども、ジョルダン、完全に活動が失くなってるな。ここ数週間 AP は動いていな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/07#oeJBFf1fIK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Ingress,奥能登,Ingress,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-07T03:51:21.04Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_">
       <title>[Web] [地理] 2024-01-06 間地峠(まじだわ)か。鳥取にあるらしい。  ほほう。漢字が「訛って」峠になった、と。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/06#p2c9y1Pze_</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,地理,Web,地理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-06T18:29:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl">
-      <title>[生活] [金沢] [モンハンNow] 2024-01-06 町歩き中は防御重視スタイルで素材を集めることにいたしましょう。マルチプレイのときだけ火力重視 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/06#WYrSpjejIl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-07T01:46:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/07#p7qwFpJPX9">
       <title>[時事] 2024-01-07 頻りに未曾有を「みぞうう」って発音してるから、俺が勘違いしてたのかと思ったけど、普通に  未 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-04T18:10:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/04#kpOUR0ZcxM">
-      <title>[時事] [奥能登] 2024-01-04 こういう風に砂浜に重機を持ち上げられるのか。ホバーボートか。普通に大型の重機は難しいよね。  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/04#kpOUR0ZcxM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-04T12:48:59.00Z</dc:date>
     </item>
   </rdf:RDF>
