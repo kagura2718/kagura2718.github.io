@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-11T03:05:00.68Z</dc:date>
+    <dc:date>2024-01-11T04:06:58.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VT/VT8li1hV12.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cx/cxez8mGiA4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1z/1zLc_Bbgu2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uG/uGcB3D305N.htm"/>
@@ -26,7 +27,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yO/yO4Y5rBeDL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nc/ncnbnPn8FM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wp/Wph8I69-ft.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y9/Y93o2g892i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm"/>
       </rdf:Seq>
     </items>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-11T03:05:00.68Z</dc:date>
+    <dc:date>2024-01-11T04:06:58.93Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm">
+    <title>[生活] [奥能登] [モンハンNow] 2024-01-11 モンハンNow 昼ぐらいの時間は 1 時間置きに湧き直してたのがなくなったね。あれはイベント ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,奥能登,モンハンNow,生活,奥能登,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-11T04:06:58.93Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cx/cxez8mGiA4.htm">
     <title>[奥能登] 2024-01-09 昨晩のニュースでは珠洲市長が取材を受けてたけど、受け答えがまったくもって要領を得ない。これは ...</title>
@@ -174,14 +182,6 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-08T00:28:31.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Y9/Y93o2g892i.htm">
-    <title>[モンハンNow] 2024-01-06 黒ディアぼちぼち狩れるようになってきた。長距離だと二回足跳ねてから突進、近距離だと一回って違 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Y9/Y93o2g892i.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-06T21:33:40.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8c/8cTO_4PnMQ.htm">
     <title>[生活] [金沢] [モンハンNow] 2024-01-06 町歩き中は防御重視スタイルで素材を集めることにいたしましょう。マルチプレイのときだけ火力重視 ...</title>
