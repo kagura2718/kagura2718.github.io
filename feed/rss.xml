@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-12T01:32:03.00Z</dc:date>
+    <dc:date>2024-01-12T10:21:07.67Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#3f184nDTL4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#oXnu8NWkHo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#DiZGri4PF3"/>
@@ -25,13 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#urtNUl2dI6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#pwTBg1Vwnk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#5778IpkkkA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#NzV_1zideU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#Awrcea_UgK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#za88ickPwn"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1">
+      <title>[時事] [宝達山域] [宝達志水町] 2024-01-12 所司原は寸断してるようにしか見えないんだけど、脇道から抜けられるから OK なのかな？ 🤔  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,宝達山域,宝達志水町,時事,宝達山域,宝達志水町]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T10:21:07.67Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW">
+      <title>[Web] [奥能登] 2024-01-12 地面が持ち上げられた分、津波の高さが低く見積もられた… 妙に低い津波の設定だなーと思ったら、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T06:04:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q">
+      <title>[アニメ] [薬屋のひとりごと] 2024-01-11 2nd シーズンのショットを追加。前作よりもコミカル調になったかな。  むー     色使い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T05:22:53.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq">
       <title>[奥能登] [NHK] 2024-01-11 震災直後なのに申し訳ないが、珠洲の小学校の校長さん、 「誇りに思う！」って気持ち悪かったな。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq</link>
       <description>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,かほく,生活,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-08T16:52:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#NzV_1zideU">
-      <title>[ポケモンgo] 2024-01-08 本日の最大強化 (PL50)  こいつがノーマル氷を覚えてたら最強アタッカーに踊り出るのに…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/08#NzV_1zideU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-08T20:27:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#Awrcea_UgK">
-      <title>[モンハンNow] 2024-01-08 やっとの強化。70 ほど up したから ⭐ 7 のリオレウス、リオレイアあたりは討伐できる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/08#Awrcea_UgK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-08T19:32:08.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#za88ickPwn">
-      <title>[モンハンNow] 2024-01-09 ⭐ 6 黒ディアも初討伐 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/09#za88ickPwn</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-08T18:42:21.00Z</dc:date>
     </item>
   </rdf:RDF>
