@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-12T10:21:07.67Z</dc:date>
+    <dc:date>2024-01-12T12:46:39.73Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#lpzwR2SUE5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#urtNUl2dI6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#pwTBg1Vwnk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#5778IpkkkA"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,宝達山域,宝達志水町,時事,宝達山域,宝達志水町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-12T10:21:07.67Z</dc:date>
+      <dc:date>2024-01-12T12:46:39.73Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ">
+      <title>[食事] [料理] 2024-01-12 あんかけチャーハンはうめぇ (百回目 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T12:46:39.73Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW">
       <title>[Web] [奥能登] 2024-01-12 地面が持ち上げられた分、津波の高さが低く見積もられた… 妙に低い津波の設定だなーと思ったら、 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-08T21:48:03.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/08#5778IpkkkA">
-      <title>[生活] [かほく] 2024-01-08 イオンかほくは見てる限りは、思ったよりダメージがない。ここ元は田んぼだったはずだからかなり陥 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/08#5778IpkkkA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,かほく,生活,かほく]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-08T16:52:29.00Z</dc:date>
     </item>
   </rdf:RDF>
