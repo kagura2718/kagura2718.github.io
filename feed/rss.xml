@@ -4,15 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-12T14:55:18.96Z</dc:date>
+    <dc:date>2024-01-13T02:49:37.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#zzrDh5_I0C"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/13#x9ed_I8P60"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#zzrDh5_I0C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#fxv4XGRiAq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#3f184nDTL4"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#4xF1trwPiy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/10#tS5a9lzzzD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#LTFOhr6oNj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#lpzwR2SUE5"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4">
+      <title>[奥能登] [東北] 2024-01-12 思い出して 3.11 で海保の船が大津波を乗り越えるときの映像を見ていた。これも寒気がしちゃ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,東北,奥能登,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T16:21:20.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1">
       <title>[時事] [宝達山域] [宝達志水町] 2024-01-12 所司原は寸断してるようにしか見えないんだけど、脇道から抜けられるから OK なのかな？ 🤔  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#oo-W6UrIz1</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,宝達山域,宝達志水町,時事,宝達山域,宝達志水町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-12T14:55:18.96Z</dc:date>
+      <dc:date>2024-01-12T23:25:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW">
+      <title>[Web] [奥能登] 2024-01-12 海岸の地面が持ち上げられた分、津波の高さが実際よりも低く認識されたということか… 妙に低い津 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-12T10:52:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#-kNnPSVfGZ">
       <title>[食事] [料理] 2024-01-12 あんかけチャーハンはうめぇ (百回目 </title>
@@ -45,15 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-12T14:55:18.96Z</dc:date>
+      <dc:date>2024-01-12T18:11:12.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4">
-      <title>[奥能登] [東北] 2024-01-12 思い出して 3.11 で海保の船が大津波を乗り越えるときの映像を見ていた。これも寒気がしちゃ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#tUwlmMHqi4</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/13#x9ed_I8P60">
+      <title>[奥能登] 2024-01-13 大沢集落はあそこか。あの風景、印象的だったな。 輪島の完全孤立集落「情報ないんです」　徒歩で ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/13#x9ed_I8P60</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,東北,奥能登,東北]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-12T14:55:18.96Z</dc:date>
+      <dc:date>2024-01-12T17:01:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#zzrDh5_I0C">
       <title>[Web] 2024-01-12 ひょー 😯 </title>
@@ -62,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-12T11:46:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW">
-      <title>[Web] [奥能登] 2024-01-12 地面が持ち上げられた分、津波の高さが低く見積もられた… 妙に低い津波の設定だなーと思ったら、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/12#KbJpTg-OpW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-12T06:04:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/11#jYbFTBzn1Q">
       <title>[アニメ] [薬屋のひとりごと] 2024-01-11 2nd シーズンのショットを追加。前作よりもコミカル調になったかな。  むー     色使い ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-09T22:26:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/09#lpzwR2SUE5">
-      <title>[Web] [時事] 2024-01-09 田中真紀子さん　“仏壇に線香をあげた後にガラスが割れる音が…”　角栄元首相の旧邸　“目白御殿 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/09#lpzwR2SUE5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-09T20:48:03.00Z</dc:date>
     </item>
   </rdf:RDF>
