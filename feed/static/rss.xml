@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-14T21:37:42.00Z</dc:date>
+    <dc:date>2024-01-15T02:23:34.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8t/8tJk4TCzzc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A7/A7ebPbB5mH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uQ/uQvMqsKHT1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Po/PoUNDiesfb.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dh/dh552rgHMP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OB/OBWrXjARda.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VT/VT8li1hV12.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8t/8tJk4TCzzc.htm">
+    <title>[ポケモンgo] 2024-01-15 先週は 77km </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/8t/8tJk4TCzzc.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-15T02:23:34.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/A7/A7ebPbB5mH.htm">
     <title>[生活] [食事] [金沢] [モンハンNow] 2024-01-14 こんなとこ、もうスマホしながら歩けんな。   ほんとに人がいねぇ  片町の片隅にある店、思っ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/A7/A7ebPbB5mH.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,食事,金沢,モンハンNow,生活,食事,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-14T21:37:42.00Z</dc:date>
+    <dc:date>2024-01-15T00:04:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uQ/uQvMqsKHT1.htm">
     <title>[生活] [北陸] 2024-01-15 昨日の好天から一転してのこの天気。昨日の好天、天候の穏かな太平洋側から救援にきてる部隊にはど ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-11T06:56:35.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm">
-    <title>[生活] [奥能登] [モンハンNow] 2024-01-11 モンハンNow 昼ぐらいの時間は 1 時間置きに湧き直してたのがなくなったね。あれはイベント ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/-7/-79eUqgZCn.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,奥能登,モンハンNow,生活,奥能登,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-11T06:53:39.00Z</dc:date>
   </item>
 </rdf:RDF>
