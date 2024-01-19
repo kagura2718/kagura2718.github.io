@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-18T10:00:51.91Z</dc:date>
+    <dc:date>2024-01-19T03:09:12.34Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#vzuPPJceKl"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#vzuPPJceKl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#I3fJa421r1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#jWlenOJA_k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#j6SpEKWInt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#Aw9ihNQ4e9"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/16#oIhMkQqU78"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/15#WLRhjvOv2u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/15#pZ3Ypm06rS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/16#m_MQyyGqFt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/15#mbRFkUxalR"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5">
-      <title>[モンハンNow] 2024-01-18 どうやらほんとにほとんどいないらしい。そういえば、昨日も金沢でも一度も見かけてないはず。   ...</title>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX">
+      <title>[Web] [奥能登] 2024-01-18 おおおおお！！  これ  だけど 関の花あたりは事前情報通りかなりの崩壊。義経の船隠しあたり ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-19T03:09:12.34Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5">
+      <title>[モンハンNow] 2024-01-18 レウス亜種はどうやらほんとにほとんどいないらしい。そういえば、昨日も金沢でも一度も見かけてな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-18T10:00:51.91Z</dc:date>
+      <dc:date>2024-01-19T03:02:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E">
+      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-01-17 唐突にまったく勝てなくなった… うーん… 何が違うのか。炎装備の火力も一時的に上げたんだけど ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-18T23:04:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#vzuPPJceKl">
       <title>[Web] [奥能登] 2024-01-18 この神社はあれだなーというのがだいたい分かる。  さすがに一瞬で具体的にどの場所か？までは分 ...</title>
@@ -45,15 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-18T10:00:51.91Z</dc:date>
+      <dc:date>2024-01-18T19:06:39.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E">
-      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-01-17 唐突にまったく勝てなくなった… うーん… 何が違うのか。炎装備の火力も一時的に上げたんだけど ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#I3fJa421r1">
+      <title>[生活] [時事] 2024-01-19 長寿社会、高齢者活躍なコンテキストで出てくる高齢者って、若い頃のパフォーマンスが低すぎて、集 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/19#I3fJa421r1</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,時事,生活,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-18T10:00:51.91Z</dc:date>
+      <dc:date>2024-01-18T17:32:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#jWlenOJA_k">
       <title>[時事] [奥能登] [国際] 2024-01-18 ゼレンスキーは一気に老け込んできた感がある。戦時下の大統領は一気に心身が消耗するわな。そして ...</title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,国際,時事,奥能登,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-18T10:00:51.91Z</dc:date>
+      <dc:date>2024-01-18T12:44:14.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#j6SpEKWInt">
       <title>[Ingress] [志賀町] [能登] 2024-01-18 ジョルダン生きてるな。志賀町でログが出た。 志賀町の体育館辺りだから避難中かな。いや、原発の ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-15T12:56:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/16#m_MQyyGqFt">
-      <title>[生活] [モンハンNow] 2024-01-16 また変な時間に目が醒める… 風がやかましいからだな。では装備の変更をいたしましょう。ロックオ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/16#m_MQyyGqFt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-15T10:10:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/15#mbRFkUxalR">
-      <title>[ポケモンgo] 2024-01-15 先週は 77km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/15#mbRFkUxalR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-15T02:23:34.00Z</dc:date>
     </item>
   </rdf:RDF>
