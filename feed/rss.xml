@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-21T03:39:20.00Z</dc:date>
+    <dc:date>2024-01-21T03:42:14.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#dheis62HoE"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#dheis62HoE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-01-20.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/21#izhTGQDuKO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -16,7 +17,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/20#K-ea8Xoqeh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#fXwPxKbaW6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#j6SpEKWInt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#XdbCj-xTR2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/17#Cx7hIqd86E"/>
@@ -31,7 +31,15 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#dheis62HoE">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX">
+      <title>[Web] [奥能登] 2024-01-18 おおおおお！！  これ  だけど 関野鼻あたりは事前情報通りかなりの崩壊。義経の船隠しあたり ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-20T07:14:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/19#dheis62HoE">
       <title>[モンハンNow] 2024-01-19 なんとか一戦。たしかに飛びまわるので近接武器で地面から振り回しててもなかなか厳しい。狩ってる ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/19#dheis62HoE</link>
       <description>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,奥能登,志賀町,富来,登山,奥能登,志賀町,富来]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-21T03:39:20.00Z</dc:date>
+      <dc:date>2024-01-21T03:42:14.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/21#izhTGQDuKO">
       <title>[奥能登] [地理] 2024-01-21 今の能登の地震、1000 年か 2000 年おきか。それでも雑に検索して出てきた↓この記事に ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,地理,奥能登,地理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-21T03:39:20.00Z</dc:date>
+      <dc:date>2024-01-21T03:42:14.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -94,14 +102,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,志賀町,能登,Ingress,志賀町,能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-18T12:57:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX">
-      <title>[Web] [奥能登] 2024-01-18 おおおおお！！  これ  だけど 関の花あたりは事前情報通りかなりの崩壊。義経の船隠しあたり ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/18#omx7p5j4UX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-19T07:28:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/18#2Xa98SoEv5">
       <title>[モンハンNow] 2024-01-18 レウス亜種はどうやらほんとにほとんどいないらしい。そういえば、昨日も金沢でも一度も見かけてな ...</title>
