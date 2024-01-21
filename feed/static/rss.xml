@@ -4,14 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-21T00:38:45.37Z</dc:date>
+    <dc:date>2024-01-21T02:51:18.76Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UJ/UJJL4XWxh0.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ce/ceMoHXjcO9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1p/1pB9BI_QGZ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6k/6ksxkMyjG5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gg/ggKeQoM9Y_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bQ/bQpTVpqm7a.htm"/>
@@ -27,17 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/36/36JaB5gyLm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_0/_0RufnzsJ-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xS/xSMU6WYeJy.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dY/dYJVweuc7I.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm">
+    <title>[モンハンNow] 2024-01-19 なんとか一戦。たしかに飛びまわるので近接武器で地面から振り回しててもなかなか厳しい。狩ってる ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-20T04:17:14.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/UJ/UJJL4XWxh0.htm">
     <title>[登山] [奥能登] [志賀町] [富来] 2024-01-20 富来 - 高爪山 - 海岸線</title>
     <link>https://kagura2718.github.io/Gitwee/jump/UJ/UJJL4XWxh0.htm</link>
     <description>
         日記,随筆,簡約版,登山,奥能登,志賀町,富来,登山,奥能登,志賀町,富来</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-21T00:38:45.37Z</dc:date>
+    <dc:date>2024-01-21T02:51:18.76Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ce/ceMoHXjcO9.htm">
+    <title>[奥能登] [地理] 2024-01-21 今の能登の地震、1000 年か 2000 年おきか。それでも雑に検索して出てきた↓この記事に ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ce/ceMoHXjcO9.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,奥能登,地理,奥能登,地理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-21T02:51:18.76Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -54,14 +70,6 @@
         日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-20T09:54:41.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm">
-    <title>[モンハンNow] 2024-01-19 なんとか一戦。たしかに飛びまわるので近接武器で地面から振り回しててもなかなか厳しい。狩ってる ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-20T03:02:21.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6k/6ksxkMyjG5.htm">
     <title>[モンハンNow] 2024-01-19 レウスの 7 もボチボチいける。寒空の中、獲りに行って、開始直後の一噛みで即死というパターン ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-17T03:24:39.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dY/dYJVweuc7I.htm">
-    <title>[モンハンNow] 2024-01-16 あー、分かった。雷属性弱点だと思い込んでたけど、氷弱点だ 😂  ようやく  レイア亜種  レ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/dY/dYJVweuc7I.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-16T22:54:12.00Z</dc:date>
   </item>
 </rdf:RDF>
