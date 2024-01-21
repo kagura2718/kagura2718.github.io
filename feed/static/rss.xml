@@ -4,16 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-21T08:18:39.23Z</dc:date>
+    <dc:date>2024-01-21T13:23:03.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bQ/bQpTVpqm7a.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d4/d4TGL5mfTp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UJ/UJJL4XWxh0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ce/ceMoHXjcO9.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/j7/j73MLbbqgF.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1p/1pB9BI_QGZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6k/6ksxkMyjG5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gg/ggKeQoM9Y_.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7N/7N4uk7y_2h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hO/hOOaFXgHJD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/36/36JaB5gyLm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_0/_0RufnzsJ-.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-20T07:14:04.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/d4/d4TGL5mfTp.htm">
+    <title>[NHK] 2024-01-21 NHK のアナウンサーて咳払いをしてはいけないのだね。ときどきちょっと怪しい声になってても意 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/d4/d4TGL5mfTp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,NHK,NHK</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-21T13:23:03.23Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yl/YlAhNgkO02.htm">
     <title>[モンハンNow] 2024-01-19 なんとか一戦。たしかに飛びまわるので近接武器で地面から振り回しててもなかなか厳しい。狩ってる ...</title>
@@ -63,14 +71,6 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-21T06:11:39.00Z</dc:date>
   </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/j7/j73MLbbqgF.htm">
     <title>[Web] [炎上] [奥能登] [文化] [地方] 2024-01-21 今回の震災、こういう記事などなどで地元の有力紙である北國新聞の胡散臭さは全国区になるという確 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/j7/j73MLbbqgF.htm</link>
@@ -78,6 +78,14 @@
         日記,つぶやき,雑記帳,Web,炎上,奥能登,文化,地方,Web,炎上,奥能登,文化,地方</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-20T19:58:20.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1p/1pB9BI_QGZ.htm">
     <title>[ポケモンgo] [モンハンNow] 2024-01-20 ギリでとれました。  103 になりました。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-17T16:22:35.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_0/_0RufnzsJ-.htm">
-    <title>[モンハンNow] 2024-01-17 ジンオウガ ⭐ 6 はまったく歯が立たぬ。  HR 100 は到達した。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_0/_0RufnzsJ-.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-17T08:14:20.00Z</dc:date>
   </item>
 </rdf:RDF>
