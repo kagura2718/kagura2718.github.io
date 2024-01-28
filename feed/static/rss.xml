@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-28T03:37:51.81Z</dc:date>
+    <dc:date>2024-01-28T10:10:19.19Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i6/i6PMvRsTE6.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/km/kmAsoH4an0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4p/4pIobUs2da.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6S/6Sh2hTo3m4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4H/4HpRGSzsDQ.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OQ/OQdMMtvTJm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gi/giZ_T0P8D3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MP/MPwJhnqtLc.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q7/Q7B5SSE1DK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-28T03:37:51.81Z</dc:date>
+    <dc:date>2024-01-28T10:10:19.19Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/km/kmAsoH4an0.htm">
+    <title>[モンハンNow] 2024-01-28 おーし ジンオウガ ⭐ 6 初勝利 ✌️ 何回か負けた後だけど、勝利のときは割と余裕があった ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/km/kmAsoH4an0.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-28T05:18:56.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4p/4pIobUs2da.htm">
     <title>[モンハンNow] 2024-01-28 レイギエナがほんとに少ない。ストーリーを進めても ⭐ 5 の姿はちらほら見えるけど それより ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,食事,金沢,食事,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-23T01:43:29.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Q7/Q7B5SSE1DK.htm">
-    <title>[奥能登] [志賀町] 2024-01-22 先日、志賀町を歩いてみて、半島北岸よりも大きい震度 7 というのは眉唾なんだよな。機器が故障 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Q7/Q7B5SSE1DK.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,奥能登,志賀町,奥能登,志賀町</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-23T00:55:11.00Z</dc:date>
   </item>
 </rdf:RDF>
