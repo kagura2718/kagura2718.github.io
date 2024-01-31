@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-31T14:54:01.92Z</dc:date>
+    <dc:date>2024-01-31T15:20:16.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#kHiaJpj1VG"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/01#kijO3KX2-s"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#kHiaJpj1VG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/01#QgBkeGaCVz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#BuvORvuHhc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/30#oMujyaaz2D"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#rqpVoqK1RW"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/29#KWUttAjldC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/29#pHct4QExk3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/29#Vpr_Mj8qEX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/28#gpCqWGtdEz"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/27#i5bnAwS0i4"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#kHiaJpj1VG">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/01#kijO3KX2-s">
+      <title>[モンハンNow] 2024-02-01 ⭐ 6  でいきなり二つ出る。 クリアタイムも早いわけではなく C ランク。うーん 🤔 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/01#kijO3KX2-s</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-31T15:20:16.85Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#kHiaJpj1VG">
       <title>[モンハンNow] 2024-01-31 ぽんぽんと二つ rare5 が出るのはなんだろうね。今頃気付いたんだけど、もしかしてクリアタ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/31#kHiaJpj1VG</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-31T14:54:01.92Z</dc:date>
+      <dc:date>2024-01-31T15:20:16.85Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/01#QgBkeGaCVz">
+      <title>[ポケモンgo] 2024-02-01 先日の 💯   最近、モンハンに忙しくて強化してない。 350 万砂を越えてきた。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/01#QgBkeGaCVz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-01-31T15:20:16.85Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#BuvORvuHhc">
       <title>[料理] 2024-01-31 こういう感じかねぇ？ 🤔 たしか甘味があってなおかつバターも使っていた記憶。 付け合わせ・お ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-28T17:51:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/28#gpCqWGtdEz">
-      <title>[アニメ] [女性] [薬屋のひとりごと] 2024-01-28 この職人の人物描写も、キャラの描き方が女の妄想が全開だな。観てると浅はかでなんとも辛い。こう ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/28#gpCqWGtdEz</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-28T13:44:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/27#i5bnAwS0i4">
-      <title>[生活] [食事] [金沢] 2024-01-27 早めに上がるつもりがついつい仕事が長引いて遅くなってしまった。 久々のせせらぎの豚蔵。片町は ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/27#i5bnAwS0i4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-28T12:59:03.00Z</dc:date>
     </item>
   </rdf:RDF>
