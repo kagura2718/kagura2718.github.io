@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-01-31T23:42:56.41Z</dc:date>
+    <dc:date>2024-02-01T02:48:47.58Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/m5/m5zESns8RI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hG/hGffc1lmVt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6n/6nY6BDQKl9.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3Q/3QTbIDh-bZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fa/famwBcqSXs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/F8/F8nEcvxeWK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0t/0t17ZzL_vb.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/km/kmAsoH4an0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/H-/H-8vwaoyMk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z0/z0EkIf0LpH.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iH/iHRP-vfDIH.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-31T04:18:31.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3Q/3QTbIDh-bZ.htm">
+    <title>[奥能登] [富来] 2024-02-01 富来エリアにある藤懸神社の鳥居。  アップにしてみる。昭和62年 (1987 年) という年 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/3Q/3QTbIDh-bZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,奥能登,富来,奥能登,富来</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-01-31T08:55:50.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fa/famwBcqSXs.htm">
     <title>[ポケモンgo] [生活] [食事] [奥能登] [金沢] [モンハンNow] 2024-01-31 駅前の麺屋大河、いつも行列だから震災後の閑散期に入ろうと思ったら、もう復活して大行列してるの ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-01-28T18:10:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iH/iHRP-vfDIH.htm">
-    <title>[ポケモンgo] 2024-01-29 珠洲に行ってる人いるんだよなぁ。仕事か、ボランティアか？あるいは実家があるのか…  先週は  ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/iH/iHRP-vfDIH.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-01-28T17:51:48.00Z</dc:date>
   </item>
 </rdf:RDF>
