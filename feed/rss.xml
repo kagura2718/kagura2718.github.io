@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-02T14:10:28.31Z</dc:date>
+    <dc:date>2024-02-02T14:10:57.44Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#m1LhDGd86y"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#m1LhDGd86y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#82Pes36a2n"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#LWRzNzGtdw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#NGkDwZ-eQg"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/30#kjfQonZpwd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#_5yDN5m5EK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/31#7aeQFNoa0i"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/01/29#ScpvFovuvJ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#m1LhDGd86y">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr">
+      <title>[Web] [奥能登] 2024-02-02 奥能登の飼い猫とか飼い犬が路頭に迷うとか言って心配してる人達を観測してるんだけど、人も死んで ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-02T14:10:57.44Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#m1LhDGd86y">
       <title>[Web] 2024-02-02 こういう他人の運転を晒す動画、あんまり観ないようにしてるのだけど、京都か東京か？人のいる住宅 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/02#m1LhDGd86y</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-02T14:10:28.31Z</dc:date>
+      <dc:date>2024-02-02T14:10:57.44Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#82Pes36a2n">
       <title>[食事] [奥能登] [飛騨] [料理] 2024-02-02 飛騨の名物だという鶏ちゃんのソースが余ってるのに気付いたので、炒飯の味つけに使ってみる。   ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-01-30T12:53:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/01/29#ScpvFovuvJ">
-      <title>[モンハンNow] 2024-01-29 出ねぇな…   いらねぇのは出るんだなこれが。  rare 5 素材も徐々に捨てることになる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/01/29#ScpvFovuvJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-01-30T01:21:16.00Z</dc:date>
     </item>
   </rdf:RDF>
