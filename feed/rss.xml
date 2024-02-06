@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-06T08:08:16.41Z</dc:date>
+    <dc:date>2024-02-06T12:26:57.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#6-KgKP3Jwo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#1cHYiV5y7s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#1cHYiV5y7s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#KaaSjeOohZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#dbLdex3B1r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#MxuCFMnSZm"/>
@@ -32,12 +32,20 @@
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#6-KgKP3Jwo">
-      <title>[モンハンNow] 2024-02-06 定期的な装備の確認。 防御重視のデフォルト (A:871 D:610)  氷 (A:433+ ...</title>
+      <title>[モンハンNow] 2024-02-06 夜になって本日の武器強化 G7-3  やっと出たーー 😭  ギエナの氷大刀は G6-3    ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/06#6-KgKP3Jwo</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-06T08:08:16.41Z</dc:date>
+      <dc:date>2024-02-06T12:26:57.37Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF">
+      <title>[Web] [奥能登] 2024-02-06 この視覚化もなかなかキツい。12/15 ぐらいの半ばから延々と小さめの地震は続いてたわけだな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-05T22:42:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#1cHYiV5y7s">
       <title>[NHK] 2024-02-06 桑子アナ、前にテレビで見かけたときは芸人みたいな顔になってたけど、今みるとまたほっそりしてい ...</title>
@@ -46,14 +54,6 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-06T01:26:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF">
-      <title>[Web] [奥能登] 2024-02-06 この視覚化もなかなかキツい。12/15 ぐらいの半ばから延々と小さめの地震は続いてたわけだな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-05T21:53:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#KaaSjeOohZ">
       <title>[Web] [奥能登] 2024-02-05 能登半島地震 石川 珠洲市と中能登町 きょうからボランティア派遣 10日からは輪島市も受け入 ...</title>
