@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/h8/h8J0iHIB_v.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Vr/VrvkeuUosK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Lh/LhqyVJdzBW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hb/HbkeCTcVbd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WO/WOhZ5ZMf_l.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aW/aWePT70ILG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zt/zt8YvmTMbX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yd/YdiOmWO1ES.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JO/JON2QRlKJ3.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-07T03:28:20.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Vr/VrvkeuUosK.htm">
+    <title>[ポケモンgo] [金沢] 2024-02-07 予報より土砂ぶってた。それでも 20km walk した。 駅前レイドアワーはメガラティオス ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Vr/VrvkeuUosK.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,金沢,ポケモンgo,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-02-07T00:15:47.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Lh/LhqyVJdzBW.htm">
     <title>[モンハンNow] 2024-02-06 夜になって本日の武器強化 G7-3  やっと出たーー 😭  ギエナの氷大刀は G6-3    ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-02T23:06:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/JO/JON2QRlKJ3.htm">
-    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-02-02 今日は所用のため昼から半休ってことで金沢で walking + running を楽しんでき ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/JO/JON2QRlKJ3.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-02T22:38:06.00Z</dc:date>
   </item>
 </rdf:RDF>
