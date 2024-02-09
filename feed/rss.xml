@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-08T10:45:50.67Z</dc:date>
+    <dc:date>2024-02-08T23:39:51.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#F5ZB0XFIwZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#Vrsge9Jas0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/04#ngtIblFi8g"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/07#0Z1-J_Y18u"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#q_VfFfFePI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/04#4CPu2pElAq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/03#-bn0prnfrP"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#F5ZB0XFIwZ">
+      <title>[モンハンNow] 2024-02-09 本日の武器強化   ライキリ G5-5 まで。  雷武器はトビカガチメインになるかね。ジンオ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#F5ZB0XFIwZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-08T23:39:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI">
       <title>[Web] 2024-02-08 確実に腰を痛める姿勢だからやり慣れてない作業であることがすぐに分かる。鎌は使い慣れてるみたい ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-08T10:45:50.67Z</dc:date>
+      <dc:date>2024-02-08T18:37:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#Vrsge9Jas0">
       <title>[モンハンNow] 2024-02-08 HR117 になりました。最近、さすがにやりすぎなので、少し抑え目にならないといけませぬ。  ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,奥能登,ポケモンgo,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-04T14:02:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/03#-bn0prnfrP">
-      <title>[生活] [モンハンNow] 2024-02-03 これ、待つ意味ある？ 5 秒しかないのに誰かがくる可能性は低いと思うんだが。  もはや ⭐  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/03#-bn0prnfrP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-04T07:21:44.00Z</dc:date>
     </item>
   </rdf:RDF>
