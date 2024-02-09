@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-09T08:22:41.36Z</dc:date>
+    <dc:date>2024-02-09T14:30:32.46Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#I8qjC2GHNK"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#F5ZB0XFIwZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#QBjmfuCc6b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#Vrsge9Jas0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/04#ngtIblFi8g"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#MxuCFMnSZm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/04#tTh1-yMt7b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#AIVR5uVQcy"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#q_VfFfFePI"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#I8qjC2GHNK">
+      <title>[時事] [国際] 2024-02-09 アメリカ大統領選もひどい結果 (=トランプ) が徐々に見えてきたし、ウクライナの敗戦と属国化 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#I8qjC2GHNK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-09T14:30:32.46Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T">
       <title>[モンハンNow] 2024-02-09 出た 😁  本日の防具強化  これで氷属性は LV5 で最大。 だが ⭐ 7 HP2 倍ジン ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-09T08:22:41.36Z</dc:date>
+      <dc:date>2024-02-09T14:30:32.46Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#F5ZB0XFIwZ">
       <title>[モンハンNow] 2024-02-09 本日の武器強化   ライキリ G5-5 まで。  雷武器はトビカガチメインになるかね。ジンオ ...</title>
@@ -46,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-08T23:39:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#QBjmfuCc6b">
+      <title>[漫画] [アニメ] [女性] [薬屋のひとりごと] 2024-02-09 そしてロウラン妃の正体ってのが… ふーん。 化粧で恐ろしいほど変わる女というの、自分では見た ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#QBjmfuCc6b</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,女性,薬屋のひとりごと,漫画,アニメ,女性,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-08T20:56:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/08#L6fwvGaDbI">
       <title>[Web] 2024-02-08 確実に腰を痛める姿勢だからやり慣れてない作業であることがすぐに分かる。鎌は使い慣れてるみたい ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-04T20:20:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr">
-      <title>[Web] [奥能登] 2024-02-02 奥能登の飼い猫とか飼い犬が路頭に迷うとか言って心配してる人達を観測してるんだけど、人も死んで ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/02#VJp0PCCcKr</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-04T18:05:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#q_VfFfFePI">
-      <title>[食事] [料理] 2024-02-05 昨晩はアサリが投げ売りされてたのでボンゴレパスタにして、体内はワインでアルコール消毒した。大 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/05#q_VfFfFePI</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-04T17:41:14.00Z</dc:date>
     </item>
   </rdf:RDF>
