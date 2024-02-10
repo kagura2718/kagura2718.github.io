@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-10T04:00:19.80Z</dc:date>
+    <dc:date>2024-02-10T07:13:41.76Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#yDrCUC_2rR"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#czGV_LDRP8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#oVZhsJVm7D"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#yDrCUC_2rR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#ZAchg_7SjL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#I8qjC2GHNK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#ifoki3525T"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#08XkCyh7YF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#1cHYiV5y7s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/06#xcqf2RXuHB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#KaaSjeOohZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#dbLdex3B1r"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#yDrCUC_2rR">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#czGV_LDRP8">
+      <title>[食事] [料理] 2024-02-09 本日のあんかけ炒飯 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#czGV_LDRP8</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-10T07:13:41.76Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/09#oVZhsJVm7D">
+      <title>[生活] [羽咋] 2024-02-09 自転車道は地面のひびわれとかあちこちにある。  自転車道に置いてある土砂はなんじゃろね？   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/09#oVZhsJVm7D</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-10T07:13:41.76Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#yDrCUC_2rR">
       <title>[ポケモンgo] 2024-02-10 ジャラコをようやく進化。   なんだこれ、あんまり強くないね。がっかりしたw </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/10#yDrCUC_2rR</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-10T04:00:19.80Z</dc:date>
+      <dc:date>2024-02-10T04:10:01.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/10#ZAchg_7SjL">
       <title>[モンハンNow] 2024-02-10 リオレウスは割と余裕がある  四周目に入る   </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-05T19:57:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#KaaSjeOohZ">
-      <title>[Web] [奥能登] 2024-02-05 能登半島地震 石川 珠洲市と中能登町 きょうからボランティア派遣 10日からは輪島市も受け入 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/05#KaaSjeOohZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-05T18:28:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/05#dbLdex3B1r">
-      <title>[ポケモンgo] [生活] 2024-02-05 先週は 138km  先週は全体的に天気が好かったからだな。一回半休があったのも大きい。今は ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/05#dbLdex3B1r</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,ポケモンgo,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-05T11:01:52.00Z</dc:date>
     </item>
   </rdf:RDF>
