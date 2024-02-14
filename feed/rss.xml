@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-14T00:05:14.65Z</dc:date>
+    <dc:date>2024-02-14T03:12:35.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,9 +12,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/13#_1GIWaG4jm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/12#1Pan7jLAPZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/13#LG3W32pJrN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/13#1PGQUzFldQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/14#i3pUD7UOkF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/12#5HSbmZe1Wh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/11#PCkgSmjyE8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/12#WebfZ_w7Ey"/>
@@ -37,15 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-14T00:05:14.65Z</dc:date>
+      <dc:date>2024-02-14T03:12:35.85Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/13#_1GIWaG4jm">
-      <title>[生活] [金沢] [モンハンNow] 2024-02-13 買い物に駅前。天気がよくて気持ちいい。  ☺️  しかし、暖いかと思って薄着だったら、夕方は ...</title>
+      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-02-13 買い物に駅前。天気がよくて気持ちいい。  ☺️  しかし、暖いかと思って薄着だったら、夕方は ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/13#_1GIWaG4jm</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-13T18:22:22.00Z</dc:date>
+      <dc:date>2024-02-14T02:37:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/12#1Pan7jLAPZ">
       <title>[漫画] [アニメ] [薬屋のひとりごと] 2024-02-12 薬屋のひとりごとに出てくる薬、というよりは医療や化学、科学に関する知識は 粉塵爆発 色盲、色 ...</title>
@@ -63,6 +63,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-13T08:06:54.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF">
+      <title>[ポケモンgo] 2024-02-14 おおおww なんじゃこりゃ 😂   バレンタイン仕様か。思春期男子が無駄にそわそわムズムズす ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-13T07:02:45.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/13#1PGQUzFldQ">
       <title>[ポケモンgo] 2024-02-13 これ、なんとかならんかなぁ。隕石…  降ってこないかなぁ。隕石</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/13#1PGQUzFldQ</link>
@@ -78,14 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-13T01:03:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF">
-      <title>[ポケモンgo] 2024-02-14 おおおww なんじゃこりゃw   バレンタイン仕様か。思春期男子が無駄にそわそわムズムズする ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/14#GrYjeD-WlF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-12T23:35:41.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/12#5HSbmZe1Wh">
       <title>[食事] [料理] 2024-02-12 本日のあんかけ炒飯 </title>
