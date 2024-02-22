@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-22T03:27:23.38Z</dc:date>
+    <dc:date>2024-02-22T03:32:00.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uc/ucQRMpGqHq.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OP/OPpG43Ia5Y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dy/dyisLqsEM6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/N-/N-dixH-qxK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fA/fA0d7Xk_F9.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1d/1dbfNCkrnX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3w/3wKcBHC-uA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tJ/tJMvcRIh9C.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nc/Nc4wbAnxUU.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-22T03:27:23.38Z</dc:date>
+    <dc:date>2024-02-22T03:32:00.83Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OP/OPpG43Ia5Y.htm">
+    <title>[かほく] 2024-02-22 大崎の高台にある大きな施設は工場らしい。工場の他にカフェにショップエリア？？外からみて出入り ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/OP/OPpG43Ia5Y.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,かほく,かほく</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-02-22T03:32:00.83Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dy/dyisLqsEM6.htm">
     <title>[登山] [奥能登] 2024-02-18 輪島門前 -峨山</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-18T19:19:18.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nc/Nc4wbAnxUU.htm">
-    <title>[生活] [かほく] [モンハンNow] 2024-02-17 まさかこんなところに踏切があるとは… モンハンのモンスター追いかけてたら、通りかかったところ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Nc/Nc4wbAnxUU.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,かほく,モンハンNow,生活,かほく,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-17T01:50:29.00Z</dc:date>
   </item>
 </rdf:RDF>
