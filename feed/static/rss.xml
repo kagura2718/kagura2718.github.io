@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-23T03:08:44.12Z</dc:date>
+    <dc:date>2024-02-23T03:39:49.86Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uc/ucQRMpGqHq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5Y/5YYHibKF_j.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dL/dLG9VODX3f.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ur/urifi72ZUP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dI/dIIfrzdm1s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OP/OPpG43Ia5Y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mq/mq_h9-sRi1.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lE/lEPAfw-e8h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kd/KdbYpsBy7C.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QF/QFFgT6NxSA.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gr/graCUdH4mg.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,金沢,モンハンNow,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-22T23:56:51.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ur/urifi72ZUP.htm">
+    <title>[モンハンNow] 2024-02-23 連続狩猟 12:00 台の部、湧いてないね。何かあったかな。あるいはイベント開始と同時にリセ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ur/urifi72ZUP.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-02-22T11:45:03.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dI/dIIfrzdm1s.htm">
     <title>[ポケモンgo] [金沢] [モンハンNow] 2024-02-22 本日の 96%  駅前 walking してたら、どうやら今日は特別にヒードランのレイドアワ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-19T09:52:15.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gr/graCUdH4mg.htm">
-    <title>[モンハンNow] 2024-02-19 HR127 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/gr/graCUdH4mg.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-19T20:59:06.00Z</dc:date>
   </item>
 </rdf:RDF>
