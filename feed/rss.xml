@@ -4,14 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-27T03:51:48.76Z</dc:date>
+    <dc:date>2024-02-27T08:19:21.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XfqRJUnVDo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#NE_uck0Fxc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#g-AAtFm4DT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#7aSTEP0XqW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#VFgbI3YiJ4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XbemNLndY1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#jKHJOBd_yI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/25#wWkuHSRwiM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-02-24.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -24,10 +27,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/25#2fVXAyzvIR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/25#AtvgQE0nec"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#8MJd3mDENE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/21#Sb5jByVS_J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#3h1kJmk_Bg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#Vn51TYJxU5"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#7S7_fSxdXK"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-27T03:51:48.76Z</dc:date>
+      <dc:date>2024-02-27T08:19:21.23Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#NE_uck0Fxc">
+      <title>[モンハンNow] 2024-02-27 リオレウス ⭐ 8 はまだ勝てぬ。強化してる片手剣でも厳しそう。  ジンオウガ大刀でよほど立 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/27#NE_uck0Fxc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-27T08:00:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#g-AAtFm4DT">
       <title>[食事] [金沢] 2024-02-27 どこかは書かないでおくけど、店先、店内の汚い飲食店の新たなサンプルを得ることができた。Goo ...</title>
@@ -62,6 +70,22 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-26T18:30:12.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XbemNLndY1">
+      <title>[モンハンNow] 2024-02-27 rare5 ３つでたのは初めてみた。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XbemNLndY1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-26T14:12:12.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#jKHJOBd_yI">
+      <title>[モンハンNow] 2024-02-27 HR133  ジンオウガ大刀はそんなに強化されてないけど、割と余裕がある。さすがの大刀火力。   </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/27#jKHJOBd_yI</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-26T11:36:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/25#wWkuHSRwiM">
       <title>[漫画] [アニメ] [女性] [薬屋のひとりごと] 2024-02-25 羅漢が身請けするところも、猫猫との将棋勝負もいまいち意味が分かんないね。借りて読んでるから話 ...</title>
@@ -159,14 +183,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-24T08:22:37.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/21#Sb5jByVS_J">
-      <title>[モンハンNow] 2024-02-21 雷属性 lv5 で最大強化してる状態だと、まだほとんど強化してないライキリで ⭐ 8 は充分 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/21#Sb5jByVS_J</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-22T06:06:24.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#3h1kJmk_Bg">
       <title>[金沢] [モンハンNow] 2024-02-23 あーそうそう。手がかじかむ以外にも、後ろから声のでかい酔っ払いや何しゃべってるか分からない外 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/23#3h1kJmk_Bg</link>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,金沢,モンハンNow,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-22T23:56:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#Vn51TYJxU5">
-      <title>[漫画] [呪術廻戦] 2024-02-23 虎杖と乙骨の共闘って、昔のガンダムでいうカミーユとアムロの共闘なんだけど、ああいうので喜ぶフ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/23#Vn51TYJxU5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-22T08:54:13.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/23#7S7_fSxdXK">
-      <title>[モンハンNow] 2024-02-23 本日の武器強化 水大刀 G7-5  こうしてみてると、性能的にはそれほど味の違いがないんだよ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/23#7S7_fSxdXK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-22T17:15:59.00Z</dc:date>
     </item>
   </rdf:RDF>
