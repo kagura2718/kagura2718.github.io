@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-27T23:02:21.16Z</dc:date>
+    <dc:date>2024-02-28T03:15:27.54Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#KcKq1y8lNc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#A3rSFzvlJT"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#M71-Dxjd_T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XfqRJUnVDo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#NE_uck0Fxc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#78vXMjVhWD"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#E8qxN3_Qki"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#TDdf_k1iM_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#02na3IccLC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#BeTMa4L7Ta"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,15 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-27T23:02:21.16Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ">
-      <title>[ポケモンgo] 2024-02-28 本日の最大強化 (PL50) </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-27T23:02:21.16Z</dc:date>
+      <dc:date>2024-02-28T03:15:27.54Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#A3rSFzvlJT">
       <title>[登山] [Web] [炎上] [文化] 2024-02-27 草津白根山入山について公式より回答【2024年2月】 / れんさんの草津白根山・湯釜の活動デ ...</title>
@@ -53,7 +45,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,文化,登山,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-27T23:02:21.16Z</dc:date>
+      <dc:date>2024-02-28T03:15:27.54Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ">
+      <title>[ポケモンgo] 2024-02-28 本日の最大強化 (PL50) </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#cQJzF4j4SQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-28T03:15:27.54Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#M71-Dxjd_T">
+      <title>[Web] [時事] [炎上] [奥能登] [文化] 2024-02-28 小森たくおという人も元官僚だったな。森喜朗と近しかったはずだ。官僚ってどいつもこいつも、超絶 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#M71-Dxjd_T</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,奥能登,文化,Web,時事,炎上,奥能登,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-27T21:02:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#XfqRJUnVDo">
       <title>[奥能登] 2024-02-27 実際に奥能登の現地に行ってみると分かるのだけど、発災直後に投下した自衛隊の人数が少ないなどと ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-25T20:52:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#BeTMa4L7Ta">
-      <title>[奥能登] 2024-02-26 能登半島地震 空撮写真ビューア 昨日通った場所、道の駅すずなりの近くの海岸線も通ったのだけど ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/26#BeTMa4L7Ta</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-25T20:04:00.00Z</dc:date>
     </item>
   </rdf:RDF>
