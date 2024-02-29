@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-02-29T12:26:20.41Z</dc:date>
+    <dc:date>2024-02-29T14:30:22.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#ar_QrY7NXE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#_SjU1bLvkE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#XTeAKsEEaB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#gxoD1bPfaH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-02-24.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#cNYFa1BLE2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#KcKq1y8lNc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#A3rSFzvlJT"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-29T12:26:20.41Z</dc:date>
+      <dc:date>2024-02-29T14:30:22.83Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#_SjU1bLvkE">
       <title>[モンハンNow] 2024-02-29 本日の竜玉はパオウルムーより </title>
@@ -55,6 +55,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-29T07:45:05.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg">
+      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-02-28 薄着にして出動したら、夜になったらえらく寒かった。知ってた。 春の足音が聞こえる…   駅前 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-02-28T23:14:12.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#gxoD1bPfaH">
       <title>[登山] [Web] [炎上] [文化] 2024-02-29 嬬恋 (つまごい) 村はここか  地図ではこの辺り  草津白根山について、現時点で噴火警戒レ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/29#gxoD1bPfaH</link>
@@ -70,14 +78,6 @@
         <![CDATA[日記,随筆,簡約版,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-25T02:44:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg">
-      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-02-28 薄着にして出動したら、夜になったらえらく寒かった。知ってた。 春の足音が聞こえる…   駅前 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-28T16:42:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#cNYFa1BLE2">
       <title>[Web] [炎上] 2024-02-29 万博ネタってほぼ興味ないから詳細なことはまったく読んでなかったけど、これは酷いな 😅 誰、こ ...</title>
