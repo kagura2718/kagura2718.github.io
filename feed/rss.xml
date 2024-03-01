@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-01T03:07:18.59Z</dc:date>
+    <dc:date>2024-03-01T08:56:01.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/01#9Ur3fw-HzP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/01#UYvp0kyhIF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#ar_QrY7NXE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/01#Azvy_fpyiF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#_SjU1bLvkE"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#g-AAtFm4DT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#j4BmQTqQg_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/26#7aSTEP0XqW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#VFgbI3YiJ4"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-01T03:07:18.59Z</dc:date>
+      <dc:date>2024-03-01T08:56:01.60Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/01#UYvp0kyhIF">
+      <title>[Web] [炎上] 2024-03-01 我が観測範囲で話題沸騰中の記事。重病を患った後とはいえ、原口氏の目が、怖い。 😨 「それって ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/01#UYvp0kyhIF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-01T05:32:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#ar_QrY7NXE">
       <title>[生活] 2024-02-29 今日は午前中に用事あって寝坊していいから、昨晩は思ったより深酒してたので酒量を復習してみる。 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-26T20:40:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/27#VFgbI3YiJ4">
-      <title>[Web] [文化] 2024-02-27 このスレッドを眺めてたんだけど、関東平野の感性で山あり谷ありの地域 (この元ネタは九州の熊本 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/27#VFgbI3YiJ4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-26T18:30:12.00Z</dc:date>
     </item>
   </rdf:RDF>
