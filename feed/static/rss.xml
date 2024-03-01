@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-01T08:56:01.60Z</dc:date>
+    <dc:date>2024-03-01T13:11:55.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5J/5JtHJbk5fQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/03/03pc8H8orf.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bY/bYpjXxRjOm.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xi/XiI42PEVBr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CT/CToVXsFtVs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YM/YM7rWLeTMv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/an/anpDEzNF5C.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ww/Ww_nmJip7R.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/D5/D5gg4JZrza.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-N/-Ndih3HLXq.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zz/zznNLeA3rN.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hg/Hglm2KwrNw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-01T08:56:01.60Z</dc:date>
+    <dc:date>2024-03-01T13:11:55.74Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/03/03pc8H8orf.htm">
     <title>[Web] [炎上] 2024-03-01 我が観測範囲で話題沸騰中の記事。重病を患った後とはいえ、原口氏の目が、怖い。 😨 「それって ...</title>
@@ -46,6 +46,22 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-01T05:32:23.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bY/bYpjXxRjOm.htm">
+    <title>[モンハンNow] 2024-03-01 この暴風と寒空ではウォーキングスマホなどとんでもないことだ。仕方ないので緊急クエストのレイギ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/bY/bYpjXxRjOm.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-01T03:30:37.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xi/XiI42PEVBr.htm">
+    <title>[生活] [奥能登] 2024-03-01 ボランティアがやってくると渋滞して物資を運搬する車両、災害復旧の邪魔になると言われてる。能登 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Xi/XiI42PEVBr.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-01T02:54:05.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/CT/CToVXsFtVs.htm">
     <title>[生活] 2024-02-29 今日は午前中に用事あって寝坊していいから、昨晩は思ったより深酒してたので酒量を復習してみる。 ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,食事,金沢,食事,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-27T02:14:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/zz/zznNLeA3rN.htm">
-    <title>[モンハンNow] 2024-02-27 ⭐ 7 ジンオウガはまだまだ勝ったり負けたりだ。スマホの性能が低いのが、痛い… 😭    S ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/zz/zznNLeA3rN.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-27T01:37:44.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hg/Hglm2KwrNw.htm">
-    <title>[奥能登] 2024-02-26 見附島の側にある、こことか営業してんの？ 【公式】珠洲温泉 のとじ荘 | 【最安値保証】能登 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Hg/Hglm2KwrNw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,奥能登,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-26T20:40:40.00Z</dc:date>
   </item>
 </rdf:RDF>
