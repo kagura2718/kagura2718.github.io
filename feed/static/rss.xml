@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-03T03:06:51.97Z</dc:date>
+    <dc:date>2024-03-03T08:19:00.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f9/f9xC-IlM9S.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PV/PVbMkndtUE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JV/JVARu9tvVj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o3/o3tu0kFASH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwNiRvKfnA.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lD/lDT4vY-dZt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Li/LieUzornH6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gA/gAAcBupGed.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c0/c0dxhVRI4f.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-03T03:06:51.97Z</dc:date>
+    <dc:date>2024-03-03T08:19:00.56Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/PV/PVbMkndtUE.htm">
+    <title>[NHK] 2024-03-03 中山さんの髪型が変わった。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/PV/PVbMkndtUE.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,NHK,NHK</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-03T08:19:00.56Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/JV/JVARu9tvVj.htm">
     <title>[料理] 2024-03-03 町の中華みたいなお店、豪快に量が多いだけで○○そうな店が多いのだけど、ここは美味しそう。ここ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-03T03:06:51.97Z</dc:date>
+    <dc:date>2024-03-03T08:19:00.56Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/o3/o3tu0kFASH.htm">
     <title>[ポケモンgo] 2024-03-03 なんか出た。    なんじゃろね？</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-02-28T16:13:14.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/c0/c0dxhVRI4f.htm">
-    <title>[NHK] 2024-02-27 久々の晴山さん  ☺️  明日も西高東低ですな。</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/c0/c0dxhVRI4f.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,NHK,NHK</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-02-28T14:37:03.00Z</dc:date>
   </item>
 </rdf:RDF>
