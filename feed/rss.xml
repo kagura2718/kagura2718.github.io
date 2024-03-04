@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-03T13:36:59.64Z</dc:date>
+    <dc:date>2024-03-04T03:01:52.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#E0fhsotYA5"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/04#Wa_3XfYlHt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/04#ruL4-yKK_i"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#E0fhsotYA5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#VrJRwbGTC2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#PEOQlXxzRq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#ASDIsq2OUR"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#ar_QrY7NXE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/01#Azvy_fpyiF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#_SjU1bLvkE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#XTeAKsEEaB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#E0fhsotYA5">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/04#Wa_3XfYlHt">
+      <title>[モンハンNow] 2024-03-04 そうこう文句言ってる間に調整が入った。 ディアブロスが大幅に弱体化、狩りやすくなって竜玉のか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/04#Wa_3XfYlHt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-04T03:01:52.85Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/04#ruL4-yKK_i">
+      <title>[ポケモンgo] 2024-03-04 先週は 61km 雨多かったからかなぁ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/04#ruL4-yKK_i</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-03T17:48:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#E0fhsotYA5">
       <title>[モンハンNow] 2024-03-03 こいつ絶対当たり判定モロモロがおかしいだろw  詐欺だこんなもん</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/03#E0fhsotYA5</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-03T13:36:59.64Z</dc:date>
+      <dc:date>2024-03-03T14:24:01.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/03#VrJRwbGTC2">
       <title>[NHK] 2024-03-03 中山さんの髪型が変わった。 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-02-29T08:30:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/29#XTeAKsEEaB">
-      <title>[漫画] [アニメ] 2024-02-29 はっきり『葬送のフリーレン』は、漫画も趣味ではない。呪術廻戦や薬屋のひとりごととの違いはなん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/29#XTeAKsEEaB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-29T07:45:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg">
-      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-02-28 薄着にして出動したら、夜になったらえらく寒かった。知ってた。 春の足音が聞こえる…   駅前 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/02/28#z_pfBX1hwg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-02-28T23:14:12.00Z</dc:date>
     </item>
   </rdf:RDF>
