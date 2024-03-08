@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-08T03:04:57.74Z</dc:date>
+    <dc:date>2024-03-08T03:10:44.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BR/BRLJ0uLPf8.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jh/jhhgBHc9Io.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f9/f9KybAU4Mf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DB/DBV8xyprBP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rO/rOSEGVtfuY.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KT/KTzWI2PeuZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nI/nIefBUix05.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/M-/M-agnt5FiS.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Aa/AaQHwRBc-L.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,かほく,生活,奥能登,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-08T03:04:57.74Z</dc:date>
+    <dc:date>2024-03-08T03:10:44.62Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jh/jhhgBHc9Io.htm">
+    <title>[モンハンNow] 2024-03-08 HR141 である。撮れてなかった。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jh/jhhgBHc9Io.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-07T22:08:23.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/f9/f9KybAU4Mf.htm">
     <title>[時事] [文化] [九州] 2024-03-07 テレビで聞こえてきたけど、反ワクが熊本知事選に立候補している。毛利秀徳氏というのか。 熊本知 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-05T20:05:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Aa/AaQHwRBc-L.htm">
-    <title>[モンハンNow] 2024-03-05 HR138 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Aa/AaQHwRBc-L.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-05T15:39:11.00Z</dc:date>
   </item>
 </rdf:RDF>
