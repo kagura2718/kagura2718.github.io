@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-09T03:36:30.48Z</dc:date>
+    <dc:date>2024-03-09T03:50:26.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#mTv9EqVW1e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#p8MB1ZfTFc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#pE65Pxzqhm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#yULVXFPkT5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#ON6qEvZiO9"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/07#-JVon4PJ9U"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/06#atwSTczeWd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/07#LGeWT-a2DV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/07#i8AswwtULM"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,法律,Web,法律]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-09T03:36:30.48Z</dc:date>
+      <dc:date>2024-03-09T03:50:26.85Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#111Ia8OmvF">
       <title>[Web] [文化] 2024-03-09 森七菜、昔は透き通るような美少女という趣きがあったのだけど、予想してた性格とは違いそうな気は ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-09T03:36:30.48Z</dc:date>
+      <dc:date>2024-03-09T03:50:26.85Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#xSMSA-P-nM">
       <title>[奥能登] 2024-03-09 珠洲の山伏山への yamap 記録を発見した。 1/1 の震災直前と 1/20 山伏山 /  ...</title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,宝達山,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-08T11:58:36.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4">
+      <title>[Ingress] [位置偽装] [Web] [炎上] [複垢] [文化] 2024-03-09 日本レジスタンス解散か… 解散する前に組織でもあったのだろうか。知らんぞ、私は。 😁  その ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Ingress,位置偽装,Web,炎上,複垢,文化,Ingress,位置偽装,Web,炎上,複垢,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-08T11:48:37.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#yULVXFPkT5">
       <title>[モンハンNow] 2024-03-08 まじか ⭐ 5 すら勝てねぇwww 難しすぎるだろ、これ。  youtube で公開してる奴 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,かほく,生活,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-07T04:42:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/07#i8AswwtULM">
-      <title>[モンハンNow] 2024-03-07 だせぇな。やめよう。炎強化 lv5 なんだけどやめとこう。  やはりこのスタイルがぐっとくる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/07#i8AswwtULM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-07T02:37:11.00Z</dc:date>
     </item>
   </rdf:RDF>
