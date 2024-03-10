@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-10T12:19:32.04Z</dc:date>
+    <dc:date>2024-03-10T12:46:51.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#_375lvi44j"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/10#sguDZHejbU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#Xd7hX47XB0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#stLsF2ypWb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#3ae4IcSOjO"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#ON6qEvZiO9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/07#oYiAHlVnxh"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#JwM0sdF_FB"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-10T12:19:32.04Z</dc:date>
+      <dc:date>2024-03-10T12:46:51.16Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#_375lvi44j">
       <title>[NHK] 2024-03-09 我ながら好みのタイプというのが NHK アナウンサーに多い。好きなタイプは多いけど、行儀の悪 ...</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-09T14:54:18.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/10#sguDZHejbU">
+      <title>[奥能登] 2024-03-10 奥能登の道情報、ここの情報を改めて見返してみるけど、めちゃくちゃじゃないか。情報元の輪島市が ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/10#sguDZHejbU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-09T22:34:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#Xd7hX47XB0">
       <title>[Web] [法律] 2024-03-09 これ、ざっと眺めてたんだけど、単なる予算問題にすると、おそらくは日本では金を吸う団体だけがで ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-07T02:33:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#JwM0sdF_FB">
-      <title>[モンハンNow] 2024-03-08 昨晩タスククリアのために黒弓で try してみたけど、これ、外でやるのかなり難しくないか？恥 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/08#JwM0sdF_FB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-08T01:04:07.00Z</dc:date>
     </item>
   </rdf:RDF>
