@@ -4,14 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-11T10:14:30.82Z</dc:date>
+    <dc:date>2024-03-11T23:50:15.90Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#_375lvi44j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#rEPTAOPC28"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#VqMtvsRhkY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/10#sguDZHejbU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#z2iODyfnBk"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#mTv9EqVW1e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#p8MB1ZfTFc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#tTIwZZoVRj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#kTdkk9xLEE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#pE65Pxzqhm"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR">
+      <title>[奥能登] 2024-03-12 ただのまとめと回顧録 夕暮れどきで見辛いけど 2017 年の皆月の海  2017 年の港   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T23:50:15.90Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm">
       <title>[登山] [奥能登] 2024-03-10 門前 - 猿山 - 皆月 周回</title>
       <link>https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T05:15:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw">
+      <title>[ポケモンgo] 2024-03-11 カルボウというのが追加されたのかな。進化先のグレンアルマが強そう。炎タイプのアタッカーになる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T16:40:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3">
       <title>[奥能登] 2024-03-11 門前 - 皆月間のルートは北側の県道 266 が生きてるんだろうな。ものすごい遠回り。で、深 ...</title>
@@ -62,6 +78,14 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#rEPTAOPC28">
+      <title>[モンハンNow] 2024-03-11 毒属性 level 5 装備セットができた。  炎属性も level 5 にした。こっちもだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/11#rEPTAOPC28</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-10T22:41:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#VqMtvsRhkY">
       <title>[ポケモンgo] 2024-03-11 パスが余りそうだからソロでやってみた。まったくダメだった。  なんか表示おかしいよね。また何 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-08T16:52:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4">
-      <title>[Ingress] [位置偽装] [Web] [炎上] [複垢] [文化] 2024-03-09 日本レジスタンス解散か… 解散する前に組織でもあったのだろうか。知らんぞ、私は。 😁  その ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#aIsawulSE4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Ingress,位置偽装,Web,炎上,複垢,文化,Ingress,位置偽装,Web,炎上,複垢,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-08T15:09:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#kTdkk9xLEE">
-      <title>[ポケモンgo] 2024-03-09 長野方面の方からフレンド申請がきた。どうやら山岳部のようだ。  よろしくね！</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#kTdkk9xLEE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-08T14:54:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/08#pE65Pxzqhm">
-      <title>[宝達山] 2024-03-08 あちゃー 脱輪してるじゃん 😂 ここときどき脱輪してる人がいるんだよな。これは… U ターン ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/08#pE65Pxzqhm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,宝達山,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-08T11:58:36.00Z</dc:date>
     </item>
   </rdf:RDF>
