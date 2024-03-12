@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-12T11:18:57.79Z</dc:date>
+    <dc:date>2024-03-12T11:27:38.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,9 +12,9 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0I/0IydqC6jiJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MH/MHe8ZkjoLW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jv/JvUYCyEjcr.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SF/SFpt0Zp_fN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LH/LHwEReYM4m.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bM/bMo6RQskTR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hh/hh_ZDLVt5T.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0e/0e9jSBc5Y6.htm"/>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-12T11:18:57.79Z</dc:date>
+    <dc:date>2024-03-12T11:27:38.20Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0I/0IydqC6jiJ.htm">
     <title>[モンハンNow] 2024-03-11 なんか描画、またさらに遅くなったんじゃない？昨日はレイギエナからこれまでにありえないポイント ...</title>
@@ -63,6 +63,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-12T05:19:40.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm">
+    <title>[Web] [奥能登] [文化] 2024-03-12 発災からしばらくして流れていたこの主張。 oic_kanazawa の主張が不気味なのはその ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-12T03:30:11.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/SF/SFpt0Zp_fN.htm">
     <title>[奥能登] 2024-03-12 ただのまとめと回顧録 夕暮れどきで見辛いけど 2017 年の皆月の海  2017 年の港   ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/SF/SFpt0Zp_fN.htm</link>
@@ -79,16 +87,8 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-12T00:19:10.00Z</dc:date>
   </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm">
-    <title>[Web] [奥能登] [文化] 2024-03-12 発災からしばらくして流れていたこの主張。 oic_kanazawa の主張が不気味なのはその ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/f1/f1aTsohmSE.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-11T22:04:49.00Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bM/bMo6RQskTR.htm">
-    <title>[東北] 2024-03-12 東北大震災のときの映像で、観たことあるのがほとんどだけどけっこう観たことない映像もある。 </title>
+    <title>[東北] 2024-03-12 東北大震災のときの映像で、観たことあるのがほとんどだけど、けっこう観たことない映像もあるもんだ。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/bM/bMo6RQskTR.htm</link>
     <description>
         日記,つぶやき,雑記帳,東北,東北</description>
