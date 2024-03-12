@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+    <dc:date>2024-03-12T10:15:11.65Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,9 +13,12 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#M5Jy-VftNN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#pajfUIpTfw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#zZsejsS-m2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#_375lvi44j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -25,9 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#z2iODyfnBk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#Xd7hX47XB0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#stLsF2ypWb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#3ae4IcSOjO"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#111Ia8OmvF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#69A0sgW4UF"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+      <dc:date>2024-03-12T10:15:11.65Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#g7Q7NTktX7">
       <title>[モンハンNow] 2024-03-11 なんか描画、またさらに遅くなったんじゃない？昨日はレイギエナからこれまでにありえないポイント ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+      <dc:date>2024-03-12T07:42:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#M5Jy-VftNN">
       <title>[モンハンNow] 2024-03-12 久々の竜玉はアンジャナフから。スマホ性能低くて被弾しまくり状態だと ⭐ 8 討伐がきつすぎる。 </title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+      <dc:date>2024-03-12T05:34:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#pajfUIpTfw">
       <title>[奥能登] [文化] [東北] [女性] 2024-03-12 避難所でも「家事」は女性？　炊き出しやトイレ掃除を任せられる実態　解決のかぎは…：東京新聞  ...</title>
@@ -61,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,文化,東北,女性,奥能登,文化,東北,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+      <dc:date>2024-03-12T05:19:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR">
       <title>[奥能登] 2024-03-12 ただのまとめと回顧録 夕暮れどきで見辛いけど 2017 年の皆月の海  2017 年の港   ...</title>
@@ -69,7 +69,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T03:08:39.75Z</dc:date>
+      <dc:date>2024-03-12T04:23:16.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf">
+      <title>[モンハンNow] 2024-03-12 ⭐ 5 ジンオウガはなんとかなる。もうちょっとだけ粘るけどさ… キャッシュ消したり、アセット ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-12T00:19:10.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#zZsejsS-m2">
+      <title>[Web] [奥能登] [文化] 2024-03-12 発災からしばらくして流れていたこの主張。 oic_kanazawa の主張が不気味なのはその ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#zZsejsS-m2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T22:04:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm">
       <title>[登山] [奥能登] 2024-03-10 門前 - 猿山 - 皆月 周回</title>
@@ -79,14 +95,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T05:15:24.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf">
-      <title>[モンハンNow] 2024-03-12 ここ数日、回避が遅れて想定外に被弾することがやたらと増えた。ジンオウガの ⭐ 6 ⭐ 5 も ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-11T17:11:38.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw">
       <title>[ポケモンgo] 2024-03-11 カルボウというのが追加されたのかな。進化先のグレンアルマが強そう。炎タイプのアタッカーになる ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw</link>
@@ -94,6 +102,22 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T16:40:23.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9">
+      <title>[東北] 2024-03-12 けっこう観たことない映像がある。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,東北,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T15:01:15.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT">
+      <title>[奥能登] 2024-03-12 これおさよトンネルの北側の山道ルートだな。  1:10 ぐらいの映像はここだな。やはり現行の ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T14:04:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3">
       <title>[奥能登] 2024-03-11 門前 - 皆月間のルートは北側の県道 266 が生きてるんだろうな。ものすごい遠回り。で、深 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-09T15:23:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#3ae4IcSOjO">
-      <title>[登山] [南アルプス] 2024-03-09 南アルプスの南部を保持している民間企業というのが「東海パルプ（旧大倉財閥）」というのか。へー ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#3ae4IcSOjO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,南アルプス,登山,南アルプス]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-09T10:55:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#111Ia8OmvF">
-      <title>[Web] [文化] 2024-03-09 森七菜、昔は透き通るような美少女という趣きがあったのだけど、予想してた性格とは違いそうな気は ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#111Ia8OmvF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-09T09:28:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#69A0sgW4UF">
-      <title>[モンハンNow] 2024-03-09 やっと見つけたけど、初手でミスって一撃目であぼーん。いまだ ⭐ 8 黒ディアルガの討伐はなら ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/09#69A0sgW4UF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-09T02:09:59.00Z</dc:date>
     </item>
   </rdf:RDF>
