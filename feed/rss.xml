@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-12T10:15:11.65Z</dc:date>
+    <dc:date>2024-03-12T11:18:57.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -15,10 +15,10 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9COZ7mA2UR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#D5e1tvX6gf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#zZsejsS-m2"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/09#_375lvi44j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-12T10:15:11.65Z</dc:date>
+      <dc:date>2024-03-12T11:18:57.79Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#g7Q7NTktX7">
       <title>[モンハンNow] 2024-03-11 なんか描画、またさらに遅くなったんじゃない？昨日はレイギエナからこれまでにありえないポイント ...</title>
@@ -87,6 +87,22 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T22:04:49.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9">
+      <title>[東北] 2024-03-12 東北大震災のときの映像で、観たことあるのがほとんどだけどけっこう観たことない映像もある。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,東北,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T20:26:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT">
+      <title>[奥能登] 2024-03-12 これおさよトンネルの北側の山道ルートだな。  1:10 ぐらいの映像はここだな。やはり現行の ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-11T19:24:00.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm">
       <title>[登山] [奥能登] 2024-03-10 門前 - 猿山 - 皆月 周回</title>
       <link>https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm</link>
@@ -102,22 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T16:40:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9">
-      <title>[東北] 2024-03-12 けっこう観たことない映像がある。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,東北,東北]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-11T15:01:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT">
-      <title>[奥能登] 2024-03-12 これおさよトンネルの北側の山道ルートだな。  1:10 ぐらいの映像はここだな。やはり現行の ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-11T14:04:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#Qpk9WPOYN3">
       <title>[奥能登] 2024-03-11 門前 - 皆月間のルートは北側の県道 266 が生きてるんだろうな。ものすごい遠回り。で、深 ...</title>
