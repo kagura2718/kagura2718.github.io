@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-13T23:37:46.46Z</dc:date>
+    <dc:date>2024-03-14T03:24:39.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#YPHB9x9639"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#Rpk5ACOA2Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#6OOZw7QXwE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#WnIiyQd7BZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#xMIkl012Io"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#86AVHkHdZo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#2n7SY7kHpG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#LaeobMBVX8"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#9QJk8apvsT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#qciAwjllr9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/12#IA0cQj9pFX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-13T23:37:46.46Z</dc:date>
+      <dc:date>2024-03-14T03:24:39.83Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#Rpk5ACOA2Y">
       <title>[Web] [炎上] [四国] 2024-03-13 受験生らが願掛けする巨石「使用不能」に　関東の大学生6人に罰金刑（朝日新聞デジタル） - Y ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,四国,Web,炎上,四国]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-13T23:37:46.46Z</dc:date>
+      <dc:date>2024-03-14T00:47:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#6OOZw7QXwE">
       <title>[Ingress] [Web] [炎上] 2024-03-13 精神障害者？ 🤔  何の調査ができるんだろう。 😂 そういえば北陸のスプーくん (青) はど ...</title>
@@ -54,6 +54,22 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-13T22:57:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#WnIiyQd7BZ">
+      <title>[Ingress] [Web] [炎上] 2024-03-14 ？？なんだろ？消防、救助という単語で流れてきて奥能登案件かと思って眺めてたけど、東京辺りの僕 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/14#WnIiyQd7BZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-13T20:50:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#xMIkl012Io">
+      <title>[時事] [炎上] [奥能登] 2024-03-14 寄付をさせた上で関係する自民党議員をすべて逮捕するというのが筋。 自民、裏金相当額の寄付検討 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/14#xMIkl012Io</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,奥能登,時事,炎上,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-13T16:48:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#86AVHkHdZo">
       <title>[モンハンNow] 2024-03-13 Android の設定かえても、ジンオウガの描画は、やっぱりダメですね！ ⭐ 5 もギリギリ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-11T20:57:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm">
-      <title>[登山] [奥能登] 2024-03-10 門前 - 猿山 - 皆月 周回</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-03-10.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-11T05:15:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw">
-      <title>[ポケモンgo] 2024-03-11 カルボウというのが追加されたのかな。進化先のグレンアルマが強そう。炎タイプのアタッカーになる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/11#afaVXIXxQw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-11T16:40:23.00Z</dc:date>
     </item>
   </rdf:RDF>
