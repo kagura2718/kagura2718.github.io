@@ -4,13 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-17T03:50:52.78Z</dc:date>
+    <dc:date>2024-03-17T12:38:47.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#wV_BM8pU56"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#wV_BM8pU56"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#WHXOzPlsr4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#c_NxDp3ZIN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#QD8KfCpISl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#s04vMk5E1O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#wOrTEXzvCs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#Xn4pkt-b30"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/15#orqnywOwdH"/>
@@ -25,19 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#YPHB9x9639"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/15#KX8Kh4vzVr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#WnIiyQd7BZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#Rpk5ACOA2Y"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#6OOZw7QXwE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#iLuU2oynUo"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#wV_BM8pU56">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC">
+      <title>[モンハンNow] 2024-03-17 ここ数日イビルジョー見かけんな。クルルヤック、ドスジャグラス、プケプケの雑魚系だけが乱入され ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-17T12:38:47.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#wV_BM8pU56">
       <title>[ポケモンgo] 2024-03-17 おおお。尻が変更できる… ようになるらしい。今後は形に加えて、揺れまで再現されるようになるの ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#wV_BM8pU56</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-17T03:50:52.78Z</dc:date>
+      <dc:date>2024-03-17T12:38:47.20Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#WHXOzPlsr4">
       <title>[Ingress] [Web] [炎上] 2024-03-16 memo rei0000さんからの青陣営所属AGの複垢疑惑についての調査結果報告と今後のお願 ...</title>
@@ -45,15 +53,31 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-17T03:50:52.78Z</dc:date>
+      <dc:date>2024-03-17T10:25:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#c_NxDp3ZIN">
-      <title>[登山] [生活] [宝達山] 2024-03-17 本日の登頂  500m ぐらいから雪はある。が、もうほとんど融けた。  ここ、片付けとかも雑 ...</title>
+      <title>[登山] [生活] [宝達山] 2024-03-17 本日の登頂  500m ぐらいから雪はある。が、もうほとんど融けた。  ここ、片付けとかも、 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#c_NxDp3ZIN</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-16T18:20:36.00Z</dc:date>
+      <dc:date>2024-03-17T03:01:08.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#QD8KfCpISl">
+      <title>[生活] [かほく] [モンハンNow] 2024-03-17 もう 30 分ぐらいは雨も降らないだろうと、お散歩を開始して 5 分後には降りはじめた。やる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#QD8KfCpISl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,かほく,モンハンNow,生活,かほく,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-17T02:02:29.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#s04vMk5E1O">
+      <title>[ポケモンgo] 2024-03-17 18:00 過ぎてもカイオーガが見えるけど、また何かやらかしたかな。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#s04vMk5E1O</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-16T19:48:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#wOrTEXzvCs">
       <title>[ポケモンgo] 2024-03-16 今日はたてこんでてポケモンはほとんどできなかった。 今のコミュデイは復刻版かと思ってたら、違 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-14T01:51:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#Rpk5ACOA2Y">
-      <title>[Web] [炎上] [四国] 2024-03-13 受験生らが願掛けする巨石「使用不能」に　関東の大学生6人に罰金刑（朝日新聞デジタル） - Y ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/13#Rpk5ACOA2Y</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,四国,Web,炎上,四国]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-14T00:47:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/13#6OOZw7QXwE">
-      <title>[Ingress] [Web] [炎上] 2024-03-13 精神障害者？ 🤔  何の調査ができるんだろう。 😂 そういえば北陸のスプーくん (青) はど ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/13#6OOZw7QXwE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-13T22:57:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/14#iLuU2oynUo">
-      <title>[モンハンNow] 2024-03-14 なんかイベントが始まったね。       注目の追加要素は 重ね着 進行中ストーリーのレベル ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/14#iLuU2oynUo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-13T22:33:14.00Z</dc:date>
     </item>
   </rdf:RDF>
