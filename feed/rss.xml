@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-18T14:06:58.18Z</dc:date>
+    <dc:date>2024-03-18T14:11:58.47Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#rck3Vv19Ca"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#QD8KfCpISl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#OH-01-46MC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#TpjAa1BQcg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#t2-_-fqAlA"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Wayfarer,Ingress,Web,炎上,文化,Wayfarer,Ingress,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-18T14:06:58.18Z</dc:date>
+      <dc:date>2024-03-18T14:11:58.47Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV">
+      <title>[Web] [文化] 2024-03-18 TL でちらっと見えた。他人の食べるものにアレコレ言うのは好きではないのだけど、こいつならい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-18T13:09:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#QD8KfCpISl">
       <title>[生活] [かほく] [モンハンNow] 2024-03-17 もう 30 分ぐらいは雨も降らないだろうと、傘を持たずにお散歩を開始して 5 分後には降りは ...</title>
@@ -54,14 +62,6 @@
         <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-18T06:18:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV">
-      <title>[Web] [文化] 2024-03-18 TL でちらっと見えた。他人の食べるものにアレコレ言うのは好きではないのだけど、こいつならい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/18#NeUxQ-cjhV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-18T06:14:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#TpjAa1BQcg">
       <title>[モンハンNow] 2024-03-18 武器強化の儀。とりあえずリオレウス翼破壊のタスクを消化してしまいたい。 </title>
