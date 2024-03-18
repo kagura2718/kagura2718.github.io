@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-18T14:11:58.47Z</dc:date>
+    <dc:date>2024-03-18T14:19:14.61Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hz/HzJ7PqVB77.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oe/oeDvAkRR26.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TL/TLGPFVMc_j.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tE/tEQH1dCdOW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wE/wE1jcLQUDb.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UY/UYDjV6YXWC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qu/qu964L2fh8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K0/K0n91cMw0I.htm"/>
@@ -31,13 +31,21 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm">
+    <title>[モンハンNow] 2024-03-17 ここ数日イビルジョー見かけんな。クルルヤック、ドスジャグラス、プケプケの雑魚系だけが乱入され ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-18T14:19:14.61Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hz/HzJ7PqVB77.htm">
     <title>[Wayfarer] [Ingress] [Web] [炎上] [文化] 2024-03-18 えー。これは普通にアウトとられるかもだよな。グレーではあるので、いきなりアウトになると気の毒 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Hz/HzJ7PqVB77.htm</link>
     <description>
         日記,つぶやき,雑記帳,Wayfarer,Ingress,Web,炎上,文化,Wayfarer,Ingress,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-18T14:11:58.47Z</dc:date>
+    <dc:date>2024-03-18T14:19:14.61Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oe/oeDvAkRR26.htm">
     <title>[Web] [文化] 2024-03-18 TL でちらっと見えた。他人の食べるものにアレコレ言うのは好きではないのだけど、こいつならい ...</title>
@@ -70,14 +78,6 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-18T04:45:41.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm">
-    <title>[モンハンNow] 2024-03-17 ここ数日イビルジョー見かけんな。クルルヤック、ドスジャグラス、プケプケの雑魚系だけが乱入され ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-17T21:55:21.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/UY/UYDjV6YXWC.htm">
     <title>[アニメ] [薬屋のひとりごと] 2024-03-18 やっぱり猫猫と羅漢の勝負、アニメで見ててもやっぱり意味わかんなかったな。 😅 羅漢が自分を溺 ...</title>
