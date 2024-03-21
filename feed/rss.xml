@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-20T14:11:29.28Z</dc:date>
+    <dc:date>2024-03-21T03:23:00.38Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#OGOGfwsIPH"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/21#J6jEZFa9Y6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#OGOGfwsIPH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#qCQSGp1di8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#JF4MLfC0z8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#TrU_rW2LPh"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/16#WHXOzPlsr4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#c_NxDp3ZIN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#s04vMk5E1O"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#l3fHdkSHg7"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#OGOGfwsIPH">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/21#J6jEZFa9Y6">
+      <title>[モンハンNow] 2024-03-21 HR152 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/21#J6jEZFa9Y6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-21T03:23:00.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#OGOGfwsIPH">
       <title>[野球] 2024-03-20 大谷とダルビッシュが注目なのはもちろん分かるのだけど、ニュースの時間までやることなのだろうか？</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/20#OGOGfwsIPH</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,野球,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-20T14:11:29.28Z</dc:date>
+      <dc:date>2024-03-21T03:23:00.38Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#qCQSGp1di8">
       <title>[食事] [料理] 2024-03-20 はまぐりをゲットしたのでボンゴレ風に。こういう海産物のダシの味が分かってきたのはおじさんにな ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-20T14:11:29.28Z</dc:date>
+      <dc:date>2024-03-21T03:23:00.38Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#JF4MLfC0z8">
       <title>[Web] [炎上] 2024-03-20 どこ方面のラーメン屋さんかなと思ったら東京方面の方かな。未開の土人さんだ。  東京方面だとこ ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-20T14:11:29.28Z</dc:date>
+      <dc:date>2024-03-21T02:01:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#TrU_rW2LPh">
       <title>[モンハンNow] 2024-03-20 今日もギリまで追いつめたのに負ける。  今もたまーに ⭐ 7 ジンオウガに勝てるんだよね。た ...</title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-20T14:11:29.28Z</dc:date>
+      <dc:date>2024-03-20T22:58:25.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/19#0nHcFXbaAh">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-03-19 明日から荒天で walking はできない。駅前に出動することにした。  youtube に ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-16T19:48:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#l3fHdkSHg7">
-      <title>[モンハンNow] 2024-03-17 HR150  ますます入力が遅れる。イライラ、ムカムカするぜ 😠   最新端末だとどれぐらい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#l3fHdkSHg7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-16T19:24:38.00Z</dc:date>
     </item>
   </rdf:RDF>
