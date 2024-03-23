@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-23T09:36:02.39Z</dc:date>
+    <dc:date>2024-03-23T10:40:35.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#N9FJ1BPdOP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#o4fpwjj8Gp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XUQ2cR7CJ3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#WFO5uv4EOI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#LrwjCMeVzh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#Uk-PSmEX54"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#-3xTf_0fwX"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-23T09:36:02.39Z</dc:date>
+      <dc:date>2024-03-23T10:40:35.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#o4fpwjj8Gp">
       <title>[奥能登] 2024-03-23 輪島は七尾よりもさらに平野部が少ない。公園も少ない。テント村になるとしたら、どこになるだろう ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-23T09:36:02.39Z</dc:date>
+      <dc:date>2024-03-23T10:40:35.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XUQ2cR7CJ3">
       <title>[登山] [奥能登] 2024-03-23 奥能登に観光で訪れる際に参考にするべきサイト。状況は刻一刻で変わるため、複数サイトを突合する ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-23T01:23:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To">
+      <title>[生活] [時事] [奥能登] 2024-03-23 昨晩は遅い時間に能登方面から大量に警察車両が戻っていくと思ったら、陛下が能登に来てたから警備 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,時事,奥能登,生活,時事,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-22T22:00:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-03-22 次はこの子か。  人気、ない？？  なぜか成立し、いきなり色違いに。タスクは完了した！    ...</title>
@@ -70,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-22T18:24:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To">
-      <title>[生活] [時事] [奥能登] 2024-03-23 昨晩は遅い時間に能登方面から大量に警察車両が戻っていくと思ったら、陛下が能登に来てたから警備 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,時事,奥能登,生活,時事,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-22T14:58:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#LrwjCMeVzh">
       <title>[奥能登] 2024-03-22 この動画についてるコメントを眺めてると、いつも通り極端な解釈のコメントほど 👍 がつきやすい ...</title>
