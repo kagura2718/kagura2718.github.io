@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-22T20:37:14.00Z</dc:date>
+    <dc:date>2024-03-23T03:53:15.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#N9FJ1BPdOP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XMBtq8K-To"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#LrwjCMeVzh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#Uk-PSmEX54"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/19#fs6Zxij79h"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/18#rck3Vv19Ca"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/20#jwXdh3gIoz"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#N9FJ1BPdOP">
+      <title>[ポケモンgo] 2024-03-23 あー、今日グラードンか。明日かと思ってた。  参加はできそうにないな。今回もリモートのみ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/23#N9FJ1BPdOP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-23T03:53:15.11Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-03-22 次はこの子か。  人気、ない？？  なぜか成立し、いきなり色違いに。タスクは完了した！    ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/22#FpvVcPqXp6</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-19T10:42:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC">
-      <title>[モンハンNow] 2024-03-17 ここ数日イビルジョー見かけんな。クルルヤック、ドスジャグラス、プケプケの雑魚系だけが乱入され ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/17#UF7iGUWkSC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-19T02:46:41.00Z</dc:date>
     </item>
   </rdf:RDF>

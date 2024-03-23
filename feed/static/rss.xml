@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-22T20:37:14.00Z</dc:date>
+    <dc:date>2024-03-23T03:53:15.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uV/uV9tGYo7la.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/so/soYkITNnDI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sE/sE9dnhb-UF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v9/v9mOi-L65C.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zl/Zls4X36ndL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hz/HzJ7PqVB77.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/e3/e3QbTQL7wA.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uV/uV9tGYo7la.htm">
+    <title>[ポケモンgo] 2024-03-23 あー、今日グラードンか。明日かと思ってた。  参加はできそうにないな。今回もリモートのみ。</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/uV/uV9tGYo7la.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-23T03:53:15.11Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/so/soYkITNnDI.htm">
     <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-03-22 次はこの子か。  人気、ない？？  なぜか成立し、いきなり色違いに。タスクは完了した！    ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/so/soYkITNnDI.htm</link>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-19T10:42:47.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm">
-    <title>[モンハンNow] 2024-03-17 ここ数日イビルジョー見かけんな。クルルヤック、ドスジャグラス、プケプケの雑魚系だけが乱入され ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/E-/E-7uChpg2Q.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-19T02:46:41.00Z</dc:date>
   </item>
 </rdf:RDF>
