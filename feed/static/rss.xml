@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-23T12:47:30.14Z</dc:date>
+    <dc:date>2024-03-24T05:39:08.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jJ/jJYkz07xnH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sr/SrJGPLYDbU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uV/uV9tGYo7la.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-k/-kbvJBE1FU.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rb/Rb7KzU1yoK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BH/BHYo0DszSK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UY/UYDjV6YXWC.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X4/X4hDZGsNZJ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jJ/jJYkz07xnH.htm">
+    <title>[奥能登] 2024-03-24 能登町周回</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jJ/jJYkz07xnH.htm</link>
+    <description>
+        日記,随筆,簡約版,奥能登,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-03-24T05:39:08.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Sr/SrJGPLYDbU.htm">
     <title>[ポケモンgo] 2024-03-23 先週のと合わせてこんな感じ。  今日のソラビ持ちグラードンに三人で突撃したのが一番辛かった。 😂</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Sr/SrJGPLYDbU.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-23T12:47:30.14Z</dc:date>
+    <dc:date>2024-03-23T20:59:43.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uV/uV9tGYo7la.htm">
     <title>[ポケモンgo] 2024-03-23 あー、今日グラードンか。明日かと思ってた。  参加はできそうにないな。今回もリモートのみ。</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-23T12:47:30.14Z</dc:date>
+    <dc:date>2024-03-23T17:02:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-k/-kbvJBE1FU.htm">
     <title>[奥能登] 2024-03-23 輪島は七尾よりもさらに平野部が少ない。公園も少ない。テント村になるとしたら、どこになるだろう ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-03-19T14:10:53.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/X4/X4hDZGsNZJ.htm">
-    <title>[奥能登] [文化] 2024-03-20 能登の避難所でトイレが酷いという話。下水が流れないから、満杯になった大便を手袋をした手ですく ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/X4/X4hDZGsNZJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,奥能登,文化,奥能登,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-03-20T11:07:27.00Z</dc:date>
   </item>
 </rdf:RDF>
