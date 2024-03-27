@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-27T03:57:46.57Z</dc:date>
+    <dc:date>2024-03-27T15:29:59.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#4W_D3NBf3f"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#xl_yMYqyAO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/25#unUA_Qk_qS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#yLevEd3Mj7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/21#CBrzYzChzH"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/25#bZNWqy1AK-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#farroaZtgR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#N9FJ1BPdOP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#o4fpwjj8Gp"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XUQ2cR7CJ3"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#4W_D3NBf3f">
+      <title>[登山] [Web] [白山] 2024-03-27 yshr さんは事故のことは結局、明示して書かないつもりかな。これまで大きな事故なしなのが、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/27#4W_D3NBf3f</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,白山,登山,Web,白山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-27T15:29:59.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f">
       <title>[モンハンNow] 2024-03-26 黒ディアブロスはまだ ⭐ 8 は討伐できてないみたいだ。そろそろできそうだが。  猫耳になっ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-27T03:57:46.57Z</dc:date>
+      <dc:date>2024-03-27T15:29:59.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#xl_yMYqyAO">
       <title>[Web] [時事] 2024-03-27 上を通ってた車からすると、下を通る舟が橋脚にぶつかるなんて見えないし思いもしないからどうしよ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-27T03:57:46.57Z</dc:date>
+      <dc:date>2024-03-27T05:04:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/25#unUA_Qk_qS">
       <title>[生活] [奥能登] 2024-03-25 軽トラの荷台を半分にして、反対側は女子トイレになるのだと思う。女子トイレはもちろん中は観れな ...</title>
@@ -54,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-27T01:38:16.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze">
+      <title>[生活] [小矢部] 2024-03-27 用事で小矢部にやってきた。小さな山をひとつ越えるだけで風景が変化して新鮮だ。立山が美しい。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,小矢部,生活,小矢部]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-27T03:58:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#yLevEd3Mj7">
       <title>[登山] [NHK] 2024-03-26 久々に晴山さん twitter 覗いてみると  ayane_hareyama おそらく今月で ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-23T17:02:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#o4fpwjj8Gp">
-      <title>[奥能登] 2024-03-23 輪島は七尾よりもさらに平野部が少ない。公園も少ない。テント村になるとしたら、どこになるだろう ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/23#o4fpwjj8Gp</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-23T12:00:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XUQ2cR7CJ3">
-      <title>[登山] [奥能登] 2024-03-23 奥能登に観光で訪れる際に参考にするべきサイト。状況は刻一刻で変わるため、複数サイトを突合する ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/23#XUQ2cR7CJ3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,奥能登,登山,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-23T01:23:03.00Z</dc:date>
     </item>
   </rdf:RDF>
