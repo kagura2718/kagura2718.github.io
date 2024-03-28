@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-28T10:24:01.86Z</dc:date>
+    <dc:date>2024-03-28T11:23:48.73Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,10 +12,10 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#NfvUbZ6DOC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#Sqcxs1uWM0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#4W_D3NBf3f"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#yzRZJd2CrS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#rDE8uxF11f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#3geygBtjhu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#g7en_5VX6F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#xl_yMYqyAO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/25#unUA_Qk_qS"/>
@@ -63,6 +63,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-28T02:58:45.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze">
+      <title>[ポケモンgo] [生活] [食事] [小矢部] [モンハンNow] 2024-03-27 用事で小矢部にやってきた。小さな山をひとつ越えるだけで風景が変化して新鮮だ。白い立山も美しい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,小矢部,モンハンNow,ポケモンgo,生活,食事,小矢部,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-28T00:16:10.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#yzRZJd2CrS">
       <title>[Web] [奥能登] [文化] 2024-03-28 この群馬大学の地質学者アカウント、基本的に見ない方がいいので読まないようにしてるのだけど、ド ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/28#yzRZJd2CrS</link>
@@ -86,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-27T17:35:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze">
-      <title>[ポケモンgo] [生活] [小矢部] [モンハンNow] 2024-03-27 用事で小矢部にやってきた。小さな山をひとつ越えるだけで風景が変化して新鮮だ。白い立山も美しい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,小矢部,モンハンNow,ポケモンgo,生活,小矢部,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-27T16:48:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#g7en_5VX6F">
       <title>[モンハンNow] 2024-03-26 レイギエナの ⭐ 8 がまったく倒せなくなった…  なんでか考えるに、炎属性強化 level ...</title>
