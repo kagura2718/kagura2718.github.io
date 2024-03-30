@@ -4,17 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-03-30T00:05:56.00Z</dc:date>
+    <dc:date>2024-03-30T03:15:33.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#DLjls3UdWy"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/30#waF0rRDBW1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#DLjls3UdWy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#s2n86kCcj5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/30#eyqhQBqWI_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#9ZMa45L-Fv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#m69vEYxEag"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#vVDqjaj_bY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#FujDEYs1ze"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/28#yzRZJd2CrS"/>
@@ -27,11 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#g7en_5VX6F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/27#xl_yMYqyAO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/25#unUA_Qk_qS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#yLevEd3Mj7"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#DLjls3UdWy">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/30#waF0rRDBW1">
+      <title>[ポケモンgo] 2024-03-30 今日はシャドウミュウツーが湧いてるらしい。これはちょっとやりたかったな… 明日は出撃できるかどうか。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/30#waF0rRDBW1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-30T03:15:33.37Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw">
+      <title>[アニメ] [女性] [薬屋のひとりごと] 2024-03-26 猫猫 (マオマオ) と羅漢の「勝負」の流れを少しでも理解するには、いくつか設定の理解も必要ね ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-26T20:22:56.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3">
+      <title>[Web] [炎上] [文化] [女性] 2024-03-29 離婚後に恋愛市場に彗星のごとく現われた人っぽいな。どかーんと成層圏まで打ち上げられた後に   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,女性,Web,炎上,文化,女性]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-03-30T03:15:33.37Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#DLjls3UdWy">
       <title>[登山] [Web] [炎上] 2024-03-29 この動画を見てると登山講師てクソの役にも立たないなーと思わせてくれる。この状況と滑落した人の ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/29#DLjls3UdWy</link>
       <description>
@@ -63,14 +87,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-29T12:37:54.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3">
-      <title>[Web] [炎上] [文化] [女性] 2024-03-29 離婚後に恋愛市場に彗星のごとく現われた人っぽいな。どかーんと成層圏まで打ち上げられた後に   ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/29#yCDn9vw-x3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,女性,Web,炎上,文化,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-29T10:21:11.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#m69vEYxEag">
       <title>[モンハンNow] 2024-03-29 Rare5 * 3 はたまたまなのか…？  竜玉はでねぇ 😭</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/29#m69vEYxEag</link>
@@ -78,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-29T06:52:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw">
-      <title>[女性] [薬屋のひとりごと] 2024-03-26 猫猫 (マオマオ) と羅漢の「勝負」の流れを少しでも理解するには、いくつか設定の理解も必要ね ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/26#mKAwQa2QGw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,女性,薬屋のひとりごと,女性,薬屋のひとりごと]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-26T20:22:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/29#vVDqjaj_bY">
       <title>[Web] [炎上] [AI] 2024-03-29 界隈がざわついてるのはこれかな。 Govbot あちゃー 😂  この辺りへの霞が関方面からの ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-03-27T01:38:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/03/26#yLevEd3Mj7">
-      <title>[登山] [NHK] 2024-03-26 久々に晴山さん twitter 覗いてみると  ayane_hareyama おそらく今月で ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/03/26#yLevEd3Mj7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,NHK,登山,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-03-27T03:40:46.00Z</dc:date>
     </item>
   </rdf:RDF>
