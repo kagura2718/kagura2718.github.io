@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-04T03:06:41.82Z</dc:date>
+    <dc:date>2024-04-04T03:18:43.36Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PG/PG_xreLnPu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uG/uGnT4_MBS9.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BU/BUM2_RhFae.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kO/kO45fznmQc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3E/3ETB2PqXFH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iX/iX3KHlL93H.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/th/thNPQs8PR7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pB/pB00_g1KFq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AA/AAFIsz265B.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_p/_pLnKCNeRt.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-03T20:58:26.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BU/BUM2_RhFae.htm">
+    <title>[モンハンNow] 2024-04-04 レイギエナさん、ギリですなぁ。  こいつも勝てねぇw 大狩猟の ⭐ 7 て 野生や緊急の ⭐ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/BU/BUM2_RhFae.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-04T03:18:43.36Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kO/kO45fznmQc.htm">
     <title>[ポケモンgo] [生活] [羽咋] [モンハンNow] 2024-04-03 HR158  羽咋の店内もまだ直ってないところがあるな。棚が傾いてる様子だった。  👍  羽 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,食事,食事</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-01T14:53:58.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_p/_pLnKCNeRt.htm">
-    <title>[モンハンNow] 2024-04-01 本日の竜玉はジュラトドスより  武器強化の儀 レイギエナ大刀 と思っていたら、まさかの霜ふり ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_p/_pLnKCNeRt.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-01T13:51:07.00Z</dc:date>
   </item>
 </rdf:RDF>
