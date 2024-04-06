@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-06T02:17:42.03Z</dc:date>
+    <dc:date>2024-04-06T10:19:47.52Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#2RF3SxCYYk"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#vPv1piRzx0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#NLDpsgORSF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#65hudKpMhy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#oq69bjDX8B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#MBDg1fgBX1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#FDnuLR3JqH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/04#2uCQNDWmRW"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#pGjmVKnCLG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#PcgnixrXze"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#PKuV9rNbW6"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/03#OL5C4J3SOR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#x5Ao5Y9xIX"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#2RF3SxCYYk">
+      <title>[モンハンNow] 2024-04-06 イビルジョー ⭐ 8 は終わらせることにした   これでストーリーは終わりなんだな。  すで ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/06#2RF3SxCYYk</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-06T10:19:47.52Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN">
       <title>[アニメ] 2024-04-05 二回目だが、正直面白い。ながら作業中に音痴なアイドル志望が出てきてから、あまりに酷いノイズに ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T02:17:42.03Z</dc:date>
+      <dc:date>2024-04-06T10:19:47.52Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#vPv1piRzx0">
       <title>[モンハンNow] 2024-04-06 ディアブロス黒 ⭐ 8 は討伐完了。近接は、やはり尻尾を切る方が効率がいいか。あるいは麻痺武 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T02:17:42.03Z</dc:date>
+      <dc:date>2024-04-06T07:55:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#NLDpsgORSF">
       <title>[モンハンNow] 2024-04-05 やっぱりディアブロス亜種は大刀を含めた近距離武器での難易度が高すぎるなぁ。ディアブロス全体が ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T02:17:42.03Z</dc:date>
+      <dc:date>2024-04-06T06:41:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#65hudKpMhy">
       <title>[モンハンNow] 2024-04-06 今まで会ったマルチのプレイヤではこいつが一番ふざけてたな。 😠 ずーっと準備完了にしてくれな ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-05T20:12:09.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#oq69bjDX8B">
+      <title>[ポケモンgo] 2024-04-06 本日の最大強化 (PL50) </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/06#oq69bjDX8B</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-05T19:08:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#MBDg1fgBX1">
       <title>[生活] [金沢] [モンハンNow] 2024-04-05 暴風や唐突の降雨に怯えなくていい好い季節になってきた。ハーフパンツでランニングできる。が、さ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-02T12:07:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/03#OL5C4J3SOR">
-      <title>[モンハンNow] 2024-04-03 ⭐ 8 ジンオウガはやはり難しい。     四連敗。ゲージは赤くなるんだけどね…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/03#OL5C4J3SOR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-02T10:57:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/02#x5Ao5Y9xIX">
-      <title>[食事] [料理] 2024-04-02 私は牡蠣が好きだ。昨晩、投げ売り状態だったので大量入荷した。本当は能登の牡蠣が欲しかったのだ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/02#x5Ao5Y9xIX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-02T07:58:40.00Z</dc:date>
     </item>
   </rdf:RDF>
