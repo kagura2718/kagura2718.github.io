@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-09T02:38:54.67Z</dc:date>
+    <dc:date>2024-04-09T09:40:10.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#NBA80YaMFz"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#YEAz_I-Ih7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#IBtVt64JTD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#JDlhEqZDYs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#hwIQQe_TRC"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/07#dJeiCkPkFo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#4GlUi78mKM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/07#NWp2CXCD1j"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#vPv1piRzx0"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#NLDpsgORSF"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#NBA80YaMFz">
+      <title>[Web] 2024-04-09 蟹は好きだけど初めて聞いた。金沢あたりで蟹をたんまり食べられるからあんまり聞こえてこない銘柄 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/09#NBA80YaMFz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-09T09:40:10.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4">
       <title>[ポケモンgo] [登山] [生活] [宝達山] 2024-04-08 今日は昼から半休。いつも通り燃焼しに行ってきた。 登山道に不審なゴム板が設置されているのだけ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,登山,生活,宝達山,ポケモンgo,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-09T02:38:54.67Z</dc:date>
+      <dc:date>2024-04-09T09:40:10.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#YEAz_I-Ih7">
+      <title>[映画] 2024-04-09 『すずめの戸締り』が地上波放映していたらしい。捕獲されていた。 続きが気になる程度に面白いが ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/09#YEAz_I-Ih7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,映画,映画]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-09T09:40:10.50Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#IBtVt64JTD">
       <title>[Web] [アニメ] 2024-04-09 Yoasobi そうそう、『推しの子』もそうだ。こっちは物語初期の設定は面白そうだったけど、 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-09T02:38:54.67Z</dc:date>
+      <dc:date>2024-04-09T09:40:10.50Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#JDlhEqZDYs">
       <title>[Web] 2024-04-08 グレタ、けっこう大きくなったな。 (何  この人、結婚する人物がいるとしたらこの攻撃的な性格 ...</title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-09T02:38:54.67Z</dc:date>
+      <dc:date>2024-04-09T04:02:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#hwIQQe_TRC">
       <title>[ポケモンgo] 2024-04-08 先週は 72km </title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-09T02:38:54.67Z</dc:date>
+      <dc:date>2024-04-09T02:50:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-06T18:52:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#vPv1piRzx0">
-      <title>[モンハンNow] 2024-04-06 ディアブロス黒 ⭐ 8 は討伐完了。近接は、やはり尻尾を切る方が効率がいいか。あるいは麻痺武 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/06#vPv1piRzx0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T07:55:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#NLDpsgORSF">
-      <title>[モンハンNow] 2024-04-05 やっぱりディアブロス亜種は大刀を含めた近距離武器での難易度が高すぎるなぁ。ディアブロス全体が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/05#NLDpsgORSF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T06:41:46.00Z</dc:date>
     </item>
   </rdf:RDF>
