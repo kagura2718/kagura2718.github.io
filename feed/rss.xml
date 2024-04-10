@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-10T03:20:27.78Z</dc:date>
+    <dc:date>2024-04-10T03:59:57.32Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#NmPuuFysa4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#tgq-aGEopd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#YEAz_I-Ih7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/10#VFoHQ6wd08"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#IBtVt64JTD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#JDlhEqZDYs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#hwIQQe_TRC"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-04-07.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/08#v_hRaOzImF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/06#2RF3SxCYYk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/07#dJeiCkPkFo"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-10T03:20:27.78Z</dc:date>
+      <dc:date>2024-04-10T03:59:57.32Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/05#zlygYCoPDN">
       <title>[アニメ] 2024-04-05 二回目だが、  正直面白い  😂 ながら作業中に音痴なアイドル志望が出てきてから、あまりに酷 ...</title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,映画,映画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-09T18:05:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/10#VFoHQ6wd08">
+      <title>[時事] [奥能登] 2024-04-10 能登の復旧・復興「コスト念頭」　財務省、被災地は人口減|47NEWS（よんななニュース） 分 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/10#VFoHQ6wd08</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-09T13:13:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/09#IBtVt64JTD">
       <title>[Web] [アニメ] 2024-04-09 Yoasobi そうそう、『推しの子』もそうだ。こっちは物語初期の設定は面白そうだったけど、 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-07T02:20:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/07#dJeiCkPkFo">
-      <title>[モンハンNow] 2024-04-07 久々の竜玉はドスジャグラスより  次は水武器でも強化するか。たぶん、竜玉 あと 3 個集まる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/07#dJeiCkPkFo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-06T21:19:11.00Z</dc:date>
     </item>
   </rdf:RDF>
