@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-15T03:36:17.52Z</dc:date>
+    <dc:date>2024-04-15T09:48:13.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S6/S6s7kcG_-p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bq/BqZfCKs6At.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gr/Gr1HewZSvO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pr/PrPkwcjtAI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J2/J20OX4QiBG.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ib/ibbQF-ktUa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5q/5q0nPETA3y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DX/DXiFnV92uI.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QJ/QJHRq0yn_i.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/S6/S6s7kcG_-p.htm">
+    <title>[生活] [奥能登] 2024-04-15 土砂崩れがあった市ノ瀬のとこ、何か道路でも造ってるのかなーと思ってたら、おそらくは三井から輪 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/S6/S6s7kcG_-p.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-15T09:48:13.50Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
@@ -39,14 +47,6 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm">
-    <title>[モンハンNow] 2024-04-15 モンスター全体を表示するのにピンチアウト操作すると、描画が早くなった。これは今までにスマホの ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-14T21:15:00.00Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bq/BqZfCKs6At.htm">
     <title>[登山] [奥能登] 2024-04-14 輪島周回 (桜峠 - 鉢伏山 - 高洲山 - 輪島市内)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Bq/BqZfCKs6At.htm</link>
@@ -54,6 +54,14 @@
         日記,随筆,簡約版,登山,奥能登,登山,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-14T15:17:23.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm">
+    <title>[モンハンNow] 2024-04-15 モンスター全体を表示するのにピンチアウト操作すると、描画が早くなった。これは今までにスマホの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/tS/tSZ-HixPCJ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-14T21:15:00.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Gr/Gr1HewZSvO.htm">
     <title>[モンハンNow] 2024-04-15 海外モンハン Now 動画は初めてみた。セットについてる名前はギリシャ語かねぇ？  ジンオウ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-11T15:34:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QJ/QJHRq0yn_i.htm">
-    <title>[モンハンNow] 2024-04-12 本日の竜玉はレイアより献上！  では武器強化の儀 ディプテルス ジュラトドスの水大刀 G8- ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/QJ/QJHRq0yn_i.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-11T10:57:24.00Z</dc:date>
   </item>
 </rdf:RDF>
