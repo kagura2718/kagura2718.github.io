@@ -13,6 +13,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ME/MEVCbCVvra.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cs/cs1DU-pe7N.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lv/lvekYEGySr.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RO/RO1Zm5SXqU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fj/fjfc7JA531.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/u6/u6xSIOKWOh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4y/4yQkPvRmKO.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bq/BqZfCKs6At.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S6/S6s7kcG_-p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gr/Gr1HewZSvO.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -70,6 +70,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-18T04:14:24.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RO/RO1Zm5SXqU.htm">
+    <title>[Web] [金沢] [文化] 2024-04-18 近江町市場は観光地化しすぎて地元の人の市場でなくなったのはそうなのだけど、この金額を「ぼった ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/RO/RO1Zm5SXqU.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,金沢,文化,Web,金沢,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-18T02:07:30.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fj/fjfc7JA531.htm">
     <title>[モンハンNow] 2024-04-17 本日の竜玉はツィツィヤックとクルルヤックから  </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-15T09:07:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
 </rdf:RDF>
