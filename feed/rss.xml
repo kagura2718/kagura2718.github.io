@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-22T03:27:53.38Z</dc:date>
+    <dc:date>2024-04-22T14:51:53.44Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#NAwBKrBkd-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/21#0oEFeaYFIg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#xvuSNCSLCo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#Xw9kJMzYEs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#J6t-C3wxhL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/21#_7ENZsFh-s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/20#clIJB4-0X5"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/19#Hgx0oPDTDP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/18#Ryx4az9XL1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/18#MkyUVgkvLb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/19#FqCK1kSzYl"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-22T03:27:53.38Z</dc:date>
+      <dc:date>2024-04-22T14:51:53.44Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#NAwBKrBkd-">
       <title>[漫画] [アニメ] [文化] 2024-04-22 『魔法少女にあこがれて』、原作っぽい漫画を眺めてみると、思ってた以上にエロ漫画だった。これも ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,文化,漫画,アニメ,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-22T03:27:53.38Z</dc:date>
+      <dc:date>2024-04-22T06:10:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/21#0oEFeaYFIg">
       <title>[Web] 2024-04-21 動画をじっくり見たわけじゃないけど、こんだけ普通に買えるのか、この巨大な銃が 😨  一家に一 ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-22T01:42:27.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#Xw9kJMzYEs">
+      <title>[Web] [金沢] [文化] 2024-04-22 なるほど。金大のキャンパスがもりの里あたりに出来たのって割と最近だったかな。あの近辺が学生街 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/22#Xw9kJMzYEs</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,金沢,文化,Web,金沢,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-21T22:43:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/22#J6t-C3wxhL">
       <title>[Web] [野球] 2024-04-22 新庄監督は意外なことにうまくいってるんだよなぁ。嬉しい誤算の類ではあるけど、正直、どこかでボ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,女性,生活,金沢,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-19T01:08:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/19#FqCK1kSzYl">
-      <title>[モンハンNow] 2024-04-19 おお、遠隔マッチングが来た。  どういうマッチングルールなんだ？メンバーがバラバラ。  とい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/19#FqCK1kSzYl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-18T18:45:03.00Z</dc:date>
     </item>
   </rdf:RDF>
