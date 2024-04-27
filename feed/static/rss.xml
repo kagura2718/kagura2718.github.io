@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-26T03:26:46.31Z</dc:date>
+    <dc:date>2024-04-27T01:00:06.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_C/_C4ckuyhF8.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BO/BOgbECLmeb.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0E/0EwQqkcayi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rN/rNCeLaSz6B.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ER/ERQwjwA212.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rJ/rJxWPhKNhf.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZE/ZElYtghVGC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aU/aUVbmDQGaB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-Q/-Qlqbct3Af.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7D/7DON0Pdf9y.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nf/nfm8t6-Qks.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-26T03:26:46.31Z</dc:date>
+    <dc:date>2024-04-27T01:00:06.29Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BO/BOgbECLmeb.htm">
+    <title>[モンハンNow] 2024-04-26 本日の竜玉はプケプケより  武器強化の儀 カラミティペイン イビルジョー G6-4  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/BO/BOgbECLmeb.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-26T19:00:43.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0E/0EwQqkcayi.htm">
+    <title>[モンハンNow] 2024-04-27 すさまじく強い人がいたらしく、ジンオウガ ⭐ 8 が 9 秒で終わった。こんなん初めてみた  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/0E/0EwQqkcayi.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-04-26T15:42:12.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rN/rNCeLaSz6B.htm">
     <title>[モンハンNow] 2024-04-26 防具強化の儀 レイギエナ胴体 G8-2 </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-04-23T10:42:32.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7D/7DON0Pdf9y.htm">
-    <title>[Web] [料理] 2024-04-23 これもよさそうだな。食ってみてぇ 😋 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/7D/7DON0Pdf9y.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,料理,Web,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-23T09:53:42.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/nf/nfm8t6-Qks.htm">
-    <title>[ポケモンgo] 2024-04-23 重い… 🤮 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/nf/nfm8t6-Qks.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-04-23T02:37:20.00Z</dc:date>
   </item>
 </rdf:RDF>
