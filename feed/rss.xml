@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-04-27T01:00:06.29Z</dc:date>
+    <dc:date>2024-04-29T03:17:40.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#trxBFYfBCC"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/28#LCw__lqZ4Y"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/29#CJqlT50awU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#trxBFYfBCC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#58J9YFiSTd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/27#xL-mivu4cp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#NRMFp9ZNf-"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/24#6WeYxF_vb2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/23#zgqKhnB42c"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/23#psM_-RgDA-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/23#rjBGD79Nh_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/24#3clVbzOJdo"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#trxBFYfBCC">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/28#LCw__lqZ4Y">
+      <title>[Web] [奥能登] [文化] 2024-04-28 芸人さんかな？確かにこうしてみると、被災地を背景に自撮りショットを入れる野口建の特異さが際立 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/28#LCw__lqZ4Y</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-29T03:17:40.79Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/29#CJqlT50awU">
+      <title>[モンハンNow] 2024-04-29 逆鱗出ねぇな。竜玉も出ねぇ… 😭  ⭐ 9 もまだ歯が立たないし… 全種族にギリで勝てるぐら ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/29#CJqlT50awU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-04-28T10:44:42.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#trxBFYfBCC">
       <title>[モンハンNow] 2024-04-26 アイテムが売れるようになってからこうして見ると、報酬がおそろしくしょぼく感じる。何か計画でも ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/26#trxBFYfBCC</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-27T01:00:06.29Z</dc:date>
+      <dc:date>2024-04-27T01:36:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/26#58J9YFiSTd">
       <title>[モンハンNow] 2024-04-26 本日の竜玉はプケプケより  武器強化の儀 カラミティペイン イビルジョー G6-4  </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-04-23T17:27:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/23#rjBGD79Nh_">
-      <title>[モンハンNow] 2024-04-23 なかなかレイギエナの ⭐ 8 が安定しない。格下は安全策に毒で叩いてるんだけど、格上 ⭐ 8 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/23#rjBGD79Nh_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-23T15:32:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/24#3clVbzOJdo">
-      <title>[生活] [金沢] 2024-04-24 大河端の里山海道への道と外環が合流する、前は T 字だった交差点、何度か逆走車に遭遇してるん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/24#3clVbzOJdo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-23T10:42:32.00Z</dc:date>
     </item>
   </rdf:RDF>
