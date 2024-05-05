@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-04T22:54:01.74Z</dc:date>
+    <dc:date>2024-05-05T11:36:04.48Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#zXgAinZqDp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#S3NsTintFI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#AGk6_lGIpq"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#5OqMO0Vmlw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#gBoTaWrzE6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#V7HIxZYEM8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#c4Iz7Q3Ktx"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/01#Ryh4De0JDm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/02#c-6eB722dW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/30#sbUzLTu_MR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/04/29#6TZSKOp_S3"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/01#8Fxke5WS3L"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#zXgAinZqDp">
+      <title>[Web] [炎上] [奥能登] 2024-05-05 輪島朝市の組合関係で揉め事があったのは覚えてるけど、この苦境である未だに何やら揉めてるっぽい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/05#zXgAinZqDp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-05T11:36:04.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7">
       <title>[NHK] 2024-05-03 放送事故かと思ってワクワクしちゃったじゃないの。   なんでこんなニュース番組で番宣をやるの ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-04T22:54:01.74Z</dc:date>
+      <dc:date>2024-05-05T11:36:04.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#S3NsTintFI">
       <title>[生活] [羽咋] 2024-05-04 羽咋駅前の交流施設はまだ完成してないね。  なんか、前にみたときからほとんど進行してないよう ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-04T22:54:01.74Z</dc:date>
+      <dc:date>2024-05-05T11:36:04.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#AGk6_lGIpq">
       <title>[モンハンNow] 2024-05-04 何回か ⭐ 9 クルルヤックやってみたけど、無理だよね。ワンチャンあるかも程度で、一万回に一 ...</title>
@@ -54,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-04T22:32:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#5OqMO0Vmlw">
+      <title>[モンハンNow] 2024-05-05 プケプケ ⭐ 9 は予想通りそれほど苦戦しない。  ドスジャグラスもやや攻めればほぼ討伐でき ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/05#5OqMO0Vmlw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-04T22:14:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#gBoTaWrzE6">
       <title>[モンハンNow] 2024-05-03 蒼レウスの動きが豊富でほんとに面白い。叩いて叩かれて楽しい。今の周回は防御重視のノーマル装備 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,文化,Ingress,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-01T01:46:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/04/29#6TZSKOp_S3">
-      <title>[Web] [炎上] 2024-04-29 これもまた、怖い… 😨 車とかでも関係ないやん。この前足、後ろ足を開いた感じの姿勢が攻撃体勢 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/04/29#6TZSKOp_S3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-28T15:19:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/01#8Fxke5WS3L">
-      <title>[モンハンNow] 2024-05-01 龍属性は level 4 になった。なお、イビルジョーは昨日からずーっと出てこない。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/01#8Fxke5WS3L</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-04-30T21:43:04.00Z</dc:date>
     </item>
   </rdf:RDF>
