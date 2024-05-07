@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-07T03:09:29.54Z</dc:date>
+    <dc:date>2024-05-07T03:58:17.46Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#xdKReAoDJv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#UldW1ERkio"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#owFXd6lxO2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#4jMD9pLUk9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#KNk0Ade1dA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#tVgWBUCWZm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#zXgAinZqDp"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#Q29IsV1o1u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#SIR-_U3R_N"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/02#9fkdzSL_nc"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-07T03:09:29.54Z</dc:date>
+      <dc:date>2024-05-07T03:58:17.46Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#UldW1ERkio">
       <title>[Web] 2024-05-07 富士山で入山料を取る以上は新しい利権が生まれただけに見えるんだけど、何の利権を破壊したのだろ ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-07T03:09:29.54Z</dc:date>
+      <dc:date>2024-05-07T03:58:17.46Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#owFXd6lxO2">
       <title>[ポケモンgo] 2024-05-06 先週は 70km  朝から まさかのセビエ </title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-06T21:10:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#4jMD9pLUk9">
+      <title>[ポケモンgo] [Wayfarer] [金沢] 2024-05-07 なぜか最近、金沢で POI の名称変更がちらほらある。POI が密集してるから名前が変わると ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/07#4jMD9pLUk9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Wayfarer,金沢,ポケモンgo,Wayfarer,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-06T17:16:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#KNk0Ade1dA">
       <title>[モンハンNow] 2024-05-06 就寝前にもスクランブル発進できるように酒も控えてるというのに、なかなかジンオウガの逆鱗が出な ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/02#9fkdzSL_nc">
-      <title>[漫画] [アニメ] [呪術廻戦] 2024-05-02 フリーレンの原作漫画の一部を読んでると、旅や冒険はほとんどしたことがないけど旅も冒険も好きな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/02#9fkdzSL_nc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,呪術廻戦,漫画,アニメ,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-03T08:46:03.00Z</dc:date>
     </item>
   </rdf:RDF>
