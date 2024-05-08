@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-07T21:22:10.00Z</dc:date>
+    <dc:date>2024-05-08T01:18:48.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#0mgb7ph5Li"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#xdKReAoDJv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#UldW1ERkio"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#R1F_UrJuzm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#pNijyxEvCs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#UCh5EB9EuV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#Q9tkAnTdCH"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#S3NsTintFI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/04#AGk6_lGIpq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#5OqMO0Vmlw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#gBoTaWrzE6"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-07T21:22:10.00Z</dc:date>
+      <dc:date>2024-05-07T21:22:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#xdKReAoDJv">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-05-06 つつじのシーズン  本日の竜玉はクルルヤックより  駅前に出てもハンターは減少中。イベント開 ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-07T19:47:56.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#R1F_UrJuzm">
+      <title>[時事] [炎上] 2024-05-08 これをやった (マイクの電源を切った) 官僚のことが知りたいよね。年齢と役職まで。おそらくは ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/08#R1F_UrJuzm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-07T14:09:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#pNijyxEvCs">
       <title>[モンハンNow] 2024-05-08 ジンオウガ逆鱗がようやっと出た。課金したい衝動には駆られるが、我慢我慢。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-04T22:14:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#gBoTaWrzE6">
-      <title>[モンハンNow] 2024-05-03 蒼レウスの動きが豊富でほんとに面白い。叩いて叩かれて楽しい。今の周回は防御重視のノーマル装備 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/03#gBoTaWrzE6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-04T18:56:56.00Z</dc:date>
     </item>
   </rdf:RDF>
