@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-08T12:28:30.62Z</dc:date>
+    <dc:date>2024-05-09T02:57:02.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sSLRDYdPgb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#WwRNbMutvv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#0mgb7ph5Li"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#tVgWBUCWZm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#zXgAinZqDp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#EUaFl0nWyT"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#tQ_cyxASeB"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C">
+      <title>[モンハンNow] 2024-05-09 HR177  昨日はアンジャナフから竜玉が一個。今朝もジュラトドスから一個。  今日ぐらい、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-09T02:57:02.75Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3">
       <title>[アニメ] 2024-05-08 うん、多分、だいたい分かった。倍速でなんとかなった。      ルルがなんだったのか、いまい ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-08T12:28:30.62Z</dc:date>
+      <dc:date>2024-05-09T02:57:02.75Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw">
+      <title>[モンハンNow] 2024-05-09 やはり尻尾斬りの方が最終的には効率も勝率もいい。格上から同格以上が相手だとロックオンもあんま ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-09T02:57:02.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sSLRDYdPgb">
       <title>[時事] [奥能登] 2024-05-08 memo 「あの倒れ方はやはりおかしい」　能登半島地震「五島屋ビル」が今も撤去されない理由（ ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-08T12:28:30.62Z</dc:date>
+      <dc:date>2024-05-08T16:08:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#WwRNbMutvv">
       <title>[時事] 2024-05-08 おおお… これはゲテモノ好きの俺ですら寒気がする。 😨 食パンからネズミの一部 敷島製パン「 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-06T02:42:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7">
-      <title>[NHK] 2024-05-03 放送事故かと思ってワクワクしちゃったじゃないの。   なんでこんなニュース番組で番宣をやるの ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/03#ymlBRLCRs7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-05T14:52:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/05#tQ_cyxASeB">
-      <title>[登山] [生活] [宝達山] 2024-05-05 本日の登頂  アルプスは… いまいち。剱岳はだいぶ黒くなってきた。ちゃんと撮れてる写真はなか ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/05#tQ_cyxASeB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-05T12:10:02.00Z</dc:date>
     </item>
   </rdf:RDF>
