@@ -4,14 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-10T03:01:03.65Z</dc:date>
+    <dc:date>2024-05-10T10:57:41.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#PD4U1Rc2bp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#ZS8QfDxoM4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/06#xdKReAoDJv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/07#UldW1ERkio"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#R1F_UrJuzm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#pNijyxEvCs"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0">
+      <title>[登山] [生活] [奥能登] 2024-05-10 今年の登山予定、目標を立てとかないとな。今年は新年から地震で気が滅入ってあんまり予定を立てる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,奥能登,登山,生活,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-10T10:57:41.56Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C">
       <title>[登山] [Web] 2024-05-10 memo  野口建の言説の胡散臭さが確認できた形になる。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-10T03:01:03.65Z</dc:date>
+      <dc:date>2024-05-10T10:57:41.56Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD">
+      <title>[Web] [時事] [炎上] 2024-05-10 割と普通方面の女でも金がなくて集金に必死というパターンも増えるから事件も増えるだろうな。   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-10T03:57:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq">
       <title>[モンハンNow] 2024-05-09 竜玉がレイギエナより献上  竜玉もう一個、バフバロより  武器強化の儀 レイギエナ太刀スティ ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-10T03:01:03.65Z</dc:date>
+      <dc:date>2024-05-10T03:07:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9">
       <title>[Web] [炎上] [奥能登] 2024-05-09 ボランティアでわざわざ被災地に行ってこんな行動する人 (おっさん) もいるのか。  逮捕され ...</title>
@@ -54,14 +70,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-10T00:40:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD">
-      <title>[Web] [時事] [炎上] 2024-05-10 割と普通方面の女でも金がなくて集金に必死というパターンも増えるから事件も増えるな。  むしろ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-09T23:23:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#PD4U1Rc2bp">
       <title>[食事] [料理] 2024-05-09 ムール貝が投げ売りされていた。ボンゴレ風のパスタにいたしましょう。  アサリやハマグリと違っ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-07T18:22:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#pNijyxEvCs">
-      <title>[モンハンNow] 2024-05-08 ジンオウガ逆鱗がようやっと出た。課金したい衝動には駆られるが、我慢我慢。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/08#pNijyxEvCs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-07T14:05:18.00Z</dc:date>
     </item>
   </rdf:RDF>
