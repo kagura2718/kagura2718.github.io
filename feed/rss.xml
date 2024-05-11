@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-11T00:38:42.64Z</dc:date>
+    <dc:date>2024-05-11T03:35:14.51Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C">
+      <title>[登山] [Web] [奥能登] 2024-05-10 memo  野口建の言説の胡散臭さが確認できた形になる。  にしても、登山系のクラスタほど野 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,奥能登,登山,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-11T03:35:14.51Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy">
       <title>[モンハンNow] 2024-05-11 善良なプケプケさんがいた。  これはさすがに課金の衝動が… しないけど。  HR178 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-11T00:38:42.64Z</dc:date>
+      <dc:date>2024-05-11T03:35:14.51Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0">
       <title>[登山] [生活] [奥能登] 2024-05-10 今年の登山予定、目標を立てとかないとな。今年は新年から地震で気が滅入ってあんまり予定を立てる ...</title>
@@ -46,14 +54,6 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,奥能登,登山,生活,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-10T18:28:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C">
-      <title>[登山] [Web] 2024-05-10 memo  野口建の言説の胡散臭さが確認できた形になる。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-10T17:52:07.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD">
       <title>[Web] [時事] [炎上] 2024-05-10 割と普通方面の女でも金がなくて集金に必死というパターンも増えるから事件も増えるだろうな。   ...</title>
