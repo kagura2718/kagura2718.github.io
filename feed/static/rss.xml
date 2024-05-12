@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-12T15:28:14.89Z</dc:date>
+    <dc:date>2024-05-12T15:32:51.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,8 +12,11 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1q/1qOdabT-ta.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3G/3GdlG9x4Hg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wT/wTKAfp1Dyy.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rv/rvzA-ryJQk.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kt/KtUTrmoZE5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vG/vGnnTb4aKs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-g/-gOedF-Ce5.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5F/5F_cxlI-WO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gl/gllU3D3t-N.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QM/QMR5TFnOCa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/N4/N4w36u9Y7z.htm"/>
@@ -25,9 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rK/rK_1rimN3g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JN/JNkUyIe8r2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1g/1gH6L25ZSV.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_K/_KGw3uhD6m.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xr/xrc4vbQ8oX.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K9/K9QaodlZfd.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-12T15:28:14.89Z</dc:date>
+    <dc:date>2024-05-12T15:32:51.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1q/1qOdabT-ta.htm">
     <title>[登山] [生活] [宝達山] 2024-05-12 本日の登頂  思ってたより早く土砂降りに。  こんな日でも結構登ってる人がいた。でも俺が最後 ...</title>
@@ -63,6 +63,22 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-12T09:39:43.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rv/rvzA-ryJQk.htm">
+    <title>[ポケモンgo] [Benan] 2024-05-12 昨晩のとこから戻ってきた。  やっぱり、ぶどうはげだね。しつけーw </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/rv/rvzA-ryJQk.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,Benan,ポケモンgo,Benan</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-05-12T09:37:10.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Kt/KtUTrmoZE5.htm">
+    <title>[ポケモンgo] [PerazziBeretta] [aquablue] [宝達山麓] 2024-05-12 宝達山への登山口でまさかの PB おじさん。最近、この辺りに現われるな？    この方も常識 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Kt/KtUTrmoZE5.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,PerazziBeretta,aquablue,宝達山麓,ポケモンgo,PerazziBeretta,aquablue,宝達山麓</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-05-12T07:29:09.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vG/vGnnTb4aKs.htm">
     <title>[生活] [モンハンNow] 2024-05-11 隙をみてジンオウガ ⭐ 8 討伐に出動するもやっぱり出ぬ。  逆鱗はあといっこ… 2 段階強 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/vG/vGnnTb4aKs.htm</link>
@@ -78,6 +94,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-12T00:47:28.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5F/5F_cxlI-WO.htm">
+    <title>[モンハンNow] 2024-05-12 本日の竜玉は 3 個   </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/5F/5F_cxlI-WO.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-05-11T22:03:24.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gl/gllU3D3t-N.htm">
     <title>[登山] [Web] [奥能登] 2024-05-10 memo  野口建の言説の胡散臭さが確認できた形になる。  にしても、登山系のクラスタほど野 ...</title>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-09T06:57:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_K/_KGw3uhD6m.htm">
-    <title>[時事] [炎上] [文化] [NHK] 2024-05-09 大阪 男子高校生自殺 体罰のバスケ部元顧問 資格回復認めず | NHK | 教育  こういう ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_K/_KGw3uhD6m.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,炎上,文化,NHK,時事,炎上,文化,NHK</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-09T09:45:53.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xr/xrc4vbQ8oX.htm">
-    <title>[アニメ] 2024-05-08 うん、多分、だいたい分かった。倍速でなんとかなった。      ルルがなんだったのか、いまい ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/xr/xrc4vbQ8oX.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-09T09:23:44.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/K9/K9QaodlZfd.htm">
-    <title>[時事] [炎上] [文化] [NHK] 2024-05-09 なるほど、かなり露骨に  酷い女案件  だったんだな。    車について無知ななので、どれぐ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/K9/K9QaodlZfd.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,炎上,文化,NHK,時事,炎上,文化,NHK</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-09T05:55:31.00Z</dc:date>
   </item>
 </rdf:RDF>
