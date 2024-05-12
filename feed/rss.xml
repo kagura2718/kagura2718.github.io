@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-12T00:07:54.90Z</dc:date>
+    <dc:date>2024-05-12T15:28:14.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#rNdfPzxIH3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#g3W--aqEMk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#J5OvBX92ty"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#kWiWKorsRB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#fme56Z8Rgl"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#uoF1-cpUD7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#sImFG9WDk3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#HDt4Pkx2Ux"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#WwRNbMutvv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#zMR_skKtJm"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-12T00:07:54.90Z</dc:date>
+      <dc:date>2024-05-12T15:28:14.89Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#rNdfPzxIH3">
+      <title>[登山] [生活] [宝達山] 2024-05-12 本日の登頂  思ってたより早く土砂降りに。  こんな日でも結構登ってる人がいた。でも俺が最後 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/12#rNdfPzxIH3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-12T13:50:32.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#g3W--aqEMk">
+      <title>[食事] [料理] 2024-05-13 辛めのアラビアータにいたしましょう </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/13#g3W--aqEMk</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-12T11:18:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#J5OvBX92ty">
       <title>[生活] [宝達志水町] [宝達] 2024-05-11 宿交差点の辺り   長い間通行止めになってるからすごく崩落してるのかと思ったら、アスファルト ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達志水町,宝達,生活,宝達志水町,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-12T00:07:54.90Z</dc:date>
+      <dc:date>2024-05-12T09:39:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#kWiWKorsRB">
       <title>[生活] [モンハンNow] 2024-05-11 隙をみてジンオウガ ⭐ 8 討伐に出動するもやっぱり出ぬ。  逆鱗はあといっこ… 2 段階強 ...</title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-12T00:07:54.90Z</dc:date>
+      <dc:date>2024-05-12T03:31:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#fme56Z8Rgl">
       <title>[モンハンNow] 2024-05-11 本日の竜玉はしびれるやつから。ドスギルオスか。歳だから名前がなかなか覚えられん。 </title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-12T00:07:54.90Z</dc:date>
+      <dc:date>2024-05-12T00:47:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#WD5TCAju6C">
       <title>[登山] [Web] [奥能登] 2024-05-10 memo  野口建の言説の胡散臭さが確認できた形になる。  にしても、登山系のクラスタほど野 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,文化,NHK,時事,炎上,文化,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-09T05:55:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/08#WwRNbMutvv">
-      <title>[時事] 2024-05-08 おおお… これはゲテモノ好きの俺ですら寒気がする。 😨 食パンからネズミの一部 敷島製パン「 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/08#WwRNbMutvv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-09T02:51:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#zMR_skKtJm">
-      <title>[生活] [かほく] 2024-05-09 新しいランニングコースでも開拓しようかと、かほくエリアをふらふらと走ってきた。 新しそうな河 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#zMR_skKtJm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,かほく,生活,かほく]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-08T21:10:00.00Z</dc:date>
     </item>
   </rdf:RDF>
