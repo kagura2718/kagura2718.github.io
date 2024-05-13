@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-12T15:32:51.00Z</dc:date>
+    <dc:date>2024-05-13T03:55:59.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#msTYwjdHLy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#DXW_JFsLgu"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#rNdfPzxIH3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#g3W--aqEMk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#J5OvBX92ty"/>
@@ -25,13 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#PD4U1Rc2bp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#ZS8QfDxoM4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#5kbquQlVLC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#msTYwjdHLy">
+      <title>[モンハンNow] 2024-05-13 現状の属性強化スキルは攻撃力が固定で up なんだけど、属性値と比率 up って感じになって ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/13#msTYwjdHLy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-13T03:55:59.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#DXW_JFsLgu">
+      <title>[モンハンNow] 2024-05-13 へー HR 非表示には相当文句を言ってる人がいたんだな。そこまで不便だったか？明らかな低ラン ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/13#DXW_JFsLgu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-13T03:55:59.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7">
+      <title>[モンハンNow] 2024-05-13 ドスジャグラス ⭐ 9 は安全策でも討伐できるようになった。普段通りにやってると被弾したとき ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-13T03:55:59.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e">
       <title>[モンハンNow] 2024-05-12 武器強化の儀 リオレウス太刀 飛竜刀(朱) G8-5  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/12#tvP9cmay_e</link>
       <description>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-09T17:57:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C">
-      <title>[モンハンNow] 2024-05-09 HR177  昨日はアンジャナフから竜玉が一個。今朝もジュラトドスから一個。  今日ぐらい、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#Zs9dxqFc_C</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-09T16:53:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#5kbquQlVLC">
-      <title>[Web] [奥能登] 2024-05-09 これはどこだろう。けっこう長いトンネルだ。  ここっぽいな。  通ったことあったかな？ 🤔</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#5kbquQlVLC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-09T16:34:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw">
-      <title>[モンハンNow] 2024-05-09 やはり尻尾斬りの方が最終的には効率も勝率もいい。格上から同格以上が相手だとロックオンもあんま ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#RJFoxDrFOw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-09T06:57:57.00Z</dc:date>
     </item>
   </rdf:RDF>
