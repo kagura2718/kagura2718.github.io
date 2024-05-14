@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-14T03:07:06.64Z</dc:date>
+    <dc:date>2024-05-14T03:14:45.84Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#k3hYvcGvIR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#rGN7x6Fe93"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#msTYwjdHLy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#tzSaDZ373D"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#CwesKypF_7"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/11#JtyKc4qAXy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#VkBi8hayh0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/10#61bVaadpBD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#k3hYvcGvIR">
+      <title>[モンハンNow] 2024-05-14 ジンオウガ太刀を一段階強化したけど、あんまり実感がないんだよな。   こっちはストーリーを進 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/14#k3hYvcGvIR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-14T03:14:45.84Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7">
       <title>[モンハンNow] 2024-05-13 ドスジャグラス ⭐ 9 は安全策でも討伐できるようになった。普段通りにジャスト回避狙いでやっ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/13#UfbIaVB3_7</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-13T07:01:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#rGN7x6Fe93">
+      <title>[モンハンNow] 2024-05-14 武器強化の儀 リオレイア亜種 招福の竜扇 G7-3  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/14#rGN7x6Fe93</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-14T00:37:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/13#msTYwjdHLy">
       <title>[モンハンNow] 2024-05-13 現状の属性強化スキルは攻撃力が固定で up なんだけど、属性値と比率 up って感じになって ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-10T03:57:13.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq">
-      <title>[モンハンNow] 2024-05-09 竜玉がレイギエナより献上  竜玉もう一個、バフバロより  武器強化の儀 レイギエナ太刀スティ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#NRRH-BdHdq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-10T03:07:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9">
-      <title>[Web] [炎上] [奥能登] 2024-05-09 ボランティアでわざわざ被災地に行ってこんな行動する人 (おっさん) もいるのか。  逮捕され ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/09#TMcPO5lpE9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-10T00:40:57.00Z</dc:date>
     </item>
   </rdf:RDF>
