@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-20T03:55:42.01Z</dc:date>
+    <dc:date>2024-05-20T08:56:52.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GI/GIVIfLzb17.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FB/FBdw8fMexM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/58/58krRgER4E.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hw/hw8WQMIjGo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1m/1m7BSRmBHN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/m6/m6OuXSwqge.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bS/bSEbxa_ePl.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0Z/0ZYFJsl74E.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V8/V88Y57K382.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YK/YKh3k_MKHM.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dM/dMimMPd4mS.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-20T03:55:42.01Z</dc:date>
+    <dc:date>2024-05-20T08:56:52.29Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FB/FBdw8fMexM.htm">
     <title>[モンハンNow] 2024-05-20 ちょっとまだ無理ね。   しかし、絶対無理ってほどじゃない。</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-20T03:55:42.01Z</dc:date>
+    <dc:date>2024-05-20T08:56:52.29Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/58/58krRgER4E.htm">
     <title>[モンハンNow] 2024-05-20 HR184  武器強化の儀 リオレウス太刀 飛竜刀(朱) G9-2  </title>
@@ -53,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-20T03:55:42.01Z</dc:date>
+    <dc:date>2024-05-20T08:56:52.29Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hw/hw8WQMIjGo.htm">
+    <title>[モンハンNow] 2024-05-20 おお、ジンオウガタワーがある。  野生にも湧いてるよ。 ⭐ 8 でも割と余裕あるね。 😁 な ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/hw/hw8WQMIjGo.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-05-20T08:56:52.29Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1m/1m7BSRmBHN.htm">
     <title>[奥能登] [志賀町] 2024-05-19 志賀町 walking</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,生活,津幡,モンハンNow,ポケモンgo,生活,津幡,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-15T12:41:00.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dM/dMimMPd4mS.htm">
-    <title>[生活] [Web] [奥能登] [津幡] 2024-05-15 津幡の緑ヶ丘地域</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/dM/dMimMPd4mS.htm</link>
-    <description>
-        日記,随筆,簡約版,生活,Web,奥能登,津幡,生活,Web,奥能登,津幡</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-15T12:19:22.00Z</dc:date>
   </item>
 </rdf:RDF>
