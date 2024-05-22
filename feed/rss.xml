@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-21T11:32:12.98Z</dc:date>
+    <dc:date>2024-05-22T03:43:52.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#T8wA8WaZGZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#41PbgzhBfi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#zKXYIHSYjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#4wvjEdCIt2"/>
@@ -27,33 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/17#LcU7K0VQAo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/16#peea4m4RoS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/16#Zr5fK8QRbR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#SSKlkA7P-g"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni">
+      <title>[ポケモンgo] [Web] [炎上] [文化] 2024-05-21 おそらく、それなりに  どっちもどっち  案件。確かにやばそうなプレイヤ (おばさん？) で ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,文化,ポケモンgo,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-22T03:43:52.16Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#T8wA8WaZGZ">
+      <title>[漫画] [呪術廻戦] 2024-05-22 五条さん復活なの？？萎える。東条(だっけ？)は予想できてたから、そろそろ乙骨再登場だと思うん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/22#T8wA8WaZGZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-22T01:27:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU">
+      <title>[モンハンNow] 2024-05-21 ぼーっとやってるとまだときどき失敗するんだよな。 ⭐ 8 ディアブロスみたいなバグ込みの強さ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-21T22:37:23.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA">
       <title>[モンハンNow] 2024-05-20 本日の竜玉  いいジンオウガお兄さんがいた。  武器強化の儀 ジンオウガ太刀 ライキリ G9 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-21T11:32:12.98Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni">
-      <title>[ポケモンgo] [Web] [炎上] [文化] 2024-05-21 おそらく、それなりに  どっちもどっち  案件。確かにやばそうではあるけど、ナンバーまで晒す ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,文化,ポケモンgo,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-21T10:05:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU">
-      <title>[モンハンNow] 2024-05-21 ぼーっとやってるとまだときどき失敗するんだよな。 ⭐ 8  今は ⭐ 8 未満は叩く意味がほ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-21T03:46:20.00Z</dc:date>
+      <dc:date>2024-05-21T16:28:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#41PbgzhBfi">
       <title>[Web] 2024-05-20 隕石らしい。ポルトガルか。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-16T04:17:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/14#SSKlkA7P-g">
-      <title>[ポケモンgo] 2024-05-14 新しいのが出るらしい。再来週ぐらいからかな。 ズガドーンとツンデツンデ 【ポケモンGO】ツン ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/14#SSKlkA7P-g</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-15T01:27:20.00Z</dc:date>
     </item>
   </rdf:RDF>
