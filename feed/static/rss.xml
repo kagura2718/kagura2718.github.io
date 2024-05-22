@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-22T03:43:52.16Z</dc:date>
+    <dc:date>2024-05-22T03:45:44.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/B6/B6M6FkEzJA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wm/WmWMzpJno7.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Em/EmHa4Z8lOi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ek/ekvj59eb3N.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5p/5pp7f718qU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GI/GIVIfLzb17.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wD/wDR4rlDb0A.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FV/FVNF_srXkD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vv/vv4UhnjyMF.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sj/sj_-Auob-3.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,文化,ポケモンgo,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-22T03:43:52.16Z</dc:date>
+    <dc:date>2024-05-22T03:45:44.55Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Wm/WmWMzpJno7.htm">
     <title>[漫画] [呪術廻戦] 2024-05-22 五条さん復活なの？？萎える。東条(だっけ？)は予想できてたから、そろそろ乙骨再登場だと思うん ...</title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-22T01:27:00.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Em/EmHa4Z8lOi.htm">
+    <title>[モンハンNow] 2024-05-22 なかなか OK してくれない人、ときどきいる。くそはげが 😠 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Em/EmHa4Z8lOi.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-05-21T22:59:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ek/ekvj59eb3N.htm">
     <title>[モンハンNow] 2024-05-21 ぼーっとやってるとまだときどき失敗するんだよな。 ⭐ 8 ディアブロスみたいなバグ込みの強さ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-16T09:45:20.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sj/sj_-Auob-3.htm">
-    <title>[モンハンNow] 2024-05-16 武器強化の儀 ジュラトドス太刀 ディプテルス G9-1   ようやっとイビルジョーから唾液が ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/sj/sj_-Auob-3.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-16T04:17:43.00Z</dc:date>
   </item>
 </rdf:RDF>
