@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-22T03:45:44.55Z</dc:date>
+    <dc:date>2024-05-22T09:43:54.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#JawMZgA0z7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#T8wA8WaZGZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#XizxsUXG0M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#V0T945ScNU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#TnNMKDrNeA"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#ONvMeFpCGg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#41PbgzhBfi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#zKXYIHSYjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#4wvjEdCIt2"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/17#MHB2-vbHJo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/17#ilVpb4MwzS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/16#HDF4NF-TlN"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/17#LcU7K0VQAo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/16#peea4m4RoS"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#JawMZgA0z7">
+      <title>[モンハンNow] 2024-05-22 できれば一日に朝と夜二回で 3 回ぐらいはジンオウガタワーに突入したいが、さすがに難しいか。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/22#JawMZgA0z7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-22T09:43:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni">
       <title>[ポケモンgo] [Web] [炎上] [文化] 2024-05-21 おそらく、それなりに  どっちもどっち  案件。確かにやばそうなプレイヤ (おばさん？) で ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/21#Cky6k8O_Ni</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,文化,ポケモンgo,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-22T03:45:44.55Z</dc:date>
+      <dc:date>2024-05-22T06:56:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#T8wA8WaZGZ">
       <title>[漫画] [呪術廻戦] 2024-05-22 五条さん復活なの？？萎える。東条(だっけ？)は予想できてたから、そろそろ乙骨再登場だと思うん ...</title>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-21T16:28:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/22#ONvMeFpCGg">
+      <title>[モンハンNow] 2024-05-22 なんかすげぇ複雑だな。漂流石？ 新機能「漂移錬成」実装のお知らせ – Monster Hun ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/22#ONvMeFpCGg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-21T14:59:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#41PbgzhBfi">
       <title>[Web] 2024-05-20 隕石らしい。ポルトガルか。 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-17T17:23:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/17#LcU7K0VQAo">
-      <title>[Web] 2024-05-17 日本で似たような光景は黒部峡谷の下ノ廊下だっかな。あそこは歩道しかないはずだけど、ここを車が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/17#LcU7K0VQAo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-16T16:36:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/16#peea4m4RoS">
-      <title>[モンハンNow] 2024-05-16 初クルルヤック ⭐ 9 討伐完了 ✌️  SP 二発当て切って、かなり無理してようやっとだ。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/16#peea4m4RoS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-16T09:45:20.00Z</dc:date>
     </item>
   </rdf:RDF>
