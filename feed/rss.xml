@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-05-24T11:38:32.79Z</dc:date>
+    <dc:date>2024-05-25T00:58:49.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#xqnAT8Uu0N"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#8ccDFfzmKe"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#xqnAT8Uu0N"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/25#aaXx3fpi5R"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#CsmTa4JuEO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#vqI613rffc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/23#p-T2YEdTNe"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#zKXYIHSYjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#4wvjEdCIt2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/20#X4C5rJoOD0"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-05-19.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/19#Nw9hq0OWtA"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#xqnAT8Uu0N">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#8ccDFfzmKe">
+      <title>[食事] [料理] 2024-05-24 私は肉が好きだ。  じゃがいももいい。  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/24#8ccDFfzmKe</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-25T00:58:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#xqnAT8Uu0N">
       <title>[Web] [時事] [炎上] 2024-05-24 【内部文書入手】上川陽子「うまずして」切り取り報道の共同通信「全くひるむ必要は無い」差し替え ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/24#xqnAT8Uu0N</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-24T11:38:32.79Z</dc:date>
+      <dc:date>2024-05-24T15:17:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/25#aaXx3fpi5R">
+      <title>[アニメ] [鬼滅の刃] 2024-05-25 テレビアニメ「鬼滅の刃」 - 柱稽古編 - 2話 (アニメ) | 無料動画・見逃し配信を見る ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/25#aaXx3fpi5R</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,鬼滅の刃,アニメ,鬼滅の刃]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-24T12:30:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/24#CsmTa4JuEO">
       <title>[モンハンNow] 2024-05-24 武器強化の儀 レイギエナ太刀 スティーラー G9-3 G9-4    ジュラトドス太刀 ディ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-20T08:58:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-05-19.htm">
-      <title>[奥能登] [志賀町] 2024-05-19 志賀町 walking</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-05-19.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,奥能登,志賀町,奥能登,志賀町]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-19T12:09:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/19#Nw9hq0OWtA">
-      <title>[ポケモンgo] [登山] [生活] [宝達山] 2024-05-19 本日の登頂  宝達山の山の竜宮城はできたばかりだというのに、ゴム材がもう浮き上がってきてた。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/19#Nw9hq0OWtA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,登山,生活,宝達山,ポケモンgo,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-19T22:56:26.00Z</dc:date>
     </item>
   </rdf:RDF>
