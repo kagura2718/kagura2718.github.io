@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-01T03:42:48.44Z</dc:date>
+    <dc:date>2024-06-01T13:04:33.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4l/4lvkM4pH-v.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pd/PdoeQUBFa-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pl/pl8oZ1MrQo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eg/egPLEED73w.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PW/PWK9-5fP-B.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ux/uxyfpFoa6F.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cT/cTMid6itk6.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V6/V6XPDMcDrz.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4l/4lvkM4pH-v.htm">
+    <title>[ポケモンgo] [東北] 2024-06-01 やっぱりそんだけ人気があるんだねぇ？仙台なら東京近郊からも新幹線でひとっ飛びだから、かな？ </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4l/4lvkM4pH-v.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,東北,ポケモンgo,東北</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-01T13:04:33.16Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pd/PdoeQUBFa-.htm">
     <title>[モンハンNow] 2024-06-01 ゴミぞろい 😭 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Pd/PdoeQUBFa-.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-01T03:42:48.44Z</dc:date>
+    <dc:date>2024-06-01T13:04:33.16Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pl/pl8oZ1MrQo.htm">
     <title>[Web] 2024-05-28 ネットで声のでかいこういう連中、地方から都市部に供給する野菜や米に山菜、海産物に関する知見が ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-29T18:32:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V6/V6XPDMcDrz.htm">
-    <title>[時事] [女性] 2024-05-28 佳子様、やっぱりかわいい。和服は最高だが、洋服姿もときどき街中で見かけるぐらいの、上品だけど ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/V6/V6XPDMcDrz.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,女性,時事,女性</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-29T17:47:17.00Z</dc:date>
   </item>
 </rdf:RDF>
