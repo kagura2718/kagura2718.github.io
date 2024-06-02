@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-02T22:13:20.23Z</dc:date>
+    <dc:date>2024-06-02T22:46:05.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,12 +13,12 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/02#daDSG5HnY8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#WHfL1l-Dgv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#6AsiNB4MMt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#mLod86OgVq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#Jbo_AjtDGG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#kxZ2LtKemm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/30#vm2lz6AlDv"/>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,生活,小矢部,モンハンNow,生活,小矢部,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-02T22:13:20.23Z</dc:date>
+      <dc:date>2024-06-02T22:46:05.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55">
       <title>[モンハンNow] 2024-06-01 本日はノー竜玉。と思ったら夜になって出た。プケプケおじさんから献上 武器強化の儀 リオレイア ...</title>
@@ -70,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-02T14:01:32.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm">
+      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-05-31 百万石前夜の金沢walk</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-05-31T12:40:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#6AsiNB4MMt">
       <title>[モンハンNow] 2024-06-01 レイアの ⭐ 9 は…    火力装備で 2, 3 回失敗した後、なんとかなった。 ✌️   ...</title>
@@ -110,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,北海道,Web,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-31T12:38:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm">
-      <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-05-31 百万石前夜の金沢walk</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-05-31.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-31T12:09:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#Jbo_AjtDGG">
       <title>[登山] [Web] 2024-05-31 実刑か。 裁判長「重い不注意による人災」　那須雪崩8人死亡　教諭に実刑判決 | 毎日新聞 あ ...</title>
