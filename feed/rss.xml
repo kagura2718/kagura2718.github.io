@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-01T13:04:33.16Z</dc:date>
+    <dc:date>2024-06-02T02:09:40.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/02#daDSG5HnY8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#mLod86OgVq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#6AsiNB4MMt"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/30#dQowZsqZw5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/29#rUYLIk3V2c"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/30#lTB-PH6alG"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/29#jasqhAzSBo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/29#92PM70LTBf"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55">
+      <title>[モンハンNow] 2024-06-01 本日はノー竜玉。と思ったら夜になって出た。プケプケおじさんから献上 武器強化の儀 リオレイア ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-02T02:09:40.87Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/02#daDSG5HnY8">
+      <title>[モンハンNow] 2024-06-02 オドガロン ⭐ 9 は失敗することもなく終了。   桜レイア ⭐ 9 は勝てる見込みがまだな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/02#daDSG5HnY8</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-02T02:09:40.87Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ">
       <title>[ポケモンgo] [東北] 2024-06-01 やっぱりそんだけ人気があるんだねぇ？仙台なら東京近郊からも新幹線でひとっ飛びだから、かな？ </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,東北,ポケモンgo,東北]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-01T13:04:33.16Z</dc:date>
+      <dc:date>2024-06-01T22:05:08.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#mLod86OgVq">
       <title>[モンハンNow] 2024-06-01 ゴミぞろい 😭 </title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-01T13:04:33.16Z</dc:date>
+      <dc:date>2024-06-01T19:33:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC">
       <title>[Web] 2024-05-28 ネットで声のでかいこういう連中、地方から都市部に供給する野菜や米に山菜、海産物に関する知見が ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-05-30T05:50:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/29#jasqhAzSBo">
-      <title>[Web] [炎上] 2024-05-29 野口建のネトウヨ属性全開の言動からすると海外遠征したときの態度でぼこされそうな気がするのだけ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/29#jasqhAzSBo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-29T23:44:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/29#92PM70LTBf">
-      <title>[モンハンNow] 2024-05-29 ジョーの唾液が出た。珍しくジョーに二体出会った。  竜玉は出ない。 reward がもらえた ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/29#92PM70LTBf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-29T18:32:16.00Z</dc:date>
     </item>
   </rdf:RDF>
