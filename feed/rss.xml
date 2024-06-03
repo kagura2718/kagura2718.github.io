@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-02T22:58:35.94Z</dc:date>
+    <dc:date>2024-06-03T13:59:19.70Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#3JL-BHWOfv"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#HFiRj6Tcbx"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#3JL-BHWOfv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-06-02.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55"/>
@@ -18,7 +19,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#6AsiNB4MMt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#mLod86OgVq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#Jbo_AjtDGG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#kxZ2LtKemm"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#3JL-BHWOfv">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#HFiRj6Tcbx">
+      <title>[ポケモンgo] 2024-06-03 先週は 42km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/03#HFiRj6Tcbx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-03T13:59:19.70Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/03#3JL-BHWOfv">
       <title>[生活] [奥能登] 2024-06-03 揺れで目が覚めたのか、緊急警報で目が覚めたのか？分からないけど、ちょうど地震のタイミングで目 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/03#3JL-BHWOfv</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-02T22:58:35.94Z</dc:date>
+      <dc:date>2024-06-03T11:04:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,生活,小矢部,モンハンNow,生活,小矢部,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-02T22:58:35.94Z</dc:date>
+      <dc:date>2024-06-03T05:54:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#7U_5bKAQ55">
       <title>[モンハンNow] 2024-06-01 本日はノー竜玉。と思ったら夜になって出た。プケプケおじさんから献上 武器強化の儀 リオレイア ...</title>
@@ -110,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-01T19:33:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC">
-      <title>[Web] 2024-05-28 ネットで声のでかいこういう連中、地方から都市部に供給する野菜や米に山菜、海産物に関する知見が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/28#W9LLBTb5vC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-30T11:39:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP">
       <title>[Web] [北海道] 2024-05-31 四年前の北海道の映像だけど、「民主主義」ねぇ？「資本主義」の間違いじゃないかい？民主的な手段 ...</title>
