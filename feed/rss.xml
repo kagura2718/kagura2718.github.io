@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-05T23:18:55.43Z</dc:date>
+    <dc:date>2024-06-05T23:37:54.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#uQ_zWnLbr-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#HyRu5eXbY0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#oKH4QCwAD1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#c-xI-alKtr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/05#-GHYClq_y0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/05#iErxavGxLk"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#6AsiNB4MMt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#08ERXK_nBJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/01#mLod86OgVq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,mhnwo,mhnwo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-05T23:18:55.43Z</dc:date>
+      <dc:date>2024-06-05T23:37:54.60Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#HyRu5eXbY0">
       <title>[Ingress] [登山] 2024-06-06 常念岳が落ちた。ときどき見かける人だが、ずいぶん時間かかったな。  俺が常念岳に行ったのは  ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,登山,Ingress,登山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-05T23:18:55.43Z</dc:date>
+      <dc:date>2024-06-05T23:37:54.60Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#oKH4QCwAD1">
+      <title>[モンハンNow] 2024-06-06 この人の名前は見覚えあるな。いきなり準備 OK してて、ものすげぇ強そうなんだがw </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/06#oKH4QCwAD1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-05T20:02:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#c-xI-alKtr">
       <title>[モンハンNow] 2024-06-06 連続狩猟はジンオウガ以外はほぼ ⭐ 7 までで、人が集まるから余裕なんだけど、黒ディアだけは ...</title>
@@ -69,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,金沢,モンハンNow,ポケモンgo,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-05T08:33:59.00Z</dc:date>
+      <dc:date>2024-06-05T08:54:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#jRN40APQu1">
       <title>[ポケモンgo] 2024-06-06 これがディアンシーか。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-01T19:33:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP">
-      <title>[Web] [北海道] 2024-05-31 四年前の北海道の映像だけど、「民主主義」ねぇ？「資本主義」の間違いじゃないかい？民主的な手段 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/05/31#CyYfE7YjOP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,北海道,Web,北海道]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-05-31T12:38:49.00Z</dc:date>
     </item>
   </rdf:RDF>
