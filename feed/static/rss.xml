@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-04T03:54:03.89Z</dc:date>
+    <dc:date>2024-06-05T02:36:13.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nm/NmqNw4-htZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EQ/EQdqMjLChj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3z/3zHlMB0iem.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/w2/w2krme4NR6.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eo/eoq3o9XeE-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aE/aEzijkXriz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mp/mp5PwCUAff.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i5/i51NQ-it6n.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nm/NmqNw4-htZ.htm">
+    <title>[モンハンNow] 2024-06-05 HR194  最近はなぜかあんまり減っていかず、だぶつき気味。自宅にもよく ⭐ 9 が顔出す ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Nm/NmqNw4-htZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-05T02:36:13.05Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EQ/EQdqMjLChj.htm">
     <title>[ポケモンgo] 2024-06-04 週末の仙台方面からの招待でこれだけ取れた。 👍  この方、たしか平湯でニアミスレイドを一緒に ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/EQ/EQdqMjLChj.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-04T03:54:03.89Z</dc:date>
+    <dc:date>2024-06-04T05:19:05.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3z/3zHlMB0iem.htm">
     <title>[ポケモンgo] 2024-06-04 先日のキラ </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-05-30T18:34:49.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i5/i51NQ-it6n.htm">
-    <title>[モンハンNow] 2024-05-30 レイギエナの討伐時間がなかなか短縮しない。ノーマル装備 (飛竜刀翠) での ⭐ 8 討伐もな ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/i5/i51NQ-it6n.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-05-30T17:00:58.00Z</dc:date>
   </item>
 </rdf:RDF>
