@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-07T23:54:55.85Z</dc:date>
+    <dc:date>2024-06-08T03:36:14.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tj/tjkU08UHu6.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Tv/TvcAvFnK3u.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hc/hcgsSvHTUl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R8/R8wpn4Ypas.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nK/nKDdKaJFWV.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EQ/EQdqMjLChj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3z/3zHlMB0iem.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/w2/w2krme4NR6.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xx/XxdWhQoKPN.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-07T23:54:55.85Z</dc:date>
+    <dc:date>2024-06-08T03:36:14.55Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Tv/TvcAvFnK3u.htm">
+    <title>[モンハンNow] 2024-06-08 武器強化の儀 イビルジョー太刀 カラミティペイン G7-3, G7-4    HR196 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Tv/TvcAvFnK3u.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-08T01:34:14.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hc/hcgsSvHTUl.htm">
     <title>[モンハンNow] 2024-06-06 火力装備じゃないと削り切れぬ。   ジンオウガ大狩猟もソロチャレンジしてみるも、火力装備じゃ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-03T21:25:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xx/XxdWhQoKPN.htm">
-    <title>[生活] [小矢部] [モンハンNow] 2024-06-02 土砂降り 小矢部walk</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Xx/XxdWhQoKPN.htm</link>
-    <description>
-        日記,随筆,簡約版,生活,小矢部,モンハンNow,生活,小矢部,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-03T20:51:35.00Z</dc:date>
   </item>
 </rdf:RDF>
