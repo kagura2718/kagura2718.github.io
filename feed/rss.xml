@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-10T11:46:14.12Z</dc:date>
+    <dc:date>2024-06-10T14:24:02.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#Zt3Qge7cEE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#TXXg707JaN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/09#E_fSymh0de"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#ET9N0CB939"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#uQ_zWnLbr-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/06#4Hzec18d3V"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/07#gQJ5eu4VCw"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#Zt3Qge7cEE">
+      <title>[モンハンNow] 2024-06-10 寄り道して参加したら出た。うれしすぎる 😁  武器強化の儀 ジンオウガ太刀 ライキリ G10 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/10#Zt3Qge7cEE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-10T14:24:02.23Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm">
       <title>[ポケモンgo] [食事] [奥能登] [氷見] [七尾] [モンハンNow] 2024-06-09 氷見 - 七尾</title>
       <link>https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm</link>
       <description>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-10T11:46:14.12Z</dc:date>
+      <dc:date>2024-06-10T14:24:02.23Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/09#E_fSymh0de">
       <title>[登山] [生活] [宝達山] 2024-06-09 今日は完全 off  本日の登頂  久々に早い時間に登ったら、登山口の車はものすごい量だ。こ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-06T11:14:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/07#gQJ5eu4VCw">
-      <title>[モンハンNow] 2024-06-07 モンハンNow の動画を録画してみたけど、思ったよりもスマホは重くならない。録画でみるとカク ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/07#gQJ5eu4VCw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-06T10:10:15.00Z</dc:date>
     </item>
   </rdf:RDF>
