@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-12T03:04:25.52Z</dc:date>
+    <dc:date>2024-06-12T03:47:47.88Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XA/XADuTFPzdH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6R/6RytLNqJGU.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rx/RxNs-sUWkp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GN/GNX3aMfyGk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a1/a1spX0M7VB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MO/MO7BHhTMIU.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wl/WlEvgBKWQE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qZ/qZH5sC5MrV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q3/Q3JCVjN0IP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z7/z7NGtxG6y5.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,奥能登,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-12T03:04:25.52Z</dc:date>
+    <dc:date>2024-06-12T03:47:47.88Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6R/6RytLNqJGU.htm">
     <title>[ポケモンgo] [食事] [奥能登] [氷見] [七尾] [モンハンNow] 2024-06-09 氷見 - 七尾</title>
@@ -46,6 +46,14 @@
         日記,随筆,簡約版,ポケモンgo,食事,奥能登,氷見,七尾,モンハンNow,ポケモンgo,食事,奥能登,氷見,七尾,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-10T03:50:53.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rx/RxNs-sUWkp.htm">
+    <title>[モンハンNow] 2024-06-12 ジンオウガ亜種というのもいるわけか。黒系統。かっこええ。さすが兄貴  もしかして、これがジン ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Rx/RxNs-sUWkp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-11T23:40:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GN/GNX3aMfyGk.htm">
     <title>[料理] 2024-06-11 カリカリ鶏皮のチャーハン  うーん、焼いて脂を落としてもまだ脂っこい…</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-09T10:40:05.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/z7/z7NGtxG6y5.htm">
-    <title>[モンハンNow] 2024-06-09 防具強化の儀。これでクルルヘルムを完全に置き換えできる。  あとは漂移錬成できるように G8 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/z7/z7NGtxG6y5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-09T06:16:38.00Z</dc:date>
   </item>
 </rdf:RDF>
