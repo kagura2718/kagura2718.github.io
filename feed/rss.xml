@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-13T02:46:27.44Z</dc:date>
+    <dc:date>2024-06-13T03:12:11.67Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#i0xU47hFFK"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#d1rPAujDxo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#6ynk00uhLn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#CKH-ApO71O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/09#E_fSymh0de"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#T6NjClXRa8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#FXTLaBelpc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#0LjjyIghOu"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#i0xU47hFFK">
+      <title>[モンハンNow] 2024-06-13 武器強化の儀 飛竜刀 朱 G9-3, G9-4    ジンオウガ兄貴のおかげで、プケプケ ⭐ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/13#i0xU47hFFK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#d1rPAujDxo">
+      <title>[ポケモンgo] 2024-06-13 先日の最大強化 (PL50) </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/13#d1rPAujDxo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix">
       <title>[奥能登] 2024-06-12 先日の記録  を眺めててふと思ったのが、ブルーシートが目立った地域は、単に耐震基準を満たして ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T02:46:27.44Z</dc:date>
+      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#6ynk00uhLn">
       <title>[Web] [奥能登] 2024-06-11 どこまで本当かなーと思って眺めてる。ほんとにそんなにたくさん従業員はいるのだろうか。ほんとに ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T02:46:27.44Z</dc:date>
+      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#CKH-ApO71O">
       <title>[モンハンNow] 2024-06-12 ジンオウガ亜種というのもいるわけか。黒系統。かっこええ。さすが兄貴  もしかして、この素材が ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-10T12:09:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#FXTLaBelpc">
-      <title>[モンハンNow] 2024-06-10 プケ亜種 ⭐ 8 はどれだけノーミスでも火力装備でギリになる。バランスが悪い。  あるいはし ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/10#FXTLaBelpc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-10T05:12:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#0LjjyIghOu">
-      <title>[ポケモンgo] 2024-06-10 昨日の成果  ヌメルゴンて水 + ドラゴンかと思ったらドラゴン単体だった。 【ポケモンGO】 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/10#0LjjyIghOu</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-10T02:11:05.00Z</dc:date>
     </item>
   </rdf:RDF>
