@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+    <dc:date>2024-06-13T10:57:59.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,8 +12,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#d1rPAujDxo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#6ynk00uhLn"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#CKH-ApO71O"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#hg-sWm65w4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#CKH-ApO71O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Froh5Os1Nc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#etZRwBpB2X"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/10#TXXg707JaN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/09#E_fSymh0de"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#T6NjClXRa8"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+      <dc:date>2024-06-13T10:57:59.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#d1rPAujDxo">
       <title>[ポケモンgo] 2024-06-13 先日の最大強化 (PL50) </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+      <dc:date>2024-06-13T10:57:59.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#Pl6ctXk2ix">
       <title>[奥能登] 2024-06-12 先日の記録  を眺めててふと思ったのが、ブルーシートが目立った地域は、単に耐震基準を満たして ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+      <dc:date>2024-06-13T10:57:59.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#6ynk00uhLn">
       <title>[Web] [奥能登] 2024-06-11 どこまで本当かなーと思って眺めてる。ほんとにそんなにたくさん従業員はいるのだろうか。ほんとに ...</title>
@@ -61,7 +61,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-13T03:12:11.67Z</dc:date>
+      <dc:date>2024-06-13T10:57:59.92Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/13#hg-sWm65w4">
+      <title>[モンハンNow] 2024-06-13 新シーズン到来か。   ⭐ 9 の周回はうまくいくだろうか。結局、強化したレウス太刀でもギエ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/13#hg-sWm65w4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-13T07:15:12.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw">
+      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-06-12 歩いてるだけで汗が出るシーズン到来。雨が降らないし降ってもすぐ乾くのが救いか。 なんか知らん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-12T18:15:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#CKH-ApO71O">
       <title>[モンハンNow] 2024-06-12 ジンオウガ亜種というのもいるわけか。黒系統。かっこええ。さすが兄貴  もしかして、この素材が ...</title>
@@ -70,14 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-12T20:25:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw">
-      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-06-12 歩いてるだけで汗が出るシーズン到来。雨が降らないし降ってもすぐ乾くのが救いか。 なんか知らん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/12#JaUEVCHvgw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-12T16:53:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-06-09.htm">
       <title>[ポケモンgo] [食事] [奥能登] [氷見] [七尾] [モンハンNow] 2024-06-09 氷見 - 七尾</title>
@@ -182,13 +190,5 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/11#T6NjClXRa8">
-      <title>[Web] 2024-06-11 🐻 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/11#T6NjClXRa8</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-10T12:09:06.00Z</dc:date>
     </item>
   </rdf:RDF>
