@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-20T15:52:32.00Z</dc:date>
+    <dc:date>2024-06-20T23:43:22.48Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-06-20.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/21#gx-qE4E39c"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/20#RiD8vpc40A"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/19#BU64mcJ9LT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/18#9F1aFVI_NA"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/17#s5ARhUm0Sl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/18#Vace0RAYn2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/17#9WIqycVACn"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/16#Cw5fEwaVZk"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,登山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-20T15:52:32.00Z</dc:date>
+      <dc:date>2024-06-20T23:43:22.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/21#gx-qE4E39c">
+      <title>[ポケモンgo] 2024-06-21 おおー、これは… 来週の土曜かな。隕石を二つぐらいほしぃ。できればもっと。  そして孵化装置 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/21#gx-qE4E39c</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-20T23:43:22.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/20#RiD8vpc40A">
       <title>[アニメ] 2024-06-20 勇気爆発バーンブレイバーン - シーズン1 - 1話 (アニメ) | 無料動画・見逃し配信を ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関東,東京,Web,炎上,関東,東京]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-17T06:13:27.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/16#Cw5fEwaVZk">
-      <title>[モンハンNow] 2024-06-16 いい加減、 campfire にクシャルダオラとか表示してほしい。ほどほどの距離なら休憩中に ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/16#Cw5fEwaVZk</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-17T01:29:11.00Z</dc:date>
     </item>
   </rdf:RDF>
