@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-22T09:50:52.00Z</dc:date>
+    <dc:date>2024-06-22T19:37:46.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6O/6O-ZCeJfXX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TQ/TQhXmMbtg5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FU/FUhBXWWvEu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9A/9A9k2dH-MC.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BY/BYxjcDd0xR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wf/wf0m32nRoJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5r/5rwfKFOLKP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iX/iXcAD3GtwH.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6O/6O-ZCeJfXX.htm">
+    <title>[モンハンNow] 2024-06-23 HR203 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/6O/6O-ZCeJfXX.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-22T19:37:46.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TQ/TQhXmMbtg5.htm">
     <title>[モンハンNow] 2024-06-23 武器強化の儀 リオレイア太刀 飛竜刀(翠) G9-3 G9-4    おお？まずまずなんだけ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/TQ/TQhXmMbtg5.htm</link>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,食事,金沢,モンハンNow,食事,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-22T08:19:15.00Z</dc:date>
+    <dc:date>2024-06-22T08:41:18.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9A/9A9k2dH-MC.htm">
     <title>[登山] [食事] [白山] [モンハンNow] 2024-06-20 白山 8 の字</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,NHK,Web,炎上,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-20T00:12:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iX/iXcAD3GtwH.htm">
-    <title>[生活] [金沢] [モンハンNow] 2024-06-18 あんまり来たことない森本駅エリア、今日は木越団地のあたりを歩いてみる。 ここも崩れてる。   ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/iX/iXcAD3GtwH.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,金沢,モンハンNow,生活,金沢,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-18T22:34:06.00Z</dc:date>
   </item>
 </rdf:RDF>
