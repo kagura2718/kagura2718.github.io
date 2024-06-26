@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-26T03:54:54.68Z</dc:date>
+    <dc:date>2024-06-26T15:28:52.70Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#3IVl8oYb30"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#OmdLpb5Efu"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#3IVl8oYb30"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/25#QF_rHeiPvB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/25#2lFLyNtkX4"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/24#gTHuDM9Wfc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/23#lgvVyE5mNe"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/23#bg6lm0JWT7"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#3IVl8oYb30">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#OmdLpb5Efu">
+      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-06-27 駅前レイドアワー。といっても無料パスを消化するのみ。  金沢駅前はときどきハンターの数が 1 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/27#OmdLpb5Efu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-26T15:28:52.70Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#3IVl8oYb30">
       <title>[モンハンNow] 2024-06-26 クシャルダオラの討伐動画撮ってるから、後から眺めてると、回復しないで待ってる奴がいるのは対戦 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/26#3IVl8oYb30</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-26T03:54:54.68Z</dc:date>
+      <dc:date>2024-06-26T07:34:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/about.htm">
       <title>神楽@AR(拡張現実世界) 自己紹介</title>
@@ -72,12 +80,12 @@
       <dc:date>2024-06-23T19:02:37.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#xRXc_x_hun">
-      <title>[モンハンNow] 2024-06-26 動画のテスト </title>
+      <title>[モンハンNow] 2024-06-26 動画のテスト。とりあえず試験運用中 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/26#xRXc_x_hun</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-25T13:49:12.00Z</dc:date>
+      <dc:date>2024-06-25T14:50:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/25#D3CzDc5tZ5">
       <title>[料理] 2024-06-25 とんぺい焼きを色々と工夫してるんだけど、フライパンだからかいまいちうまくいかん。↓これはほぼ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-23T21:15:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/23#bg6lm0JWT7">
-      <title>[Web] [NHK] 2024-06-23 memo  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/23#bg6lm0JWT7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,NHK,Web,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-23T19:28:21.00Z</dc:date>
     </item>
   </rdf:RDF>
