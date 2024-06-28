@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-27T13:37:16.87Z</dc:date>
+    <dc:date>2024-06-28T00:56:18.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sA/sAalfABaGG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RZ/RZA2UhwNkZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jo/Jo4Qorweo9.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UD/UDZMwvl7WK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bz/BzVWEuPjKy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t4/t4Bg7im1zY.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zf/Zfsj9cEork.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm">
+    <title>[モンハンNow] 2024-06-28 防具強化にいたしましょう。防具強化の儀 プケ亜種頭 G8-3, G8-4   </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-06-28T00:56:18.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sA/sAalfABaGG.htm">
     <title>[モンハンNow] 2024-06-27 HR205  「沼地の」とあるけど、「沼地で」という気がする。ずーーーっと勘違いしてた。全部 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/sA/sAalfABaGG.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-27T13:37:16.87Z</dc:date>
+    <dc:date>2024-06-27T16:42:57.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RZ/RZA2UhwNkZ.htm">
     <title>[モンハンNow] 2024-06-27 レウス太刀、二段階は強化が必要になりそう。足りぬ。今回は絶対クエストレベルは下げないで進行さ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-27T13:37:16.87Z</dc:date>
+    <dc:date>2024-06-27T17:11:29.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Jo/Jo4Qorweo9.htm">
     <title>[Web] [文化] [モンハンNow] 2024-06-27 クシャルダオラで twitter 検索してみると、どうも遠隔マッチングについて理解していなさ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,かほく,Web,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-25T05:05:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Zf/Zfsj9cEork.htm">
-    <title>[食事] [料理] 2024-06-24 先日のなめこは丼になっていただいた。  ほんとにでけぇなめこだ。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Zf/Zfsj9cEork.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,食事,料理,食事,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-24T19:33:56.00Z</dc:date>
   </item>
 </rdf:RDF>
