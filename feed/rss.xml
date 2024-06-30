@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-06-30T03:04:38.97Z</dc:date>
+    <dc:date>2024-06-30T03:45:11.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#biqQB0gfQe"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#avf8uHFzNM"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#biqQB0gfQe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#Rq3BHvRpnm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#hH0YDBSEXl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/29#a7SjSNnyO0"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#RNoqg5kHTX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/26#PXxpkJXTw8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#w8JbS8s6Mq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#BgKiWmccCs"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#biqQB0gfQe">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#avf8uHFzNM">
+      <title>[モンハンNow] 2024-06-30 クシャルダオラ朝の部。00:35 ぐらい攻撃モーションのない移動でもジャスト回避発生すること ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/30#avf8uHFzNM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-06-30T03:45:11.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#biqQB0gfQe">
       <title>[モンハンNow] 2024-06-30 武器強化の儀 リオレウス太刀 飛竜刀(朱) G9-5   防具強化の儀 パオウルムー腰 G8-5 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/30#biqQB0gfQe</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-30T03:04:38.97Z</dc:date>
+      <dc:date>2024-06-30T03:45:11.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/30#Rq3BHvRpnm">
       <title>[ポケモンgo] [Banarepu] [xREIWAx] 2024-06-30 ポケモンでも POI に名前が出るんだな。  けんじくんは最近、自宅っぽい滝港の近くでしか見 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-06-26T20:11:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/06/27#BgKiWmccCs">
-      <title>[Web] [料理] 2024-06-27 鶏肉が余ってたので、この辺りのレシピをめちゃくちゃ簡単にして作ってみた。バーター液というのが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/06/27#BgKiWmccCs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-06-26T22:26:58.00Z</dc:date>
     </item>
   </rdf:RDF>
