@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-01T03:09:35.85Z</dc:date>
+    <dc:date>2024-07-01T03:36:48.39Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XD/XDNOmbWOkd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NR/NRhc0f0AD7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uk/ukZjui47lk.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ia/IajiVvz5SA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UG/UGxt65uyz5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eT/eTCGrNSjxS.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XD/XDNOmbWOkd.htm">
+    <title>[モンハンNow] 2024-07-01 すげぇ。5 周した。  全員がガチレベルの廃人だったか。 🙏</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/XD/XDNOmbWOkd.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-01T03:36:48.39Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NR/NRhc0f0AD7.htm">
     <title>[アニメ] [薬屋のひとりごと] 2024-07-01 プリキュアの録画が捕獲されていた。ワンダフルプリキュア？というのかな。前に  この人の tw ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/NR/NRhc0f0AD7.htm</link>
     <description>
         日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-01T03:09:35.85Z</dc:date>
+    <dc:date>2024-07-01T03:36:48.39Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm">
     <title>神楽@AR(拡張現実世界) 自己紹介</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-28T08:10:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm">
-    <title>[モンハンNow] 2024-06-28 防具強化にいたしましょう。防具強化の儀 プケ亜種頭 G8-3, G8-4   </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/RU/RU-NeKJCjy.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-28T00:56:18.00Z</dc:date>
   </item>
 </rdf:RDF>
