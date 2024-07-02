@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fc/fcHL77MuLf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y6/Y6gOYyeBUe.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Il/IlNuIR-Z7B.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GL/GLVYsEz4Da.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-h/-hyhCDHHxv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yl/ylDpOd3pr-.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yu/Yuv_LVVQM3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4M/4MiqLwoNVy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Oy/Oy03R1gVxU.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E9/E9CvRt6WEw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-02T13:06:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Il/IlNuIR-Z7B.htm">
+    <title>[モンハンNow] 2024-07-03 今日も勝てません！ レイギエナ ⭐ 9   録画すると確実に遅いタイミングが増える。</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Il/IlNuIR-Z7B.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-02T07:57:33.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GL/GLVYsEz4Da.htm">
     <title>[生活] [北陸] [モンハンNow] 2024-07-02 久々に討伐できず、撃退のみ 😭 時間が足りなくなった。深夜の時間はメンバーの火力が極度に低い ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Ingress,Ingress</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-29T20:19:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E9/E9CvRt6WEw.htm">
-    <title>[ポケモンgo] [Ingress] [かほく] 2024-06-30 意外なことに iwa は follow back してくれた 😅 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/E9/E9CvRt6WEw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,Ingress,かほく,ポケモンgo,Ingress,かほく</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-29T23:41:01.00Z</dc:date>
   </item>
 </rdf:RDF>
