@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-02T03:11:47.39Z</dc:date>
+    <dc:date>2024-07-02T03:53:45.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y6/Y6gOYyeBUe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-h/-hyhCDHHxv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yl/ylDpOd3pr-.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LD/LDI0JdctbC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/44/44M5kPGhgQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mN/mNql3GTLSH.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ak/AkKjVWFWLu.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm">
+    <title>[アニメ] [鬼滅の刃] 2024-07-02 さすがに産屋敷の年齢の設定 (23 歳) は無理あるなーと何度みても思う。産屋敷 vs 無惨 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,鬼滅の刃,アニメ,鬼滅の刃</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-02T03:53:45.60Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Y6/Y6gOYyeBUe.htm">
     <title>[モンハンNow] 2024-07-02 途中で抜ける人それなりにいても、割と安定してきた。太刀はとにかく頭を叩かんといかん。  </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Y6/Y6gOYyeBUe.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-02T03:11:47.39Z</dc:date>
+    <dc:date>2024-07-02T03:53:45.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-h/-hyhCDHHxv.htm">
     <title>[モンハンNow] 2024-06-30 今までで一番時間がかかった… 6 回突撃したのは初めてだな。出たり入ったりの人とか、被弾しま ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-06-29T02:47:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ak/AkKjVWFWLu.htm">
-    <title>[アニメ] 2024-06-28 ニア・オートマタてゲームだっけ？元からアニメ？どういうストーリーなのかまったく知らないが、名 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ak/AkKjVWFWLu.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-06-29T01:21:13.00Z</dc:date>
   </item>
 </rdf:RDF>
