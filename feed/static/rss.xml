@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-04T09:40:03.79Z</dc:date>
+    <dc:date>2024-07-04T11:58:37.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eM/eMYMA_W78c.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qe/qen5xVsLDh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pb/Pb6sm3mnMV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PC/PCfwncVaRZ.htm"/>
@@ -17,7 +18,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A3/A3_SCRASHW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qd/Qdmmr1fKMf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ie/ieflLKu3j8.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Iw/Iwqucx3EH8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fc/fcHL77MuLf.htm"/>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-04T09:40:03.79Z</dc:date>
+    <dc:date>2024-07-04T11:58:37.23Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm">
+    <title>神楽@AR(拡張現実世界) 自己紹介</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm</link>
+    <description>
+        ingress, ポケモンGo, Pokémon GO, モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2021-11-02T00:04:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qe/qen5xVsLDh.htm">
     <title>[モンハンNow] 2024-07-04 朝から一戦できた。ラッキー  おお、昼にも湧いた。ソロでチャレンジしてみましょう。  無理！ ...</title>
@@ -102,14 +110,6 @@
         日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-02T07:52:46.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm">
-    <title>神楽@AR(拡張現実世界) 自己紹介</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/i8/i8vOfq5Q2s.htm</link>
-    <description>
-        ingress, ポケモンGo, Pokémon GO, モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T00:04:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/IV/IVDBNMD9Iu.htm">
     <title>[アニメ] [鬼滅の刃] 2024-07-02 さすがに産屋敷の年齢の設定 (23 歳) は無理あるなーと何度みても思う。産屋敷 vs 無惨 ...</title>
