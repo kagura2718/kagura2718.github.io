@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-12T03:25:11.01Z</dc:date>
+    <dc:date>2024-07-12T03:30:40.03Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#RfcQ3-8E3Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#_oSe6seaS_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#ZpmJBK2iGn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#_2S3QHqnhf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#cmR74pZHxX"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/09#9DTuTthXxg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/09#aOqWZOto0v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#hKF3mUuVig"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/09#AhODmUOXr3"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-12T03:25:11.01Z</dc:date>
+      <dc:date>2024-07-12T03:30:40.03Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#RfcQ3-8E3Q">
       <title>[モンハンNow] 2024-07-12 昨日の当たりで、氷属性が単独で 3 積める。氷のアタック性能が一気に上がる。  凍風も 2  ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-12T03:25:11.01Z</dc:date>
+      <dc:date>2024-07-12T03:30:40.03Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5">
       <title>[時事] [四国] 2024-07-12  ここかな。  斜度のある斜面が崩れたのね。 </title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,四国,時事,四国]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-12T03:25:11.01Z</dc:date>
+      <dc:date>2024-07-12T03:30:40.03Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p">
       <title>[登山] 2024-07-10 ちょっと古いけど、パキスタン？のシスパーレに、グレートトラバースで撮影部隊もやっていた平出さ ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,登山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-10T21:02:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#_oSe6seaS_">
+      <title>[ポケモンgo] 2024-07-12 約一名が桁違いだ。 😂  そういえば、レイドアワーのときにギリで参加できて、一体カミツルギは ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/12#_oSe6seaS_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-11T20:14:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#ZpmJBK2iGn">
       <title>[生活] [北陸] 2024-07-11 ん？？北陸の週間天気予報から雨マークが消えたね。梅雨明け？？？まさか。 この暑い時期、昼に  ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,サッカー,サッカー]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-09T13:35:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/09#AhODmUOXr3">
-      <title>[モンハンNow] 2024-07-09 ストーリー進めてから初の野良ジンオウガ ⭐ 9 を見つけた。スクランブル発進した。  やはり ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/09#AhODmUOXr3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-09T11:22:39.00Z</dc:date>
     </item>
   </rdf:RDF>
