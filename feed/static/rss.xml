@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-11T14:42:28.97Z</dc:date>
+    <dc:date>2024-07-12T03:09:29.49Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ut/utjkbfADN2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/35/354G1MZwdC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rp/rpDFi_UdMa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/69/69REPNr5A7.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rM/rMgNnF4z55.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3U/3UnMGhVHl0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fg/FgJW7w6OBp.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pH/pHOs5QtIgt.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ut/utjkbfADN2.htm">
+    <title>[時事] [四国] 2024-07-12  ここかな。  斜度のある斜面が崩れたのね。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ut/utjkbfADN2.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,四国,時事,四国</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-12T03:09:29.49Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/35/354G1MZwdC.htm">
     <title>[登山] 2024-07-10 ちょっと古いけど、パキスタン？のシスパーレに、グレートトラバースで撮影部隊もやっていた平出さ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/35/354G1MZwdC.htm</link>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-11T14:42:28.97Z</dc:date>
+    <dc:date>2024-07-11T19:49:55.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/69/69REPNr5A7.htm">
     <title>[モンハンNow] 2024-07-11 次はこれか… 定点では 1 個しか入らんからこっちはあんまり伸ばせないかもだな。  今回はこ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-09T11:05:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pH/pHOs5QtIgt.htm">
-    <title>[時事] [東京] 2024-07-09 小泉進次郎構文がなぜか頻りに流れてくると思ったら、落選した石丸のパワハラ構文との対比で流れて ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/pH/pHOs5QtIgt.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,東京,時事,東京</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-09T05:20:39.00Z</dc:date>
   </item>
 </rdf:RDF>
