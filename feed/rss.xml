@@ -4,18 +4,20 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-13T03:00:25.38Z</dc:date>
+    <dc:date>2024-07-13T06:23:17.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#j0eLBduBmB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#-ggq1PCS-f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-07-11.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#qFYruReJxX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#T7AWqz4zeB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#3xc5VYTxzl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#_FXqGLkvhL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#RfcQ3-8E3Q"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#BqERpSDsPB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#blHkmKdqUb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#_2S3QHqnhf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#cmR74pZHxX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#2I6rN-_6lg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#EJe31upJRE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#QFFi0QWwqG"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#j0eLBduBmB">
-      <title>[ポケモンgo] 2024-07-13 イベントか… 明日までかな。  今日はリモートぐらいしかできなさそう…</title>
+      <title>[ポケモンgo] 2024-07-13 イベントか… 明日までかな。今日はリモートぐらいしかできなさそう…  へー。エナジーが集めら ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/13#j0eLBduBmB</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-13T03:00:25.38Z</dc:date>
+      <dc:date>2024-07-13T06:23:17.11Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#-ggq1PCS-f">
+      <title>[モンハンNow] 2024-07-13 これは、まずまずの当たり。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/13#-ggq1PCS-f</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-13T06:23:17.11Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-07-11.htm">
       <title>[奥能登] [文化] 2024-07-08 輪島朝市</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,奥能登,文化,奥能登,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-13T03:00:25.38Z</dc:date>
+      <dc:date>2024-07-13T06:23:17.11Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/about.htm">
       <title>神楽@AR(拡張現実世界) 自己紹介</title>
@@ -55,13 +63,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2022-03-27T04:25:17.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5">
+      <title>[時事] [四国] 2024-07-12  ここかな。  斜度のある斜面が崩れたのね。  松山市の県庁近く、街中のど真ん中じゃないか。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,四国,時事,四国]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-12T06:29:35.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#qFYruReJxX">
       <title>[生活] [羽咋] [モンハンNow] 2024-07-12 なんよ、これ… 目線やばい。  なんかクシャルダオラ ⭐ 8 はジャストミートでいい感じに湧 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/12#qFYruReJxX</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,モンハンNow,生活,羽咋,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-13T03:00:25.38Z</dc:date>
+      <dc:date>2024-07-13T04:54:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#T7AWqz4zeB">
       <title>[モンハンNow] 2024-07-12 変わった。いよいよタマミツネか。ジンオウガほどかっこよくないが、水属性の強い太刀は来るのだろうか。 </title>
@@ -70,6 +86,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-12T20:47:33.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#3xc5VYTxzl">
+      <title>[Web] [時事] [四国] 2024-07-13 工事してたのがもろ崩落箇所だな。責任の所在というと県？市？の土木関係者あたりになるだろうか。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/13#3xc5VYTxzl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,四国,Web,時事,四国]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-12T19:53:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#_FXqGLkvhL">
       <title>[モンハンNow] 2024-07-13 ジンオウガ逆鱗！ </title>
@@ -86,14 +110,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-12T12:10:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5">
-      <title>[時事] [四国] 2024-07-12  ここかな。  斜度のある斜面が崩れたのね。  松山市の県庁近く、街中のど真ん中じゃないか。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/12#ofcZ0aRjm5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,四国,時事,四国]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-12T06:29:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#BqERpSDsPB">
       <title>[時事] [文化] [北海道] 2024-07-12 ほほう… 警察の腐敗は全国に、だね。腐敗というと最近になって悪くなったように聞こえちゃうが、 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-11T03:36:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#EJe31upJRE">
-      <title>[teamABC] [PerazziBeretta] [かほく] 2024-07-11 JUNteamABC まだ活動してるんだな。最近、全然見かけなかった。  PB おじさんのお ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/11#EJe31upJRE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,teamABC,PerazziBeretta,かほく,teamABC,PerazziBeretta,かほく]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-10T17:59:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/11#QFFi0QWwqG">
-      <title>[モンハンNow] 2024-07-11 タマミツネは今日からかと思ったら来週 (7/18 木) からか。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/11#QFFi0QWwqG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-10T16:34:56.00Z</dc:date>
     </item>
   </rdf:RDF>
