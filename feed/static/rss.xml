@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-K/-K3ZpsVOFe.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ty/Ty5NI4kn9z.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_r/_rlBQX6ph3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/M_/M_QWPLt6Ap.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wb/WbgF6Pfc1I.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8R/8R9e5u9wVY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mr/Mr9qcqpkoC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/35/354G1MZwdC.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Un/Un-c19jNX0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         日記,つぶやき,雑記帳,Web,時事,国際,Web,時事,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-14T05:37:29.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ty/Ty5NI4kn9z.htm">
+    <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-07-14 土砂降り金沢。買い物とネクロズマが目的だ。  ルナアーラ？ソルガレオ？まだよく知らん。    ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ty/Ty5NI4kn9z.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-13T19:45:01.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_r/_rlBQX6ph3.htm">
     <title>[ポケモンgo] 2024-07-13 イベントか… 明日までかな。今日はリモートぐらいしかできなさそう…  へー。エナジーが集めら ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,登山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-10T21:02:51.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Un/Un-c19jNX0.htm">
-    <title>[モンハンNow] 2024-07-13 武器強化の儀 リオレイア太刀 飛竜刀 (翠) G9-5   金足りない… </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Un/Un-c19jNX0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-11T21:58:09.00Z</dc:date>
   </item>
 </rdf:RDF>
