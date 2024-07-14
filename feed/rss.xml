@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-14T05:37:29.00Z</dc:date>
+    <dc:date>2024-07-14T23:43:22.90Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#ElSM7LAl1W"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#6BWGbaQT53"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#rM0Z0cLvc-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#ElSM7LAl1W"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#PtIxwaVtAh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#j0eLBduBmB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#vW3T4yU7K3"/>
@@ -26,12 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#V-_nnEyKPc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/13#61_K-scjMz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#RfcQ3-8E3Q"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#BqERpSDsPB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#ElSM7LAl1W">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#6BWGbaQT53">
+      <title>[ポケモンgo] 2024-07-15 昨日の 💯  昨日の成果。あんなにいっぱいやったのに、先日お誘いいただいた仙台の子の方が高固 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/15#6BWGbaQT53</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-14T23:43:22.90Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#rM0Z0cLvc-">
+      <title>[ポケモンgo] 2024-07-15 期限なしのスペシャルリサーチか。  メガルカリオがやってくるらしい。ソロでいけるんか。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/15#rM0Z0cLvc-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-14T11:02:26.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#ElSM7LAl1W">
       <title>[Web] [時事] [国際] 2024-07-14 あー… これ、決まっちゃうかもね。普段から反トランプのリベラル型の人が、明言しないものの、「 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/14#ElSM7LAl1W</link>
       <description>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-12T12:10:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/12#BqERpSDsPB">
-      <title>[時事] [文化] [北海道] 2024-07-12 ほほう… 警察の腐敗は全国に、だね。腐敗というと最近になって悪くなったように聞こえちゃうが、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/12#BqERpSDsPB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,文化,北海道,時事,文化,北海道]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-12T09:42:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p">
-      <title>[登山] 2024-07-10 ちょっと古いけど、パキスタン？のシスパーレに、グレートトラバースで撮影部隊もやっていた平出さ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/10#Eyxn1S3X1p</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,登山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-10T21:02:51.00Z</dc:date>
     </item>
   </rdf:RDF>
