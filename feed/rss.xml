@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-16T13:21:27.83Z</dc:date>
+    <dc:date>2024-07-16T13:28:16.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#QyW3s9mYV_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#xsz_tvpEl-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#jXrmxPhVtv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#U1FDNoj5is"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#WfFeNYyMI9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#dPOqfkNc_T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#iovFjmIii1"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/14#PtIxwaVtAh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#WqhoV_PyK3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#6caOyBgzqj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#Da0yLvNa4U"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-16T13:21:27.83Z</dc:date>
+      <dc:date>2024-07-16T13:28:16.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#xsz_tvpEl-">
       <title>[登山] [NHK] 2024-07-16 平出さんのシスパーレ登山。 前回の  鑑賞続き。 こういうトラバースが連続するらしい。  お ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-16T04:40:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#U1FDNoj5is">
+      <title>[Web] [金沢] 2024-07-16 ？これは今晩の出来事かな。明日ぐらいは大々的に全国ニュースになってるかな。逮捕者も出るんじゃ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/16#U1FDNoj5is</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,金沢,Web,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-16T02:40:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#WfFeNYyMI9">
       <title>[Web] [モンハンNow] 2024-07-15 なるほど。骨ガンランスを見て抜ける人がいるわけか。そういえば、昨晩、一人抜けてったときは骨ガ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,沖縄,Web,奥能登,文化,沖縄]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-14T17:42:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#Da0yLvNa4U">
-      <title>[ポケモンgo] 2024-07-15 本日の最大強化 PL40 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/15#Da0yLvNa4U</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-14T17:22:13.00Z</dc:date>
     </item>
   </rdf:RDF>
