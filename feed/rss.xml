@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-18T10:47:25.62Z</dc:date>
+    <dc:date>2024-07-18T11:38:21.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#tvKfAFvMC4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/17#cAD7kLJJg3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#PjQ0ChAN9u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/17#TNZPy-TDUL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/Meal/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#l6uHLq9OTY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#hKpUMbjipF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#wFs75Oful1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#U8aQwlSys-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/17#T_Jvx1CsRG"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#WfFeNYyMI9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#dPOqfkNc_T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#iovFjmIii1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#j_ek1_K016"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#ICNRvQh_1y"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-18T10:47:25.62Z</dc:date>
+      <dc:date>2024-07-18T11:38:21.10Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/17#cAD7kLJJg3">
+      <title>[料理] 2024-07-17 またアラビアータにいたしましょう。この時期、辛いものが美味しい。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/17#cAD7kLJJg3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-18T11:38:21.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#PjQ0ChAN9u">
       <title>[Web] [国際] 2024-07-18 これとか、攻殻機動隊でも取り上げられてた記憶の改竄みたいな話だね。特定の人間に新たな記憶 ( ...</title>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,金沢,Web,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-17T23:06:33.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#hKpUMbjipF">
+      <title>[アニメ] 2024-07-18 高校ブランスバンドのアニメかしら？  鉄板萌えの巫女さん  なんかメンヘラ的な… 近付きたく ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/18#hKpUMbjipF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-17T21:08:14.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/18#wFs75Oful1">
       <title>[モンハンNow] 2024-07-18 HR213 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-15T22:04:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/15#j_ek1_K016">
-      <title>[アニメ] 2024-07-15 幽遊白書の古いアニメが無料だ。これ、リアルタイムで観てないのだけど、やっぱり現代のアニメと較 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/15#j_ek1_K016</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-16T01:00:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/16#ICNRvQh_1y">
-      <title>[時事] [地理] [四国] 2024-07-16 たぶん、行政の責任なんだけど、地元の地方大学だと行政とずぶずぶだからちゃんと指摘できないと思 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/16#ICNRvQh_1y</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,地理,四国,時事,地理,四国]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-15T17:39:25.00Z</dc:date>
     </item>
   </rdf:RDF>
