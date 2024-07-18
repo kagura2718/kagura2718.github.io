@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-18T00:05:31.00Z</dc:date>
+    <dc:date>2024-07-18T10:47:25.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S_/S_9W2Rxibr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ku/kuquJFE8oy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm"/>
@@ -27,12 +28,19 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wx/WxoWQoNSzA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EE/EEoEVp7eQJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fp/Fp8gW1q9n2.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tV/tVwOdbYQBr.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/S_/S_9W2Rxibr.htm">
+    <title>[モンハンNow] 2024-07-18 タマミツネがやってきた。初戦はおともが捕獲した ⭐ 8 なんか動きがおかしいと思ったら滑ると ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/S_/S_9W2Rxibr.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-18T10:47:25.62Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm">
-    <title>[Web] [国際] 2024-07-18 これとか、攻殻機動隊でも取り上げられてた記憶の改竄みたいな話だね。特定の人間に新たな記憶を埋 ...</title>
+    <title>[Web] [国際] 2024-07-18 これとか、攻殻機動隊でも取り上げられてた記憶の改竄みたいな話だね。特定の人間に新たな記憶 ( ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,時事,地理,四国,時事,地理,四国</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-15T17:39:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tV/tVwOdbYQBr.htm">
-    <title>[ポケモンgo] 2024-07-16 先日のネクロズマレイドのときに間違って満タン傷薬をごっそり捨ててしまったのだけど、特に困らな ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/tV/tVwOdbYQBr.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-15T20:03:05.00Z</dc:date>
   </item>
 </rdf:RDF>
