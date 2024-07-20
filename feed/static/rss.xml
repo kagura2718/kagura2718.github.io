@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-20T10:09:32.37Z</dc:date>
+    <dc:date>2024-07-20T11:18:15.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dV/dVEU50thHX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fo/fowNW5hI9s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bn/BnIY1iKUl5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y3/Y38gzSzFc-.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xf/xfZ3j3wwAE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aq/aqg9x6Kpr2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9i/9iy1JMizCv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dV/dVEU50thHX.htm">
+    <title>[モンハンNow] 2024-07-20 これ防具に加えて武器まで悉く美しい。桜イメージだろうか？これは他作品でもこういうデザインなの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/dV/dVEU50thHX.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-20T11:18:15.05Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fo/fowNW5hI9s.htm">
     <title>[モンハンNow] 2024-07-20 ジンオウガの逆鱗！ </title>
     <link>https://kagura2718.github.io/Gitwee/jump/fo/fowNW5hI9s.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-20T10:09:32.37Z</dc:date>
+    <dc:date>2024-07-20T11:18:15.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bn/BnIY1iKUl5.htm">
     <title>[料理] 2024-07-20 炒飯にいたしましょう </title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-20T10:09:32.38Z</dc:date>
+    <dc:date>2024-07-20T11:18:15.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Y3/Y38gzSzFc-.htm">
     <title>[モンハンNow] 2024-07-20 HR214 </title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-20T10:09:32.38Z</dc:date>
+    <dc:date>2024-07-20T11:18:15.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qb/qbt1dXIlH9.htm">
     <title>[生活] [金沢] [文化] [モンハンNow] 2024-07-19 やっぱり予報通りの土砂降りですなぁ。  はぁ  いつの間にかフレンドになってる人 (= OT ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-18T08:18:54.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm">
-    <title>[Web] [国際] 2024-07-18 これとか、攻殻機動隊でも取り上げられてた記憶の改竄みたいな話だね。特定の人間に新たな記憶 ( ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Nk/NkQUJCfPMh.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-17T21:39:29.00Z</dc:date>
   </item>
 </rdf:RDF>
