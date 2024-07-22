@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-22T14:45:07.10Z</dc:date>
+    <dc:date>2024-07-22T21:50:29.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#s6eQDwEQp6"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#s6eQDwEQp6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#N0RVjvZY29"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#rSIvVw72tb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/21#aRJiilbNha"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/21#EmX92Sd6_l"/>
@@ -31,29 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51">
-      <title>[ポケモンgo] 2024-07-22 先週は 54km  昨日のシラスは在席でちょっと捕まえただけで、ほぼスルーした。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-22T14:45:07.10Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5">
-      <title>[モンハンNow] 2024-07-22 武器強化の儀 スティーラー G10-3, G10-4    次は異次元の竜玉 30 鱗が 3 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-22T14:45:07.10Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#s6eQDwEQp6">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#s6eQDwEQp6">
       <title>[ポケモンgo] [Web] [炎上] [文化] 2024-07-22 引用しないけど、何か揉めてるんだな。知らんけど。 背景画像がどーたら。正直、私はどうでもいい ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/22#s6eQDwEQp6</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,文化,ポケモンgo,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-22T14:41:47.00Z</dc:date>
+      <dc:date>2024-07-22T21:47:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51">
+      <title>[ポケモンgo] 2024-07-22 先週は 54km  昨日のシラスは在席でちょっと捕まえただけで、ほぼスルーした。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/22#EcSKa6eE51</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-22T20:57:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#N0RVjvZY29">
       <title>[Ingress] [生活] [金沢] [モンハンNow] 2024-07-22 夕方に走り出したものの思ってたよりもあちかったな。 10km ほど走ったところで水分が切れた ...</title>
@@ -61,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,生活,金沢,モンハンNow,Ingress,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-22T09:14:55.00Z</dc:date>
+      <dc:date>2024-07-22T09:19:57.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5">
+      <title>[モンハンNow] 2024-07-22 武器強化の儀 スティーラー G10-3, G10-4    次は異次元の竜玉 30 鱗が 3 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/22#kUfxs0fkj5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-22T17:34:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/22#rSIvVw72tb">
       <title>[漫画] [アニメ] [長野] 2024-07-22 逃げ上手の若君は割と話題作みたいだ。ジャンプ作品だからかね？史実の時行の最期を知ってしまうと ...</title>
