@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-29T10:24:47.43Z</dc:date>
+    <dc:date>2024-07-29T10:41:57.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NA/NATqKhb8mc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J-/J-Gca9LdP0.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g2/g2SVHQbpfl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iv/ivot38bS6M.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MM/MMMYbBsIPj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wy/wy9o46DOWZ.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bg/bgyRZpAtKb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lA/lAazc3iKSP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hn/Hnr-5u1f60.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/r3/r3Zadd4IaR.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-29T10:24:47.43Z</dc:date>
+    <dc:date>2024-07-29T10:41:57.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/J-/J-Gca9LdP0.htm">
     <title>[ポケモンgo] 2024-07-28 10km で埋まったら…  こうする縛りでプレイしています。 </title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-29T03:00:30.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/g2/g2SVHQbpfl.htm">
+    <title>[モンハンNow] 2024-07-29 クシャルダオラ武器はハンマーにしたんだけど G8 から rare 6 素材がかなりたくさん要 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/g2/g2SVHQbpfl.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-07-29T06:35:44.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iv/ivot38bS6M.htm">
     <title>[Web] 2024-07-29 memo  非情の山、K2の最難関ルート　「世界最強の2人」が挑んだ前人未到：朝日新聞デジタル</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-26T01:18:15.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/r3/r3Zadd4IaR.htm">
-    <title>[モンハンNow] 2024-07-26 あー、これで田舎でもフレンドタスクがちょっとは捗ることになる。そういうことね。am 9:00 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/r3/r3Zadd4IaR.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-26T13:57:07.00Z</dc:date>
   </item>
 </rdf:RDF>
