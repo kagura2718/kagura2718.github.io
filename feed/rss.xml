@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-30T10:39:33.75Z</dc:date>
+    <dc:date>2024-07-30T13:45:24.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#XW4vcLb1D-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#nhDWBQc1--"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#phvN45lWCf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#alKoeO9gXV"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#UKULB5qCUL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#YSTOHe72qG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#olXwdog7uS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#8CtepLpm_m"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#7CaCOWuFk5"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#XW4vcLb1D-">
+      <title>[生活] 2024-07-30 うーん、今月どこも行けなかったな。まぁ梅雨だからね…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/30#XW4vcLb1D-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-30T13:45:24.92Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#nhDWBQc1--">
+      <title>[Web] [炎上] [文化] 2024-07-30 なんか聞き覚えのあるニュースを TL でちらちら見かけると思ったら…   なるほど↓これか。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/30#nhDWBQc1--</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-30T13:45:24.92Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J">
       <title>[モンハンNow] 2024-07-30 おおー、なるほど。プライバシー情報が隠せるモードが追加されそう。一番の課題であったフィールド ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-30T10:39:33.75Z</dc:date>
+      <dc:date>2024-07-30T13:45:24.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK">
       <title>[中国] [歴史] 2024-07-29 改めて見直してみると、三国志時代の「蜀」のあったと思われる現在の成都市なんかは、今はすっかり ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-27T16:49:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#8CtepLpm_m">
-      <title>[モンハンNow] 2024-07-27 武器強化の儀 ジンオウガ太刀 ライキリ G10-4   氷に続き、雷もリーチ。おそらくこっち ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/27#8CtepLpm_m</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-27T16:43:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#7CaCOWuFk5">
-      <title>[Web] [炎上] 2024-07-27 東京もパリも観てないのだけど、この東京のやつは何なの？安倍がマリオやってたのはなんとなく記憶 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/27#7CaCOWuFk5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-27T06:01:39.00Z</dc:date>
     </item>
   </rdf:RDF>
