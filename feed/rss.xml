@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-29T14:18:25.31Z</dc:date>
+    <dc:date>2024-07-29T23:40:45.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#_dZa6a3jwc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#phvN45lWCf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#J7L7mX1lTR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#alKoeO9gXV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#r-hVGMaKOj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#chaO4Pkb4s"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#8CtepLpm_m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#7CaCOWuFk5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#-XNbsyBdr9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#kFVVPW-dQC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/25#tO-CnaW5Mz"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -39,13 +39,29 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-29T03:00:30.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#phvN45lWCf">
+      <title>[モンハンNow] 2024-07-30 太刀 SP が外れるのが初めて録画できた。イビルジョーのこのタイミングが外れたことはないぞ… </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/30#phvN45lWCf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-29T22:36:05.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#J7L7mX1lTR">
       <title>[Web] [炎上] [文化] 2024-07-29 相変わらず↓早川由紀夫の暴言が酷いな。また懲戒処分されるんじゃないかな。白山に来ていったらし ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/29#J7L7mX1lTR</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-29T14:18:25.31Z</dc:date>
+      <dc:date>2024-07-29T22:27:25.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK">
+      <title>[中国] 2024-07-29 改めて見直してみると、三国志時代の「蜀」のあったと思われる現在の成都市なんかは、今はすっかり ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,中国,中国]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-29T10:22:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#alKoeO9gXV">
       <title>[中国] [アニメ] [歴史] 2024-07-29 じっくりと『パリピ孔明』 無料の一話目のみ。  「三顧の礼」を知ってて、なおかつ諸葛亮の草庵 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-27T05:47:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#kFVVPW-dQC">
-      <title>[Web] [時事] 2024-07-27 あんな見るからにやばげなものを口に入れる発想が分からない。虎杖悠仁かよ。 【速報】仕事帰りに ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/27#kFVVPW-dQC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-26T23:56:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/25#tO-CnaW5Mz">
-      <title>[モンハンNow] 2024-07-25 これ、思ったより田舎民にはハードル高そう。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/25#tO-CnaW5Mz</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-26T01:18:15.00Z</dc:date>
     </item>
   </rdf:RDF>
