@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-07-30T22:23:30.40Z</dc:date>
+    <dc:date>2024-07-31T03:10:44.47Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,8 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#XW4vcLb1D-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#nhDWBQc1--"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#Hdnfo7K_7J"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/31#reuwBFNMmX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/31#0FBV-GKCkg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#phvN45lWCf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#alKoeO9gXV"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/27#xfN3yJRZg-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#MqGMoJE6yd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#AOWE59IeK0"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#UKULB5qCUL"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#YSTOHe72qG"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-30T22:23:30.40Z</dc:date>
+      <dc:date>2024-07-31T03:10:44.47Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#XW4vcLb1D-">
       <title>[生活] 2024-07-30 うーん、今月どこも行けなかったな。まぁ梅雨だからね…</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-30T22:23:30.40Z</dc:date>
+      <dc:date>2024-07-31T03:10:44.47Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/30#nhDWBQc1--">
       <title>[Web] [炎上] [文化] 2024-07-30 なんか聞き覚えのあるニュースを TL でちらちら見かけると思ったら…   なるほど↓これか。 ...</title>
@@ -62,6 +62,22 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-30T19:33:40.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/31#reuwBFNMmX">
+      <title>[ポケモンgo] 2024-07-31 これは参加できるかねぇ。隕石は欲しい。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/31#reuwBFNMmX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-30T17:58:23.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/31#0FBV-GKCkg">
+      <title>[登山] [Web] 2024-07-31 うーん、だな。もちろん面識などないが、残念極まりない。 😭 K2滑落の日本人2人 救助活動を ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/31#0FBV-GKCkg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-07-30T11:28:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/29#s1FJTnURZK">
       <title>[中国] [歴史] 2024-07-29 改めて見直してみると、三国志時代の「蜀」のあったと思われる現在の成都市なんかは、今はすっかり ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-07-28T05:25:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#UKULB5qCUL">
-      <title>[ポケモンgo] 2024-07-28 あれ、またメガルカリオ湧いてる。またなんかあった？  😂</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/28#UKULB5qCUL</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-28T04:26:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/07/28#YSTOHe72qG">
-      <title>[Web] [炎上] 2024-07-28 平和の象徴のハトを五輪の開会式で焼却してたのは、いかにもその後の時代の流れを示唆してて面白いな。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/07/28#YSTOHe72qG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-07-27T20:56:24.00Z</dc:date>
     </item>
   </rdf:RDF>
