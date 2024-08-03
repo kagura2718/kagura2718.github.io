@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-03T07:52:37.11Z</dc:date>
+    <dc:date>2024-08-03T08:00:28.97Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fL/fLR-E5KDH8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rp/rpXBClgJoS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mk/Mk6HWcvmb0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/14/14OOdVzszJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/q8/q8nownDv6T.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AI/AIWHyPLSxG.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TY/TYhy9KSaA6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Lw/LwyUne3Kvu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rZ/rZvdQ-VyIf.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wy/wy9o46DOWZ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J-/J-Gca9LdP0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-03T07:52:37.11Z</dc:date>
+    <dc:date>2024-08-03T08:00:28.97Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -47,6 +47,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rp/rpXBClgJoS.htm">
+    <title>[飛騨] [奥飛騨] [岐阜] 2024-08-03 杖石(つえいし) のところ、こんなに中二心をくすぐる場所があったのか。知らんかった。普段、暗 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/rp/rpXBClgJoS.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,飛騨,奥飛騨,岐阜,飛騨,奥飛騨,岐阜</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-03T01:27:52.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm">
     <title>[登山] [北アルプス] 2024-08-02 槍ヶ岳 (久々の穂先)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm</link>
@@ -54,6 +62,14 @@
         日記,随筆,簡約版,登山,北アルプス,登山,北アルプス</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-03T00:32:53.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Mk/Mk6HWcvmb0.htm">
+    <title>[生活] [富山] 2024-08-03 新穂高に抜けるときにルートが変わってたのは、ここの通行止め原因だな。どこかに土砂崩れがあった ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Mk/Mk6HWcvmb0.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,富山,生活,富山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-02T14:56:18.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/14/14OOdVzszJ.htm">
     <title>[ポケモンgo] [生活] [モンハンNow] 2024-08-03 昼の部 (12:00) にアプローチできる公園にいったけど、誰もいないかった。前のメガレック ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-07-30T01:32:19.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wy/wy9o46DOWZ.htm">
-    <title>[中国] [アニメ] [歴史] 2024-07-29 じっくりと『パリピ孔明』 無料の一話目のみ。  「三顧の礼」を知ってて、なおかつ諸葛亮の草庵 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/wy/wy9o46DOWZ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,中国,アニメ,歴史,中国,アニメ,歴史</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-29T08:50:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/J-/J-Gca9LdP0.htm">
-    <title>[ポケモンgo] 2024-07-28 10km で埋まったら…  こうする縛りでプレイしています。  しかし、この縛りもそろそろ解 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/J-/J-Gca9LdP0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-07-29T03:00:30.00Z</dc:date>
   </item>
 </rdf:RDF>
