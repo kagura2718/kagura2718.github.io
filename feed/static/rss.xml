@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-05T11:43:39.70Z</dc:date>
+    <dc:date>2024-08-05T12:10:14.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iQ/iQ93-t7jzJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nr/nr5Nuack8g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QU/QUZ3BgVX2x.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lg/lgB-v6LOq5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MH/MHTe0KdPGS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ih/ihMcF4Krdr.htm"/>
@@ -22,7 +23,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sd/SdRrJ3-BBh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/M_/M_213Vs27x.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pP/pP0zwtAZ7L.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/j4/j4mVWKSpTH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VF/VFhxNl8Dc7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8K/8Ks5JZIcGO.htm"/>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-05T11:43:39.70Z</dc:date>
+    <dc:date>2024-08-05T12:10:14.10Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,映画,Web,映画</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-05T11:43:39.70Z</dc:date>
+    <dc:date>2024-08-05T12:10:14.10Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iQ/iQ93-t7jzJ.htm">
     <title>[モンハンNow] 2024-08-03 思ってた以上に、ディアブロス亜種 ⭐ 9 はうざい 😂 走るな。   クシャルダオラ の後半 ...</title>
@@ -61,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-05T11:43:39.70Z</dc:date>
+    <dc:date>2024-08-05T12:10:14.10Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/nr/nr5Nuack8g.htm">
     <title>[ポケモンgo] 2024-08-05 先週は 62km  槍ヶ岳で 40km ほど歩いたのに思ったほど伸びなかったような… 暑くて ...</title>
@@ -78,6 +78,14 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-05T09:12:29.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm">
+    <title>[登山] [北アルプス] 2024-08-02 槍ヶ岳</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm</link>
+    <description>
+        日記,随筆,簡約版,登山,北アルプス,登山,北アルプス</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-03T09:42:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lg/lgB-v6LOq5.htm">
     <title>[モンハンNow] 2024-08-05 防具強化の儀 プケプケ亜種頭 G8-5 </title>
@@ -142,14 +150,6 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-04T12:59:59.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm">
-    <title>[登山] [北アルプス] 2024-08-02 槍ヶ岳</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Pb/PbAeO7ABk4.htm</link>
-    <description>
-        日記,随筆,簡約版,登山,北アルプス,登山,北アルプス</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-03T09:42:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/j4/j4mVWKSpTH.htm">
     <title>[モンハンNow] 2024-08-04 まぁ、これは勝てない。 😭 </title>
