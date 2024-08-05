@@ -4,21 +4,22 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-05T12:10:14.10Z</dc:date>
+    <dc:date>2024-08-05T23:33:55.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#Mp6ragEpBF"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/06#JyQv9kZ1W_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#Mp6ragEpBF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/04#ZIKrXGZnQJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#uXRuNBkJi3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#2hUermadse"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#nLGv689Ayq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-02.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#CBQRglQJKe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/04#f8dVultmte"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/04#J3Vzl3yWkx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#5tbQk6Vl91"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#lRxfsPKMF5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#tK3esl6z_-"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#xHmqXuhhfD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#-DvgxI_yEZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#pkpd5HdJpt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/01#Sek63D3PGL"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#Mp6ragEpBF">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/06#JyQv9kZ1W_">
+      <title>[漫画] 2024-08-06 うーん、かっこいいな。魔王、両面宿儺。大魔王感がある。 両面宿儺 vs 高羽が観たかった気も ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/06#JyQv9kZ1W_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-05T23:33:55.64Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#Mp6ragEpBF">
       <title>[モンハンNow] 2024-08-05 さて、素材が集まりました。武器強化の儀 飛竜刀 (朱) G10-4   次はゼニー不足との闘 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/05#Mp6ragEpBF</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-05T12:10:14.10Z</dc:date>
+      <dc:date>2024-08-05T21:49:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,映画,Web,映画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-05T12:10:14.10Z</dc:date>
+      <dc:date>2024-08-05T15:48:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#uXRuNBkJi3">
       <title>[モンハンNow] 2024-08-03 思ってた以上に、ディアブロス亜種 ⭐ 9 はうざい 😂 走るな。   クシャルダオラ の後半 ...</title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-05T12:10:14.10Z</dc:date>
+      <dc:date>2024-08-05T13:10:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA">
+      <title>[モンハンNow] 2024-08-05 HR220  バフバロも ⭐ 10 いけるね。おそらく勝率 1/5 ぐらいで。レウス太刀 G ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-04T20:14:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#2hUermadse">
       <title>[ポケモンgo] 2024-08-05 先週は 62km  槍ヶ岳で 40km ほど歩いたのに思ったほど伸びなかったような… 暑くて ...</title>
@@ -110,14 +126,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-04T17:52:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA">
-      <title>[モンハンNow] 2024-08-05 HR220  バフバロも ⭐ 10 いけるね。おそらく 1/5 ぐらいで。レウス太刀 G10 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/05#MzrNMX2GTA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-04T16:54:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/03#5tbQk6Vl91">
       <title>[モンハンNow] 2024-08-03 遠隔一狩り、非常によいのだけどますます武器の切り替えがめんどうで辛い。汎用の毒武器でも、会心 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,飛騨,奥飛騨,岐阜,飛騨,奥飛騨,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-03T01:27:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/01#Sek63D3PGL">
-      <title>[生活] 2024-08-01 モバイル時代の初期に買ったモバイルバッテリーが充電できなくなったから、他のもバタバタ死亡する ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/01#Sek63D3PGL</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-02T22:28:49.00Z</dc:date>
     </item>
   </rdf:RDF>
