@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-08T03:30:52.78Z</dc:date>
+    <dc:date>2024-08-08T08:39:56.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/km/kmEE3aoNwZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ts/tsDVvWPIbH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tw/twW1Mc4QrO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1y/1y6vynfXuU.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nr/nr5Nuack8g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QU/QUZ3BgVX2x.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lg/lgB-v6LOq5.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MH/MHTe0KdPGS.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/km/kmEE3aoNwZ.htm">
+    <title>[Web] [炎上] [国際] [九州] 2024-08-08 一部ではしばらく前から騒いでた話。メジャー媒体にも出てきたね。  長崎市長の様子だと、どうだ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/km/kmEE3aoNwZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,国際,九州,Web,炎上,国際,九州</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-08T08:39:56.55Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ts/tsDVvWPIbH.htm">
     <title>[生活] [金沢] 2024-08-06 ちょっと普段行かない店を開拓しに「蕎麦の大藪」。人気店なだけあって、諸々が行き届いててリピ確 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/ts/tsDVvWPIbH.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-08T03:30:52.79Z</dc:date>
+    <dc:date>2024-08-08T04:05:50.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tw/twW1Mc4QrO.htm">
     <title>[飛騨] [奥飛騨] [岐阜] 2024-08-07 先日の杖石は普通に登れるみたいだ。「杖石」ってのがこの岩場で地区名なのだから象徴的な存在にな ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-05T07:12:47.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/MH/MHTe0KdPGS.htm">
-    <title>[生活] [かほく] 2024-08-04 潮見台の辺り、高台にあるせいか明るい時間だとなかなか眺めがいいな。ここは地震被害もあんまりな ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/MH/MHTe0KdPGS.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,かほく,生活,かほく</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-05T04:54:22.00Z</dc:date>
   </item>
 </rdf:RDF>
