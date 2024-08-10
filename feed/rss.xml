@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-10T23:15:39.54Z</dc:date>
+    <dc:date>2024-08-10T23:48:06.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-09.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#Z6muy1VzQb"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#BcVrgXthTv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#zCEe6bYX7j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#xw1jNE5s4n"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#FqiWBH79j6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#8sPaMX3V47"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#3paVA2Vq6m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#bjTVd3Dyd1"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/08#DWzdWyh9Fv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/07#qINFJGlx4p"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/07#XGR-lslSla"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/07#r0mEaq-5hg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/06#gLTjCrCrK4"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,登山,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-10T23:15:39.54Z</dc:date>
+      <dc:date>2024-08-10T23:48:06.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#BcVrgXthTv">
+      <title>[生活] [羽咋] [文化] 2024-08-10 夜に歩いてたらこんなの見つけたんだけど  ↓読んでると、もしかして DX とまったく関係ない ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/10#BcVrgXthTv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,文化,生活,羽咋,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-10T23:48:06.80Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#zCEe6bYX7j">
       <title>[Web] [モンハンNow] 2024-08-10 次元リンクの仕様変更されたかね？この方がいい気がする。まぁでも外でるのあちーからな。文句も出 ...</title>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-10T15:16:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#FqiWBH79j6">
+      <title>[ポケモンgo] [モンハンNow] 2024-08-11 剱岳下山後に、めんどくさくて適当にセットしたやつに狙ってない当たりを引いてしまった。あーあ、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/11#FqiWBH79j6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-10T09:30:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#8sPaMX3V47">
       <title>[生活] [時事] 2024-08-10 今度はあっち… これは色々不安につけこんだ情報が蔓延するな。偽情報に気をつけましょう。 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-07T04:51:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/07#r0mEaq-5hg">
-      <title>[モンハンNow] 2024-08-07 HR221  武器強化の儀 ジュラトドス太刀 ディプテルス G10-3   また金か。金が足りない。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/07#r0mEaq-5hg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-06T20:48:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/06#gLTjCrCrK4">
-      <title>[登山] [Web] 2024-08-06 平出さんの情報を youtube で探そうとしたら、ヒマラヤ出動前、直近の映像が目に入ってき ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/06#gLTjCrCrK4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-06T16:22:37.00Z</dc:date>
     </item>
   </rdf:RDF>
