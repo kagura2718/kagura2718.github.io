@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-12T23:28:35.53Z</dc:date>
+    <dc:date>2024-08-13T03:40:48.09Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#tXiy4Dxz7Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#10jOCoISvV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#BkQDxf4_0Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-09.htm"/>
@@ -27,25 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#BcVrgXthTv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#7lbZaVZh5J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/10#Z6muy1VzQb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#-F0gA7_CzF"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX">
-      <title>[モンハンNow] 2024-08-13 HR223  それほど欲しくない当たりが出た。だが当たりは当たりだ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-12T23:28:35.53Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4">
       <title>[登山] [Web] 2024-08-12 木曽駒！どのルートだろうか。  俺の通った上松のルートではなく北側から入ってくルートになる。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-12T23:28:35.53Z</dc:date>
+      <dc:date>2024-08-13T03:40:48.09Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX">
+      <title>[モンハンNow] 2024-08-13 HR223  それほど欲しくない当たりが出た。だが当たりは当たりだ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-13T03:40:48.09Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#tXiy4Dxz7Z">
+      <title>[ポケモンgo] [奥能登] 2024-08-13 奥能登から戻ってきた。このまま永遠に戻らないかと思ってたぞ。  この灯台自体は老朽化？のため ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/13#tXiy4Dxz7Z</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,奥能登,ポケモンgo,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-13T01:39:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#10jOCoISvV">
       <title>[登山] [剱岳] 2024-08-12 塩見岳行ってみてぇな。前に剱岳で会った人に塩見岳を一押しされた。ちょっと調べた感じは縁遠い、 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,登山,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-11T01:22:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#-F0gA7_CzF">
-      <title>[Web] [炎上] 2024-08-11 ふーん？  3 時間ぐらい警察を名乗った「犯罪者」グループとしゃべってた感じだね。口座の資金 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/11#-F0gA7_CzF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-10T21:23:57.00Z</dc:date>
     </item>
   </rdf:RDF>
