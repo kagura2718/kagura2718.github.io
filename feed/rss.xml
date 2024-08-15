@@ -4,14 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-15T03:12:20.78Z</dc:date>
+    <dc:date>2024-08-15T08:29:19.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#dBdHsDhS4a"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#ptkbGi2Tpf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#RzR7-OonpH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#kqhI6hwbqX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#nbCZQB5KWS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#FiK5n4230K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#ioGxLsjN-b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#c-nyQ-I6-S"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#BDdmJVDywP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#tXiy4Dxz7Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#10jOCoISvV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#BkQDxf4_0Y"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#6RB7xH66iJ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#h8rwrOi1WB"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC">
+      <title>[Web] [奥能登] 2024-08-15 こういうこと書いてるけど、嘘くさいなぁ。  普通に日曜は休んでた  もちろん休みは必要なので ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-15T08:29:19.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm">
       <title>[登山] [Web] 2024-08-15 広河原のあたりも不安定だなぁ。あの辺りを上高地みたいにしたいとどこかで書いてた気がするけど、 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-15T03:12:20.78Z</dc:date>
+      <dc:date>2024-08-15T08:29:19.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#dBdHsDhS4a">
+      <title>[ポケモンgo] [Wayfarer] [登山] [新潟] 2024-08-15 Gift の中でちらっと見えた気がする「割引岳」は新潟の魚沼辺りか。尾瀬のエリアに該当するだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/15#dBdHsDhS4a</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Wayfarer,登山,新潟,ポケモンgo,Wayfarer,登山,新潟]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-15T05:11:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#ptkbGi2Tpf">
       <title>[モンハンNow] 2024-08-14 これの風圧軽減はどれぐらいの効果があるのやら… 普通に風圧耐性に分割してほしい。訳わかんなくね？ </title>
@@ -62,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-14T16:30:40.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#nbCZQB5KWS">
+      <title>[Web] 2024-08-15 山中で傷が入ったら沢水でもなんでもいいから洗った方がマシなのだけど、こういう奴らにコメントさ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/15#nbCZQB5KWS</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-14T16:23:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#FiK5n4230K">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-08-14 夕方から走りはじめて 30km ぐらい走って歩いたか？というぐらい疲れたが、 23km ほど ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,剱岳,登山,剱岳]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-12T22:16:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#BkQDxf4_0Y">
-      <title>[モンハンNow] 2024-08-12 アンジャナフ ⭐ 10 はジュラトドス太刀 G10-4 でも勝ちの目がまったく見えん。タマミ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/12#BkQDxf4_0Y</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-12T21:30:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/11#6RB7xH66iJ">
-      <title>[時事] [国際] 2024-08-11 ウクライナ奇襲、ロシアに衝撃　越境攻撃5日目、緊張続く（共同通信） - Yahoo!ニュース ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/11#6RB7xH66iJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-12T16:01:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#h8rwrOi1WB">
-      <title>[ポケモンgo] [Web] [炎上] 2024-08-13 ？？シャドウルギアてまだ出てんのかい？ 私、熱量が下がったせいか、やったのはことごとく逃げら ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/13#h8rwrOi1WB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,炎上,ポケモンgo,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-12T15:04:27.00Z</dc:date>
     </item>
   </rdf:RDF>
