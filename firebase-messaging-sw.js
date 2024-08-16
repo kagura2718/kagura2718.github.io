@@ -5,8 +5,8 @@
 // are not available in the service worker.
 
 // ref: https://github.com/firebase/firebase-js-sdk/issues/5732#issuecomment-969453902
-importScripts('https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js');
-importScripts('https://www.gstatic.com/firebasejs/10.12.5/firebase-messaging-compat.js');
+importScripts('https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js');
+importScripts('https://www.gstatic.com/firebasejs/10.13.0/firebase-messaging-compat.js');
 
 const firebaseConfig = {
   projectId: "kagura2718githubpages",
