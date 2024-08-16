@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-16T03:20:45.63Z</dc:date>
+    <dc:date>2024-08-16T12:16:35.82Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#anzVdZq_I2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#pslu0ZQY0p"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm"/>
@@ -24,20 +26,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#nZhSXkJ0ud"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#EAY43e7Hu1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#lOmMMvMpoW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#YuzCx1Cr4u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#yLlmLhLlrX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#j3P5f_1uDw"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#anzVdZq_I2">
+      <title>[生活] 2024-08-16 平野部は降ってないけど、どうやら山の方は降ってる。この辺りが水涸れしないのは宝達山があるから ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/16#anzVdZq_I2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-16T12:16:35.82Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6">
+      <title>[漫画] [アニメ] 2024-08-16 逃げ上手の若君の漫画を読む機会があったので手にとってみたけど、どうやら足利尊氏が裏エースみた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-16T12:16:35.82Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt">
       <title>[モンハンNow] 2024-08-16 HR224 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-16T03:20:45.63Z</dc:date>
+      <dc:date>2024-08-16T05:03:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#pslu0ZQY0p">
       <title>[モンハンNow] 2024-08-16 防具強化の儀 プケ亜種 頭 G9-1   武器強化の儀 タマミツネ太刀 たまのをの絶刀 G7 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-16T03:20:45.63Z</dc:date>
+      <dc:date>2024-08-16T04:22:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC">
       <title>[Web] [奥能登] 2024-08-15 こういうこと書いてるけど、嘘くさいなぁ。  普通に日曜は休んでた  もちろん休みは必要なので ...</title>
@@ -159,14 +175,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-13T22:39:23.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4">
-      <title>[登山] [Web] 2024-08-12 木曽駒！どのルートだろうか。  俺の通った上松のルートではなく北側から入ってくルートになる。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/12#0bp5J57vA4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-13T19:54:00.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/14#YuzCx1Cr4u">
       <title>[Web] [時事] [NHK] 2024-08-14 ほー…  基本的に岸田さんが好ましかったので、他のどれが出てきてもロクなのにならないと予想し ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/14#YuzCx1Cr4u</link>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-13T16:31:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/13#j3P5f_1uDw">
-      <title>[生活] 2024-08-13 こっちに少し雨を分けてくれていいんですよ？ </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/13#j3P5f_1uDw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-13T14:13:53.00Z</dc:date>
     </item>
   </rdf:RDF>
