@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-16T12:16:35.82Z</dc:date>
+    <dc:date>2024-08-16T13:39:18.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MX/MXfzmopA0D.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_1/_1JHNW_zjJ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vg/vg72Y31QDt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gV/gVttsBbcyf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/T9/T9B8Otqw9r.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QY/QYYofzviZ-.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bv/bvz9xgfNoz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VG/VGmcR8a1JS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hR/hRa8NYovtz.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7F/7FX5b4H6aN.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-16T12:16:35.82Z</dc:date>
+    <dc:date>2024-08-16T13:39:18.41Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_1/_1JHNW_zjJ.htm">
     <title>[漫画] [アニメ] 2024-08-16 逃げ上手の若君の漫画を読む機会があったので手にとってみたけど、どうやら足利尊氏が裏エースみた ...</title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-16T12:16:35.82Z</dc:date>
+    <dc:date>2024-08-16T13:39:18.41Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vg/vg72Y31QDt.htm">
+    <title>[生活] [金沢] 2024-08-16 せっかく半日休みだけど、台風様がいて遠出も出来ぬ。  テオ・テスカトルと遊びましょう。とりあ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/vg/vg72Y31QDt.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-16T09:11:04.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gV/gVttsBbcyf.htm">
     <title>[モンハンNow] 2024-08-16 HR224 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,時事,NHK,Web,時事,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-13T17:19:49.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7F/7FX5b4H6aN.htm">
-    <title>[モンハンNow] 2024-08-13 HR223  それほど欲しくない当たりが出た。だが当たりは当たりだ。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/7F/7FX5b4H6aN.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-13T16:31:24.00Z</dc:date>
   </item>
 </rdf:RDF>
