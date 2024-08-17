@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-17T11:18:25.83Z</dc:date>
+    <dc:date>2024-08-17T11:51:23.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4F/4FGZ3PsS8Q.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Il/Il-i4z3X4B.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fr/FrN30oSP18.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_g/_gXM3XZePe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MX/MXicg2D_Nv.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YC/YCtM5dhHyf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MX/MXfzmopA0D.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_1/_1JHNW_zjJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/04/04KKMhiR1K.htm"/>
@@ -26,18 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gE/gE5Fmf9EiI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wb/wbi9Q5AMz0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bI/bIywr-dA19.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TE/TELGecC3HP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/df/dfCy0egTQO.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4F/4FGZ3PsS8Q.htm">
+    <title>[Ingress] [登山] 2024-08-17 おや、北ノ俣岳にだあすけがやってきた。ログからすると神岡新道経由かな。イカれ気味の深夜登山も ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4F/4FGZ3PsS8Q.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Ingress,登山,Ingress,登山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-17T11:51:23.74Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Il/Il-i4z3X4B.htm">
     <title>[Web] 2024-08-17 時には苦しい判断で可能性だけでカルト二世に撃ち○されちゃうこともあるよね、そりゃ。さよなら、安倍。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Il/Il-i4z3X4B.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-17T11:18:25.83Z</dc:date>
+    <dc:date>2024-08-17T11:51:23.74Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fr/FrN30oSP18.htm">
     <title>[モンハンNow] 2024-08-17 昨日の様子だと爆破ステータス異常はそんなに気にする必要がないような… 戦略としては横薙ぎだけ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-17T11:18:25.83Z</dc:date>
+    <dc:date>2024-08-17T11:51:23.74Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_g/_gXM3XZePe.htm">
     <title>[生活] [北陸] 2024-08-17 台風近付いたのにこっちはイマイチ雨が降らなかったな。昨晩ざーっと降ってたような気もしたけど、 ...</title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-17T11:18:25.83Z</dc:date>
+    <dc:date>2024-08-17T11:51:23.74Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/MX/MXicg2D_Nv.htm">
     <title>[生活] [北陸] [モンハンNow] 2024-08-17 夜になってモンハン walking 行こうと思ったらシトシトと降っていた。恵の雨だ。 今の時 ...</title>
@@ -62,6 +70,14 @@
         日記,つぶやき,雑記帳,生活,北陸,モンハンNow,生活,北陸,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-17T09:34:52.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YC/YCtM5dhHyf.htm">
+    <title>[Web] [国際] 2024-08-17 地続きでなおかつ言葉がある程度通じるからこそ、日本人に考え及ばないところがたくさんあると思う ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/YC/YCtM5dhHyf.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-17T07:02:20.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/MX/MXfzmopA0D.htm">
     <title>[生活] 2024-08-16 平野部は降ってないけど、どうやら山の方は降ってる。この辺りが水涸れしないのは宝達山があるから ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-14T20:55:36.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TE/TELGecC3HP.htm">
-    <title>[アニメ] 2024-08-13 逃げ上手の若君、描写がとても気持ち悪い。目とか耳とか。描くのがめんどうなのか、顔なし状態にな ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/TE/TELGecC3HP.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-14T19:41:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/df/dfCy0egTQO.htm">
-    <title>[生活] 2024-08-14 そういえば、今年は電力不足とかで騒いでないね。こんなにあちーのに… 予想では太陽光を大量に設 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/df/dfCy0egTQO.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,生活</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-14T16:30:40.00Z</dc:date>
   </item>
 </rdf:RDF>
