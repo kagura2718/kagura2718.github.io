@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-18T04:11:38.13Z</dc:date>
+    <dc:date>2024-08-18T04:12:42.54Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/18#R0Ijg_mZj4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/18#KmW0tW8EhN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#D6fekGx3AG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#Ln368GLxN7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#6DZBsl_KBr"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#kyYMyV6Mqt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#pslu0ZQY0p"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#QmLLX5wpUC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-18T04:11:38.13Z</dc:date>
+      <dc:date>2024-08-18T04:12:42.54Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/18#KmW0tW8EhN">
+      <title>[モンハンNow] 2024-08-18 これは… 育成やめとこうかな？もしかして状態異常ならガンランスに優位性があるのでは？  プロ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/18#KmW0tW8EhN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-18T04:12:42.54Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#D6fekGx3AG">
       <title>[Web] [炎上] [女性] 2024-08-17 岸田奈美ってあの…？？ あ、勘違い。現総理、岸田さんの奥さんは岸田裕子さんだった。まさかの誤解。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,女性,Web,炎上,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-18T04:11:38.13Z</dc:date>
+      <dc:date>2024-08-18T04:12:42.54Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#Ln368GLxN7">
       <title>[Web] [文化] 2024-08-17 この 「しろちち」  は奥能登の地震で存在を知った金沢在住らしきネトウヨ君なのだけど、こうし ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-16T01:07:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm">
-      <title>[登山] [Web] 2024-08-15 広河原のあたりも不安定だなぁ。あの辺りを上高地みたいにしたいとどこかで書いてた気がするけど、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/15#DN0i5a1_sm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-15T19:12:53.00Z</dc:date>
     </item>
   </rdf:RDF>
