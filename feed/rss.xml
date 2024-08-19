@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-19T03:08:35.95Z</dc:date>
+    <dc:date>2024-08-19T03:48:43.81Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#C92JYBB1Es"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#D6fekGx3AG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/18#R0Ijg_mZj4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-18.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#nWHINIfUqr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#anzVdZq_I2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#3_eIB9xnBu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,富山,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-19T03:08:35.95Z</dc:date>
+      <dc:date>2024-08-19T03:48:43.81Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/17#D6fekGx3AG">
       <title>[Web] [炎上] [女性] 2024-08-17 岸田奈美ってあの…？？ あ、勘違い。現総理、岸田さんの奥さんは岸田裕子さんだった。まさかの誤 ...</title>
@@ -47,13 +47,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-18T06:34:31.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>
+        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ">
       <title>[ポケモンgo] 2024-08-19 ギリでなんとかなった。  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-19T03:08:35.95Z</dc:date>
+      <dc:date>2024-08-19T03:48:43.81Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/18#R0Ijg_mZj4">
       <title>[モンハンNow] 2024-08-18 こいつだけあまりにも別格じゃね？  弱点属性で G10-5 まで到達しても、勝てる感じがまっ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,国際,NHK,国際,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-17T05:29:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6">
-      <title>[漫画] [アニメ] 2024-08-16 逃げ上手の若君の漫画を読む機会があったので手にとってみたけど、どうやら足利尊氏が裏エースみた ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/16#h3yJR5HdU6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-17T01:19:52.00Z</dc:date>
     </item>
   </rdf:RDF>
