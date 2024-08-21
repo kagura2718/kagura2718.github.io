@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-21T02:35:11.89Z</dc:date>
+    <dc:date>2024-08-21T08:42:45.78Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/21#PNMNXaflH9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/21#O-GW_fotMK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/20#EbYX5sj2j_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/21#qtHvWSAwXs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/20#Frumpby9mE"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#4R4qbJ2mO-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/20#RW-gTGdodw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/20#DiegbtXduE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,文化,Web,時事,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-21T02:35:11.89Z</dc:date>
+      <dc:date>2024-08-21T08:42:45.78Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/21#O-GW_fotMK">
+      <title>[漫画] [呪術廻戦] 2024-08-21 「呪術廻戦」完結と「HUNTER×HUNTER」再開を同日発表　ファン「情緒おかしい」と悲喜 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/21#O-GW_fotMK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-21T08:42:45.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/20#EbYX5sj2j_">
       <title>[生活] [羽咋] [モンハンNow] 2024-08-20 ゆるっと羽咋 walking / running   今日は羽咋は一人も一狩りに入ってこなか ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-19T10:55:21.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ">
-      <title>[ポケモンgo] 2024-08-19 ギリでなんとかなった。  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/19#nRRy7MmrAZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-19T05:56:43.00Z</dc:date>
     </item>
   </rdf:RDF>
