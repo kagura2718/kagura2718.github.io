@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-24T03:59:42.09Z</dc:date>
+    <dc:date>2024-08-24T05:59:23.02Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ik/ikCP2dOler.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/si/siJRvyleLz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dn/dnMK8xZmbK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QX/QX2bGVR43G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1w/1w0-5LOfqO.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cJ/cJfbbp85uP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1N/1NAtfq74hb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YY/YYrlLCzdkv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/P-/P-7Kv9rs-Z.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-24T03:59:42.09Z</dc:date>
+    <dc:date>2024-08-24T05:59:23.02Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/si/siJRvyleLz.htm">
+    <title>[Web] [野球] 2024-08-24 おお… これみてると、ほんとに当代トップクラスのスーパースターなんだな。 大谷翔平、40号サ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/si/siJRvyleLz.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-24T05:59:23.02Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dn/dnMK8xZmbK.htm">
     <title>[Web] [炎上] [女性] 2024-08-22 まぁそうなるよなぁ 😂  ふーん、NOTE がついてるね。 ↓こっちが元動画で 7 年前か。 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-20T16:15:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/P-/P-7Kv9rs-Z.htm">
-    <title>[モンハンNow] 2024-08-20 ディアブロス亜種のタワーが出ている。  つまりバフバロタワーもあるってことか？ いらんけど…</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/P-/P-7Kv9rs-Z.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-20T06:44:59.00Z</dc:date>
   </item>
 </rdf:RDF>
