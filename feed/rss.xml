@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-26T02:38:44.30Z</dc:date>
+    <dc:date>2024-08-26T03:15:32.68Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#B_ephhJJqz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#Ip7bMdGdPw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#2cAsvgOuAM"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#z1cFYgOsDJ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#54iQPb32LW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#XaIvIyPNTA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/24#LVM3zwMSzY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/25#ta_Na3zHNd"/>
@@ -25,9 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#fdwEdC_l3-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/24#VLWYl1xQdR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/24#FZykEL1YpV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#lzJxgIMbUx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#zdfSkmyGML"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#QiR2xYL0HO"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-26T02:38:44.30Z</dc:date>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#Ip7bMdGdPw">
       <title>[Web] [野球] 2024-08-26 野球のルールは知ってても、こういうのは知らないわな。難しすぎるわ。  うーん、まだちょっとし ...</title>
@@ -45,7 +45,31 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-26T02:38:44.30Z</dc:date>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#2cAsvgOuAM">
+      <title>[モンハンNow] 2024-08-26 かっこいい… twitter で話題になってる様子だとマガイマガドていうんだろうね、これ。か ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/26#2cAsvgOuAM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#z1cFYgOsDJ">
+      <title>[ポケモンgo] 2024-08-26 先週は 36km  ランニング中にスマホを持ってなかったこともあって、あんまり距離を稼げなかった。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/26#z1cFYgOsDJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#54iQPb32LW">
+      <title>[モンハンNow] 2024-08-26 レイア ⭐ 10 は俺の腕ではまだ勝てんな。立ち回りいかんではありえるが 1/100 ぐらい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/26#54iQPb32LW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/26#XaIvIyPNTA">
       <title>[生活] 2024-08-26 台風の糞野郎が、意味不明な動きしすぎで予定が変わってきたじゃんか…</title>
@@ -53,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-26T02:38:44.30Z</dc:date>
+      <dc:date>2024-08-26T03:15:32.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/24#LVM3zwMSzY">
       <title>[登山] [Web] 2024-08-24 雷、だろうなぁ？山小屋関係者、興味深い写真はあげるものの、言葉が足りなくていまいち伝わらない ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-23T20:56:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#lzJxgIMbUx">
-      <title>[モンハンNow] 2024-08-23 うーん、ドスジャグラス ⭐ 10 も勝てねぇ。こっちは炎武器は最大強化してないのだけど…   ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/23#lzJxgIMbUx</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-23T14:21:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#zdfSkmyGML">
-      <title>[モンハンNow] 2024-08-23 なんか変だなと思ったらそういうことね。次元リンクでも 5 秒待機。あほじゃないの。何を考えて ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/23#zdfSkmyGML</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-23T13:20:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/23#QiR2xYL0HO">
-      <title>[モンハンNow] 2024-08-23 防具強化の儀 プケ亜種頭 G9-3   防具強化の儀 レイギエナ腰 G8-5 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/23#QiR2xYL0HO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-23T08:22:34.00Z</dc:date>
     </item>
   </rdf:RDF>
