@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-30T14:16:28.55Z</dc:date>
+    <dc:date>2024-08-31T04:47:20.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#Ea4_usqmWY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/31#A7nHY6vNu4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#t5BMMQScSE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#K_edFly4Xz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#_vG6hHfsWb"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#wDy_zkGluM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#b9Ue4Oti_e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#y2yfx5O57X"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#KqU9RejKEQ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#wLBH1aojGb"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#Ea4_usqmWY">
+      <title>[生活] [宝達] 2024-08-30 夏休みの終わりにあちこちで祭りやってる。ここで、こんなライトアップしてるって知らなかったな。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/30#Ea4_usqmWY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,宝達,生活,宝達]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-31T04:47:20.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/31#A7nHY6vNu4">
+      <title>[生活] [北陸] 2024-08-31 あ、今度こっちに来る。気まぐれさんですな… 😂 台風情報 - Yahoo!天気・災害 後は風 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/31#A7nHY6vNu4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-31T04:47:20.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl">
       <title>[料理] 2024-08-30 海老のトマトソースパスタにいたしましょう。ブラックタイガーの殻も弱火で時間をかけて炒めるとカ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-30T14:16:28.55Z</dc:date>
+      <dc:date>2024-08-31T00:05:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#t5BMMQScSE">
       <title>[生活] 2024-08-30 今日もプチお出かけすらできなくなった。台風はどうやら熱帯低気圧になって中部あたりに居座るつも ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-27T11:39:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#KqU9RejKEQ">
-      <title>[漫画] 2024-08-27 釘崎か。これも予想してた展開のひとつ。乙骨が食った指が虎杖の指というのも。 しかしだね、宿儺 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/27#KqU9RejKEQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-27T09:26:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#wLBH1aojGb">
-      <title>[モンハンNow] 2024-08-27 パオウルムー ⭐ 10 も勝てねぇ。太刀はレウス G10-4     格上相手は、やはり初期 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/27#wLBH1aojGb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-27T09:10:01.00Z</dc:date>
     </item>
   </rdf:RDF>
