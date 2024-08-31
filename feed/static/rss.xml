@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-31T04:52:43.80Z</dc:date>
+    <dc:date>2024-08-31T14:32:59.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WK/WKaV2-GjB5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eS/eSipubAm7-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FB/FBdLpvg5lR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uD/uDY2c9943R.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ev/evcwJBSJRN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ek/eknCUGDNhb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S_/S_Q3yeY4wy.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/H4/H4HudFDxOI.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CW/CWTyKWBdM4.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/WK/WKaV2-GjB5.htm">
+    <title>[ポケモンgo] [生活] [富山] [モンハンNow] 2024-08-31 南砺市(福野) walk</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/WK/WKaV2-GjB5.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,生活,富山,モンハンNow,ポケモンgo,生活,富山,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-08-31T11:51:10.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/eS/eSipubAm7-.htm">
     <title>[生活] [宝達] 2024-08-30 夏休みの終わりにあちこちで祭りやってる。ここで、こんなライトアップしてるって知らなかったな。 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/eS/eSipubAm7-.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,宝達,生活,宝達</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-31T04:52:43.80Z</dc:date>
+    <dc:date>2024-08-31T11:28:55.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FB/FBdLpvg5lR.htm">
     <title>[生活] [北陸] 2024-08-31 あ、今度こっちに来る。気まぐれさんですな… 😂 台風情報 - Yahoo!天気・災害 後は風 ...</title>
@@ -45,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-31T04:52:43.80Z</dc:date>
+    <dc:date>2024-08-31T09:53:30.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uD/uDY2c9943R.htm">
     <title>[料理] 2024-08-30 海老のトマトソースパスタにいたしましょう。ブラックタイガーの殻も弱火で時間をかけて炒めるとカ ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,生活,北陸,九州,生活,北陸,九州</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-08-27T15:10:58.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/H4/H4HudFDxOI.htm">
-    <title>[Web] [炎上] [文化] 2024-08-27 RT したら random に 100 万円配るとか言って有象無象に大量 RT させてた奴が ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/H4/H4HudFDxOI.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-27T13:34:20.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/CW/CWTyKWBdM4.htm">
-    <title>[モンハンNow] 2024-08-27 これでジンオウガ小手だけで雷属性 3 がつけられる  続けていらない当たり…  防具強化の儀 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/CW/CWTyKWBdM4.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-08-27T11:39:16.00Z</dc:date>
   </item>
 </rdf:RDF>
