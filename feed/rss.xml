@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-08-31T14:32:59.30Z</dc:date>
+    <dc:date>2024-09-01T02:10:47.33Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#-puBS1zxae"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#Ea4_usqmWY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#wIRLl3EQsy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/31#A7nHY6vNu4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#8__iC1HlTl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#t5BMMQScSE"/>
@@ -26,12 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#CeWF0X4uv3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#zO7d3A7DPh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#1EF4G3R2J3"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#vH-MizQVrJ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#wDy_zkGluM"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#-puBS1zxae">
+      <title>[富山] 2024-09-01 昨日、獅子舞の練り歩きグループが休憩していたこの建物はなんだろうかと思ったら、ZENRIN  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/01#-puBS1zxae</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,富山,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-01T02:10:47.33Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,富山,モンハンNow,ポケモンgo,生活,富山,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-31T11:51:10.00Z</dc:date>
+      <dc:date>2024-08-31T11:56:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#Ea4_usqmWY">
       <title>[生活] [宝達] 2024-08-30 夏休みの終わりにあちこちで祭りやってる。ここで、こんなライトアップしてるって知らなかったな。 ...</title>
@@ -54,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達,生活,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-31T11:28:55.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#wIRLl3EQsy">
+      <title>[富山] 2024-09-01 前に「らーめん真太」に行ったのは 2016 年だった。前も DX 頼んでたっぽい。チャーシュ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/01#wIRLl3EQsy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,富山,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-08-31T10:16:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/31#A7nHY6vNu4">
       <title>[生活] [北陸] 2024-08-31 あ、今度こっちに来る。気まぐれさんですな… 😂 台風情報 - Yahoo!天気・災害 後は風 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-27T18:32:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/27#vH-MizQVrJ">
-      <title>[Web] 2024-08-27 なるほろ。これは面白いな。シルクロード程度の文化融合ぶりじゃない。日本と日本海を隔てて東南ア ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/27#vH-MizQVrJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-27T16:58:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#wDy_zkGluM">
-      <title>[生活] [北陸] [九州] 2024-08-28 なかなかコースが定まらない。何これ？威力を溜めに溜めて上陸する九州辺りが地獄絵図になるのでは ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/28#wDy_zkGluM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,九州,生活,北陸,九州]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-27T15:10:58.00Z</dc:date>
     </item>
   </rdf:RDF>
