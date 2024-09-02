@@ -4,15 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-02T02:46:52.75Z</dc:date>
+    <dc:date>2024-09-02T09:17:04.69Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#yJfoeGtnQt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#-puBS1zxae"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-08-31.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#4qCIUKtKut"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#kYwUZSZtYu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-02T02:46:52.75Z</dc:date>
+      <dc:date>2024-09-02T09:17:04.69Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#yJfoeGtnQt">
       <title>[Web] [宝達] 2024-09-01 え？これほんとか？  公式 Instagram  がこれか。公式といいつつ町のページのどこか ...</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,宝達,Web,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-01T22:10:01.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD">
+      <title>[ポケモンgo] 2024-09-01 本日の最大強化 (PL40)  あんまりやる気はなかったけど、がんばってそれなりに作りました。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-01T21:37:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#-puBS1zxae">
       <title>[富山] 2024-09-01 昨日、獅子舞の練り歩きグループが休憩していたこの建物はなんだろうかと思ったら、ZENRIN  ...</title>
@@ -62,14 +70,6 @@
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,食事,富山,モンハンNow,ポケモンgo,生活,食事,富山,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-01T01:36:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD">
-      <title>[ポケモンgo] 2024-09-01 本日の最大強化 (PL40) </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-01T08:33:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#4qCIUKtKut">
       <title>[登山] [生活] [宝達山] 2024-09-01 夕方になって本日の登頂 </title>
