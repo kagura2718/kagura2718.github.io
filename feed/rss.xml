@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-02T12:34:41.44Z</dc:date>
+    <dc:date>2024-09-05T05:15:09.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#hdCvpUy2g6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#k_KuUvO6Vh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#V3D5BtpaNB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#-whoacaRRE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#yJfoeGtnQt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#oN4DIn6uMD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#iN_7RWVY2A"/>
@@ -24,20 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#t5BMMQScSE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#K_edFly4Xz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#_vG6hHfsWb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#kBI6krr8hY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#RXeobzEoKw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#uxFmwuprKm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#596v1Arf5e"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#hdCvpUy2g6">
+      <title>[Web] [長野] 2024-09-05 ツルヤは online store があるから送料含めても、お気に入りのドレッシングを買うた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/05#hdCvpUy2g6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-05T05:15:09.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#k_KuUvO6Vh">
+      <title>[生活] 2024-09-05 旅に出ていた。二泊三日ぐらいで車での移動距離は 600km ぐらいだろうか？やっぱり南アルプ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/05#k_KuUvO6Vh</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-05T04:07:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#V3D5BtpaNB">
+      <title>[長野] 2024-09-05 どうやら松本城は元は「深志城」だったらしい。 松本城 - Wikipedia そして、行って ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/05#V3D5BtpaNB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,長野,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-04T19:36:59.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#-whoacaRRE">
+      <title>[漫画] [アニメ] [長野] 2024-09-02 美形の二刀流使いで戦略、戦術眼ともに備わった軍師で大食いって意味が分からないキャラ設定ではあ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/02#-whoacaRRE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,長野,漫画,アニメ,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-04T14:08:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8">
       <title>[ポケモンgo] 2024-09-02 先週は 80km </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/02#q7nlLk_Ze8</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-02T12:34:41.44Z</dc:date>
+      <dc:date>2024-09-02T18:22:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/01#yJfoeGtnQt">
       <title>[Web] [宝達] 2024-09-01 え？これほんとか？  公式 Instagram  がこれか。公式といいつつ町のページのどこか ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-08-29T17:49:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#kBI6krr8hY">
-      <title>[モンハンNow] 2024-08-29 ロックオンのボタンは近い場所を大きくするとか工夫が必要だと思うね。ジンオウガ対策は徐々に深化 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/29#kBI6krr8hY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-29T14:25:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/29#RXeobzEoKw">
-      <title>[生活] 2024-08-29 台風 10 号… お前な… どうやら紀伊半島あたりで迷走しだす予想も出てきている。お出かけが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/29#RXeobzEoKw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-29T13:38:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/30#uxFmwuprKm">
-      <title>[生活] 2024-08-30 やかましかったのが、これで一応脱したのかな。ほんとに迷惑な動きをする野郎だった。  台風、今 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/30#uxFmwuprKm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-29T09:48:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/08/28#596v1Arf5e">
-      <title>[食事] [料理] 2024-08-28 私はイカをゲットした。  実はイカはあまり好きではなく、調理したことがほとんどない。捌くのが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/08/28#596v1Arf5e</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,料理,食事,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-08-29T06:11:48.00Z</dc:date>
     </item>
   </rdf:RDF>
