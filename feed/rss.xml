@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-07T16:14:24.56Z</dc:date>
+    <dc:date>2024-09-07T16:36:05.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#Sz1DSLN8f0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#JdqRHGdeH-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#paSf3BuvW8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#2UAsCG9ayE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#xh1oR5q9vJ"/>
@@ -19,7 +20,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#ZSrBzraXlq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#H4ixf7mkVn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#k_KuUvO6Vh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#hdCvpUy2g6"/>
@@ -32,12 +32,12 @@
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#Sz1DSLN8f0">
-      <title>[生活] [金沢] [長野] 2024-09-07 金沢城は明らかに松本城より上の存在感だ。勝ったな、などという俗な気持ちは抑えられぬ 😂  駅 ...</title>
+      <title>[生活] [金沢] [長野] 2024-09-07 金沢城は明らかに松本城より上の存在感と美しさだ。勝ったな、などという俗な気持ちは抑えられぬ  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/07#Sz1DSLN8f0</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,長野,生活,金沢,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-07T16:14:24.56Z</dc:date>
+      <dc:date>2024-09-07T16:36:05.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#JdqRHGdeH-">
       <title>[生活] 2024-09-07 信州から帰宅してから色々とおかしな出来事がありイライラしている。あれをぬっ○したい。 わざわ ...</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-07T11:38:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm">
+      <title>[登山] [食事] [長野] 2024-09-03 美ヶ原 (王ヶ鼻、王ヶ頭) - 松本市街地</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,長野,登山,食事,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-06T02:05:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#paSf3BuvW8">
       <title>[アニメ] 2024-09-07 声優の田中敦子さんの逝去により攻殻機動隊のシリーズが再放映でもされるかな？と思ってたけど、ど ...</title>
@@ -118,14 +126,6 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm">
-      <title>[登山] [食事] [長野] 2024-09-03 美ヶ原 (王ヶ鼻、王ヶ頭) - 松本市街地</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,長野,登山,食事,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-05T18:23:36.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#H4ixf7mkVn">
       <title>[Web] [文化] [長野] 2024-09-06 ハルピンらーめんの社長さん、癖が強そうだな 😂 やっぱり中国の味が発祥のようだ。ハルピンはロ ...</title>
