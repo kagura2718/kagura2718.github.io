@@ -28,7 +28,7 @@
     <id>https://kagura2718.github.io/Gitwee/timeline/2024/09/08#f7Zk8sCV-Q</id>
     <title>[モンハンNow] 2024-09-08 武器強化の儀 タマミツネ太刀 たまのをの絶刀 G9-2   次までは長そう。今のシリーズで上 ...</title>
     <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#f7Zk8sCV-Q"/>
-    <updated>2024-09-08T00:41:27.00+09:00</updated>
+    <updated>2024-09-08T02:00:07.00+09:00</updated>
     <summary type="html">&lt;p&gt;武器強化の儀 タマミツネ太刀 たまのをの絶刀 G9-2&lt;/p&gt;
 
 
@@ -40,6 +40,12 @@
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2024/2024-09-08/f7Zk8sCV-Q5fhCjY/d58274db55d553bfdf1ba1f1c6b0086e.jpg&quot;&gt;&lt;img src=&quot;/MyContents2024/2024-09-08/f7Zk8sCV-Q5fhCjY/d58274db55d553bfdf1ba1f1c6b0086e.jpg&quot; alt=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;
 &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2024/2024-09-08/f7Zk8sCV-Q5fhCjY/f520c91167efefc71ce61e03df4e949b.jpg&quot;&gt;&lt;img src=&quot;/MyContents2024/2024-09-08/f7Zk8sCV-Q5fhCjY/f520c91167efefc71ce61e03df4e949b.jpg&quot; alt=&quot;&quot; title=&quot;G10-5&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;計算してみると、どうやらタマミツネ太刀がジュラトドスの最大強化した太刀を攻撃期待値で越えるのは、大体 G10 に到達した後だ。会心時の与ダメージ量は 1.25 倍&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;会心倍化率 := 1.25
+総攻撃値 = 物理攻撃値 + 属性攻撃値
+攻撃期待値 = 総攻撃値 + (総攻撃値 * 会心率 * 会心倍化率)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;見切りスキルを増やせれば G9-3 ぐらいでもジュラトドス太刀を越える場合もありそうだ。&lt;/p&gt;
 </summary>
   </entry>
   <entry>
