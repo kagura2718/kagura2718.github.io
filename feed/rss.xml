@@ -9,11 +9,12 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#Sz1DSLN8f0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#f7Zk8sCV-Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#8_xBa495IG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#g1-XQR2AFs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#JdqRHGdeH-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#paSf3BuvW8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#2UAsCG9ayE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#xh1oR5q9vJ"/>
@@ -21,7 +22,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#QfxPBJ7PkW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#wOZa9Y7RUZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#ZSrBzraXlq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/06#H4ixf7mkVn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/05#k_KuUvO6Vh"/>
@@ -38,6 +38,22 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,長野,生活,金沢,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-07T21:34:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm">
+      <title>[登山] [食事] [南アルプス] [長野] 2024-09-04 甲斐駒ヶ岳 - 諏訪湖</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,南アルプス,長野,登山,食事,南アルプス,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-06T03:59:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm">
+      <title>[登山] [食事] [長野] 2024-09-03 美ヶ原 (王ヶ鼻、王ヶ頭) - 松本市街地</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,長野,登山,食事,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-06T02:05:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#f7Zk8sCV-Q">
       <title>[モンハンNow] 2024-09-08 武器強化の儀 タマミツネ太刀 たまのをの絶刀 G9-2   次までは長そう。今のシリーズで上 ...</title>
@@ -70,14 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-07T11:38:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm">
-      <title>[登山] [食事] [長野] 2024-09-03 美ヶ原 (王ヶ鼻、王ヶ頭) - 松本市街地</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,長野,登山,食事,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-06T02:05:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/07#paSf3BuvW8">
       <title>[アニメ] 2024-09-07 声優の田中敦子さんの逝去により攻殻機動隊のシリーズが再放映でもされるかな？と思ってたけど、ど ...</title>
@@ -134,14 +142,6 @@
         <![CDATA[日記,つぶやき,雑記帳,長野,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-06T05:33:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm">
-      <title>[登山] [食事] [南アルプス] [長野] 2024-09-04 甲斐駒ヶ岳 - 諏訪湖</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,南アルプス,長野,登山,食事,南アルプス,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-06T03:38:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
