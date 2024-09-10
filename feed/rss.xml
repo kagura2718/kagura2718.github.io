@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/09#WfyppXMYMB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/10#iC7Brh5aDJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/09#vykPiDbjX8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-03.htm"/>
@@ -19,7 +20,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/09#-Oq8T6RQHc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#p59R3qFkWi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#f7Zk8sCV-Q"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#wX2vGFPWl6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#8_xBa495IG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#g1-XQR2AFs"/>
@@ -38,6 +38,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-09T22:31:59.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm">
+      <title>[登山] [食事] [南アルプス] [長野] 2024-09-04 甲斐駒ヶ岳 - 諏訪湖</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,南アルプス,長野,登山,食事,南アルプス,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-06T03:59:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/10#iC7Brh5aDJ">
       <title>[アニメ] 2024-09-10 これが田中敦子さんか。この映像は昔も観た記憶がある。  普段の声は素子とはかなり違うな。かな ...</title>
@@ -118,14 +126,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-07T08:42:08.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm">
-      <title>[登山] [食事] [南アルプス] [長野] 2024-09-04 甲斐駒ヶ岳 - 諏訪湖</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-09-04.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,南アルプス,長野,登山,食事,南アルプス,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-06T03:59:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/08#wX2vGFPWl6">
       <title>[南アルプス] 2024-09-08 【県道南アルプス公園線 通行止め解除】広河原―奈良田間 | 一般社団法人 南アルプス市観光協 ...</title>
