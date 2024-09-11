@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-11T07:46:44.94Z</dc:date>
+    <dc:date>2024-09-11T15:17:45.67Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lx/lxl0qCPNAr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Em/Em2w2ChITI.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1I/1IeE0BoR00.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/H6/H6b5yin0e3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2J/2JT0iKIoZG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vc/vc4rb5szQt.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x9/x9uIgdQ2Dl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8n/8ngR-SjiEP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IG/IG_ybzvl3o.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d9/d9Yi5nGS_N.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,かほく,Web,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-11T07:46:44.94Z</dc:date>
+    <dc:date>2024-09-11T15:17:45.67Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Em/Em2w2ChITI.htm">
     <title>[モンハンNow] 2024-09-10 最後のタマミツネも逆鱗は吐かなかった 🤮  最後の最後は ⭐ 9 の討伐失敗して完了！ 乙  ...</title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-11T07:46:44.94Z</dc:date>
+    <dc:date>2024-09-11T13:40:09.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1I/1IeE0BoR00.htm">
+    <title>[ポケモンgo] [生活] [食事] [金沢] [モンハンNow] 2024-09-11 美しい半月。弦月 (げんげつ) ともいうらしい。で右半分の場合は上弦 (じょうげん) の月と ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/1I/1IeE0BoR00.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,モンハンNow,ポケモンgo,生活,食事,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-09-11T12:41:31.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/H6/H6b5yin0e3.htm">
     <title>[Web] [炎上] 2024-09-11 このアカウントときどき目にするけど、あまりにも馬鹿すぎるなぁ。この地方の教員という prof ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-09-07T15:31:13.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/d9/d9Yi5nGS_N.htm">
-    <title>[モンハンNow] 2024-09-08 HR232 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/d9/d9Yi5nGS_N.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-07T07:08:33.00Z</dc:date>
   </item>
 </rdf:RDF>
