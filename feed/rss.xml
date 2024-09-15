@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-15T03:02:29.48Z</dc:date>
+    <dc:date>2024-09-15T04:15:52.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/14#kp8qYkHLH7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#xT_88MA4UM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#PP_qZOT1ux"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#P2Y590R5LB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/14#0Zmb9eObSs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-09-13.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/14#44v5jK7srE"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/12#xv5r5vY_ZM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/13#zM5HFgtajZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/12#U3Wx2Ef0NU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/12#pjqCqCaEBB"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達,生活,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-15T03:02:29.48Z</dc:date>
+      <dc:date>2024-09-15T04:15:52.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#YaSXeVilDD">
       <title>[Web] [炎上] [文化] 2024-09-15 さすがにネタかな。ネタ提供のアカウント 😅 </title>
@@ -45,15 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-15T03:02:29.48Z</dc:date>
+      <dc:date>2024-09-15T04:15:52.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#EWYJji5HJs">
-      <title>[モンハンNow] 2024-09-15 やっぱり両前足破壊が肝になるよね。  雷属性は遠距離武器だとかなり有功な気はする。近距離だと ...</title>
+      <title>[モンハンNow] 2024-09-15 やっぱり両前足破壊が肝になるよね。なんせ近距離武器だと遠くに行かれるといかんともしがたい。  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/15#EWYJji5HJs</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-15T03:02:29.48Z</dc:date>
+      <dc:date>2024-09-15T04:15:52.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/14#kp8qYkHLH7">
       <title>[Web] [炎上] [歴史] 2024-09-14 消えてた。面白い内容だったのに 😭  うーん、なるほど。大体わかった…  ふーん。  かなり ...</title>
@@ -61,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,歴史,Web,炎上,歴史]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-15T03:02:29.48Z</dc:date>
+      <dc:date>2024-09-15T04:15:52.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#xT_88MA4UM">
       <title>[登山] [Web] 2024-09-15 こういう放送から察するに中に登山周辺のこと詳しいぐらいの人、メディアの中にまったくいないんじ ...</title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-15T00:11:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#P2Y590R5LB">
+      <title>[モンハンNow] 2024-09-15 HR 235 になった。スクショを忘れたので道路横断中の亀の写真をお楽しみください。  潰さ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/15#P2Y590R5LB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-14T23:01:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/14#0Zmb9eObSs">
       <title>[モンハンNow] 2024-09-14 ヘビーボウガンくそつまらん。  照準合わせを full にする方が面白いのかしら？</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-12T00:13:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/12#pjqCqCaEBB">
-      <title>[Web] [炎上] [文化] [関西] 2024-09-12 (2ページ目)中1女子に2万円渡し性的暴行…逮捕されたロリコン維新元議員・椎木保容疑者は小中 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/12#pjqCqCaEBB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,関西,Web,炎上,文化,関西]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-11T21:43:56.00Z</dc:date>
     </item>
   </rdf:RDF>
