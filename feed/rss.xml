@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-17T08:31:55.75Z</dc:date>
+    <dc:date>2024-09-17T09:42:52.90Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#1MEpVBTW93"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#UtaAA6oydm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#iRM9ssC31P"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#Fk-oWirOxi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#WaSIedy35Q"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#HseYNRdhXo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#jgwPFPpOYl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#YaSXeVilDD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#EWYJji5HJs"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-17T08:31:55.75Z</dc:date>
+      <dc:date>2024-09-17T09:42:52.90Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#UtaAA6oydm">
+      <title>[モンハンNow] 2024-09-17 火力控え目、防御高い装備でやってるから、ストーリーのディアブロス亜種 ⭐ 9 めっちゃ時間か ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/17#UtaAA6oydm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-17T09:42:52.90Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#iRM9ssC31P">
       <title>[Web] [時事] 2024-09-17 コバホークって何かと思ってたら、モロに twitter のアカウントか。twitter アカ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-17T08:31:55.75Z</dc:date>
+      <dc:date>2024-09-17T09:42:52.90Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#Fk-oWirOxi">
       <title>[生活] 2024-09-16 高温が続くせいか疲れが抜けない。夕方に猛烈な睡魔に襲われ 30 分ほど気絶する。昼寝したらし ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-15T11:54:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#EWYJji5HJs">
-      <title>[モンハンNow] 2024-09-15 やっぱり両前足破壊が肝になるよね。なんせ近距離武器だと遠くに行かれるといかんともしがたい。  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/15#EWYJji5HJs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-15T09:36:54.00Z</dc:date>
     </item>
   </rdf:RDF>
