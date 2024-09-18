@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-18T06:39:22.10Z</dc:date>
+    <dc:date>2024-09-18T07:21:33.31Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#TR7W8qdISt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#iSZmf1aI1g"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#ZRZ08KhW2C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#90TFXSFsd8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#HDoNi-t5ev"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#twxR4RXUhg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#pKMmWJterf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/15#zpU3mU2vVH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#dVKR2_wxFb"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-18T06:39:22.10Z</dc:date>
+      <dc:date>2024-09-18T07:21:33.31Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#iSZmf1aI1g">
+      <title>[Web] 2024-09-18 やばいな。俺はどちらかというと猫派だけど。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/18#iSZmf1aI1g</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-18T07:21:33.31Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#ZRZ08KhW2C">
       <title>[時事] [炎上] 2024-09-18 愛知知事「そんなに嫌ならお辞めになったら」　名古屋市長の歌を批判 | 毎日新聞 河村なんたら ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-18T06:39:22.10Z</dc:date>
+      <dc:date>2024-09-18T07:21:33.31Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#90TFXSFsd8">
       <title>[モンハンNow] 2024-09-18 今までレア枠だったと思われる亜種もトラッカーに入れられるようになったらしい。  ふーん、古龍 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-18T06:39:22.10Z</dc:date>
+      <dc:date>2024-09-18T07:21:33.31Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#HDoNi-t5ev">
       <title>[ポケモンgo] [生活] [かほく] 2024-09-17 雲であんまりよく撮れない。  イベントでもやってたんか？というぐらい特徴的な卵の湧き方してる ...</title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,かほく,ポケモンgo,生活,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-18T06:39:22.10Z</dc:date>
+      <dc:date>2024-09-18T07:21:33.31Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#buj1-yCKw1">
       <title>[Web] [炎上] 2024-09-18 特に興味がないから山本太郎は完全スルーしてるから↓これは初めて読んでみた。 山本太郎ふりかえ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,羽咋,北陸,モンハンNow,生活,奥能登,羽咋,北陸,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-16T11:39:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/16#dVKR2_wxFb">
-      <title>[モンハンNow] 2024-09-16 来週からかな。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/16#dVKR2_wxFb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-16T09:58:35.00Z</dc:date>
     </item>
   </rdf:RDF>
