@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-20T03:06:14.39Z</dc:date>
+    <dc:date>2024-09-20T03:43:11.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,9 +12,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#14fBJ_Zh8k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#bCQc9rkIXQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#90TFXSFsd8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#FtqkzgsDxj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#1arQNZdLXg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#OqsAJDBqKa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/18#jGYT8kwMoH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#8DRub8HBco"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-20T03:06:14.39Z</dc:date>
+      <dc:date>2024-09-20T03:43:11.64Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#14fBJ_Zh8k">
       <title>[Web] [野球] 2024-09-20 尊い 👏  </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-20T03:06:14.39Z</dc:date>
+      <dc:date>2024-09-20T03:43:11.64Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#bCQc9rkIXQ">
       <title>[Web] [ゲーム] [炎上] 2024-09-19 なんか余計なこと書いてるけど、ポケモンの商標は厳しいぞ？ 俺も先日、ayase (?) の音 ...</title>
@@ -63,6 +63,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-19T11:04:41.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K">
+      <title>[Web] [ゲーム] [炎上] 2024-09-20 どうやら昨日みつけたゲーム動画であってたみたいだ。あのぐらいの類似性でも訴えられるわけか…  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,炎上,Web,ゲーム,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-19T14:08:31.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/17#FtqkzgsDxj">
       <title>[生活] [奥能登] [金沢] 2024-09-17 しばらく前の出来事である。 金沢駅で割と人の多い時間帯、ベンチでぐったりと横になって寝てる結 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/17#FtqkzgsDxj</link>
@@ -78,14 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,野球,Web,スポーツ,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-19T06:12:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K">
-      <title>[Web] [ゲーム] [炎上] 2024-09-20 どうやら昨日みつけたゲーム動画であってたみたいだ。あのぐらいの類似性でも訴えられるわけか… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/20#rBjhhcMK0K</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,炎上,Web,ゲーム,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-19T11:53:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/19#OqsAJDBqKa">
       <title>[生活] [北陸] 2024-09-19 来週までずーっと荒天続きか。困ったもんだ… ここしばらくちゃんと休めていないしお出かけもでき ...</title>
