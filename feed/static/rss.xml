@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-20T03:43:11.64Z</dc:date>
+    <dc:date>2024-09-20T03:58:07.57Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SK/SKrLClHuZ2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3k/3kcGUtB-E6.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fE/fESMIPsDGc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eO/eO2TYc82yK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aP/aPuHOmWV00.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-n/-nPA6zvKiz.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o-/o-uikJfnkN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XZ/XZNWJ-EGhw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/L7/L7PBUSyn7f.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gk/gkTW13GMzX.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-20T03:43:11.64Z</dc:date>
+    <dc:date>2024-09-20T03:58:07.57Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3k/3kcGUtB-E6.htm">
     <title>[Web] [野球] 2024-09-20 尊い 👏  </title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-20T03:43:11.64Z</dc:date>
+    <dc:date>2024-09-20T03:58:07.57Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fE/fESMIPsDGc.htm">
+    <title>[Web] [地理] 2024-09-20 神の造形物は美しい。カルデラの噴火口湖からもう一度噴火して富士のような円錐型が出現した感じ？ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/fE/fESMIPsDGc.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,地理,Web,地理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-09-20T03:55:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/eO/eO2TYc82yK.htm">
     <title>[Web] [ゲーム] [炎上] 2024-09-19 なんか余計なこと書いてるけど、ポケモンの商標は厳しいぞ？ 俺も先日、ayase (?) の音 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,生活,かほく,ポケモンgo,生活,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-09-18T08:14:34.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gk/gkTW13GMzX.htm">
-    <title>[モンハンNow] 2024-09-19 HR237 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/gk/gkTW13GMzX.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-18T07:57:15.00Z</dc:date>
   </item>
 </rdf:RDF>
