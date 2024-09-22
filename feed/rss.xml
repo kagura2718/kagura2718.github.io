@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-22T12:41:16.09Z</dc:date>
+    <dc:date>2024-09-22T13:17:30.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -16,6 +16,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#9kN3PHQhAB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#1Mqeo7OUyE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#SWNvPo0Jqt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#jjWy54h4nV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#t8QW8iosxk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#j50umC1H-0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#p3YqmyGP39"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#EroEfO3_mi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#M2dxfcMq_7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#9cuzXUw_WA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#14fBJ_Zh8k"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-22T12:41:16.09Z</dc:date>
+      <dc:date>2024-09-22T13:17:30.07Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#vduMBsBgFA">
       <title>[Web] [奥能登] 2024-09-22 ああいう豪雨災害では山間の谷筋が酷いと思ってたんだけど、ここはけっこう広い拓けたエリアだ。  ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-22T12:41:16.09Z</dc:date>
+      <dc:date>2024-09-22T13:17:30.07Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#xmcnQL1wCF">
       <title>[モンハンNow] 2024-09-20 パオウルムー亜種 ⭐ 9 しばらくやってみたけど、現状、通常装備で勝ちの目はないなぁ。水武器 ...</title>
@@ -94,6 +94,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-22T01:35:21.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#jjWy54h4nV">
+      <title>[Web] [奥能登] 2024-09-22 検索して眺めてる感じでは柳田村、能登島、宇出津、穴水の辺りは甚大な被害というわけではなさそう ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/22#jjWy54h4nV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-22T00:55:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#t8QW8iosxk">
       <title>[Web] [奥能登] 2024-09-21 1.1 の地震でもなんとか持ち堪えた家もあったんだろうな。みてると辛いのでさすがに徐々にミュ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-20T20:37:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#14fBJ_Zh8k">
-      <title>[Web] [野球] 2024-09-20 尊い 👏  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/20#14fBJ_Zh8k</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-20T13:06:45.00Z</dc:date>
     </item>
   </rdf:RDF>
