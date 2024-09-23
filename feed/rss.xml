@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-22T13:17:30.07Z</dc:date>
+    <dc:date>2024-09-23T03:15:48.45Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#qHIqPphyoY"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#CsVSZcwSu0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#Nfj77BA-T5"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#dkiqlPI-pQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#qHIqPphyoY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#vduMBsBgFA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#xmcnQL1wCF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#ab6w3nr1Eg"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#Ren9EEdeEe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#wYzNxiqRt-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#Hh5mCIPUlj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#EroEfO3_mi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#M2dxfcMq_7"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#9cuzXUw_WA"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#qHIqPphyoY">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#CsVSZcwSu0">
+      <title>[Web] [奥能登] [文化] 2024-09-23 ん？元から特別警報クラスなことは言明されていたような気がするが？そして実際に観測史上最高記録 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/23#CsVSZcwSu0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-23T03:15:48.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#Nfj77BA-T5">
+      <title>[Web] [奥能登] 2024-09-23 これか… やっと開通したばかりの中屋トンネル   取り残されたのは服装からすると、おそらくは ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/23#Nfj77BA-T5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-23T03:15:48.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#dkiqlPI-pQ">
+      <title>[Web] [スポーツ] [野球] 2024-09-23 ほんとにバグみたいな成績だな。 👏  3 割 50 本 50 盗塁。たぶん他にもいっぱい。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/23#dkiqlPI-pQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,野球,Web,スポーツ,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-23T03:15:48.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#qHIqPphyoY">
       <title>[Web] [奥能登] [文化] 2024-09-22 前向きになってみるのはいいことなのだけど、やっぱり 20 年ほど前とは明らかに市井の経済状況 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/22#qHIqPphyoY</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-22T13:17:30.07Z</dc:date>
+      <dc:date>2024-09-23T03:15:48.45Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#vduMBsBgFA">
       <title>[Web] [奥能登] 2024-09-22 ああいう豪雨災害では山間の谷筋が酷いと思ってたんだけど、ここはけっこう広い拓けたエリアだ。  ...</title>
@@ -45,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-22T13:17:30.07Z</dc:date>
+      <dc:date>2024-09-22T22:36:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#xmcnQL1wCF">
       <title>[モンハンNow] 2024-09-20 パオウルムー亜種 ⭐ 9 しばらくやってみたけど、現状、通常装備で勝ちの目はないなぁ。水武器 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-21T03:51:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/20#EroEfO3_mi">
-      <title>[Web] [文化] [モンハンNow] 2024-09-20 モンハンNow で知った茶々々だけど、やっぱり昔はさらに声がかわいいな。はっきり言及してない ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/20#EroEfO3_mi</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,モンハンNow,Web,文化,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-21T02:55:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#M2dxfcMq_7">
-      <title>[生活] [時事] [奥能登] [NHK] 2024-09-21 すべて 1.1 の被災地じゃないか… 自分のとこはほとんど降ってない。昨日の夜に酷かった程度 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/21#M2dxfcMq_7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,時事,奥能登,NHK,生活,時事,奥能登,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-20T20:32:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/21#9cuzXUw_WA">
-      <title>[ポケモンgo] 2024-09-21 本日の最大強化 PL40  最大強化 PL50 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/21#9cuzXUw_WA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-20T20:37:44.00Z</dc:date>
     </item>
   </rdf:RDF>
