@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-24T15:11:02.56Z</dc:date>
+    <dc:date>2024-09-25T02:28:44.82Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/24#4JM_ctpDeA"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/25#b0CIkIcc15"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#9viO1W9D_h"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#dYGSUSD3vf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/24#DfdldoDFnL"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#vduMBsBgFA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#ab6w3nr1Eg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#7SkZ943F9a"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#9kN3PHQhAB"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-24T15:11:02.56Z</dc:date>
+      <dc:date>2024-09-25T02:28:44.82Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/25#b0CIkIcc15">
+      <title>[Web] [奥能登] 2024-09-25 深見集落も出てた。何度も通った集会所の前まで崩れてる。あの辺りもだめか… 惨すぎるだろ 😭  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/25#b0CIkIcc15</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-25T00:41:37.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#9viO1W9D_h">
       <title>[生活] [金沢] [モンハンNow] 2024-09-23 夜はかなり涼しくなって過ごしやすくなった。金沢駅前の人出はほとんど変化なし。外国人濃度は以前 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-24T15:11:02.56Z</dc:date>
+      <dc:date>2024-09-24T19:24:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/24#DfdldoDFnL">
       <title>[Web] [奥能登] 2024-09-24 この濁流は津波と一緒だな。上から重力に従って流れてくるからエネルギーは… 津波とどれぐらい違 ...</title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-24T15:11:02.56Z</dc:date>
+      <dc:date>2024-09-24T15:37:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#xxK1dgdfjt">
       <title>[生活] [モンハンNow] 2024-09-23 いまいち、何も手につかんな。ゲームか登山しか手につかない。仕方ないのでゲームをする。 マガイ ...</title>
@@ -69,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-24T15:11:02.56Z</dc:date>
+      <dc:date>2024-09-24T15:24:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/23#Az1TfQOCST">
       <title>[登山] [生活] [宝達山] 2024-09-23 奥能登方面のニュースが気になって何もかもいまいち手につかない。ライフワークの登山におでかけす ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,野球,Web,スポーツ,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-22T08:03:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/22#9kN3PHQhAB">
-      <title>[モンハンNow] 2024-09-22 うーん、あんまり壊れないね。アンジャナフ、ノーマル装備でも時々は 3 部位 (尻尾、右足、頭 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/22#9kN3PHQhAB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-22T04:35:48.00Z</dc:date>
     </item>
   </rdf:RDF>
