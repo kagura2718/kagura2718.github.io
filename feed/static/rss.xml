@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-27T07:56:35.79Z</dc:date>
+    <dc:date>2024-09-27T09:46:28.03Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v0/v0SyhO3rXM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4_/4_ZJ1vthV1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/21/21dFlIjPsC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LY/LYS5pLUljU.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K4/K4FauQa3v5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/W9/W9LIUq72k8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nz/nzIK6SFu0P.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EX/EXKRt6UABj.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/v0/v0SyhO3rXM.htm">
+    <title>[Web] [かほく] [文化] 2024-09-27 すげぇ。かほく市のハザードマップは pdf で 2 ページしかないのに 70MB - 80M ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/v0/v0SyhO3rXM.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,かほく,文化,Web,かほく,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-09-27T09:46:28.03Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4_/4_ZJ1vthV1.htm">
     <title>[モンハンNow] 2024-09-27 連続で錬成当たり！ これでミツネ ⭐ 9 もそこそこいけるだろう。  ミツネ太刀も思ったより ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/4_/4_ZJ1vthV1.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-27T07:56:35.79Z</dc:date>
+    <dc:date>2024-09-27T09:46:28.03Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/21/21dFlIjPsC.htm">
     <title>[時事] [文化] 2024-09-27 とりあえず一安心… 【速報中】新総裁選出の石破氏「自由闊達で謙虚な党に」　自民総裁選 [自民 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-09-24T19:24:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EX/EXKRt6UABj.htm">
-    <title>[Web] [奥能登] 2024-09-24 この濁流は津波と一緒だな。上から重力に従って流れてくるからエネルギーは… 津波とどれぐらい違 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/EX/EXKRt6UABj.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-24T15:37:55.00Z</dc:date>
   </item>
 </rdf:RDF>
