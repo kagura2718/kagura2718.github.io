@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-27T04:06:54.61Z</dc:date>
+    <dc:date>2024-09-27T07:51:03.14Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4_/4_ZJ1vthV1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LY/LYS5pLUljU.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/04/040D8DrYHL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/51/51-QMycUz-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nq/NqsDU5KQlN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c1/c1Rw-_HHO0.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nz/nzIK6SFu0P.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EX/EXKRt6UABj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/r4/r4BwqZmwbx.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FU/FUfI5IyeN2.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-27T04:06:54.61Z</dc:date>
+    <dc:date>2024-09-27T07:51:03.14Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/LY/LYS5pLUljU.htm">
     <title>[モンハンNow] 2024-09-26 開戦初期の挙動というかタイミング、パオウルムー亜種だけじゃなく、いくつか変化してるみたいだな ...</title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-09-26T19:14:22.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/04/040D8DrYHL.htm">
+    <title>[NHK] 2024-09-27 これが小芝風花かなぁ。ちょっと前にみたときよりも一気に守備範囲に…  ↓これが 4 年前か </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/04/040D8DrYHL.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,NHK,NHK</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-09-26T18:47:05.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/51/51-QMycUz-.htm">
     <title>[スポーツ] [野球] 2024-09-26 トリプルプレー久々にみた。しかも 9 回で、シーズン終盤の大一番。セカンドの捕球から送球まで ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-09-24T15:24:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FU/FUfI5IyeN2.htm">
-    <title>[登山] [生活] [宝達山] 2024-09-23 奥能登方面のニュースが気になって何もかもいまいち手につかない。ライフワークの登山におでかけす ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/FU/FUfI5IyeN2.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-09-24T12:40:42.00Z</dc:date>
   </item>
 </rdf:RDF>
