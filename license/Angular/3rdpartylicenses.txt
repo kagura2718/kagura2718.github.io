@@ -1088,6 +1088,9 @@ Apache-2.0
    limitations under the License.
 
 
+ng-select2
+MIT
+
 ng2-adsense
 MIT
 MIT License
