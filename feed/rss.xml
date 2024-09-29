@@ -4,17 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-09-29T13:52:59.28Z</dc:date>
+    <dc:date>2024-09-29T14:29:32.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#KGdewDj1_U"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#lq6YGAV89F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#kx3sylhoaS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#acztVBQbjx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#PTRB2xkLfq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#h6KRYE2M0b"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#N5cELeevHT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#tSQOiUdymV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#Gu2Tsrl0w1"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,奥能登,金沢,ポケモンgo,生活,奥能登,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-29T13:52:59.28Z</dc:date>
+      <dc:date>2024-09-29T14:29:32.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP">
+      <title>[Web] [時事] 2024-09-29 今の自民党総裁選挙での (能登の豪雨災害への) 対応を観てても、この人は確実に株を上げたと思 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-29T05:22:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#lq6YGAV89F">
       <title>[モンハンNow] 2024-09-29 防具強化の儀 ギエナ胴体 G9-3  </title>
@@ -78,14 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-28T20:44:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP">
-      <title>[Web] [時事] 2024-09-29 今の自民党総裁選挙での (能登の豪雨災害への) 対応を観てても、この人は確実に株を上げたと思 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-28T18:38:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#N5cELeevHT">
       <title>[モンハンNow] 2024-09-29 武器強化の儀 黒弓 ゲイルホーン  G8-5   そろそろ黒弓装備戦略を考えねば。  弓に必 ...</title>
