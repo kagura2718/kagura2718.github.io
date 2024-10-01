@@ -4,15 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-01T10:39:10.36Z</dc:date>
+    <dc:date>2024-10-01T14:10:11.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#sEd3tUpZOQ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#muQYgYPbO0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#zMu88xGJg3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#A__RYD7sHX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#sEd3tUpZOQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#271aV2n_sR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#467eRb-_eV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#B60pfoj7uy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#OKZ1je64o1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#CoWpUhwrDA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#PTRB2xkLfq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/30#wzYzMp4Guo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#vhHfCyZscq"/>
@@ -24,20 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/30#-Jbpq4oRFV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#KGdewDj1_U"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#3sA8H07-MP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#lq6YGAV89F"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#kx3sylhoaS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#acztVBQbjx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#h6KRYE2M0b"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#sEd3tUpZOQ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#muQYgYPbO0">
+      <title>[生活] 2024-10-01 うーん、明日からしばらく悪天か。ちょっと雨ふるぐらいで済むかどうか。 またお出かけが遠のく… ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/01#muQYgYPbO0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-01T14:10:11.64Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#zMu88xGJg3">
+      <title>[Web] [芸能] 2024-10-01 最近、橋下環奈の名前と顔を見かけると思ったら朝ドラに出てるらしい。高校生役？ってさすがに無理 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/01#zMu88xGJg3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,芸能,Web,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-01T14:10:11.64Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#A__RYD7sHX">
+      <title>[時事] [政治] 2024-10-01 どちらかというと非自民党派で左寄りな自分としても、こういう態度こそが自民党が唯一大政党たる所 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/01#A__RYD7sHX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,政治,時事,政治]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-01T14:10:11.64Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#sEd3tUpZOQ">
       <title>[モンハンNow] 2024-10-01 なるほど、弱点特攻を考えると実質 会心 100% ということね。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/01#sEd3tUpZOQ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-01T10:39:10.36Z</dc:date>
+      <dc:date>2024-10-01T11:58:14.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#271aV2n_sR">
       <title>[Web] [炎上] 2024-10-01 何だか騒いでる唐沢なる人物。 twitter のアイコンだけは見覚えがある。  どんな芸風だ ...</title>
@@ -70,6 +94,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-30T23:07:23.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/01#CoWpUhwrDA">
+      <title>[Web] [文化] 2024-10-01 民主党から鞍替えして自民党に行ったってことかしら？  政治思想なし  やん。だからカツカレー ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/01#CoWpUhwrDA</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-09-30T21:48:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#PTRB2xkLfq">
       <title>[モンハンNow] 2024-09-29 次 (Chapter 11) はこいつか。  この子も充分に練習したから進めてしまいましょうか。</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-09-29T05:22:21.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#lq6YGAV89F">
-      <title>[モンハンNow] 2024-09-29 防具強化の儀 ギエナ胴体 G9-3  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/29#lq6YGAV89F</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-29T12:13:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#kx3sylhoaS">
-      <title>[Web] [奥能登] [文化] 2024-09-29 よー言うわ、こいつら… JFC (Japan Factcheck Center)  ↓この時 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/29#kx3sylhoaS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-29T09:33:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/29#acztVBQbjx">
-      <title>[モンハンNow] 2024-09-29 ツィツィヤック ⭐ 10 が意外に勝てないね。うーん…？   ⭐ 9 の手応えからすると、か ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/29#acztVBQbjx</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-29T05:29:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/09/28#h6KRYE2M0b">
-      <title>[生活] [奥能登] [北陸] 2024-09-28 ときどき通りかかる旅館の警視庁のパトカーがまた増えていた。滞在がさらに長くなりそうだ。警視庁 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/09/28#h6KRYE2M0b</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-09-28T20:44:23.00Z</dc:date>
     </item>
   </rdf:RDF>
