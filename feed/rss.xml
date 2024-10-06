@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-04T12:06:56.58Z</dc:date>
+    <dc:date>2024-10-06T03:38:37.88Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hoS9U3S_cs"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#uEdmp44_qL"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-05.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hoS9U3S_cs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hr_U5NwXqd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#N0YhZVmv9q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#NIHWr7IYZw"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#_VM7Yh1VRx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#Wd7cnQn-pf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#s9NZ8TTg9k"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/02#7n_BYluOhp"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/02#aDpbNx8b0r"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hoS9U3S_cs">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#uEdmp44_qL">
+      <title>[生活] 2024-10-06 今日も予想外にいい天気だ。で、明日が大荒れ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/06#uEdmp44_qL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-06T03:38:37.88Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-10-05.htm">
+      <title>[登山] [生活] [食事] [白山] 2024-10-05 白山 - 野々市</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-10-05.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,生活,食事,白山,登山,生活,食事,白山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-05T13:19:21.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hoS9U3S_cs">
       <title>[モンハンNow] 2024-10-04 前のジンオウガ、初手の前に 4 回入れられた気がするんだけど、今は 3 回になった。気がする ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hoS9U3S_cs</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-04T12:06:56.58Z</dc:date>
+      <dc:date>2024-10-05T00:58:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#hr_U5NwXqd">
       <title>[モンハンNow] 2024-10-04 リオレイア ⭐ 10 やっぱり勝てんな。  を？変わってた。これがネルギガンテというらしい。 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-04T12:06:56.58Z</dc:date>
+      <dc:date>2024-10-04T17:58:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#N0YhZVmv9q">
       <title>[生活] [モンハンNow] 2024-10-03 今日はやたらとスワイプ動作が取りこぼされて格上相手だとほぼゲームにならなかった。昨日は雨の中 ...</title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-04T12:06:56.58Z</dc:date>
+      <dc:date>2024-10-04T12:17:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#NIHWr7IYZw">
       <title>[ポケモンgo] [モンハンNow] 2024-10-04 アセットのダウンロードでけぇ 174MB  ポケモンGo もでけぇ 743MB ？？ </title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-04T12:06:56.58Z</dc:date>
+      <dc:date>2024-10-04T13:20:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#rtZ3qOuVSo">
       <title>[漫画] 2024-10-03 呪術廻戦の作者、もうちょっと年齢が上でも不思議はないけど 32 歳か。wikipedia に ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-03T01:03:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/02#7n_BYluOhp">
-      <title>[Web] [炎上] [奥能登] 2024-10-02 ネットの噂話を断片的に繋ぎあわせてしゃべってるだけの感じかな。さすがに全部を観る価値はない。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/02#7n_BYluOhp</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-02T16:36:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/02#aDpbNx8b0r">
-      <title>[Web] [奥能登] 2024-10-02 memo   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/02#aDpbNx8b0r</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-02T16:09:51.00Z</dc:date>
     </item>
   </rdf:RDF>
