@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-07T00:28:00.95Z</dc:date>
+    <dc:date>2024-10-07T03:04:26.72Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#ieXKUZev-k"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#uEdmp44_qL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#soKCEipJH8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#5ezvvk3ekT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/02#DdAhSDRCcs"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#VvXFT9s_W6"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#ieXKUZev-k">
+      <title>[モンハンNow] 2024-10-07 武器強化の儀 黒弓 ゲイルホーン G9-1   ブースト？？ 新要素だろうか？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/07#ieXKUZev-k</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-07T03:04:26.72Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br">
       <title>[Web] [炎上] 2024-10-06 これが台湾の航空会社らしい。そんなにダンス巧くはいよね。当たり前だし、それでいいんだけどさ。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-07T00:28:00.95Z</dc:date>
+      <dc:date>2024-10-07T03:04:26.72Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-10-06 買い物に駅前へ出動。ついでに色違いがほしい、ザマゼンタもできるだけやってみる。 日曜だから人 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,かほく,ポケモンgo,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-03T00:40:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#VvXFT9s_W6">
-      <title>[Web] [奥能登] [文化] 2024-10-03 触れないようにしてたのだけど、若い女の子だけやたらとメディアに色んな写真と一緒に流すの、どう ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/03#VvXFT9s_W6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-03T08:35:25.00Z</dc:date>
     </item>
   </rdf:RDF>
