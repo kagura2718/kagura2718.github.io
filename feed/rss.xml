@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-07T11:29:53.61Z</dc:date>
+    <dc:date>2024-10-07T13:08:25.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#84DdjhYIfA"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#ieXKUZev-k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#CmuJSGm74_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#5UAnjb747J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#uEdmp44_qL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#N0YhZVmv9q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#NIHWr7IYZw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/03#rtZ3qOuVSo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#YtsT7ipGYK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#0UtRfxz7GG"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-07T11:29:53.61Z</dc:date>
+      <dc:date>2024-10-07T13:08:25.55Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc">
+      <title>[料理] 2024-10-07 私は肉が好きだ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-07T13:08:25.55Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#ieXKUZev-k">
       <title>[モンハンNow] 2024-10-07 武器強化の儀 黒弓 ゲイルホーン G9-1   ブースト？？ 新要素だろうか？ </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-07T11:29:53.61Z</dc:date>
+      <dc:date>2024-10-07T13:08:25.55Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br">
       <title>[Web] [炎上] 2024-10-06 これが台湾の航空会社らしい。そんなにダンス巧くはいよね。当たり前だし、それでいいんだけどさ。 ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-07T05:46:58.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#5UAnjb747J">
+      <title>[生活] 2024-10-07 昨日、登山から帰宅後は久々の熟睡の爆睡だったぜ。帰宅前にもちょっと駐車場で仮眠したけど、それ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/07#5UAnjb747J</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-07T00:42:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-10-06 買い物に駅前へ出動。ついでに色違いがほしい、ザマゼンタもできるだけやってみる。 日曜だから人 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-03T16:57:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#YtsT7ipGYK">
-      <title>[Web] [炎上] 2024-10-04 どうやら無事訴えられたらしい。再起不能なほど高額の賠償が認められてほしい。  どうやら餌をや ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/04#YtsT7ipGYK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-03T16:27:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/04#0UtRfxz7GG">
-      <title>[漫画] [アニメ] 2024-10-04 BLEACH 千年血戦篇 - シーズン2 - 21話 (アニメ) | 無料動画・見逃し配信を ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/04#0UtRfxz7GG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-03T14:47:49.00Z</dc:date>
     </item>
   </rdf:RDF>
