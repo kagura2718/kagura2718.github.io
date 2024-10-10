@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-09T14:47:52.40Z</dc:date>
+    <dc:date>2024-10-10T01:35:19.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/10#phMUrqZjBW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/09#ZSSxaNI9u_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#LzsEwmV1dO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#OSQ9z0oiMV"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#AsFYvLb4br"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#CmuJSGm74_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#5UAnjb747J"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/10#phMUrqZjBW">
+      <title>[モンハンNow] 2024-10-10 武器強化の儀 ラージャン弓 G7-1, G7-2    マガイマガド弓 G7-1, G7-2 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/10#phMUrqZjBW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-10T01:35:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH">
       <title>[アニメ] 2024-10-08 お、るろうにが無料公開だ。 るろうに剣心 －明治剣客浪漫譚－ - シーズン2 - 25話 ( ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-09T14:47:52.40Z</dc:date>
+      <dc:date>2024-10-09T17:05:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/09#ZSSxaNI9u_">
       <title>[ポケモンgo] [生活] [金沢] 2024-10-09 駅前レイドアワーに出動。思ったより遅くなってしまった。ザマゼンタは 3/3 ぐらい。ノー色違 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-07T00:42:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl">
-      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-10-06 買い物に駅前へ出動。ついでに色違いがほしい、ザマゼンタもできるだけやってみる。 日曜だから人 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/06#PV_M_BdUfl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-06T20:02:09.00Z</dc:date>
     </item>
   </rdf:RDF>
