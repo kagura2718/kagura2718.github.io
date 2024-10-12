@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-11T23:55:19.41Z</dc:date>
+    <dc:date>2024-10-12T03:07:35.14Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#mgJtQm1xgH"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#dQTag06GPw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/10#5M6owkh4-I"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#1gnXzTP6GU"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#Q5MizdqgJi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#FPelNspM9l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#84DdjhYIfA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#mgJtQm1xgH">
+      <title>[ポケモンgo] [かほく] 2024-10-11 むかつく… 逃げられた。ほぼ金ずり excellent curve 当ててるのに…  これぐ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/11#mgJtQm1xgH</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,かほく,ポケモンgo,かほく]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-12T03:07:35.14Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7">
       <title>[Web] [炎上] [奥能登] 2024-10-11 土砂ダム７カ所消失　輪島・町野川水系、豪雨で　下流被害増した可能性｜石川のニュース｜北國新聞 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-11T23:55:19.41Z</dc:date>
+      <dc:date>2024-10-12T03:07:35.14Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#dQTag06GPw">
       <title>[登山] [生活] [PerazziBeretta] [宝達山] 2024-10-11 天気がいいのになかなか遠出ができない。今日は半休で近場で山成分を満たすことにした。  本日の ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,PerazziBeretta,宝達山,登山,生活,PerazziBeretta,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-11T23:55:19.41Z</dc:date>
+      <dc:date>2024-10-12T03:07:35.14Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/10#5M6owkh4-I">
       <title>[ポケモンgo] 2024-10-10 いつも通り一斉湧きしてる。イオンかほく近辺 20:00  氷見の番屋街から離れて… どこだこ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-08T04:06:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc">
-      <title>[料理] 2024-10-07 私は肉が好きだ </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/07#D0k1L4xBvc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-08T03:45:57.00Z</dc:date>
     </item>
   </rdf:RDF>
