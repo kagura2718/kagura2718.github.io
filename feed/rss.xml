@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-12T12:39:29.79Z</dc:date>
+    <dc:date>2024-10-12T12:55:21.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#zpcFFov8pl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#mgJtQm1xgH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#QAYHi4NDRI"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#TAiphQFvDi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#u6q6xsKEk6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#frezy4nxO7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#dQTag06GPw"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#fFRTje29GH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#LzsEwmV1dO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#OSQ9z0oiMV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#CwrJScb2Tl"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-12T12:39:29.79Z</dc:date>
+      <dc:date>2024-10-12T12:55:21.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#zpcFFov8pl">
       <title>[モンハンNow] 2024-10-12 これ、まだ火力装備でもギリギリだぜ？立ち回りはそれなりにミスったけどさ…   レイギエナだけ ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-12T12:39:29.79Z</dc:date>
+      <dc:date>2024-10-12T12:55:21.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/11#mgJtQm1xgH">
       <title>[ポケモンgo] [かほく] 2024-10-11 むかつく… 逃げられた。ほぼ金ずり excellent curve 当ててるのに…  これぐ ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,かほく,ポケモンgo,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-12T12:39:29.79Z</dc:date>
+      <dc:date>2024-10-12T12:55:21.10Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#QAYHi4NDRI">
       <title>[野球] 2024-10-12 いいー試合だ。大谷はダルビッシュに完全に抑えられてるな。投げる前の待ち時間変えてるの巧いなw ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,野球,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-12T07:22:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#TAiphQFvDi">
+      <title>[Web] [ゲーム] [炎上] [文化] 2024-10-12 課金アイテムをいじって犯罪化というのは前々からよくあるのだけど、位置ゲームの場合は… ゲーム ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/12#TAiphQFvDi</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,炎上,文化,Web,ゲーム,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-12T06:18:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/12#u6q6xsKEk6">
       <title>[Web] [奥能登] [技術] 2024-10-12 うーん、生々しい人間のどす黒い感情、怨嗟と嫉妬を感じるぞ。  奥能登方面で見かける人達、すご ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-08T19:38:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/08#CwrJScb2Tl">
-      <title>[ポケモンgo] 2024-10-08 あー ザマゼンタの色違いピンク系か。これはなんとかして欲しい。すごく欲しい。 【ポケモンGO ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/08#CwrJScb2Tl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-08T17:53:39.00Z</dc:date>
     </item>
   </rdf:RDF>
