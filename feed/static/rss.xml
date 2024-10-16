@@ -4,14 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-16T03:47:21.40Z</dc:date>
+    <dc:date>2024-10-16T14:43:32.77Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hK/hK4YAy85vN.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mO/mOQawRxUmA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hc/hc08j64oVz.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pC/pCTvQ7zOvC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/B9/B9Gy-yQ8Xn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MP/MP9BvUU8LJ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Id/Id-8LhTOzp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/B6/B6aZD7s1Ga.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pm/PmwRI6nZyz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EP/EPqyEvv8DG.htm"/>
@@ -25,9 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ta/TapaxV1XVg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EW/EWKCwb7Y0A.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4K/4KNJS95pS1.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V6/V6WaW-ox74.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tI/tIQ_GjAyXw.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NL/NLFFR5bNM_.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-16T03:47:21.40Z</dc:date>
+    <dc:date>2024-10-16T14:43:32.77Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mO/mOQawRxUmA.htm">
+    <title>[料理] 2024-10-16 余った具材で梅干しと鶏皮でチャーハンにしてみた。これはもうちょっとアイデアを磨けば悪くないん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/mO/mOQawRxUmA.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-16T02:03:39.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hc/hc08j64oVz.htm">
     <title>[時事] [北陸] [福井] 2024-10-16 豪雨災害が原発近辺で起こったらどういう事態になるだろうねぇ？地震 + 津波は福島で確認済みだ ...</title>
@@ -45,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,時事,北陸,福井,時事,北陸,福井</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-16T03:47:21.40Z</dc:date>
+    <dc:date>2024-10-16T09:26:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pC/pCTvQ7zOvC.htm">
+    <title>[アニメ] 2024-10-16 らんま 1/2 が捕獲されていた。   これ、たぶん現代のリメイクだろうな。昔より描写がまろ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pC/pCTvQ7zOvC.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-15T20:46:01.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/B9/B9Gy-yQ8Xn.htm">
     <title>[モンハンNow] 2024-10-15 整いました。 ✌️  今の 5 属性が当たりっての当たり枠が少なすぎて意味わかんなくね？欲し ...</title>
@@ -62,6 +78,14 @@
         日記,つぶやき,雑記帳,Ingress,奥能登,Ingress,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-15T12:14:27.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Id/Id-8LhTOzp.htm">
+    <title>[Web] [炎上] [国際] 2024-10-16 タコには知性があるから養殖を禁止… ちょっと前に騒いでたのはこれかな？  えー… これもまた ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Id/Id-8LhTOzp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-15T12:08:51.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/B6/B6aZD7s1Ga.htm">
     <title>[ポケモンgo] 2024-10-14 先週は 67km </title>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,野球,野球</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-12T07:22:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V6/V6WaW-ox74.htm">
-    <title>[Web] [ゲーム] [炎上] [文化] 2024-10-12 課金アイテムをいじって犯罪化というのは前々からよくあるのだけど、位置ゲームの場合は… ゲーム ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/V6/V6WaW-ox74.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,ゲーム,炎上,文化,Web,ゲーム,炎上,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-12T06:18:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tI/tIQ_GjAyXw.htm">
-    <title>[Web] [奥能登] [技術] 2024-10-12 うーん、生々しい人間のどす黒い感情、怨嗟と嫉妬を感じるぞ。  奥能登方面で見かける人達、すご ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/tI/tIQ_GjAyXw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,奥能登,技術,Web,奥能登,技術</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-12T06:00:56.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NL/NLFFR5bNM_.htm">
-    <title>[Web] [炎上] [奥能登] 2024-10-11 土砂ダム７カ所消失　輪島・町野川水系、豪雨で　下流被害増した可能性｜石川のニュース｜北國新聞 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/NL/NLFFR5bNM_.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,奥能登,Web,炎上,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-12T05:32:53.00Z</dc:date>
   </item>
 </rdf:RDF>
