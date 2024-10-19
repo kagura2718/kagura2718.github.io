@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-19T03:00:59.98Z</dc:date>
+    <dc:date>2024-10-19T03:04:09.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dq/DqlTDzaLiz.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0_/0_1TMrDZMd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kd/Kd8uqOVHB-.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d2/d2Qoy5nURZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a3/a3Baw0C_sw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GD/GDeHcg4_9a.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PB/PBfFmCy7je.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qO/qOlqKfDXeh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1l/1lg-vBfBvt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6D/6DDPyMoBiL.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hc/hc08j64oVz.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yp/ypugl8p1Jb.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-19T03:00:59.98Z</dc:date>
+    <dc:date>2024-10-19T03:04:09.30Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0_/0_1TMrDZMd.htm">
+    <title>[Wayfarer] [Ingress] 2024-10-19 昨日ぐらいから wayfarer アプリ経由で申請したような記憶のある申請の結果が戻ってきた ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/0_/0_1TMrDZMd.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Wayfarer,Ingress,Wayfarer,Ingress</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-19T03:04:09.30Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Kd/Kd8uqOVHB-.htm">
     <title>[Wayfarer] [Web] [文化] 2024-10-19 ↓こういう  安直な馬鹿野郎  が根源から分かってないのは、「削除マン」とやらは ingre ...</title>
@@ -45,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,Wayfarer,Web,文化,Wayfarer,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-19T03:00:59.98Z</dc:date>
+    <dc:date>2024-10-19T03:04:09.30Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/d2/d2Qoy5nURZ.htm">
+    <title>[モンハンNow] 2024-10-19 武器強化の儀 飛竜刀(翠) G10-4   リーチ！あとちょっと。</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/d2/d2Qoy5nURZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-18T19:27:19.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/a3/a3Baw0C_sw.htm">
     <title>[登山] [Web] [炎上] 2024-10-17 いまいち意味わからん。 😯   地名とか地形とかまったく分からんから調べてみる。 トーミの頭 ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-16T19:02:32.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hc/hc08j64oVz.htm">
-    <title>[時事] [北陸] [福井] 2024-10-16 豪雨災害が原発近辺で起こったらどういう事態になるだろうねぇ？地震 + 津波は福島で確認済みだ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/hc/hc08j64oVz.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,北陸,福井,時事,北陸,福井</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-16T09:30:02.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yp/ypugl8p1Jb.htm">
-    <title>[モンハンNow] 2024-10-17 まじで糞だ。こいつ。  捨てるのめんどくせぇんだよ。  武器強化の儀 リオレイア太刀 G10 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/yp/ypugl8p1Jb.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-17T01:23:10.00Z</dc:date>
   </item>
 </rdf:RDF>
