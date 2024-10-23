@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-23T08:59:57.85Z</dc:date>
+    <dc:date>2024-10-23T09:59:22.82Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kv/kvooSdP0e3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q6/Q6kJjh12ex.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sO/sOg7FeI7k4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HZ/HZ37V127z5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1o/1oUx1lrczW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kp/KpVvfocdm8.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bu/BuGXeQlD2I.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PB/PBfFmCy7je.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1T/1T6mL0vg8p.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EG/EGgv_6juTM.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,随筆,簡約版,食事,岐阜,飛騨高山,食事,岐阜,飛騨高山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-23T08:59:57.85Z</dc:date>
+    <dc:date>2024-10-23T09:59:22.82Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Q6/Q6kJjh12ex.htm">
     <title>[ポケモンgo] 2024-10-22 先週は 110km </title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-23T03:40:07.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sO/sOg7FeI7k4.htm">
+    <title>[奥能登] [長野] 2024-10-23 木曽の中山道のエリア、一軒もツルヤは出店してないな。車通りはかなり多いんだけど、それなりに夜 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/sO/sOg7FeI7k4.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,奥能登,長野,奥能登,長野</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-23T01:39:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/HZ/HZ37V127z5.htm">
     <title>[中央アルプス] [長野] 2024-10-20 中山道 (木曽福島 - 荻原 - 鳥居峠- 奈良井)</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-18T09:32:24.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EG/EGgv_6juTM.htm">
-    <title>[Web] [炎上] [女性] 2024-10-19 やりとりが普通に驚いたんだけど、これ、もしかしてフェミニズムの核なのだろうか？こういう感性な ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/EG/EGgv_6juTM.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,女性,Web,炎上,女性</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-18T08:11:03.00Z</dc:date>
   </item>
 </rdf:RDF>
