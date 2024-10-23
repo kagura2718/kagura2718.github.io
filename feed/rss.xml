@@ -9,10 +9,10 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-22.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#1QUcajOhn3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/22#Uj5DaKUGj7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#rP6lhRNO_m"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#ih2k1vubqo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-21.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -39,6 +39,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-23T15:49:34.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm">
+      <title>[中央アルプス] [長野] 2024-10-20 中山道 (木曽福島 - 荻原 - 鳥居峠- 奈良井)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,中央アルプス,長野,中央アルプス,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-22T20:29:44.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#1QUcajOhn3">
       <title>[映画] [国際] 2024-10-23 ハリウッドを追放されたケビン・スペイシー、借金は億単位、家も失う（猿渡由紀） - エキスパー ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/23#1QUcajOhn3</link>
@@ -62,14 +70,6 @@
         <![CDATA[日記,つぶやき,雑記帳,奥能登,長野,奥能登,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-23T01:39:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm">
-      <title>[中央アルプス] [長野] 2024-10-20 中山道 (木曽福島 - 荻原 - 鳥居峠- 奈良井)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2024/2024-10-20.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,中央アルプス,長野,中央アルプス,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-22T20:29:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#ih2k1vubqo">
       <title>[モンハンNow] 2024-10-23 次のアセットは 800MB  んで、これがイベント武器？ どうやら太刀らしいが。  それなり ...</title>
