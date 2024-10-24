@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-24T03:16:47.67Z</dc:date>
+    <dc:date>2024-10-24T08:07:14.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/24#6emFYtxgb9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-22.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/24#-tZrWgX2gO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/24#7Nb-EAs3Cc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/23#rP6lhRNO_m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-21.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/19#AuPwbdwtts"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/19#FZrP8UHk7v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/19#TVY6BrpEkD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/19#MmKzgrG0bx"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,Web,炎上,法律,漫画,Web,炎上,法律]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-24T03:16:47.67Z</dc:date>
+      <dc:date>2024-10-24T08:07:14.85Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-10-22.htm">
       <title>[食事] [岐阜] [飛騨高山] 2024-10-22 飛騨高山 - 千光寺</title>
@@ -54,6 +54,14 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/24#-tZrWgX2gO">
+      <title>[Web] [アニメ] 2024-10-24 設定だけは正直面白い。頭をぶつけていい子になったフリーザ孫悟空がみたい。フリーザは産まれたと ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/24#-tZrWgX2gO</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-24T00:34:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/24#7Nb-EAs3Cc">
       <title>[白馬] [長野] 2024-10-24 今年は白馬の方に行きたかったんだけど行けなかったな。まだチャンスは少しあるけども。</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Wayfarer,Web,文化,Wayfarer,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-19T05:57:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/19#MmKzgrG0bx">
-      <title>[モンハンNow] 2024-10-19 武器強化の儀 飛竜刀(翠) G10-4   リーチ！あとちょっと。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/19#MmKzgrG0bx</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-18T19:27:19.00Z</dc:date>
     </item>
   </rdf:RDF>
