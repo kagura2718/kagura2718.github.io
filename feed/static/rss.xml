@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-24T08:07:14.85Z</dc:date>
+    <dc:date>2024-10-24T11:41:54.12Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pV/pVwT7xUbrB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ym/ym2Q6oBL01.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kv/kvooSdP0e3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GD/GDeHcg4_9a.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0_/0_1TMrDZMd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oI/oIswhlDTge.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kd/Kd8uqOVHB-.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pV/pVwT7xUbrB.htm">
+    <title>[アニメ] 2024-10-24 基本的につまんないんだけど、割と設定やキャラは覚えてる。くのう先輩とか。おさげの女だったか。 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pV/pVwT7xUbrB.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-24T11:41:54.12Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ym/ym2Q6oBL01.htm">
     <title>[漫画] [Web] [炎上] [法律] 2024-10-24 また労使ネタで何かあったのかな。  長すぎて追い切れないな。 😅 漫画のアシスタント (自営 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/ym/ym2Q6oBL01.htm</link>
     <description>
         日記,つぶやき,雑記帳,漫画,Web,炎上,法律,漫画,Web,炎上,法律</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-24T08:07:14.85Z</dc:date>
+    <dc:date>2024-10-24T11:41:54.12Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kv/kvooSdP0e3.htm">
     <title>[食事] [岐阜] [飛騨高山] 2024-10-22 飛騨高山 - 千光寺</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-19T09:08:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Kd/Kd8uqOVHB-.htm">
-    <title>[Wayfarer] [Web] [文化] 2024-10-19 ↓こういう  安直な馬鹿野郎  が根源から分かってないのは、「削除マン」とやらは ingre ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Kd/Kd8uqOVHB-.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Wayfarer,Web,文化,Wayfarer,Web,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-19T05:57:57.00Z</dc:date>
   </item>
 </rdf:RDF>
