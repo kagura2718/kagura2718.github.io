@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-26T02:58:00.38Z</dc:date>
+    <dc:date>2024-10-26T03:07:54.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-M/-Mu_26tP8V.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FR/FRQ5_oaOqW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2j/2jiGFCfEtd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MD/MDNaVOxOCv.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sO/sOg7FeI7k4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pW/pWf-Zc8GFk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q6/Q6kJjh12ex.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1o/1oUx1lrczW.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-M/-Mu_26tP8V.htm">
+    <title>[ポケモンgo] 2024-10-26 ゾロアの XXS はくそみたいに邪魔だけど、バケッチャの XXL を相棒にしとくと XXL  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-M/-Mu_26tP8V.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-10-26T03:07:54.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FR/FRQ5_oaOqW.htm">
     <title>[料理] 2024-10-25 雑な牛丼にいたしましょう。  温泉卵を作りそびれたので目玉焼きにしたら割れてもた… 無念。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/FR/FRQ5_oaOqW.htm</link>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-10-23T03:40:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1o/1oUx1lrczW.htm">
-    <title>[モンハンNow] 2024-10-23 次のアセットは 800MB  んで、これがイベント武器？ どうやら太刀らしいが。  それなり ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/1o/1oUx1lrczW.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-10-22T23:48:50.00Z</dc:date>
   </item>
 </rdf:RDF>
