@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-28T10:38:22.91Z</dc:date>
+    <dc:date>2024-10-28T12:45:01.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,8 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#d7upUzKSFG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#htOthVA4kc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#oT36zqZ6d6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#gzTzJa2_Ni"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/Meal/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#zzftQN1CK_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-27.htm"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#TFEstZLQ9Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#bZpNHzUCZQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#bbyqZOuv-r"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#2BW7JlIhXR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#ILjxxSl3NS"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
+      <dc:date>2024-10-28T12:45:01.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#apIRnZChnR">
       <title>[長野] [モンハンNow] 2024-10-28 木曽駒の下山後の風呂で併設の食事処で飯を食おうと思ってたら - 19:00 までの営業で、着 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,長野,モンハンNow,長野,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
+      <dc:date>2024-10-28T12:45:01.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#d7upUzKSFG">
       <title>[時事] 2024-10-28 やっぱり近藤和也氏がかなりの得票差で勝ったか。震災後の行動、言動に差がありすぎたから、これは ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
+      <dc:date>2024-10-28T11:57:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#htOthVA4kc">
       <title>[モンハンNow] 2024-10-28 パオウルムー ⭐ 10 も勝てる目がないなぁ。初手の分岐も多いから開戦初期での居合も難しい。 ...</title>
@@ -70,6 +70,22 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-28T08:48:25.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#gzTzJa2_Ni">
+      <title>[モンハンNow] 2024-10-28 普通に 2-3 回ぐらいの try で勝てる。しばらく前にどうしても勝てんときがあった… </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/28#gzTzJa2_Ni</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-28T06:47:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy">
+      <title>[生活] [北陸] 2024-10-28 また嫌なコースに来たかな… 台風情報 - Yahoo!天気・災害</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-28T06:14:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/series/Meal/index.htm">
       <title>[生活] [食事] 2024-10-28 外食一覧</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-26T03:07:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#2BW7JlIhXR">
-      <title>[料理] 2024-10-25 雑な牛丼にいたしましょう。  温泉卵を作りそびれたので目玉焼きにしたら割れてもた… 無念。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/25#2BW7JlIhXR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-25T17:44:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#ILjxxSl3NS">
-      <title>[料理] 2024-10-26 カルボナーラは黄身だけにしたらずっと出来がよくなるが、やっぱりソースは少なめの方が美しくなり ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/26#ILjxxSl3NS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-25T23:04:41.00Z</dc:date>
     </item>
   </rdf:RDF>
