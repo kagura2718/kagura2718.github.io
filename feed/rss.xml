@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-28T10:14:34.36Z</dc:date>
+    <dc:date>2024-10-28T10:38:22.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,10 +12,12 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#apIRnZChnR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#d7upUzKSFG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#htOthVA4kc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#oT36zqZ6d6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/Meal/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#zzftQN1CK_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-10-27.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#CwrJQwoU3V"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#pNI-ovt_C7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#dzeAKerMQ3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#uS1tK7QCjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#W0jsUgemwD"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#bbyqZOuv-r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#2BW7JlIhXR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#ILjxxSl3NS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#Ug6fM4SyMs"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#pP-QLyyN55"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:14:34.36Z</dc:date>
+      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#apIRnZChnR">
       <title>[長野] [モンハンNow] 2024-10-28 木曽駒の下山後の風呂で併設の食事処で飯を食おうと思ってたら - 19:00 までの営業で、着 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,長野,モンハンNow,長野,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:14:34.36Z</dc:date>
+      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#d7upUzKSFG">
       <title>[時事] 2024-10-28 やっぱり近藤和也氏がかなりの得票差で勝ったか。震災後の行動、言動に差がありすぎたから、これは ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T10:14:34.36Z</dc:date>
+      <dc:date>2024-10-28T10:38:22.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#htOthVA4kc">
       <title>[モンハンNow] 2024-10-28 パオウルムー ⭐ 10 も勝てる目がないなぁ。初手の分岐も多いから開戦初期での居合も難しい。 ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-28T09:39:46.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#oT36zqZ6d6">
+      <title>[Web] [時事] 2024-10-28 石破さんは何かの理由で一年ほどで早々に退陣となって、第二次岸田となる可能性はほんとにありそう ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/28#oT36zqZ6d6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-28T08:48:25.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/series/Meal/index.htm">
       <title>[生活] [食事] 2024-10-28 外食一覧</title>
@@ -94,6 +102,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-27T21:29:20.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#pNI-ovt_C7">
+      <title>[Web] [時事] [映画] [文化] 2024-10-28 大阪の異常な状態をみるにつけ、プリンセストヨトミとかいう映画を思い出してしまうんだ。あの映画 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/28#pNI-ovt_C7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,映画,文化,Web,時事,映画,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-27T20:38:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#dzeAKerMQ3">
       <title>[ポケモンgo] 2024-10-28 先週は 100km </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-25T23:04:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/26#Ug6fM4SyMs">
-      <title>[Web] [時事] [炎上] [大阪] [関西] 2024-10-26 この北川健太郎という検事正は相当にすさまじいな。 😨 これを読んで分かる限り、完全なるサイコ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/26#Ug6fM4SyMs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,大阪,関西,Web,時事,炎上,大阪,関西]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-25T13:31:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#pP-QLyyN55">
-      <title>[Web] [時事] [文化] 2024-10-25 これはなんとなく感じてたところではある。自分もいわゆる氷河期世代として今の高齢世代に対するヘ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/25#pP-QLyyN55</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,文化,Web,時事,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-25T11:43:33.00Z</dc:date>
     </item>
   </rdf:RDF>
