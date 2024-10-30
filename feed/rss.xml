@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-10-29T14:18:35.90Z</dc:date>
+    <dc:date>2024-10-30T03:02:38.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#yFN1HLwIvY"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#yFN1HLwIvY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#noAn1_ITp3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#B9CImRG1rp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#wTHXVzcdvL"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#pNI-ovt_C7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#dzeAKerMQ3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/27#uS1tK7QCjD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#W0jsUgemwD"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#yFN1HLwIvY">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD">
+      <title>[時事] [スポーツ] 2024-10-30 おおお、すげぇな。このまま勝てばほぼ確実にシリーズ MVP </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,スポーツ,時事,スポーツ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-10-30T03:02:38.10Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#yFN1HLwIvY">
       <title>[時事] [金沢] 2024-10-29 佳子さまやっぱりかわいらしいな。せっかくだから至近距離まで近付きたかった。  ちらっと見えた ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/29#yFN1HLwIvY</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,金沢,時事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-29T14:18:35.90Z</dc:date>
+      <dc:date>2024-10-29T20:57:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/29#noAn1_ITp3">
       <title>[生活] [氷見] [羽咋] 2024-10-29 神子原の峠越えはやっぱり少しは緊張するが、それでも杉野屋でショートカットできるようになったの ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-27T14:46:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/25#W0jsUgemwD">
-      <title>[Web] [時事] [国際] 2024-10-25 やっぱりオバマ演説が圧倒的に上手だな。すごいわ。 そしてハリスは女性というのを割り引いても見 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/25#W0jsUgemwD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,国際,Web,時事,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-25T10:25:12.00Z</dc:date>
     </item>
   </rdf:RDF>
