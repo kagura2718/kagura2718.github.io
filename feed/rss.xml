@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-01T23:14:28.21Z</dc:date>
+    <dc:date>2024-11-01T23:28:30.81Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/31#pLjkyMu2Dc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/02#ey5vni66pd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/31#m254qmBgMZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/01#OhsUzzwSf8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#htOthVA4kc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#oT36zqZ6d6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#gzTzJa2_Ni"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-01T23:14:28.21Z</dc:date>
+      <dc:date>2024-11-01T23:28:30.81Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/02#ey5vni66pd">
+      <title>[食事] 2024-11-02 何とは明言しないのだけど、フードコート的な場所で他とは違うレベルに浮いた金額を設定してるのに ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/02#ey5vni66pd</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,食事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-01T23:28:30.81Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/31#m254qmBgMZ">
       <title>[時事] [関西] 2024-10-31 噂レベルでしかないので、どの件か明言しないんだけど、プライバシー情報が「不倫」情報ってのはい ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-10-28T06:47:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy">
-      <title>[生活] [北陸] 2024-10-28 また嫌なコースに来たかな… 台風情報 - Yahoo!天気・災害</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/28#KhMLGHPIOy</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-28T06:14:16.00Z</dc:date>
     </item>
   </rdf:RDF>
