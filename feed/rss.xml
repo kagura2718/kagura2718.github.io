@@ -4,16 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-04T02:58:32.65Z</dc:date>
+    <dc:date>2024-11-04T14:17:47.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#t83kJjxsTL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#uGgQqSAht0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#H0v9UWQb4j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#EK6RbZgpL2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QY20mW_7OC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#bma-e9KCXr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QYjaR1sSM9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#zmQ_GOK5CQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#ibJhFXvG4r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#ZGqxMt1OQs"/>
@@ -25,9 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/02#Qt9-LNOEJh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/02#ey5vni66pd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/02#qSMNRAqpLR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/31#m254qmBgMZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/01#OhsUzzwSf8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T02:58:32.65Z</dc:date>
+      <dc:date>2024-11-04T14:17:47.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#uGgQqSAht0">
       <title>[Ingress] [登山] 2024-11-04 おや、白山の大汝が枯れた… 蟹ぴーさんに何かがあったかな。  それにしても、今年の紅葉はどこ ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,登山,Ingress,登山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T02:58:32.65Z</dc:date>
+      <dc:date>2024-11-04T13:50:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#H0v9UWQb4j">
+      <title>[登山] [宝達山] 2024-11-04 本日の登頂  紅葉らしい紅葉がないまま今年は去っていく気がしてならない。  精神が疲弊してる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#H0v9UWQb4j</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-04T14:17:47.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#EK6RbZgpL2">
       <title>[ゲーム] [モンハンNow] 2024-11-04 「モンハンワイルズ」が今、モンハンNow 勢が夢中でやってるゲームだな。彼らの考える  wi ...</title>
@@ -53,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ゲーム,モンハンNow,ゲーム,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T02:58:32.65Z</dc:date>
+      <dc:date>2024-11-04T11:54:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QY20mW_7OC">
+      <title>[食事] 2024-11-04 よく通るのになかなか入れなかった「むてっぽう」にやってきた。おそらく 5 年ごし (あるいは ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QY20mW_7OC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,食事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-03T20:13:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#bma-e9KCXr">
       <title>[生活] [北陸] 2024-11-03 今週ぐらいからさすがに気温が下がっていくかな。</title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T02:58:32.65Z</dc:date>
+      <dc:date>2024-11-04T08:04:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QYjaR1sSM9">
       <title>[料理] 2024-11-04 蛤(ハマグリ)で  Cappa Liscia というらしい。やっぱり聞いたことないし検索して ...</title>
@@ -78,6 +94,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-03T15:52:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm">
+      <title>[Web] [文化] 2024-11-04 また「贅沢は敵だ」が現われた。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-03T18:04:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-11-03 久々に駅前まで出動  こいつかよ…  白鷺(しろさぎ)だったか鶯(うぐいす)だったか。なかな ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-01T23:13:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/31#m254qmBgMZ">
-      <title>[時事] [関西] 2024-10-31 噂レベルでしかないので、どの件か明言しないんだけど、プライバシー情報が「不倫」情報ってのはい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/31#m254qmBgMZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,関西,時事,関西]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-01T16:06:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/01#OhsUzzwSf8">
-      <title>[モンハンNow] 2024-11-01 新しいスマホでもあんまり安定せんな…  描画は滑らかになってるような気はする。しかし、違う。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/01#OhsUzzwSf8</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-31T23:49:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD">
-      <title>[時事] [スポーツ] 2024-10-30 おおお、すげぇな。このまま勝てばほぼ確実にシリーズ MVP </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/10/30#9xpBEYXunD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,スポーツ,時事,スポーツ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-10-30T09:06:53.00Z</dc:date>
     </item>
   </rdf:RDF>
