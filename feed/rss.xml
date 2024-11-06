@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-06T04:13:40.23Z</dc:date>
+    <dc:date>2024-11-06T07:58:30.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#hehWlNaCRJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#YHABsZqEaZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#S5dPj23pfy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/05#N-87wGJ81k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#3NMhknGv-B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#BGl0YW91pi"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#zmQ_GOK5CQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#ibJhFXvG4r"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,呪術廻戦,Web,炎上,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T04:13:40.23Z</dc:date>
+      <dc:date>2024-11-06T07:58:30.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#hehWlNaCRJ">
       <title>[時事] [炎上] [国際] 2024-11-06 え… ハリス無理ない？？？昼の時点では激戦州、ほとんどトランプが勝利確実になってね？分かんね ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,国際,時事,炎上,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T04:13:40.23Z</dc:date>
+      <dc:date>2024-11-06T07:58:30.30Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#YHABsZqEaZ">
       <title>[モンハンNow] 2024-11-06 HR253 </title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T04:13:40.23Z</dc:date>
+      <dc:date>2024-11-06T07:20:25.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#S5dPj23pfy">
+      <title>[時事] [炎上] [国際] 2024-11-06 どうやら公式な結果としては決まったようだな… トランプに。 あれが、また 4 年間… 今年は ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/06#S5dPj23pfy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,国際,時事,炎上,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-06T03:06:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/05#N-87wGJ81k">
       <title>[生活] [金沢] [北陸] 2024-11-05 もたついてたら雨がぱらついてきて走りに出れなかった。遅い時間になって本降りになったから出動し ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-03T12:25:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#ibJhFXvG4r">
-      <title>[映画] 2024-11-03 話題作のゴジラ-1.0とかいうのが捕獲されてたのでとりあえずちょっとだけ眺めていた。   と ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/03#ibJhFXvG4r</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,映画,映画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-02T10:40:56.00Z</dc:date>
     </item>
   </rdf:RDF>
