@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-06T07:58:30.30Z</dc:date>
+    <dc:date>2024-11-06T11:51:24.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#5DvkUHoti2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#hehWlNaCRJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#YHABsZqEaZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#S5dPj23pfy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#uB0HZNt5wR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/05#N-87wGJ81k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#3NMhknGv-B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#BGl0YW91pi"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#JcaELkV694"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QYjaR1sSM9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#zmQ_GOK5CQ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#5DvkUHoti2">
+      <title>[生活] [Web] [時事] 2024-11-06 おおお… 昔はルスツとかも 4000 - 6000 ぐらいだったような気がする。スノボ、スキ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/06#5DvkUHoti2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,Web,時事,生活,Web,時事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-06T11:51:24.74Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC">
       <title>[Web] [炎上] [呪術廻戦] 2024-11-06 OMG 😨  真似はできないし、してはいけないが、あれを口に入れることができるのは、すごいと ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,呪術廻戦,Web,炎上,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T07:58:30.30Z</dc:date>
+      <dc:date>2024-11-06T11:51:24.74Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#hehWlNaCRJ">
       <title>[時事] [炎上] [国際] 2024-11-06 え… ハリス無理ない？？？昼の時点では激戦州、ほとんどトランプが勝利確実になってね？分かんね ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,国際,時事,炎上,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T07:58:30.30Z</dc:date>
+      <dc:date>2024-11-06T11:51:24.74Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#YHABsZqEaZ">
       <title>[モンハンNow] 2024-11-06 HR253 </title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,国際,時事,炎上,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-06T03:06:45.00Z</dc:date>
+      <dc:date>2024-11-06T03:29:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#uB0HZNt5wR">
+      <title>[時事] [炎上] [東北] 2024-11-06 トランプのことばかり考えてるけど、我が japan も人のことばっかり考えていられない。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/06#uB0HZNt5wR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,東北,時事,炎上,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-06T03:21:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/05#N-87wGJ81k">
       <title>[生活] [金沢] [北陸] 2024-11-05 もたついてたら雨がぱらついてきて走りに出れなかった。遅い時間になって本降りになったから出動し ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-03T15:52:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm">
-      <title>[Web] [文化] 2024-11-04 また「贅沢は敵だ」が現われた。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#ADf3kYZzJm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-03T18:04:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ">
-      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2024-11-03 久々に駅前まで出動  こいつかよ…  白鷺(しろさぎ)だったか鶯(うぐいす)だったか。なかな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/03#S5dFX6Y1tZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-03T12:25:18.00Z</dc:date>
     </item>
   </rdf:RDF>
