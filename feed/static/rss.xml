@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-06T02:40:49.76Z</dc:date>
+    <dc:date>2024-11-06T03:24:43.27Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K6/K6q7GjPQKO.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pq/pqnnUWLnRe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qf/qfb3syNnjF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vl/vltlZDAnEu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JJ/JJOsB7fmpq.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mR/mR8Ko8-weE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SC/SCM1QN_wF0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iS/iSjJfu3xT0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Lm/LmUedSNNmn.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,呪術廻戦,Web,炎上,呪術廻戦</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-06T02:40:49.76Z</dc:date>
+    <dc:date>2024-11-06T03:24:43.27Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pq/pqnnUWLnRe.htm">
+    <title>[時事] [炎上] [国際] 2024-11-06 え… ハリス無理ない？？？分かんねぇww 😂</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pq/pqnnUWLnRe.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,炎上,国際,時事,炎上,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-11-06T03:24:43.27Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qf/qfb3syNnjF.htm">
     <title>[モンハンNow] 2024-11-06 HR253 </title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-06T02:40:49.76Z</dc:date>
+    <dc:date>2024-11-06T03:24:43.27Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vl/vltlZDAnEu.htm">
     <title>[生活] [金沢] [北陸] 2024-11-05 もたついてたら雨がぱらついてきて走りに出れなかった。遅い時間になって本降りになったから出動し ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,映画,映画</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-02T10:40:56.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Lm/LmUedSNNmn.htm">
-    <title>[Web] [時事] [炎上] 2024-11-03 八田與一  て、今は何かあったかなと思ったらこういうことね。そういえば、なんかそういう事件が ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Lm/LmUedSNNmn.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-03T04:06:49.00Z</dc:date>
   </item>
 </rdf:RDF>
