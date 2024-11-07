@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-07T01:26:09.62Z</dc:date>
+    <dc:date>2024-11-07T14:57:01.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#P_yuXGtktV"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#dmtnfaaIff"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#P_yuXGtktV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#5DvkUHoti2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#qnvPfCC1nC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#hehWlNaCRJ"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#EK6RbZgpL2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#QY20mW_7OC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/03#bma-e9KCXr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#JcaELkV694"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#P_yuXGtktV">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#dmtnfaaIff">
+      <title>[生活] 2024-11-07 酒は百薬の長！やはり浴びるように毎日呑むべきだ。(違う</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/07#dmtnfaaIff</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-07T14:57:01.29Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#P_yuXGtktV">
       <title>[漫画] 2024-11-07 ようやっとヒソカさんの独白を読めた。謎めいてるのが魅力のキャラだったんだから、あんまり描かな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/07#P_yuXGtktV</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-07T01:26:09.62Z</dc:date>
+      <dc:date>2024-11-07T12:48:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#5DvkUHoti2">
       <title>[生活] [Web] [時事] 2024-11-06 おおお… 昔はルスツとかも 4000 - 6000 ぐらいだったような気がする。スノボ、スキ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-04T08:04:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#JcaELkV694">
-      <title>[モンハンNow] 2024-11-04 武器強化の儀 リオレイア太刀 飛竜刀(翠) G10-5   これで一通り、初期から育ててた太 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#JcaELkV694</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T02:57:19.00Z</dc:date>
     </item>
   </rdf:RDF>
