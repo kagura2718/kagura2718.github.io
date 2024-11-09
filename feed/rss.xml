@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-08T14:05:24.00Z</dc:date>
+    <dc:date>2024-11-08T17:42:40.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#H-4zP8QmhF"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#3b6wBBr5x1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#H-4zP8QmhF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/08#VcSV-5QmEH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/08#4q10LuteCH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/07#dmtnfaaIff"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/06#BGl0YW91pi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/05#DFRB8GSWxf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#t83kJjxsTL"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#sybII8vOjZ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#H-4zP8QmhF">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#3b6wBBr5x1">
+      <title>[ポケモンgo] 2024-11-09 マンキーはパスだ。最近、しょぼすぎるね。しょぼくなくてもモンハンが忙しくてやれないけどさ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/09#3b6wBBr5x1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-08T17:42:40.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/09#H-4zP8QmhF">
       <title>[映画] 2024-11-09 昨晩もゴジラ -1.0 を懸命に眺めてたんだけど、苦行のように  ひたすら面白くない。  絶 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/09#H-4zP8QmhF</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-04T17:27:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/04#sybII8vOjZ">
-      <title>[ポケモンgo] 2024-11-04 おお、割といいのだった。  しかしアタッカーになるとも思えないが…？ どうすっかな。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/04#sybII8vOjZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-04T16:57:46.00Z</dc:date>
     </item>
   </rdf:RDF>
