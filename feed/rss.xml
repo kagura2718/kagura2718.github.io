@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-19T10:37:06.10Z</dc:date>
+    <dc:date>2024-11-19T12:22:02.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#gzpdcNeRUz"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#6Ur0iN2-6j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#U3kk5CAq51"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/17#70iQDfq1F2"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#6HftyYUKGj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/15#4vclKGpjmu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/17#zFMmFCxZzN"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#O4cFWzdBaU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#CZsZRHEwQD"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#gzpdcNeRUz">
+      <title>[生活] [北陸] [NHK] 2024-11-19 冬ですなぁ。  この辺りは 12 月ぐらいまで、大丈夫、だろうか… 大丈夫だといいが。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/19#gzpdcNeRUz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,NHK,生活,北陸,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-19T12:22:02.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo">
       <title>[漫画] [鬼滅の刃] [呪術廻戦] 2024-11-19 久々に初期のハンター試験の頃のトリッキーっぽい「戦い」を見てる感じがして懐しい。どういうバト ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,鬼滅の刃,呪術廻戦,漫画,鬼滅の刃,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-19T10:37:06.10Z</dc:date>
+      <dc:date>2024-11-19T12:22:02.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS">
+      <title>[アニメ] 2024-11-19 あまりにベタすぎてたまらん。 😂    作者は高橋留美子だったかなぁ？おそらく現代に至るヲタ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-19T12:22:02.95Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#6Ur0iN2-6j">
       <title>[ポケモンgo] [Ingress] [長野] 2024-11-19 一日ほど経過したけど、 comm でのリアクションはない。ポケモンの Gift もしばらく送 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,長野,ポケモンgo,Ingress,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-19T10:37:06.10Z</dc:date>
+      <dc:date>2024-11-19T10:59:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#U3kk5CAq51">
       <title>[Web] [長野] 2024-11-18 諏訪大社下社春宮・下社秋宮 | 下諏訪の観光・旅行情報【おいでなしてしもすわ】 あの不思議な ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Ingress,長野,Ingress,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-17T14:56:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#O4cFWzdBaU">
-      <title>[Web] [炎上] [野球] 2024-11-18 え？？こんなことやってるとプロ野球選手、馬鹿だ馬鹿だって言われるわなぁ… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/18#O4cFWzdBaU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,野球,Web,炎上,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-17T14:39:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#CZsZRHEwQD">
-      <title>[ポケモンgo] 2024-11-18 先週は 144km  おそらく歩きのみの週としては最長</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/18#CZsZRHEwQD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-17T10:35:52.00Z</dc:date>
     </item>
   </rdf:RDF>
