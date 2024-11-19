@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-19T12:56:29.68Z</dc:date>
+    <dc:date>2024-11-19T13:09:29.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HN/HNv83KrLcB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GJ/GJUJb5E8AD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/og/og7Ec24rRf.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yy/YygAyoNLvu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Lq/LqMeoflZMN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qy/QyedpO1mai.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/I_/I_a8TsxCkC.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a1/a1AIm-x2x8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mL/mLUliYeoUU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cA/cAnvJKszht.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Po/PoF98uMHho.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,NHK,生活,北陸,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-19T12:56:29.68Z</dc:date>
+    <dc:date>2024-11-19T13:09:29.89Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GJ/GJUJb5E8AD.htm">
     <title>[漫画] [鬼滅の刃] [呪術廻戦] 2024-11-19 久々に初期のハンター試験の頃のトリッキーっぽい「戦い」を見てる感じがして懐しい。どういうバト ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,漫画,鬼滅の刃,呪術廻戦,漫画,鬼滅の刃,呪術廻戦</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-19T12:56:29.68Z</dc:date>
+    <dc:date>2024-11-19T13:09:29.89Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/og/og7Ec24rRf.htm">
     <title>[アニメ] 2024-11-19 あまりにベタすぎてたまらん。 😂    作者は高橋留美子だったかなぁ？おそらく現代に至るヲタ ...</title>
@@ -53,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-19T12:56:29.68Z</dc:date>
+    <dc:date>2024-11-19T13:09:29.89Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yy/YygAyoNLvu.htm">
+    <title>[漫画] [Web] [炎上] 2024-11-19 あっww 😂 😂 元投稿は消えたけど、俺とはまったく逆の印象で見えてるようだ。立花は憎悪や悪 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Yy/YygAyoNLvu.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,Web,炎上,漫画,Web,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-11-19T13:09:29.89Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Lq/LqMeoflZMN.htm">
     <title>[ポケモンgo] [Ingress] [長野] 2024-11-19 一日ほど経過したけど、 comm でのリアクションはない。ポケモンの Gift もしばらく送 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,漫画</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-17T21:28:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Po/PoF98uMHho.htm">
-    <title>[Ingress] [長野] 2024-11-17 そういえば、ブロックしてたんだった。解除してみるとやっぱり送られてきていた。 😅 遠路はるば ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Po/PoF98uMHho.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Ingress,長野,Ingress,長野</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-17T14:56:37.00Z</dc:date>
   </item>
 </rdf:RDF>
