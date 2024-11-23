@@ -4,16 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-23T02:55:21.46Z</dc:date>
+    <dc:date>2024-11-23T11:22:43.61Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#bF2AG1Mx3G"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#bF2AG1Mx3G"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/20#CrSoD6Dl8p"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#bL8ZLnZm53"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/21#WKaDCu0Wi6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#bL8ZLnZm53"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#QyF9KKiRN1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#dqU-tC9feP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#JTUtYU5qeU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#gzpdcNeRUz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#5POr_whs7l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#D8SP8CE5LW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/18#ftZX1FfSYF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#fLUkr1pLX3"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#bF2AG1Mx3G">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW">
+      <title>[モンハンNow] 2024-11-23 武器強化 ラージャン ヘヴィボ 金獅子 G8-3  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-23T11:22:43.61Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#bF2AG1Mx3G">
       <title>[モンハンNow] 2024-11-22 バフバロ ⭐ 10 はハマると一気にいける。角破壊はできんけど。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/22#bF2AG1Mx3G</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-23T02:55:21.46Z</dc:date>
+      <dc:date>2024-11-23T11:22:43.61Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/20#CrSoD6Dl8p">
       <title>[ポケモンgo] 2024-11-20 なんじゃろね？ </title>
@@ -45,15 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-23T02:55:21.46Z</dc:date>
+      <dc:date>2024-11-23T11:22:43.61Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW">
-      <title>[モンハンNow] 2024-11-23 武器強化 ラージャン ヘヴィボ 金獅子 G8-3 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/23#oEywa8mTjW</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/21#WKaDCu0Wi6">
+      <title>[モンハンNow] 2024-11-21 武器強化 飛竜刀(月) 金レイア太刀 G6-2   レウス亜種 チャアク G8-1   銀レ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/21#WKaDCu0Wi6</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-23T02:55:21.46Z</dc:date>
+      <dc:date>2024-11-23T04:31:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#bL8ZLnZm53">
       <title>[ポケモンgo] 2024-11-23 なんか早朝から出てる。イベントか？  </title>
@@ -61,15 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-23T02:55:21.46Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/21#WKaDCu0Wi6">
-      <title>[モンハンNow] 2024-11-21 武器強化 飛竜刀(月) 金レイア太刀 G6-2  レウス亜種 チャアク G8-1  銀レウス ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/21#WKaDCu0Wi6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-23T02:55:21.46Z</dc:date>
+      <dc:date>2024-11-23T07:44:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#QyF9KKiRN1">
       <title>[モンハンNow] 2024-11-23 プケ亜種 ハンマー G8-1  </title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-22T21:08:27.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/23#dqU-tC9feP">
+      <title>[北陸] [モンハンNow] 2024-11-23 銀レウス ⭐  8 なかなかソロで勝てんなぁ 傷薬がどんどん融ける。 😅 イベントは明日まで ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/23#dqU-tC9feP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,北陸,モンハンNow,北陸,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-22T18:36:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#JTUtYU5qeU">
       <title>[モンハンNow] 2024-11-22 HR258 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,長野,ポケモンgo,Ingress,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-18T17:05:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#fLUkr1pLX3">
-      <title>[Web] [モンハンNow] 2024-11-19 やはり ayase の音楽入りの動画はブロックされるようだ。  他の up 動画も音消ししな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/19#fLUkr1pLX3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-18T15:07:03.00Z</dc:date>
     </item>
   </rdf:RDF>
