@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-25T03:27:19.77Z</dc:date>
+    <dc:date>2024-11-25T08:49:57.08Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#DBBRIczxV4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#pKMB0bK_r-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#182vrsvjK5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#e58Su2edF4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/24#2RS0QxearM"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/22#JTUtYU5qeU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#gzpdcNeRUz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#VoZGNvihXo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-25T03:27:19.77Z</dc:date>
+      <dc:date>2024-11-25T08:49:57.08Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#pKMB0bK_r-">
+      <title>[食事] [奥能登] [穴水] 2024-11-25 久々に穴水の高尾に入る機会があったのだけど、これはもうお勧めできる感じじゃないかなぁ。災害後 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/25#pKMB0bK_r-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,奥能登,穴水,食事,奥能登,穴水]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-25T08:49:57.08Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#182vrsvjK5">
       <title>[モンハンNow] 2024-11-25 固まりましたね… </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-25T03:27:19.77Z</dc:date>
+      <dc:date>2024-11-25T08:49:57.08Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/25#e58Su2edF4">
       <title>[モンハンNow] 2024-11-25 クシャ太刀 ダオラレイド    金レイア太刀 飛竜刀(月)      銀レウス 腰 腰に風圧 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-25T03:27:19.77Z</dc:date>
+      <dc:date>2024-11-25T07:50:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/24#2RS0QxearM">
       <title>[モンハンNow] 2024-11-24 武器強化 MrBeast G8-4  </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,鬼滅の刃,呪術廻戦,漫画,鬼滅の刃,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-19T19:06:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS">
-      <title>[アニメ] 2024-11-19 あまりにベタすぎてたまらん。 😂    作者は高橋留美子だったかなぁ？おそらく現代に至るヲタ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/19#P6isGKV7JS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-19T19:02:05.00Z</dc:date>
     </item>
   </rdf:RDF>
