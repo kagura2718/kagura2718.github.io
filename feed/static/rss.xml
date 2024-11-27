@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-26T23:53:41.47Z</dc:date>
+    <dc:date>2024-11-27T03:49:42.98Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1m/1mANJHe4wB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/I9/I9FzyCQ-qa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rE/rEoEx7gkYh.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4h/4hL3AtYaom.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ce/CerUJ3DKAm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9-/9-s9DFrRgm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t4/t4OQrxAqJi.htm"/>
@@ -26,18 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jh/JhNYc6ZaCD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xo/XoU5UoGDeA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cb/cb1iawOhob.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c3/c31BS_daVi.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ca/CaM9hToB1C.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1m/1mANJHe4wB.htm">
+    <title>[モンハンNow] 2024-11-27 武器強化の儀 銀レウス ライトボウガン      プケ亜種ハンマー    アンジャナフ 腕  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/1m/1mANJHe4wB.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-11-27T03:49:42.98Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/I9/I9FzyCQ-qa.htm">
     <title>[生活] [奥能登] 2024-11-27 昨晩、自宅で筋トレやってるときに揺れた。最近はすっかり落ち着いたと思ってたのに… 土砂降りだ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/I9/I9FzyCQ-qa.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-26T23:53:41.47Z</dc:date>
+    <dc:date>2024-11-27T03:49:42.98Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rE/rEoEx7gkYh.htm">
     <title>[時事] [奥能登] 2024-11-26 昨日のニュースだけど、これ、きっとうまくは動かないだろうな。現状ですら、奥能登のモバイルネッ ...</title>
@@ -45,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,時事,奥能登,時事,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-26T23:53:41.47Z</dc:date>
+    <dc:date>2024-11-27T00:43:03.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4h/4hL3AtYaom.htm">
+    <title>[モンハンNow] 2024-11-27 パオウルムー ⭐ 10 負けに負けてたけど…  なぜか、とうとう勝てた！！！    超うれし ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4h/4hL3AtYaom.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-11-26T20:22:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ce/CerUJ3DKAm.htm">
     <title>[Web] [文化] 2024-11-27 これはどきっとするなぁ 😂 </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-23T13:41:10.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/c3/c31BS_daVi.htm">
-    <title>[モンハンNow] 2024-11-21 武器強化 飛竜刀(月) 金レイア太刀 G6-2   レウス亜種 チャアク G8-1   銀レ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/c3/c31BS_daVi.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-23T04:31:05.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ca/CaM9hToB1C.htm">
-    <title>[北陸] [モンハンNow] 2024-11-23 夜になってようやく一勝。風圧耐性 + 水属性強化 + 尻尾狙いでなんとか… 動きまくるんだも ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ca/CaM9hToB1C.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,北陸,モンハンNow,北陸,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-23T10:31:34.00Z</dc:date>
   </item>
 </rdf:RDF>
