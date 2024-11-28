@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-28T11:27:36.27Z</dc:date>
+    <dc:date>2024-11-28T12:00:39.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gZ/gZfPhPq6Fg.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GK/GKd_LXSASr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wY/wY1Dj2i49m.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/I9/I9FzyCQ-qa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eY/eYoB5xoPbF.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/W0/W0UGCRJnYF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/55/55IGGb07LW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/by/byZBaBFzSV.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fp/fppvfDd3yQ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-28T11:27:36.27Z</dc:date>
+    <dc:date>2024-11-28T12:00:39.79Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GK/GKd_LXSASr.htm">
+    <title>[生活] [北陸] 2024-11-28 夜になっても明日も大荒れ、明後日も大荒れ予報。きっついなぁ…</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/GK/GKd_LXSASr.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-11-28T12:00:39.79Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wY/wY1Dj2i49m.htm">
     <title>[料理] 2024-11-28 カニを捕獲！！  解体。4 んでいただく。  殻からもダシをとって…   こんな感じ。うーん ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-28T11:27:36.27Z</dc:date>
+    <dc:date>2024-11-28T12:00:39.79Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/I9/I9FzyCQ-qa.htm">
     <title>[生活] [奥能登] [北陸] 2024-11-27 昨晩、自宅で筋トレやってるときに揺れた。最近はすっかり落ち着いたと思ってたのに… 土砂降りだ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-25T09:05:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fp/fppvfDd3yQ.htm">
-    <title>[モンハンNow] 2024-11-25 クシャ太刀 ダオラレイド    金レイア太刀 飛竜刀(月)      銀レウス 腰 腰に風圧 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/fp/fppvfDd3yQ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-25T07:50:20.00Z</dc:date>
   </item>
 </rdf:RDF>
