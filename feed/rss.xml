@@ -4,18 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-11-28T12:00:39.79Z</dc:date>
+    <dc:date>2024-11-28T12:58:04.03Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#MwCdaOi9-G"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#nRl5i8bago"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#ju5mJwh5N0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#6EafFPf4BC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#vkRovblmTd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#M9IXnGj2tr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#_WQ8cIHQnH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#vIFEsI3s3t"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/26#RWbBp_6FWE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#bHlq9xNnWM"/>
@@ -37,15 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-28T12:00:39.79Z</dc:date>
+      <dc:date>2024-11-28T12:58:04.03Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#nRl5i8bago">
-      <title>[生活] [北陸] 2024-11-28 夜になっても明日も大荒れ、明後日も大荒れ予報。きっついなぁ…</title>
+      <title>[生活] [北陸] 2024-11-28 夜になっても明日も大荒れ、明後日も大荒れ予報。きっついなぁ… しかもしつこく揺れてるし。</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/28#nRl5i8bago</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-28T12:00:39.79Z</dc:date>
+      <dc:date>2024-11-28T12:58:04.03Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG">
+      <title>[食事] [金沢] 2024-11-27 土砂降りで行くところもやることもない。そうだ、レイドアワーに行ってみよう。しかし、思ったより ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,金沢,食事,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-11-28T09:22:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/28#ju5mJwh5N0">
       <title>[料理] 2024-11-28 カニを捕獲！！  解体。4 んでいただく。  殻からもダシをとって…   こんな感じ。うーん ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-28T12:00:39.79Z</dc:date>
+      <dc:date>2024-11-28T12:58:04.03Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#6EafFPf4BC">
       <title>[生活] [奥能登] [北陸] 2024-11-27 昨晩、自宅で筋トレやってるときに揺れた。最近はすっかり落ち着いたと思ってたのに… 土砂降りだ ...</title>
@@ -86,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-28T00:25:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG">
-      <title>[食事] [金沢] 2024-11-27 土砂降りで行くところもやることもない。そうだ、レイドアワーに行ってみよう。しかし、思ったより ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/27#RnbmTSBDcG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,金沢,食事,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-27T21:36:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/27#vIFEsI3s3t">
       <title>[モンハンNow] 2024-11-27 武器強化の儀 銀レウス ライトボウガン      プケ亜種ハンマー    アンジャナフ 腕  ...</title>
