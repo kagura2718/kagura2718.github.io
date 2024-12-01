@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-01T12:30:26.22Z</dc:date>
+    <dc:date>2024-12-01T12:38:20.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/40/40dEw5lk7M.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hi/hi5rgV7CKt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Va/VanKq-Em4V.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wr/WrKrtsv6N8.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8U/8UiJx0_ypP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IK/IKiS5Fa9r0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4j/4j_n1ZR5uq.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wk/wkPYBjQkx5.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/40/40dEw5lk7M.htm">
+    <title>[Web] 2024-12-01 ほほう… 腕を失くした猿だけど、二足歩行が進化して、これぐらいに走れるようになってるらしい。 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/40/40dEw5lk7M.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-01T12:38:20.26Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hi/hi5rgV7CKt.htm">
     <title>[生活] 2024-12-01 とある県外ナンバーで 「50X」 みたいなのを見かけた。数字以外のパターンもあるのか。 ナン ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/hi/hi5rgV7CKt.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-01T12:30:26.22Z</dc:date>
+    <dc:date>2024-12-01T12:38:20.26Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Va/VanKq-Em4V.htm">
     <title>[モンハンNow] 2024-12-01 今の面子にはとてもじゃないが敵わない人がいる。  今のタスクは雑魚狩り大量に必要だから、スタ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-29T08:00:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wk/wkPYBjQkx5.htm">
-    <title>[登山] 2024-11-29 今年登った、長野の鉢伏山は三百名山のひとつだったか。地味ではあったが、そういう雰囲気もあった ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/wk/wkPYBjQkx5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,登山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-28T23:10:10.00Z</dc:date>
   </item>
 </rdf:RDF>
