@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-02T20:37:17.44Z</dc:date>
+    <dc:date>2024-12-03T14:59:26.86Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#tLYy6KW6vw"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/03#moqacL1vvv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/03#zf3285bnVm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#tLYy6KW6vw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#ZDKefBb7uK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/01#aBGFBO995k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/01#2lZV3pHWwH"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#luJ-si6BI4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#8yCP2tpfMa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#MjJdX5BVZw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#i-l2Q3upZt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#lFVPpJMx7A"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#tLYy6KW6vw">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/03#moqacL1vvv">
+      <title>[モンハンNow] 2024-12-03 HR261 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/03#moqacL1vvv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-03T14:59:26.86Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/03#zf3285bnVm">
+      <title>[料理] 2024-12-03 鮭とほうれん草でパスタにする。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/03#zf3285bnVm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-03T12:35:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#tLYy6KW6vw">
       <title>[生活] [奥能登] 2024-12-02 通りかかった。夕陽が美しい。  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/02#tLYy6KW6vw</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-02T20:37:17.44Z</dc:date>
+      <dc:date>2024-12-03T03:06:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/02#ZDKefBb7uK">
       <title>[モンハンNow] 2024-12-02 とりあえず、初のネルギガンテ。１回目失敗して、二回目に強い人がいたらしく、割と簡単に討伐でき ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-11-29T19:33:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#i-l2Q3upZt">
-      <title>[Web] [料理] 2024-11-29 このカルボナーラの調理方法 (湯煎) だと全卵を使ってるけど、ダマになってる形跡はない。画質 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/29#i-l2Q3upZt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-29T14:14:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/11/29#lFVPpJMx7A">
-      <title>[NHK] 2024-11-29 あら、いつもと顔が違う。お休みかな。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/11/29#lFVPpJMx7A</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-11-29T14:07:09.00Z</dc:date>
     </item>
   </rdf:RDF>

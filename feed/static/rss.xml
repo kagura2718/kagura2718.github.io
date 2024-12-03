@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-02T20:37:17.44Z</dc:date>
+    <dc:date>2024-12-03T14:59:26.86Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V4/V4ZO5yZPnQ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SR/SRjB6yYFdf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/US/USvd5GOcj1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/40/40dEw5lk7M.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qp/qpyRL6dked.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xr/XrRmjXQxzK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OK/OKuqsHuqRG.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ao/AoQkg6YMOL.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8U/8UiJx0_ypP.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V4/V4ZO5yZPnQ.htm">
+    <title>[モンハンNow] 2024-12-03 HR261 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/V4/V4ZO5yZPnQ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-03T14:59:26.86Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/SR/SRjB6yYFdf.htm">
+    <title>[料理] 2024-12-03 鮭とほうれん草でパスタにする。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/SR/SRjB6yYFdf.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-03T12:35:39.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm">
     <title>[生活] [奥能登] 2024-12-02 通りかかった。夕陽が美しい。  </title>
     <link>https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-02T20:37:17.44Z</dc:date>
+    <dc:date>2024-12-03T03:06:28.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/US/USvd5GOcj1.htm">
     <title>[モンハンNow] 2024-12-02 とりあえず、初のネルギガンテ。１回目失敗して、二回目に強い人がいたらしく、割と簡単に討伐でき ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-11-29T19:33:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ao/AoQkg6YMOL.htm">
-    <title>[Web] [料理] 2024-11-29 このカルボナーラの調理方法 (湯煎) だと全卵を使ってるけど、ダマになってる形跡はない。画質 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ao/AoQkg6YMOL.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,料理,Web,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-29T14:14:44.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8U/8UiJx0_ypP.htm">
-    <title>[NHK] 2024-11-29 あら、いつもと顔が違う。お休みかな。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/8U/8UiJx0_ypP.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,NHK,NHK</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-11-29T14:07:09.00Z</dc:date>
   </item>
 </rdf:RDF>
