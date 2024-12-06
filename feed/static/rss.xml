@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-06T03:09:24.56Z</dc:date>
+    <dc:date>2024-12-06T08:56:52.66Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Il/IlXHG3yV6z.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/US/USvd5GOcj1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/40/40dEw5lk7M.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hi/hi5rgV7CKt.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Va/VanKq-Em4V.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm">
+    <title>[Web] [炎上] [国際] 2024-12-06 うーん、眺めてれば眺めてるほど、一個人の単なる錯乱に見えるんだけど、問題は一国の大統領でかな ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-06T08:56:52.66Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm">
     <title>[モンハンNow] 2024-12-06 武器強化の儀 アケノシルム 太刀   ネルギガンテ 大剣  古龍種の武器は Rare 5 素 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T03:09:24.56Z</dc:date>
+    <dc:date>2024-12-06T08:56:52.66Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm">
     <title>[漫画] [アニメ] [鬼滅の刃] [呪術廻戦] 2024-12-06 呪術廻戦は Abema で何度も無料視聴できてるけど、鬼滅はまったくできないから、アニメにも ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,呪術廻戦,漫画,アニメ,鬼滅の刃,呪術廻戦</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T03:09:24.56Z</dc:date>
+    <dc:date>2024-12-06T08:56:52.66Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Il/IlXHG3yV6z.htm">
     <title>[Web] [炎上] 2024-12-05 「聞いたことない」2024年の流行語大賞「ふてほど」にSNSでは疑問の声 #専門家のまとめ（ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-01T16:22:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Va/VanKq-Em4V.htm">
-    <title>[モンハンNow] 2024-12-01 今の面子にはとてもじゃないが敵わない人がいる。  今のタスクは雑魚狩り大量に必要だから、スタ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Va/VanKq-Em4V.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-01T10:11:33.00Z</dc:date>
   </item>
 </rdf:RDF>
