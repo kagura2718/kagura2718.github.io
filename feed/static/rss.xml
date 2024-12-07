@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-06T23:59:05.45Z</dc:date>
+    <dc:date>2024-12-07T12:03:44.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sV/sVWS_df4Gs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GF/GFB-t14zUu.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ol/Olk2gij5T_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pF/pFJLNR8LeR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V4/V4ZO5yZPnQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SR/SRjB6yYFdf.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T23:59:05.45Z</dc:date>
+    <dc:date>2024-12-07T12:03:44.64Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GF/GFB-t14zUu.htm">
     <title>[漫画] [北陸] 2024-12-06 ふとるろうに剣心の石動雷十太編に出てきた、剣心が手練と評価してた優男を思い出した。「桜丸」と ...</title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,北陸,漫画,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T23:59:05.45Z</dc:date>
+    <dc:date>2024-12-07T04:53:20.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ol/Olk2gij5T_.htm">
+    <title>[生活] [紅葉] [金沢] 2024-12-07 金沢の平野でこのぐらい。   へー今週末シャドウレジアイスか。  いきなりこれか。もういいや ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ol/Olk2gij5T_.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,紅葉,金沢,生活,紅葉,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-07T04:01:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm">
     <title>[Web] [炎上] [国際] 2024-12-06 うーん、眺めてれば眺めてるほど、一個人の単なる錯乱に見えるんだけど、問題は一国の大統領でかな ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-03T12:35:39.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm">
-    <title>[生活] [奥能登] 2024-12-02 通りかかった。夕陽が美しい。  </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/iT/iTMwbeJvAE.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-03T03:06:28.00Z</dc:date>
   </item>
 </rdf:RDF>
