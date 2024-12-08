@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#EpWEKqeUbB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#SsVqlrzVQe"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#dGTs6b-pOq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#e6Njypn8mb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#gs56R4IcCo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#-wBKTv1WvX"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#LtP9JZ1i6m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Xr7uCZvCET"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Us-VizZfgE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/06#EgJrvC3REc"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#EpWEKqeUbB">
       <title>[料理] 2024-12-08 私は牡蠣を手に入れた。いただきものだけど、普通に買ったら 5000 - 6000 ぐらいしそ ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb">
       <title>[芸能] 2024-12-08 吉岡里帆というのか。 CM でよく見かけると思ってたけど、徐々に覚えてきた。前は水川あさみに ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,芸能,芸能]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#SsVqlrzVQe">
       <title>[奥能登] [氷見] [富山] 2024-12-08 住民4分の1が地区外へ転居…過疎集落が直面する現実　富山・氷見市姿地区　能登半島地震から1年 ...</title>
@@ -61,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,氷見,富山,奥能登,氷見,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+      <dc:date>2024-12-08T11:25:23.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#dGTs6b-pOq">
+      <title>[Web] 2024-12-08 これ、どういう趣旨の機械か知らんけど、こんな刃が剥き出しなの危ないだろうな。子供とか近くにい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/08#dGTs6b-pOq</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-08T09:17:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#e6Njypn8mb">
       <title>[モンハンNow] 2024-12-08 武器強化の儀 ネルギガンテ大剣  </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-05T15:37:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/06#EgJrvC3REc">
-      <title>[炎上] [国際] 2024-12-06 これまでの揺り戻しで、また日本におかしな話が飛び火してきそうな気がしてならないよね。ここ数年 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/06#EgJrvC3REc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,炎上,国際,炎上,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-05T14:44:04.00Z</dc:date>
     </item>
   </rdf:RDF>

@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fA/fAbpLZunN2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wy/Wy2c66Btzr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9n/9nilpDwdpm.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f1/f1ychkkrRW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zK/zK39IW6l3W.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aN/aNA9GnU0kj.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z-/z-2DjUJAB4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gb/gbpEMnMIck.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OK/OKQ7i-3at_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pu/pupXa4FPQ-.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fA/fAbpLZunN2.htm">
     <title>[料理] 2024-12-08 私は牡蠣を手に入れた。いただきものだけど、普通に買ったら 5000 - 6000 ぐらいしそ ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Wy/Wy2c66Btzr.htm">
     <title>[芸能] 2024-12-08 吉岡里帆というのか。 CM でよく見かけると思ってたけど、徐々に覚えてきた。前は水川あさみに ...</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,芸能,芸能</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9n/9nilpDwdpm.htm">
     <title>[奥能登] [氷見] [富山] 2024-12-08 住民4分の1が地区外へ転居…過疎集落が直面する現実　富山・氷見市姿地区　能登半島地震から1年 ...</title>
@@ -61,7 +61,15 @@
     <description>
         日記,つぶやき,雑記帳,奥能登,氷見,富山,奥能登,氷見,富山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-08T10:30:24.76Z</dc:date>
+    <dc:date>2024-12-08T11:25:23.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm">
+    <title>[Web] 2024-12-08 これ、どういう趣旨の機械か知らんけど、こんな刃が剥き出しなの危ないだろうな。子供とか近くにい ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-08T09:17:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/f1/f1ychkkrRW.htm">
     <title>[モンハンNow] 2024-12-08 武器強化の儀 ネルギガンテ大剣  </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-05T15:37:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pu/pupXa4FPQ-.htm">
-    <title>[炎上] [国際] 2024-12-06 これまでの揺り戻しで、また日本におかしな話が飛び火してきそうな気がしてならないよね。ここ数年 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/pu/pupXa4FPQ-.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,炎上,国際,炎上,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-05T14:44:04.00Z</dc:date>
   </item>
 </rdf:RDF>
