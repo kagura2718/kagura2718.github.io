@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-08T02:10:49.13Z</dc:date>
+    <dc:date>2024-12-08T02:56:24.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#SsVqlrzVQe"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#gs56R4IcCo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#-wBKTv1WvX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#649BXFOEGm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#u5ULEs9VAY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#tEmdeDpAID"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#AQKbnCODNi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#VrTfmODPpx"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,奥能登,氷見,富山,奥能登,氷見,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T02:10:49.13Z</dc:date>
+      <dc:date>2024-12-08T02:56:24.05Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb">
+      <title>[芸能] 2024-12-08 吉岡里帆か。 CM でよく見かけると思ってたけど、徐々に覚えてきた。前は水上あさみにしか見え ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,芸能,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-08T02:56:24.05Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#gs56R4IcCo">
       <title>[Web] [炎上] [文化] 2024-12-08 思ってたよりも大部閲覧注意だった 😅  大津、とは…？調べる気力がない。</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-04T16:22:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#VrTfmODPpx">
-      <title>[漫画] 2024-12-04 やっぱりハンターハンターのあのトリッキーなバトルって観てると面白いんだよな。今の連載シリーズ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/04#VrTfmODPpx</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,漫画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-04T13:22:52.00Z</dc:date>
     </item>
   </rdf:RDF>
