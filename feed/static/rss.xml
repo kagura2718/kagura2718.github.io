@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,7 +13,9 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/68/68QX6qgZtq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1O/1Ov22RMR1J.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3F/3F85e9xQ2c.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QF/QF2M5y1NPG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FP/FPJuiK8K1p.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1W/1W3U4w5AgY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R9/R9BGgB4Nyk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fA/fAbpLZunN2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wy/Wy2c66Btzr.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ol/Olk2gij5T_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GF/GFB-t14zUu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fj/Fjp2VPR1Aa.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fN/fNHiJSVFGa.htm">
     <title>[漫画] [Web] 2024-12-09 最近、こういうオリジナルを完全に破壊するデフォルメが増えてきたな。それが面白いんだけどさ。  ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,漫画,Web,漫画,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/68/68QX6qgZtq.htm">
     <title>[Web] [アニメ] 2024-12-09 都市部の方が先に放映してるのかな。俺が昨晩ちょっとだけみた最新話はシャンプーが出てなかった。 ...</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1O/1Ov22RMR1J.htm">
     <title>[生活] [北陸] 2024-12-09 またしばらく荒天続きになる。まぁ好天なんてほとんどねぇけどな… 太平洋側の遠方からやってくる ...</title>
@@ -61,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3F/3F85e9xQ2c.htm">
     <title>[漫画] [アニメ] [鬼滅の刃] 2024-12-09 2025 年の、いつ？？？この様子だと夏じゃない気がするから、冬じゃないかな。子供の冬休み入 ...</title>
@@ -69,7 +69,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,漫画,アニメ,鬼滅の刃</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-09T11:59:09.86Z</dc:date>
+    <dc:date>2024-12-09T14:06:11.39Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QF/QF2M5y1NPG.htm">
+    <title>[ポケモンgo] 2024-12-09 先週は 60km </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/QF/QF2M5y1NPG.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-09T06:48:49.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FP/FPJuiK8K1p.htm">
     <title>[Web] [文化] 2024-12-09 やべぇなこれ。  衛生観念が微塵もない  なんでこんな小汚いものにいいねが万単位でつくのやら ...</title>
@@ -78,6 +86,14 @@
         日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-09T06:40:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1W/1W3U4w5AgY.htm">
+    <title>[モンハンNow] 2024-12-09 HR263 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/1W/1W3U4w5AgY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-09T06:28:47.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/R9/R9BGgB4Nyk.htm">
     <title>[ポケモンgo] 2024-12-08 本日の最大強化 (PL40) * 2  </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-06T23:37:39.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm">
-    <title>[モンハンNow] 2024-12-06 武器強化の儀 アケノシルム 太刀   ネルギガンテ 大剣  古龍種の武器は Rare 5 素 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/qE/qET-gdS9GQ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T18:25:08.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm">
-    <title>[漫画] [アニメ] [鬼滅の刃] [呪術廻戦] 2024-12-06 呪術廻戦は Abema で何度も無料視聴できてるけど、鬼滅はまったくできないから、アニメにも ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/a9/a9QCV4rVu3.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,呪術廻戦,漫画,アニメ,鬼滅の刃,呪術廻戦</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-06T15:58:13.00Z</dc:date>
   </item>
 </rdf:RDF>
