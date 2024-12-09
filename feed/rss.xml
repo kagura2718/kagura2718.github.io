@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-08T11:52:51.26Z</dc:date>
+    <dc:date>2024-12-09T08:34:39.08Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#00I1qh-cn9"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#H5xVfYhORp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#Vf5YV2h4aa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#00I1qh-cn9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#EpWEKqeUbB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#SsVqlrzVQe"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/06#S6KR0PtoOJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#th_Ji1aTiA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/04#LtP9JZ1i6m"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Xr7uCZvCET"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Us-VizZfgE"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#00I1qh-cn9">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#H5xVfYhORp">
+      <title>[生活] [北陸] 2024-12-09 またしばらく荒天続きになる。まぁ好天なんてほとんどねぇけどな… 太平洋側の遠方からやってくる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/09#H5xVfYhORp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-09T08:34:39.08Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#Vf5YV2h4aa">
+      <title>[Web] [文化] 2024-12-09 やべぇなこれ。  衛生観念が微塵もない  なんでこんな小汚いものにいいねが万単位でつくのやら ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/09#Vf5YV2h4aa</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-09T06:40:46.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#00I1qh-cn9">
       <title>[ポケモンgo] 2024-12-08 本日の最大強化 (PL40) * 2  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/08#00I1qh-cn9</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
+      <dc:date>2024-12-08T23:23:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#EpWEKqeUbB">
       <title>[料理] 2024-12-08 私は牡蠣を手に入れた。いただきものだけど、普通に買ったら 5000 - 6000 ぐらいしそ ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
+      <dc:date>2024-12-08T15:11:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#pwutgjISGb">
       <title>[芸能] 2024-12-08 吉岡里帆というのか。 CM でよく見かけると思ってたけど、徐々に覚えてきた。前は水川あさみに ...</title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,芸能,芸能]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-08T11:52:51.26Z</dc:date>
+      <dc:date>2024-12-08T13:24:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#SsVqlrzVQe">
       <title>[奥能登] [氷見] [富山] 2024-12-08 住民4分の1が地区外へ転居…過疎集落が直面する現実　富山・氷見市姿地区　能登半島地震から1年 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-05T18:03:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Xr7uCZvCET">
-      <title>[Web] [奥能登] [文化] 2024-12-05  納車に 5 年かかるとさすがに怒る人は多そうだ 😂 新しい型が出ちゃうだろ。例えが下手すぎ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Xr7uCZvCET</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-05T15:43:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Us-VizZfgE">
-      <title>[Web] [炎上] [関西] 2024-12-05 自死した局長の不同意性交については立花の出鱈目っぽいな。あるいはデータの誤読か。あれだけ炎上 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/05#Us-VizZfgE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-05T15:37:33.00Z</dc:date>
     </item>
   </rdf:RDF>
