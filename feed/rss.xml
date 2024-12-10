@@ -4,17 +4,20 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-10T08:07:47.87Z</dc:date>
+    <dc:date>2024-12-10T12:05:47.53Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#ITWaGv0HP4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#pNyLUkm53j"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#ITWaGv0HP4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#Sefnj6w2T1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#noipAxDKpe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#nEpTOnti9p"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#A0OSEzlqqN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#vhBHW1cyCq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#H5xVfYhORp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#QAMZV-hxa4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#a7sIZ7b6Ay"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#4PDtBVsVFX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#Vf5YV2h4aa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#KB80alDwIr"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#dGTs6b-pOq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#e6Njypn8mb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/08#gs56R4IcCo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#-wBKTv1WvX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#649BXFOEGm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#YCh0NazSZC"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#ITWaGv0HP4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#pNyLUkm53j">
+      <title>[ポケモンgo] 2024-12-10 ん？タグ消えた？？？？</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/10#pNyLUkm53j</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-10T12:05:47.53Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#ITWaGv0HP4">
       <title>[モンハンNow] 2024-12-10 武器強化の儀 桜レイア双剣  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/10#ITWaGv0HP4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-10T08:07:47.87Z</dc:date>
+      <dc:date>2024-12-10T12:05:47.53Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#Sefnj6w2T1">
+      <title>[料理] 2024-12-10 麻婆豆腐でも木綿豆腐を使うんだな。絹豆腐しか使ったことがない。今回は水気を出して絞った絹豆腐 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/10#Sefnj6w2T1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-10T12:05:47.53Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#noipAxDKpe">
       <title>[Web] [炎上] 2024-12-10 パーカーおじさんなるワードで燃えてるらしい。俺もパーカーはときどき着てるし、なんだったらほぼ ...</title>
@@ -86,6 +102,14 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,漫画,アニメ,鬼滅の刃]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-09T19:31:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/10#a7sIZ7b6Ay">
+      <title>[登山] [宝達山] 2024-12-10 久々の晴れ間に自宅の冬支度を進めてから、本日の登頂。登ってる途中に揺れたり地鳴りしてる気がし ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/10#a7sIZ7b6Ay</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-09T18:27:59.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/09#4PDtBVsVFX">
       <title>[ポケモンgo] 2024-12-09 先週は 60km </title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-07T23:48:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#-wBKTv1WvX">
-      <title>[国際] [NHK] 2024-12-07 この女子アナは眼鏡っ娘だったんだ。そして現代風若者の丸眼鏡… この眼鏡、俺は受け付けないんだ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/07#-wBKTv1WvX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,国際,NHK,国際,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-07T21:57:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#649BXFOEGm">
-      <title>[Web] [炎上] [国際] 2024-12-07 Youtuber 事情は各国同じなのだろうか。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/07#649BXFOEGm</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-07T14:53:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/07#YCh0NazSZC">
-      <title>[生活] [紅葉] [金沢] 2024-12-07 金沢の平野でこのぐらい。   へー今週末シャドウレジアイスか。  いきなりこれか。もういいや ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/07#YCh0NazSZC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,紅葉,金沢,生活,紅葉,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-07T04:55:37.00Z</dc:date>
     </item>
   </rdf:RDF>
