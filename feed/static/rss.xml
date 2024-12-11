@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-10T15:17:43.60Z</dc:date>
+    <dc:date>2024-12-11T03:19:18.28Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G2/G2fed3o6s1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/18/18QMT9BuNs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xu/XuLO_U1pSn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tC/tCw2ay1P1z.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fA/fAbpLZunN2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wy/Wy2c66Btzr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9n/9nilpDwdpm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/G2/G2fed3o6s1.htm">
+    <title>[漫画] 2024-12-11 ハンターハンターはこれで一旦休載か。モレナ vs ボークセンは予想の範疇の結末だったじゃない ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/G2/G2fed3o6s1.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,漫画</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-11T03:19:18.28Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/18/18QMT9BuNs.htm">
     <title>[時事] 2024-12-10 さすがに企業献金を憲法 21 条 (表現の自由) てのは強弁にすぎるな。石破が答弁がうまいと ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/18/18QMT9BuNs.htm</link>
     <description>
         日記,つぶやき,雑記帳,時事,時事</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-10T15:17:43.60Z</dc:date>
+    <dc:date>2024-12-11T03:19:18.28Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xu/XuLO_U1pSn.htm">
     <title>[ポケモンgo] 2024-12-10 ん？タグ消えた？？？？</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-10T15:17:43.60Z</dc:date>
+    <dc:date>2024-12-11T03:19:18.28Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tC/tCw2ay1P1z.htm">
     <title>[奥能登] 2024-12-10 門前の深見地区も割と話題になるエリアだけど、このストビュー、地震から半年後の 2024/07 ...</title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,奥能登,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-10T15:17:43.60Z</dc:date>
+    <dc:date>2024-12-11T02:08:55.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/AV/AVSh79LLuc.htm">
     <title>[モンハンNow] 2024-12-10 武器強化の儀 桜レイア双剣  </title>
@@ -61,7 +69,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-10T15:17:43.60Z</dc:date>
+    <dc:date>2024-12-10T17:39:04.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/W7/W7QJcdr6N8.htm">
     <title>[料理] 2024-12-10 麻婆豆腐でも木綿豆腐を使うんだな。絹豆腐しか使ったことがない。今回は水気を出して絞った絹豆腐 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,奥能登,氷見,富山,奥能登,氷見,富山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-08T11:25:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm">
-    <title>[Web] 2024-12-08 これ、どういう趣旨の機械か知らんけど、こんな刃が剥き出しなの危ないだろうな。子供とか近くにい ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/d4/d4UjO4rjYE.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-08T09:17:32.00Z</dc:date>
   </item>
 </rdf:RDF>
