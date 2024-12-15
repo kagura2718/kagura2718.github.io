@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-15T12:07:15.29Z</dc:date>
+    <dc:date>2024-12-15T14:04:02.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#ZqnLzO879s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#D1Rpy5EOLv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#hymTFyl0lV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#4WHv_DV1Wy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#CbGUs7GzBo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#VO5jnf9le9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#l91gYbgHc3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#jSN9W6m7kP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#eFTL2cF-cH"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#v6Qa77epyw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#O4iO8tn8FS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/12#XJ1Qsuna-D"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#C_1GP0EdLb"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,Web,炎上,アニメ,漫画,Web,炎上,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T12:07:15.29Z</dc:date>
+      <dc:date>2024-12-15T14:04:02.89Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#D1Rpy5EOLv">
       <title>[ポケモンgo] [生活] [金沢] 2024-12-14 今日も北陸の冬かな？と思ってたんだ、この時は。  近江町は人集り。  能登の牡蠣は見付けたが ...</title>
@@ -47,13 +47,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-15T08:33:35.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#hymTFyl0lV">
+      <title>[料理] 2024-12-15 やることがない。ブリがいっぱい売ってるから大量に仕入れてきた。 ブリのみぞれ  ブリのソテー ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/15#hymTFyl0lV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-15T14:04:02.89Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#4WHv_DV1Wy">
       <title>[ポケモンgo] 2024-12-15 とりあえず昨日の 💯 ネクロズマ (たそがれ) は最大強化 (PL40)  交換でいただいた ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/15#4WHv_DV1Wy</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T12:07:15.29Z</dc:date>
+      <dc:date>2024-12-15T14:04:02.89Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#CbGUs7GzBo">
       <title>[アニメ] 2024-12-15 シャンプーが出た。おそらく東京の 2 週遅れぐらいだ。知らんけど。   前半が三千院というよ ...</title>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-15T06:54:33.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#l91gYbgHc3">
+      <title>[漫画] [アニメ] 2024-12-15 最近、ときどき聞くな。『ダンダダン』というアニメ (原作漫画) どういう趣旨なのか… ジャン ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/15#l91gYbgHc3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-15T06:31:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#jSN9W6m7kP">
       <title>[Web] 2024-12-13 二年間迷子になって森を彷徨っていたという馬の  数年放ったらかしだった馬の蹄を手入れしている ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-13T08:19:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/12#XJ1Qsuna-D">
-      <title>[生活] [羽咋] [北陸] [富山] 2024-12-12 やっぱりやるのか。 羽咋－氷見、国直轄で整備　半島の東西結ぶ国道４１５号　避難路、強靱化｜政 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/12#XJ1Qsuna-D</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,北陸,富山,生活,羽咋,北陸,富山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-12T21:37:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#C_1GP0EdLb">
-      <title>[モンハンNow] 2024-12-13 とりあえず太刀で初めての睡眠属性。作っておきましょう。  スラッシュアックスとやらは、ティガ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/13#C_1GP0EdLb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-12T16:57:24.00Z</dc:date>
     </item>
   </rdf:RDF>
