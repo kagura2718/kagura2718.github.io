@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-16T02:49:11.80Z</dc:date>
+    <dc:date>2024-12-16T03:33:05.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rv/RvLKvLVuWl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QB/QBJTeklz2F.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pd/pdcJEIngHq.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/--/--xzQ3o64u.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gr/GrH5N_qoLu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i3/i3-5R5H5TN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zT/zTKqZeMvOm.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bt/BtfHfDSz4C.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4T/4TWkEOCg3l.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WU/WUF6H-gTUs.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Cc/Ccb3Jukgxm.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-15T20:25:24.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/--/--xzQ3o64u.htm">
+    <title>[ポケモンgo] 2024-12-16 先週は 64km </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/--/--xzQ3o64u.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-15T18:10:46.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Gr/GrH5N_qoLu.htm">
     <title>[ポケモンgo] 2024-12-15 とりあえず昨日の 💯 ネクロズマ (たそがれ) は最大強化 (PL40)  交換でいただいた ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-13T03:21:51.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Cc/Ccb3Jukgxm.htm">
-    <title>[料理] 2024-12-13 久々のだし巻き。最近、煮卵の練習してるからだし巻きを作っていなかった。茹で卵からなかなかうま ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Cc/Ccb3Jukgxm.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-13T10:33:02.00Z</dc:date>
   </item>
 </rdf:RDF>
