@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-17T12:53:39.02Z</dc:date>
+    <dc:date>2024-12-17T14:42:35.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o4/o4f3N5PrE4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lW/lW0Jp4q98b.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_Q/_QggTpHQUt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g_/g_B1DwHwh_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ip/Ipxi0GyM_6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K1/K1tD8F1mfb.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t4/t47nmTrcEj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jh/Jh_MK9_Bsz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bR/bRyaOSUIbj.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ec/ecshSldC7d.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,NHK,Web,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-17T12:53:39.02Z</dc:date>
+    <dc:date>2024-12-17T14:42:35.62Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lW/lW0Jp4q98b.htm">
     <title>[Web] [料理] 2024-12-17 なるほど。ミキサーで豚肉ごと攪拌してしまう、と。これなら豚肉も無駄にならないし、すべての味と ...</title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,Web,料理,Web,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-17T09:39:48.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_Q/_QggTpHQUt.htm">
+    <title>[モンハンNow] 2024-12-17 なんか、シーズン 4 に入って、どうも時間が停められることが増えた。ドスギルオス ⭐ 10  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/_Q/_QggTpHQUt.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-17T08:02:31.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/g_/g_B1DwHwh_.htm">
     <title>[Web] [スポーツ] [野球] 2024-12-17 え、これ、アリなのか？返信を眺めてると 3 feet ってルールがあるらしいが、まだよく分からん… </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-15T06:54:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ec/ecshSldC7d.htm">
-    <title>[漫画] [アニメ] 2024-12-15 最近、ときどき聞くな。『ダンダダン』というアニメ (原作漫画) どういう趣旨なのか… ジャン ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ec/ecshSldC7d.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-15T06:31:54.00Z</dc:date>
   </item>
 </rdf:RDF>
