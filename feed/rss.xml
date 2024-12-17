@@ -10,6 +10,7 @@
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#VPAXkLBgEa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#44QjuIknQ_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#1OnK_BZ0E6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#fxFDVVxCLz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#Y2GD__5a3v"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#l91gYbgHc3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#jSN9W6m7kP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#eFTL2cF-cH"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,野球,Web,スポーツ,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-17T03:26:15.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#44QjuIknQ_">
+      <title>[Web] 2024-12-17 軽トラにこんな DIY の小屋を載せてる人達がいる。おもろいな。  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/17#44QjuIknQ_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-16T23:43:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#1OnK_BZ0E6">
       <title>[Web] [スポーツ] 2024-12-17 全体的に股抜きショット、スライディングショットが多いか。諦めない姿勢はどれもこれも素晴らしい ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-15T02:50:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#eFTL2cF-cH">
-      <title>[ポケモンgo] [モンハンNow] 2024-12-15 武器強化 太刀 ヴァルナロス    そろそろモンスターの名前、覚えられなくなってきた。実はポ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/15#eFTL2cF-cH</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T02:23:20.00Z</dc:date>
     </item>
   </rdf:RDF>
