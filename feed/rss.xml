@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-17T09:39:48.00Z</dc:date>
+    <dc:date>2024-12-17T12:47:26.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#97_3cskD8Y"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#VPAXkLBgEa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#44QjuIknQ_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#1OnK_BZ0E6"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#VO5jnf9le9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#l91gYbgHc3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#jSN9W6m7kP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#97_3cskD8Y">
+      <title>[Web] [NHK] 2024-12-17 水をつくるというよりも、除湿機みたいなもんか？と思ってスルーしてたら、思ってたよりヤバい記事 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/17#97_3cskD8Y</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,NHK,Web,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-17T12:47:26.41Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3">
       <title>[Web] [料理] 2024-12-17 なるほど。ミキサーで豚肉ごと攪拌してしまう、と。これなら豚肉も無駄にならないし、すべての味と ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-15T06:22:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl">
-      <title>[ポケモンgo] 2024-12-14 先日の 💯 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T02:50:46.00Z</dc:date>
     </item>
   </rdf:RDF>
