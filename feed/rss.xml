@@ -4,14 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-16T03:33:05.00Z</dc:date>
+    <dc:date>2024-12-17T03:18:02.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#fxFDVVxCLz"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#Y2GD__5a3v"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#ZqnLzO879s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#D1Rpy5EOLv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#hymTFyl0lV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#ZjCDCXkdv7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#b_u152WBtC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#4WHv_DV1Wy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#mCMXTfLasL"/>
@@ -24,14 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#EdFD5pz_Jl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#eFTL2cF-cH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#v6UctARuQj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#PjtCCBBKyI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#tuBtsUU2Fl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#F6NlNuIWhi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/12#y14xmz1FRA"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3">
+      <title>[Web] [料理] 2024-12-17 なるほど。ミキサーで豚肉ごと攪拌してしまう、と。これなら豚肉も無駄にならないし、すべての味と ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-17T03:18:02.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#fxFDVVxCLz">
+      <title>[Web] [炎上] [富山] 2024-12-16 こういう展開になったんだ。 実父から性的暴行 実名で被害訴え 逮捕の52歳父親を起訴 富山  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/16#fxFDVVxCLz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,富山,Web,炎上,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-16T12:52:37.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#Y2GD__5a3v">
+      <title>[モンハンNow] 2024-12-16 HR265 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/16#Y2GD__5a3v</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-16T05:28:12.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ">
       <title>[ポケモンgo] 2024-12-13 土曜はネクロズマが出るらしい。明日、天気はまずまずじゃない？そして今はメガラティがレイドで湧 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/13#Yq57TY5CjZ</link>
       <description>
@@ -62,6 +86,14 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-15T20:25:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#ZjCDCXkdv7">
+      <title>[Web] [国際] 2024-12-16 インドとパキスタンて仲悪いんだったっけか…？  昨日見かけたこの動画、インド人ギャルか。この ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/16#ZjCDCXkdv7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-15T19:23:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/16#b_u152WBtC">
       <title>[ポケモンgo] 2024-12-16 先週は 64km </title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-14T20:14:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#PjtCCBBKyI">
-      <title>[生活] [北陸] 2024-12-14 大荒れの時間はずれてきて、明日の昼ぐらいからかな。大人しくしておこう。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/14#PjtCCBBKyI</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-14T11:23:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#tuBtsUU2Fl">
-      <title>[料理] 2024-12-14 焼きそばである。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/14#tuBtsUU2Fl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-13T22:31:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/13#F6NlNuIWhi">
-      <title>[Web] [スポーツ] [バスケ] 2024-12-13 ジョーダンは空中の動きをスローでみるのが一番好き。人智を越えた存在。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/13#F6NlNuIWhi</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,バスケ,Web,スポーツ,バスケ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-13T19:32:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/12#y14xmz1FRA">
-      <title>[モンハンNow] 2024-12-12 とりあえず難易度下げて ⭐ 9 でクリアしてしまいましょう。  新しいのはこの辺りか。    ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/12#y14xmz1FRA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-13T03:21:51.00Z</dc:date>
     </item>
   </rdf:RDF>
