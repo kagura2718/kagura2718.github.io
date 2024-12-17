@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-17T14:42:35.62Z</dc:date>
+    <dc:date>2024-12-17T20:14:29.46Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#97_3cskD8Y"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/18#JWQmXMIBih"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/18#kgYiQQ-nCr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#PG0q1FN9OJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#VPAXkLBgEa"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#4WHv_DV1Wy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#mCMXTfLasL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#IYV9CGptMh"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#CbGUs7GzBo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#VO5jnf9le9"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,NHK,Web,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-17T14:42:35.62Z</dc:date>
+      <dc:date>2024-12-17T20:14:29.46Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/18#JWQmXMIBih">
+      <title>[料理] 2024-12-18 さっそくりゅうじのレシピを元にしたラーメンスープを作ってみた。これは、いける。豚肉をミキサー ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/18#JWQmXMIBih</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-17T20:14:29.46Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/18#kgYiQQ-nCr">
+      <title>[Web] [スポーツ] [野球] 2024-12-18 これは歴史改竄だなぁ。桑田はメジャーで登板して負けた直後に「メジャーで投げるのが目的だったの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/18#kgYiQQ-nCr</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,野球,Web,スポーツ,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-17T20:14:29.46Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/17#4NQ_d5Jwa3">
       <title>[Web] [料理] 2024-12-17 なるほど。ミキサーで豚肉ごと攪拌してしまう、と。これなら豚肉も無駄にならないし、すべての味と ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,Web,炎上,生活,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-14T22:31:21.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/15#CbGUs7GzBo">
-      <title>[アニメ] 2024-12-15 シャンプーが出た。おそらく東京の 2 週遅れぐらいだ。知らんけど。   前半が三千院というよ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/15#CbGUs7GzBo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T09:26:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/14#VO5jnf9le9">
-      <title>[アニメ] 2024-12-14 G のレコンギスタ。名前聞いたことあったけど、ガンダムシリーズだったのか。なんか知らんけど  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/14#VO5jnf9le9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-15T06:54:33.00Z</dc:date>
     </item>
   </rdf:RDF>
