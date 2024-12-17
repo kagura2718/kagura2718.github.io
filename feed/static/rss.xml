@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-17T12:47:26.41Z</dc:date>
+    <dc:date>2024-12-17T12:53:39.02Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lW/lW0Jp4q98b.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g_/g_B1DwHwh_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ip/Ipxi0GyM_6.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K1/K1tD8F1mfb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Va/VaWT1AYJPJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qm/Qmr9y7PiiL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v_/v_yYgtdaWN.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jh/Jh_MK9_Bsz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bR/bRyaOSUIbj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ec/ecshSldC7d.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Tf/Tf-o6VUk2n.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,NHK,Web,NHK</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-17T12:47:26.41Z</dc:date>
+    <dc:date>2024-12-17T12:53:39.02Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lW/lW0Jp4q98b.htm">
     <title>[Web] [料理] 2024-12-17 なるほど。ミキサーで豚肉ごと攪拌してしまう、と。これなら豚肉も無駄にならないし、すべての味と ...</title>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-16T23:43:45.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/K1/K1tD8F1mfb.htm">
+    <title>[アニメ] 2024-12-17 やっぱり比古清十郎は五条悟の声なんだな。たぶん、そうだろうと思っていた。 😂 るろうに剣心  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/K1/K1tD8F1mfb.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-16T21:45:02.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Va/VaWT1AYJPJ.htm">
     <title>[Web] [スポーツ] 2024-12-17 全体的に股抜きショット、スライディングショットが多いか。諦めない姿勢はどれもこれも素晴らしい ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-15T06:31:54.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Tf/Tf-o6VUk2n.htm">
-    <title>[Web] 2024-12-13 二年間迷子になって森を彷徨っていたという馬の  数年放ったらかしだった馬の蹄を手入れしている ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Tf/Tf-o6VUk2n.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-15T06:22:59.00Z</dc:date>
   </item>
 </rdf:RDF>
