@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-18T09:33:52.00Z</dc:date>
+    <dc:date>2024-12-19T03:24:32.36Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aU/aUqGGxDygy.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1D/1DZtwh82SX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pi/PiQ5jJhn17.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o4/o4f3N5PrE4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FQ/FQJ3N-7jAL.htm"/>
@@ -26,11 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kJ/kJSfgpDR1k.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/--/--xzQ3o64u.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gr/GrH5N_qoLu.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i3/i3-5R5H5TN.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t4/t47nmTrcEj.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aU/aUqGGxDygy.htm">
+    <title>[モンハンNow] 2024-12-19 HR266 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/aU/aUqGGxDygy.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-19T03:24:32.36Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1D/1DZtwh82SX.htm">
+    <title>[ポケモンgo] 2024-12-19 久々のメガマックス  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/1D/1DZtwh82SX.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-18T14:46:22.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pi/PiQ5jJhn17.htm">
     <title>[モンハンNow] 2024-12-19 整いました。武器強化の儀 たまのをの絶刀 ミツネ太刀 G10-1, G10-2    ミツネ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Pi/PiQ5jJhn17.htm</link>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-15T17:38:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/i3/i3-5R5H5TN.htm">
-    <title>[ポケモンgo] 2024-12-15 分離ボタンが気になる。間違って押すと… 😅  そして、もしかして、コスモッグの高固体とか集め ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/i3/i3-5R5H5TN.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-15T04:27:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/t4/t47nmTrcEj.htm">
-    <title>[生活] [Web] [炎上] 2024-12-15 正直、面白い 😂  プロっぽい動画だ。一方でカメラを止めるなのような雰囲気もあり、どういう人 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/t4/t47nmTrcEj.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,Web,炎上,生活,Web,炎上</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-14T22:31:21.00Z</dc:date>
   </item>
 </rdf:RDF>
