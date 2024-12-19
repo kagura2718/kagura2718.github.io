@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-19T11:31:40.99Z</dc:date>
+    <dc:date>2024-12-19T11:35:01.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5z/5zM1F6bjPV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aU/aUqGGxDygy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PU/PUJEz0iekH.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q0/Q0f_soTxjs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1D/1DZtwh82SX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pi/PiQ5jJhn17.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o4/o4f3N5PrE4.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qm/Qmr9y7PiiL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v_/v_yYgtdaWN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rv/RvLKvLVuWl.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pd/pdcJEIngHq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-19T11:31:40.99Z</dc:date>
+    <dc:date>2024-12-19T11:35:01.37Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/C0/C0PPOphxlG.htm">
     <title>[Web] [サッカー] 2024-12-19 おおぅ。最後の胸トラップアシストがええな。体勢が崩れてるのは、その前に GK に触られてたの ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-19T11:31:40.99Z</dc:date>
+    <dc:date>2024-12-19T11:35:01.37Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5z/5zM1F6bjPV.htm">
     <title>[Web] [中国地方] 2024-12-19 倉敷は広島だっけ？と思ったら岡山市の隣。   みてる限り、交通面では悪い点があるように見えない。</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,中国地方,Web,中国地方</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-19T11:31:40.99Z</dc:date>
+    <dc:date>2024-12-19T11:35:01.37Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aU/aUqGGxDygy.htm">
     <title>[モンハンNow] 2024-12-19 HR266 </title>
@@ -70,6 +70,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-19T06:21:43.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Q0/Q0f_soTxjs.htm">
+    <title>[Web] [炎上] [北陸] [九州] 2024-12-19 そうなんだ、そこまでなんだ 😂 俺の直感では絶対に火山灰の方が嫌なんだけど。年中じゃん。   ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Q0/Q0f_soTxjs.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,北陸,九州,Web,炎上,北陸,九州</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-18T18:50:47.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1D/1DZtwh82SX.htm">
     <title>[ポケモンgo] 2024-12-19 久々のメガマックス  </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,Web,炎上,アニメ,漫画,Web,炎上,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-15T22:05:40.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pd/pdcJEIngHq.htm">
-    <title>[料理] 2024-12-15 やることがない。ブリがいっぱい売ってるから大量に仕入れてきた。 ブリのみぞれ  ブリのソテー ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/pd/pdcJEIngHq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-15T20:25:24.00Z</dc:date>
   </item>
 </rdf:RDF>
