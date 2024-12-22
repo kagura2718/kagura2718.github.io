@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-22T03:21:03.83Z</dc:date>
+    <dc:date>2024-12-22T03:45:24.98Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Br/BrMje1-oik.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yw/YwLYBmSHhN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fg/fgIVnAW5rX.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FY/FY1bmP4ak4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HZ/HZeIorrszF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/C0/C0PPOphxlG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5z/5zM1F6bjPV.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g_/g_B1DwHwh_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ip/Ipxi0GyM_6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K1/K1tD8F1mfb.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Va/VaWT1AYJPJ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-22T03:21:03.83Z</dc:date>
+    <dc:date>2024-12-22T03:45:24.98Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yw/YwLYBmSHhN.htm">
     <title>[モンハンNow] 2024-12-20 マイセット自動切り替えもようやく使いものにはなってきた。しかし、複数武器種を遊びたいときは、 ...</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,富来,富来</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-21T23:14:07.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FY/FY1bmP4ak4.htm">
+    <title>[生活] [Web] 2024-12-22 最初の方しか読んでないけど、これ、こここで上げつらってる人達が裕福なんじゃなく、ここに書いて ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/FY/FY1bmP4ak4.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,Web,生活,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-21T20:38:02.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/HZ/HZeIorrszF.htm">
     <title>[生活] [奥能登] [北陸] 2024-12-19 数日前、寝てるとき。風かなと思ってたらやはり揺れてたらしい。 地震情報 - Yahoo!天気・災害</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-16T21:45:02.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Va/VaWT1AYJPJ.htm">
-    <title>[Web] [スポーツ] 2024-12-17 全体的に股抜きショット、スライディングショットが多いか。諦めない姿勢はどれもこれも素晴らしい ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Va/VaWT1AYJPJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-16T18:59:02.00Z</dc:date>
   </item>
 </rdf:RDF>
