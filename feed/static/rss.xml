@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-31T08:44:20.85Z</dc:date>
+    <dc:date>2024-12-31T08:50:31.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7K/7KqSfEuqRQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/63/63p1UkH7bV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rQ/rQQV1G9-DE.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cr/cryIeNT38N.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uX/uX78iSzw-2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KC/KCR7vZoLKd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AM/AMFtdQTBHS.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NO/NOSW9uCQWi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GX/GXHtPWAGKO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l8/l85Gs-Y9WW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_9/_9Te1fFo5b.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,7 @@
     <description>
         日記,随筆,簡約版,ポケモンgo,登山,生活,ゲーム,奥能登,モンハンNow,ポケモンgo,登山,生活,ゲーム,奥能登,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-31T04:07:49.00Z</dc:date>
+    <dc:date>2024-12-31T04:28:58.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NF/NF-xB0gSCF.htm">
     <title>[生活] [宝達山] 2024-12-30 8 合目ぐらい  山頂エリアは早朝はパウダー  本日の登頂。そしてたまたま青空だった ✌️  ...</title>
@@ -78,6 +78,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-30T15:13:44.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cr/cryIeNT38N.htm">
+    <title>[漫画] [呪術廻戦] 2024-12-31 呪術廻戦のファンブック眺めてたんだけど、京都校学生のストレスが「東堂」ってのうけるな。 😂  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/cr/cryIeNT38N.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2024-12-30T14:49:50.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uX/uX78iSzw-2.htm">
     <title>[生活] [Web] 2024-12-30 GEO では宅配レンタルとかしょうもないサービス提供されてるらしい。G のレコンギスタは観な ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2024-12-27T12:30:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_9/_9Te1fFo5b.htm">
-    <title>[アニメ] 2024-12-26 マギアレコードはどうやら探すところが悪かっただけで置いてあるな。G のレコンギスタはどうやら ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_9/_9Te1fFo5b.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2024-12-27T01:47:12.00Z</dc:date>
   </item>
 </rdf:RDF>
