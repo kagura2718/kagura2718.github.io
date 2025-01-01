@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2024-12-31T08:50:31.05Z</dc:date>
+    <dc:date>2025-01-01T05:26:41.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Q35QGxD-2C"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/31#z5xI1VAnrm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Xvp13yRaPY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2024/2024-12-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/30#FYpdDJypjL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/29#GzIdkLhd7e"/>
@@ -25,13 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/28#9_E-Fhg80p"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/27#oY0_v4rxnW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/28#cIsOSMx6EW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/28#TpPt2oNjz1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/27#wcft6thDuZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2024/12/27#prs2On6WKq"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Q35QGxD-2C">
+      <title>[NHK] 2025-01-01 紅白は観てないけど、米津玄師 (よねづげんし) ね。「げんすい」かと思ってた。そろそろ覚えよ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Q35QGxD-2C</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-01T05:26:41.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -39,13 +47,29 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/31#z5xI1VAnrm">
+      <title>[芸能] 2024-12-31 新しい学校のリーダーズってどうやらグループ名らしい。どうやら日本の若者というよりは、海外民に ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/31#z5xI1VAnrm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,芸能,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-31T19:04:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Xvp13yRaPY">
+      <title>[ポケモンgo] [Ingress] [生活] [告知] [モンハンNow] 2025-01-01 新年、明けましておめでとうございます。 昨年は本ブログの駄文にお付き合いいただきありがとうご ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Xvp13yRaPY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,生活,告知,モンハンNow,ポケモンgo,Ingress,生活,告知,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2024-12-31T15:02:32.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2024/2024-12-31.htm">
       <title>[ポケモンgo] [登山] [生活] [ゲーム] [奥能登] [モンハンNow] 2024-12-31 今年一年</title>
       <link>https://kagura2718.github.io/Diary/essay/2024/2024-12-31.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,登山,生活,ゲーム,奥能登,モンハンNow,ポケモンgo,登山,生活,ゲーム,奥能登,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-31T04:28:58.00Z</dc:date>
+      <dc:date>2024-12-31T06:55:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/30#FYpdDJypjL">
       <title>[生活] [宝達山] 2024-12-30 8 合目ぐらい  山頂エリアは早朝はパウダー  本日の登頂。そしてたまたま青空だった ✌️  ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2024-12-27T18:57:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/28#TpPt2oNjz1">
-      <title>[サッカー] 2024-12-28 これは好いプレイ集 👍 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/28#TpPt2oNjz1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,サッカー,サッカー]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-27T16:51:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/27#wcft6thDuZ">
-      <title>[モンハンNow] 2024-12-27 防具強化の儀 パオウルムー 腕  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/27#wcft6thDuZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-27T16:40:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2024/12/27#prs2On6WKq">
-      <title>[生活] [金沢] 2024-12-27 the 金沢。北陸の冬。しとしと、じめじめ… さすがに散歩開始に躊躇する 😑  本日の 96 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2024/12/27#prs2On6WKq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2024-12-27T12:30:43.00Z</dc:date>
     </item>
   </rdf:RDF>
