@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-05T06:58:07.00Z</dc:date>
+    <dc:date>2025-01-06T00:52:48.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#_Ok31BIPb0"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#NqJMn1qsqj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#zRjdK_1L5g"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#_Ok31BIPb0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#kExzNFEbma"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#H1zY6Gc87r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/04#htyo-OxWp8"/>
@@ -26,12 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#ZEgrOWouAw"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#s8eYeVQFF_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/02#G53o-kiTqL"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Gylr0_MSIK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#lnlQYRsk6X"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#_Ok31BIPb0">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#NqJMn1qsqj">
+      <title>[Web] [文化] [AI] 2025-01-06 japan の行政団体から出てくる AI って、もしかして、まったく AI じゃないやつじゃ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/06#NqJMn1qsqj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,AI,Web,文化,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-06T00:52:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#zRjdK_1L5g">
+      <title>[ポケモンgo] 2025-01-06 ギリで気付いたので、とりあえず、作った。交換のアテは特にないがな。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/06#zRjdK_1L5g</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-05T15:32:40.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/05#_Ok31BIPb0">
       <title>[モンハンNow] 2025-01-05 整いました。武器強化の儀 イビルジョー大刀 G10-4   銀レイス ライトボウガン G7-1  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/05#_Ok31BIPb0</link>
       <description>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-01T09:15:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Gylr0_MSIK">
-      <title>[モンハンNow] 2025-01-01 ようやく整った 黒ディア 弓  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/01#Gylr0_MSIK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-01T08:17:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/01#lnlQYRsk6X">
-      <title>[料理] 2025-01-01 昨年最後の料理と思って作ったチャーシューは派手に失敗してもた。 😭 最初の湯煎時間が圧倒的に ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/01#lnlQYRsk6X</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-01T02:20:24.00Z</dc:date>
     </item>
   </rdf:RDF>
