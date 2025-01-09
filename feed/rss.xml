@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-09T06:37:13.61Z</dc:date>
+    <dc:date>2025-01-09T14:23:05.61Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#oawyFw_-A4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#SLw6r1W8R0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/07#VdEzChGEFH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#RdNkI6m15p"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#jWBKGDN0Qd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#RmZoJBDrci"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#NqJMn1qsqj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#E33leKx_E3"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#flrudOC88B"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#oawyFw_-A4">
+      <title>[モンハンNow] 2025-01-09 レイギエナ強すぎ… バックステップ動作が多過ぎる。よろつかせてもバックステップされると打撃数 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/09#oawyFw_-A4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-09T14:23:05.61Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n">
       <title>[生活] [北陸] 2025-01-09 今回のは大して積もらないかな。風が強いだけ。で、それもせいぜい今晩までかな。 やっぱりそれな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-09T06:37:13.61Z</dc:date>
+      <dc:date>2025-01-09T13:32:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk">
+      <title>[時事] [国際] 2025-01-09 カナダって 4000 万いるのか。併合なんて豪快で雑な真似をすれば、「国民の総意」はほぼ確実 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-09T00:28:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#SLw6r1W8R0">
       <title>[アニメ] [AI] 2025-01-09 おや？ABEMA に攻殻機動隊があるね。前は検索しても出てこなかったはずなのに。 「攻殻機動 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,AI,Web,文化,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-06T00:52:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#E33leKx_E3">
-      <title>[モンハンNow] 2025-01-06 武器強化の儀    </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/06#E33leKx_E3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-05T22:47:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/06#flrudOC88B">
-      <title>[モンハンNow] 2025-01-06 とりあえず周回完了した。  最近、明らかに ⭐ 10 相手の勝率が落ちたのは、再びもっさりし ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/06#flrudOC88B</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-05T17:36:05.00Z</dc:date>
     </item>
   </rdf:RDF>
