@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-10T03:08:43.28Z</dc:date>
+    <dc:date>2025-01-10T14:58:28.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x9/x9XdaT-PoN.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x9/x9LTgMhfLX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/k6/k69PEKFeXR.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bs/BshZW4D04h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X9/X9NGmODae4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ja/JaPYCXbr96.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1y/1ym4q65TQU.htm"/>
@@ -25,19 +28,40 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CT/CTGINOKwMJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ql/qlSTJe4bVg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fB/fBktfXHQAS.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GB/GBviMU8fHx.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3r/3rulV29l1H.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EM/EMhxM2J0oN.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x9/x9XdaT-PoN.htm">
+    <title>[生活] [金沢] [北陸] 2025-01-10 荒天明けたので駅前まで出動した。  荒天あけても雪は雪。北陸の冬。  相変わらず人気の麺屋大 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/x9/x9XdaT-PoN.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,金沢,北陸,生活,金沢,北陸</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-10T14:58:28.17Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x9/x9LTgMhfLX.htm">
+    <title>[NHK] 2025-01-09 『イゾラド 現代文明と未接触の先住民』</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/x9/x9LTgMhfLX.htm</link>
+    <description>
+        日記,随筆,簡約版,NHK,NHK</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-10T10:34:25.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/k6/k69PEKFeXR.htm">
     <title>[ポケモンgo] [北陸] 2025-01-10 とりあえず最大強化  PL50 には一歩届かぬ。  リーチ (PL50) だ  先日の砂倍イ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/k6/k69PEKFeXR.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,北陸,ポケモンgo,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-10T03:08:43.28Z</dc:date>
+    <dc:date>2025-01-10T08:32:31.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bs/BshZW4D04h.htm">
+    <title>[時事] [国際] 2025-01-09 正式名称は知らないけど、韓国軍はそれなりに信用できるんじゃね？という直感はあるのだけど、今の ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Bs/BshZW4D04h.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-09T21:29:44.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/X9/X9NGmODae4.htm">
     <title>[モンハンNow] 2025-01-09 レイギエナ強すぎ… バックステップ動作が多過ぎる。よろつかせてもバックステップされると打撃数 ...</title>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,告知,ポケモンgo,告知</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-06T12:55:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/GB/GBviMU8fHx.htm">
-    <title>[ポケモンgo] 2025-01-06 先週は 55km </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/GB/GBviMU8fHx.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-06T08:20:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3r/3rulV29l1H.htm">
-    <title>[モンハンNow] 2025-01-07 HR272 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/3r/3rulV29l1H.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-06T08:20:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EM/EMhxM2J0oN.htm">
-    <title>[Web] [国際] 2025-01-06 動画観れないし、観たとしてもニュアンス分かんないだろうから記者の主観としか取れないんだけど、 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/EM/EMhxM2J0oN.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-06T03:57:54.00Z</dc:date>
   </item>
 </rdf:RDF>
