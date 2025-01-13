@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-12T12:11:23.60Z</dc:date>
+    <dc:date>2025-01-12T18:44:21.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#qiK502YmMh"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#xeIcsmjAdx"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#qiK502YmMh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#0pfeojyGUr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#oQiEesYcnS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#pAAtUeaTo7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#ri0KoVNNI0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#mYF1ave4wo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-01-09.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#MsGIZQI51x"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#_SszxXHMks"/>
@@ -26,12 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#oawyFw_-A4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#jQE5APNe8n"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/10#MWMSr7ASqR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#SLw6r1W8R0"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#qiK502YmMh">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#xeIcsmjAdx">
+      <title>[ポケモンgo] 2025-01-13 これは人気のやつだ、きっと。俺のキュレムとゼクロム、レシラムの子が、ネクロズマ並になる、のか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/13#xeIcsmjAdx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-12T18:44:21.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#qiK502YmMh">
       <title>[漫画] [アニメ] [薬屋のひとりごと] 2025-01-11 猫猫の声の質が明らかに変わった。声優さんも色々な役をしてるから声の調整は難しいだろうな。   ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/11#qiK502YmMh</link>
       <description>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,文化,芸能,女性,Web,時事,炎上,文化,芸能,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-11T10:58:07.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#mYF1ave4wo">
+      <title>[モンハンNow] 2025-01-12 HR274 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/12#mYF1ave4wo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-11T23:08:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-01-09.htm">
       <title>[NHK] 2025-01-09 『イゾラド 現代文明と未接触の先住民』</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-09T10:42:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk">
-      <title>[時事] [国際] 2025-01-09 カナダって 4000 万いるのか。併合なんて豪快で雑な真似をすれば、「国民の総意」はほぼ確実 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/09#ceuWqFU9sk</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-09T00:28:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/09#SLw6r1W8R0">
-      <title>[アニメ] [AI] 2025-01-09 おや？ABEMA に攻殻機動隊があるね。前は検索しても出てこなかったはずなのに。 「攻殻機動 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/09#SLw6r1W8R0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,AI,アニメ,AI]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-08T23:21:06.00Z</dc:date>
     </item>
   </rdf:RDF>
