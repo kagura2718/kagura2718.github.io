@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-14T09:35:36.34Z</dc:date>
+    <dc:date>2025-01-14T23:54:50.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#tfdLDEAdUl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#ZOjedDovTX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#28kPAB3Jdh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#KZkSCid1vs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#8cNJ8VvcJg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#myRArTU-hq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#Bm5zoOP7O8"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#pAAtUeaTo7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#ri0KoVNNI0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#mYF1ave4wo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-01-09.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#MsGIZQI51x"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#_SszxXHMks"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#tfdLDEAdUl">
+      <title>[Web] [時事] [炎上] 2025-01-15 たぶん、そうだろうなって、思ってたよ。思ってたよ…  ぬっころす、文春 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/15#tfdLDEAdUl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-14T23:49:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y">
       <title>[生活] [四国] [九州] 2025-01-14 宮崎で大きめの地震か。珍しく天気いいから外を走ってたのだけど、通知だけは気付いていた。で、津 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,四国,九州,生活,四国,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-14T09:35:36.34Z</dc:date>
+      <dc:date>2025-01-14T20:15:08.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#ZOjedDovTX">
+      <title>[漫画] [女性] [薬屋のひとりごと] 2025-01-15 動画を全部みたわけじゃないんだけど、こういうのもついつい想像はしちゃうよね。  薬屋じゃなく ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/15#ZOjedDovTX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,女性,薬屋のひとりごと,漫画,女性,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-14T16:39:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#28kPAB3Jdh">
       <title>[Web] [国際] 2025-01-14 米クリフスCEO 激しく日本を批判 - Yahoo!ニュース これだけ絶叫状態だと、精神状態 ...</title>
@@ -45,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-14T09:35:36.34Z</dc:date>
+      <dc:date>2025-01-14T15:22:30.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#KZkSCid1vs">
+      <title>[Web] [時事] [炎上] 2025-01-14 ようやく逮捕、か。たぶん、一年前ぐらいからポツポツと情報は出ていたんじゃなかったっけ？明らか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/14#KZkSCid1vs</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-14T14:59:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#8cNJ8VvcJg">
       <title>[アニメ] [呪術廻戦] [薬屋のひとりごと] 2025-01-14 ED    平井大 幸せのレシピ  アニメの OP ED も割と「情報」があって、じっくり観 ...</title>
@@ -53,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,薬屋のひとりごと,アニメ,呪術廻戦,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-14T09:35:36.34Z</dc:date>
+      <dc:date>2025-01-14T11:02:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#myRArTU-hq">
       <title>[漫画] [アニメ] 2025-01-14 フリーレン録れてしまったので冒頭だけ眺めてたんだけど、やっぱり…  冒険愉しかったねー (荷 ...</title>
@@ -61,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-14T09:35:36.34Z</dc:date>
+      <dc:date>2025-01-14T10:51:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#Bm5zoOP7O8">
       <title>[モンハンNow] 2025-01-13 一番、育成を後悔している武器。レイギエナの大刀で充分だった。替わりに弓にでもしとけば…  そ ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-11T23:08:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-01-09.htm">
-      <title>[NHK] 2025-01-09 『イゾラド 現代文明と未接触の先住民』</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-01-09.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-11T00:52:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/12#MsGIZQI51x">
-      <title>[モンハンNow] 2025-01-12 モンハンNow の youtuber 減ったな。発音がきれいな茶々々がやらなくなったのが惜し ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/12#MsGIZQI51x</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-11T14:02:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/11#_SszxXHMks">
-      <title>[ポケモンgo] 2025-01-11 レイドデイらしい。  なんとか作った！  ついでに最大強化 (PL50) </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/11#_SszxXHMks</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-11T04:41:12.00Z</dc:date>
     </item>
   </rdf:RDF>
