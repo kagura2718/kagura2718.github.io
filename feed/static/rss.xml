@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-16T03:41:55.82Z</dc:date>
+    <dc:date>2025-01-16T08:18:40.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E3/E3lUnPbyPH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x0/x0R3nDgv5I.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zb/zbTOIAQsRZ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ro/RotWvG1X4K.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fA/fAtel6zL0s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/D2/D20iUKEUqn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G6/G6a33648y_.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S5/S5TjnsaIRe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7y/7yJ49UwwT3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0n/0nwXtLR4Mq.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/W5/W56mUYqbhv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DK/DKdeZWVwt0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-16T03:41:55.82Z</dc:date>
+    <dc:date>2025-01-16T08:18:40.56Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x0/x0R3nDgv5I.htm">
     <title>[Web] 2025-01-16 沢川に大規模な太陽光発電があるのは知ってたのだけど、Google Map の航空写真でみると ...</title>
@@ -45,7 +45,23 @@
     <description>
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-16T03:41:55.82Z</dc:date>
+    <dc:date>2025-01-16T08:18:40.56Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/zb/zbTOIAQsRZ.htm">
+    <title>[モンハンNow] 2025-01-16 HR275  変わった。これがキリン？ </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/zb/zbTOIAQsRZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-16T08:18:40.56Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ro/RotWvG1X4K.htm">
+    <title>[登山] [生活] [宝達山] 2025-01-16 空が青い。せっかくの晴れ間、緊急出撃してきて良かった。  新雪歩きがたのしい 😁  山頂エリ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ro/RotWvG1X4K.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-16T00:00:38.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fA/fAtel6zL0s.htm">
     <title>[料理] 2025-01-16 昨晩は松屋が食えなかったので、帰宅して牡蠣のカルボ風パスタとした。  かいわれの扱いになかな ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-12T23:11:40.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/W5/W56mUYqbhv.htm">
-    <title>[ポケモンgo] 2025-01-13 これは人気のやつだ、きっと。俺のキュレムとゼクロム、レシラムの子が、ネクロズマ並になる、のか ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/W5/W56mUYqbhv.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-12T18:44:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DK/DKdeZWVwt0.htm">
-    <title>[漫画] [アニメ] [薬屋のひとりごと] 2025-01-11 猫猫の声の質が明らかに変わった。声優さんも色々な役をしてるから声の調整は難しいだろうな。   ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/DK/DKdeZWVwt0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,薬屋のひとりごと,漫画,アニメ,薬屋のひとりごと</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-12T00:46:44.00Z</dc:date>
   </item>
 </rdf:RDF>
