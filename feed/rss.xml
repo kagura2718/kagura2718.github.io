@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-16T11:51:57.92Z</dc:date>
+    <dc:date>2025-01-16T12:30:25.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#WiqnBv2uKO"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qrREV5d8-j"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#WiqnBv2uKO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qi5Mb4Q8Cr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#waBr4T6M7B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#j8AtFlD9Sw"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#8cNJ8VvcJg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#myRArTU-hq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#Bm5zoOP7O8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#pDDo6xL2yt"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#WiqnBv2uKO">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qrREV5d8-j">
+      <title>[Web] [炎上] [芸能] 2025-01-16 あー。そういえば、これとも絡んでくるのか。きついな。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qrREV5d8-j</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,芸能,Web,炎上,芸能]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-16T12:30:25.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#WiqnBv2uKO">
       <title>[料理] 2025-01-16 海老のトマトソースパスタ </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/16#WiqnBv2uKO</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-16T11:51:57.92Z</dc:date>
+      <dc:date>2025-01-16T12:30:25.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qi5Mb4Q8Cr">
       <title>[生活] [北陸] 2025-01-16 めっちゃ天気がええ… これでも後から雨降ってくるらしいんだぜ？信じられるか？ しかも、今晩は ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-16T11:51:57.92Z</dc:date>
+      <dc:date>2025-01-16T12:30:25.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#waBr4T6M7B">
       <title>[Web] 2025-01-16 沢川に大規模な太陽光発電があるのは知ってたのだけど、Google Map の航空写真でみると ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-16T11:51:57.92Z</dc:date>
+      <dc:date>2025-01-16T12:30:25.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#j8AtFlD9Sw">
       <title>[モンハンNow] 2025-01-16 HR275  変わった。これがキリン？ </title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-16T11:51:57.92Z</dc:date>
+      <dc:date>2025-01-16T12:30:25.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#gk5qCsFkqF">
       <title>[登山] [生活] [宝達山] 2025-01-16 空が青い。せっかくの晴れ間、緊急出撃してきて良かった。  新雪歩きがたのしい 😁  山頂エリ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-14T02:32:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/13#pDDo6xL2yt">
-      <title>[生活] [料理] 2025-01-13 キャベツが高い、だと？本日のビーフン  はは、外食に頼ってる連中、ざまぁww というぐらいの ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/13#pDDo6xL2yt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-13T18:18:50.00Z</dc:date>
     </item>
   </rdf:RDF>
