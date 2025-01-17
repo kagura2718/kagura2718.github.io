@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-17T08:32:21.60Z</dc:date>
+    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#aCyMVgX92J"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#aCyMVgX92J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#WYCkEgOVx4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#kAUH9TW8IZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qrREV5d8-j"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#IG94eqlSCc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#pOg-2Hj81Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/15#ZOjedDovTX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#28kPAB3Jdh"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#aCyMVgX92J">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X">
+      <title>[映画] [アニメ] 2025-01-17 ガンダムジークアクスというのがかなり話題のようだ。どうやらストーリーに仕掛けがあるみたいだが ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,映画,アニメ,映画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#aCyMVgX92J">
       <title>[漫画] [Web] [炎上] [アニメ] [文化] [女性] 2025-01-17 ややバズり気味で流れてくる小ネタ。偏見込みの男女観が根底にあるからかな？ 🤔  おそらくは女 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/17#aCyMVgX92J</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,Web,炎上,アニメ,文化,女性,漫画,Web,炎上,アニメ,文化,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-17T08:32:21.60Z</dc:date>
+      <dc:date>2025-01-17T11:49:56.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#WYCkEgOVx4">
       <title>[ポケモンgo] 2025-01-17 影になってると思ったら…  いらねぇな。何関係のイベントなのだろう。</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-17T08:32:21.60Z</dc:date>
+      <dc:date>2025-01-17T11:49:56.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#kAUH9TW8IZ">
       <title>[ポケモンgo] 2025-01-17 GO++ はリセットして再接続したら直ったようだ。今はあれが失くなれば、もはやポケモンやって ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-17T08:32:21.60Z</dc:date>
+      <dc:date>2025-01-17T11:49:56.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/16#qrREV5d8-j">
       <title>[Web] [炎上] [芸能] 2025-01-16 あー。そういえば、これとも絡んでくるのか。きついな。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,女性,薬屋のひとりごと,漫画,女性,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-14T16:39:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/14#28kPAB3Jdh">
-      <title>[Web] [国際] 2025-01-14 米クリフスCEO 激しく日本を批判 - Yahoo!ニュース これだけ絶叫状態だと、精神状態 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/14#28kPAB3Jdh</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-14T15:22:30.00Z</dc:date>
     </item>
   </rdf:RDF>
