@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    <dc:date>2025-01-18T14:14:09.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6K/6K3MK_UJ0p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bm/BmsCWWDHMi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/He/He1ULgBS4n.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G6/G6a33648y_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kX/kXgPJe9n03.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/me/meBLb3Zfcv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qx/QxiAMXUMzb.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm">
+    <title>[奥能登] 2025-01-18 宝立山 (敗退)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm</link>
+    <description>
+        日記,随筆,簡約版,奥能登,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-18T14:14:09.17Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6K/6K3MK_UJ0p.htm">
     <title>[映画] [アニメ] 2025-01-17 ガンダムジークアクスというのがかなり話題のようだ。どうやらストーリーに仕掛けがあるみたいだが ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/6K/6K3MK_UJ0p.htm</link>
     <description>
         日記,つぶやき,雑記帳,映画,アニメ,映画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    <dc:date>2025-01-18T04:31:16.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bm/BmsCWWDHMi.htm">
     <title>[漫画] [Web] [炎上] [アニメ] [文化] [女性] 2025-01-17 ややバズり気味で流れてくる小ネタ。偏見込みの男女観が根底にあるからかな？ 🤔  おそらくは女 ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,漫画,Web,炎上,アニメ,文化,女性,漫画,Web,炎上,アニメ,文化,女性</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    <dc:date>2025-01-17T18:40:13.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/He/He1ULgBS4n.htm">
     <title>[ポケモンgo] 2025-01-17 影になってると思ったら…  いらねぇな。何関係のイベントなのだろう。</title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    <dc:date>2025-01-17T16:46:20.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DF/DFAcDE0BX0.htm">
     <title>[ポケモンgo] 2025-01-17 GO++ はリセットして再接続したら直ったようだ。今はあれが失くなれば、もはやポケモンやって ...</title>
@@ -61,7 +69,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-17T11:49:56.75Z</dc:date>
+    <dc:date>2025-01-17T14:55:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vg/vgwgVbsdp5.htm">
     <title>[Web] [炎上] [芸能] 2025-01-16 あー。そういえば、これとも絡んでくるのか。きついな。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,四国,九州,生活,四国,九州</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-14T20:15:08.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Qx/QxiAMXUMzb.htm">
-    <title>[漫画] [女性] [薬屋のひとりごと] 2025-01-15 動画を全部みたわけじゃないんだけど、こういうのもついつい想像はしちゃうよね。  薬屋じゃなく ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Qx/QxiAMXUMzb.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,女性,薬屋のひとりごと,漫画,女性,薬屋のひとりごと</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-14T16:39:23.00Z</dc:date>
   </item>
 </rdf:RDF>
