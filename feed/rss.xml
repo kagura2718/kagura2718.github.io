@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-20T14:38:22.89Z</dc:date>
+    <dc:date>2025-01-20T15:56:26.71Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-01-18.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#D291rc78QN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/19#_cmchjpsT7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/19#Y_DGtbjP1-"/>
@@ -39,14 +39,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7">
-      <title>[ポケモンgo] 2025-01-20 先週は 91km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-20T14:38:22.89Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-01-18.htm">
       <title>[登山] [生活] [食事] [奥能登] 2025-01-18 宝立山 (敗退)</title>
       <link>https://kagura2718.github.io/Diary/essay/2025/2025-01-18.htm</link>
@@ -54,6 +46,14 @@
         <![CDATA[日記,随筆,簡約版,登山,生活,食事,奥能登,登山,生活,食事,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-20T12:33:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7">
+      <title>[ポケモンgo] 2025-01-20 先週は 91km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/20#VSAwx0vOU7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-20T15:56:26.71Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#D291rc78QN">
       <title>[Web] [炎上] [関西] 2025-01-20  斉藤元彦… ここまで弔意や哀悼を示すのに不適切な人はなかなかいないだろう。きついな。 【1 ...</title>
