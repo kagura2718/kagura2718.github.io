@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-21T08:24:40.97Z</dc:date>
+    <dc:date>2025-01-21T11:09:28.06Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/B1/B1jNeDaCQj.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7n/7nCjlERJC_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ma/MaGjbV7Vyq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
@@ -26,11 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DF/DFAcDE0BX0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vg/vgwgVbsdp5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1y/1yf8d_eQJ2.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nY/nYLz9aBQg8.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E3/E3lUnPbyPH.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/B1/B1jNeDaCQj.htm">
+    <title>[Web] [炎上] [国際] 2025-01-21 Star Wars のタイトルみたいなクソな煽り文だ。トランプもイーロン・マスクも何もかもが ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/B1/B1jNeDaCQj.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-21T11:09:28.06Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7n/7nCjlERJC_.htm">
+    <title>[アニメ] [鬼滅の刃] [薬屋のひとりごと] 2025-01-21 ホンニャンの声が変わった気がしたけど、声優は変わってなかった。   豊口めぐみ - Wiki ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/7n/7nCjlERJC_.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,鬼滅の刃,薬屋のひとりごと,アニメ,鬼滅の刃,薬屋のひとりごと</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-21T11:09:28.06Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm">
     <title>[登山] [生活] [食事] [奥能登] 2025-01-18 宝立山 (敗退)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/NG/NGNWeciASi.htm</link>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-17T04:30:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/nY/nYLz9aBQg8.htm">
-    <title>[登山] [長野] [木曽] 2025-01-17 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/nY/nYLz9aBQg8.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,長野,木曽,登山,長野,木曽</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-17T00:20:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E3/E3lUnPbyPH.htm">
-    <title>[生活] [北陸] 2025-01-16 めっちゃ天気がええ… これでも後から雨降ってくるらしいんだぜ？信じられるか？ しかも、今晩は ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/E3/E3lUnPbyPH.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-16T18:06:25.00Z</dc:date>
   </item>
 </rdf:RDF>
