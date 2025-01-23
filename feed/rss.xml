@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-23T02:23:26.18Z</dc:date>
+    <dc:date>2025-01-23T03:18:19.97Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/22#I1QbaqrR3X"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#U_b10bpHDN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/22#I1QbaqrR3X"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#zsPeXXKPZc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#X3j-s1Lx-C"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/20#1aGe-TmS4g"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/19#wHM78SgYBg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/19#tG6WavimVE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/22#I1QbaqrR3X">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#U_b10bpHDN">
+      <title>[Web] [炎上] [文化] 2025-01-23 とある農家同士 (というより、おそらく片方は家庭菜園農家) の炎上行為を眺めてたんだけど、や ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/23#U_b10bpHDN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-23T03:18:19.97Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/22#I1QbaqrR3X">
       <title>[生活] [氷見] 2025-01-22 私は氷見が好きだ。先日の立山写真でついつい心を刺激されたので、ちょっと足を伸ばしてみた。   ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/22#I1QbaqrR3X</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-23T02:23:26.18Z</dc:date>
+      <dc:date>2025-01-23T03:18:19.97Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#zsPeXXKPZc">
       <title>[料理] 2025-01-23 本日の麻婆豆腐。花椒(ホアジャオ)がうめぇ。まじでうめぇ。たまらん。このときは絹豆腐だ。やっ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-23T02:23:26.18Z</dc:date>
+      <dc:date>2025-01-23T03:18:19.97Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l">
       <title>[アニメ] [鬼滅の刃] [薬屋のひとりごと] 2025-01-21 ホンニャンの声が変わった気がしたけど、声優は変わってなかった。   豊口めぐみ - Wiki ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-19T02:18:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X">
-      <title>[映画] [アニメ] 2025-01-17 ガンダムジークアクスというのがかなり話題のようだ。どうやらストーリーに仕掛けがあるみたいだが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/17#hgLxTJHS5X</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,映画,アニメ,映画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-18T04:31:16.00Z</dc:date>
     </item>
   </rdf:RDF>
