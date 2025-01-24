@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-24T03:17:30.91Z</dc:date>
+    <dc:date>2025-01-24T03:19:36.78Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#jw0LQZC6dS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#LALcwjOR1w"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#U_b10bpHDN"/>
@@ -18,7 +19,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#uDxmRD9qo4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#J93NEtzjtn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#kTCXLDuDDC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#X3j-s1Lx-C"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#L-00SqZsNO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/22#UFX8I4bikO"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l">
+      <title>[アニメ] [鬼滅の刃] [薬屋のひとりごと] 2025-01-21 ホンニャンの声が変わった気がしたけど、声優は変わってなかった。   豊口めぐみ - Wiki ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,鬼滅の刃,薬屋のひとりごと,アニメ,鬼滅の刃,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-22T02:17:51.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3">
       <title>[Web] [時事] [炎上] [岐阜] 2025-01-24 ほらほら… 通り魔の続発。  なんか、しばらく前に中国の通り魔事件も、「中国だから」みたいな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,岐阜,Web,時事,炎上,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-24T03:17:30.91Z</dc:date>
+      <dc:date>2025-01-24T03:19:36.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#jw0LQZC6dS">
       <title>[登山] [奥能登] 2025-01-24 昔、宝立山に行ったときの写真を発掘した。2017 年ごろ。やはり通行禁止規制は大町集落の少し ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-24T03:17:30.91Z</dc:date>
+      <dc:date>2025-01-24T03:19:36.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/23#LALcwjOR1w">
       <title>[料理] 2025-01-23 ぶりがうめぇ  本日のだし巻き </title>
@@ -110,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,東北,NHK,東北]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-23T08:00:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l">
-      <title>[アニメ] [鬼滅の刃] [薬屋のひとりごと] 2025-01-21 ホンニャンの声が変わった気がしたけど、声優は変わってなかった。   豊口めぐみ - Wiki ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/21#anxHRWpB3l</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,鬼滅の刃,薬屋のひとりごと,アニメ,鬼滅の刃,薬屋のひとりごと]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-22T02:17:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/21#X3j-s1Lx-C">
       <title>[かほく] 2025-01-21 イオンかほくに新しい店だ。能登の品かと思ったら全国の土産物っぽい。  Otakara Mar ...</title>
