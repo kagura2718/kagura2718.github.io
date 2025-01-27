@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/26#BtKacOW3Vh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#eFF-wgknJU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#FKYuAFnLqJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/25#ZTx8zcuYwr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/26#wTBvIOJ8Ns"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#34PFjzsOOb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#i3QvRc5F23"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#jw0LQZC6dS"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-27T02:31:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#eFF-wgknJU">
+      <title>[モンハンNow] 2025-01-27 これがブースト、か。  では、これも再育成するかな。チケットが足りなくて、去年は諦めたんだ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/27#eFF-wgknJU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-26T22:28:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#FKYuAFnLqJ">
       <title>[Web] [炎上] [関東] 2025-01-27 へー、この様相で当選したんだ…  この人だ。  @migikatakawai  Timeli ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-24T04:42:27.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#jw0LQZC6dS">
-      <title>[登山] [奥能登] 2025-01-24 昔、宝立山に行ったときの写真を発掘した。2017 年ごろ。やはり通行禁止規制は大町集落の少し ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/24#jw0LQZC6dS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,奥能登,登山,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-24T04:21:03.00Z</dc:date>
     </item>
   </rdf:RDF>
