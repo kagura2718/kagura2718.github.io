@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-28T03:00:31.41Z</dc:date>
+    <dc:date>2025-01-28T03:46:07.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#fa1MfRPx5Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#a35LmKdUdo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#8Ztk73Bvub"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/26#BtKacOW3Vh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#FKYuAFnLqJ"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#2Xm2JyTj2f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/25#9nt6etUAQ4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/25#h-X1od4JnT"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,炎上,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-28T03:00:31.41Z</dc:date>
+      <dc:date>2025-01-28T03:46:07.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#a35LmKdUdo">
       <title>[生活] [食事] [金沢] 2025-01-27 おじさんは金沢の鼓門へやってきた。  リベンジを果たすべく、松屋へ。激辛の水煮牛肉。実は二回 ...</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-27T13:57:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q">
+      <title>[漫画] [アニメ] 2025-01-28 比古清十郎と剣心の過去と出会い   このマッチョ比古清十郎が、当時は非難されたんだとか。主に ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-27T00:59:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/27#8Ztk73Bvub">
       <title>[Web] [文化] 2025-01-27 のらぬこ </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-24T18:07:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3">
-      <title>[Web] [時事] [炎上] [岐阜] 2025-01-24 ほらほら… 通り魔の続発。  なんか、しばらく前に中国の通り魔事件も、「中国だから」みたいな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/24#zHfJuNoiy3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,岐阜,Web,時事,炎上,岐阜]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-24T09:53:19.00Z</dc:date>
     </item>
   </rdf:RDF>
