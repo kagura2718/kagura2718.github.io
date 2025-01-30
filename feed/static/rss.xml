@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-30T11:09:15.59Z</dc:date>
+    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wi/wisNSt9F1G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iU/iUjPJDHJNX.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VM/VMdLs-QQZo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mb/MbUaU7Eld_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bw/Bw6OI99ugE.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ju/ju1Hdgq5S9.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm">
+    <title>[料理] 2025-01-30 豆豉(トウチ) 旨いなぁ。使ってるのは豆豉醤だけど。  原料は黒豆か。だから黒っぽくなる。  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm">
     <title>[時事] [関東] 2025-01-30 たぶん、陥没現場ってここだ。完全な主要道路じゃないの。こんな場所ですら超音波検査とかやってな ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm</link>
     <description>
         日記,つぶやき,雑記帳,時事,関東,時事,関東</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-30T11:09:15.59Z</dc:date>
+    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wi/wisNSt9F1G.htm">
     <title>[ポケモンgo] 2025-01-30 本日の最大強化 (PL50) </title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-30T11:09:15.59Z</dc:date>
+    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iU/iUjPJDHJNX.htm">
     <title>[生活] 2025-01-30 風がやかましくて、早朝にむくり。やっぱり眠れないか… この時期、早く就寝してもこんなもんよ。 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-28T10:03:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ju/ju1Hdgq5S9.htm">
-    <title>[生活] [食事] [金沢] 2025-01-27 おじさんは金沢の鼓門へやってきた。  リベンジを果たすべく、松屋へ。激辛の水煮牛肉。実は二回 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ju/ju1Hdgq5S9.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-27T13:57:06.00Z</dc:date>
   </item>
 </rdf:RDF>
