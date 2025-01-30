@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
+    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/12/12PhW1x6jF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wi/wisNSt9F1G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iU/iUjPJDHJNX.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ig/IgS895yfvq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VM/VMdLs-QQZo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mb/MbUaU7Eld_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bw/Bw6OI99ugE.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
+    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/12/12PhW1x6jF.htm">
+    <title>[ポケモンgo] 2025-01-30 本日のキラ  あくうせつだんは持ってないな… 特別技だったか、すごいマシンでも変えられない。</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/12/12PhW1x6jF.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm">
     <title>[時事] [関東] 2025-01-30 たぶん、陥没現場ってここだ。完全な主要道路じゃないの。こんな場所ですら超音波検査とかやってな ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,時事,関東,時事,関東</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
+    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wi/wisNSt9F1G.htm">
     <title>[ポケモンgo] 2025-01-30 本日の最大強化 (PL50) </title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-30T11:11:26.96Z</dc:date>
+    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iU/iUjPJDHJNX.htm">
     <title>[生活] 2025-01-30 風がやかましくて、早朝にむくり。やっぱり眠れないか… この時期、早く就寝してもこんなもんよ。 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-28T13:28:54.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bw/Bw6OI99ugE.htm">
-    <title>[料理] 2025-01-29 唐辛子、花椒、辣油を入れない、あんまり辛くない一品を作ってみるが、豆板醤だけでそれなりに辛い ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Bw/Bw6OI99ugE.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-28T10:03:07.00Z</dc:date>
   </item>
 </rdf:RDF>
