@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+    <dc:date>2025-01-31T04:28:20.61Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#TBFdz9FUnq"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#RvYN6u37UD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#7mrLaq2fkw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#93uY-Jmuff"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#sVquHGiWEK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#1jwHJTtbGp"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#s4cO6aH3Id"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#5pUpt1uajn"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#fa1MfRPx5Y"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#KXtqjolOza"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#TBFdz9FUnq">
+      <title>[生活] [北陸] 2025-01-31 久々の静かな夜で安眠できた。安眠は至上。 来週はまた大荒れだから、天気が好い間に動いとかないと。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/31#TBFdz9FUnq</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-31T04:28:20.61Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU">
       <title>[料理] 2025-01-30 豆豉(トウチ) 旨いなぁ。使ってるのは豆豉醤だけど。  原料は黒豆か。だから黒っぽくなる。  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+      <dc:date>2025-01-30T22:48:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#RvYN6u37UD">
       <title>[ポケモンgo] 2025-01-30 本日のキラ  あくうせつだんは持ってないな… 特別技だったか、すごいマシンでも変えられない。</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+      <dc:date>2025-01-30T22:25:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#7mrLaq2fkw">
       <title>[時事] [関東] 2025-01-30 たぶん、陥没現場ってここだ。完全な主要道路じゃないの。こんな場所ですら超音波検査とかやってな ...</title>
@@ -53,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,関東,時事,関東]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+      <dc:date>2025-01-30T20:59:33.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ">
+      <title>[モンハンNow] 2025-01-31 金レイア ⭐ 9 はどうやっても勝ち筋が見えないなぁ。  ノーミスで 2 回 SP 当て切っ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-01-30T20:04:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#93uY-Jmuff">
       <title>[ポケモンgo] 2025-01-30 本日の最大強化 (PL50) </title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-30T12:23:23.18Z</dc:date>
+      <dc:date>2025-01-30T15:05:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#sVquHGiWEK">
       <title>[生活] 2025-01-30 風がやかましくて、早朝にむくり。やっぱり眠れないか… この時期、早く就寝してもこんなもんよ。 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-28T16:05:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#fa1MfRPx5Y">
-      <title>[時事] [炎上] [アニメ] 2025-01-28 フジテレビ、潰れるの？潰れれば？？私は何も興味がない。ないのだけど、いくつかの作成中のアニメ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/28#fa1MfRPx5Y</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,アニメ,時事,炎上,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-28T13:59:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#KXtqjolOza">
-      <title>[モンハンNow] 2025-01-28 いつの間にか rare 6 が出てて、ほぼリーチが二本…   武器強化の儀 蒼レウス チャア ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/28#KXtqjolOza</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-28T13:28:54.00Z</dc:date>
     </item>
   </rdf:RDF>
