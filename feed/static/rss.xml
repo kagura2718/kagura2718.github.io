@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-01-31T04:28:20.61Z</dc:date>
+    <dc:date>2025-01-31T15:30:58.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uq/UqhwzT9slR.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/12/12PhW1x6jF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VV/VVkhGb0Izj.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9u/9uJd5pxJcv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vG/vGXqmcmgrC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ig/IgS895yfvq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-31T04:28:20.61Z</dc:date>
+    <dc:date>2025-01-31T15:30:58.23Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm">
+    <title>[生活] [食事] [金沢] 2025-01-31 おじさんは雨の金沢へやってきた。  赤だるま。ラーメン屋さんには珍しく、厨房はバイトっぽい若 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-01-31T00:48:18.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x6/x6XXh5AvH1.htm">
     <title>[料理] 2025-01-30 豆豉(トウチ) 旨いなぁ。使ってるのは豆豉醤だけど。  原料は黒豆か。だから黒っぽくなる。  ...</title>
@@ -182,13 +190,5 @@
         ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ig/IgS895yfvq.htm">
-    <title>[生活] [金沢] 2025-01-28 昨日の迷惑駐車はここだな。いくら内側の旧道とはいえ、こんなとこ停めるの無理だな 😂 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ig/IgS895yfvq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-28T16:05:40.00Z</dc:date>
   </item>
 </rdf:RDF>
