@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-01T04:18:42.82Z</dc:date>
+    <dc:date>2025-02-02T04:07:16.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#nuyAjgdZaX"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/02#mJkwrP6QVb"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#nuyAjgdZaX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#HPQn7NH5ut"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#MQ58wenzje"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#d80v2Ex7FZ"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/29#ct0I9QetX-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#SlSlBF1t_O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#koJLXG0PBW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#nuyAjgdZaX">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/02#mJkwrP6QVb">
+      <title>[Web] [モンハンNow] 2025-02-02 やっぱり、みんな、唐突に NEW で実装されて驚いたんだな。いつもの NIA の平常運転、き ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/02#mJkwrP6QVb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-02T04:07:16.10Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#nuyAjgdZaX">
       <title>[モンハンNow] 2025-02-01 いつの間にか rare 6 逆鱗出ていた。武器強化の儀を執り行う タマミツネ大刀 たまのをの ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/01#nuyAjgdZaX</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-01T04:18:42.82Z</dc:date>
+      <dc:date>2025-02-01T19:20:01.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#HPQn7NH5ut">
       <title>[ポケモンgo] 2025-02-01 これは… もしかして、特殊ファイヤーの色違いか。  お散歩おこう使うの忘れちゃうな。昨日も忘れてた。</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-01T04:18:42.82Z</dc:date>
+      <dc:date>2025-02-01T13:33:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/01#MQ58wenzje">
       <title>[モンハンNow] 2025-02-01 これ、追加されたのかな？ノーマルレウスのハンマーかな？今まで無かったんだ。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-29T13:46:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q">
-      <title>[漫画] [アニメ] 2025-01-28 比古清十郎と剣心の過去と出会い   このマッチョ比古清十郎が、当時は非難されたんだとか。主に ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/28#a7xgSqRc6Q</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-27T00:59:26.00Z</dc:date>
     </item>
   </rdf:RDF>
