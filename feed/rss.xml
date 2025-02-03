@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-03T10:31:59.32Z</dc:date>
+    <dc:date>2025-02-03T12:49:58.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#dc9EBK8-2i"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/02#qafbdTuONJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#yysXEDmr5p"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#pVJ2nX7nQr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#YGKUuRlEy4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#2Ktqh_UsWv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#_3GTniT9El"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#tEMXb6QfRU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#RvYN6u37UD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/30#7mrLaq2fkw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-03T10:31:59.32Z</dc:date>
+      <dc:date>2025-02-03T11:20:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/02#qafbdTuONJ">
       <title>[生活] [金沢] 2025-02-02 好天期、最後の晴れかな？芸術村もなかなかだと思うんだ。  これはやばい。罠になる。雪積もった ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-03T10:31:59.32Z</dc:date>
+      <dc:date>2025-02-03T10:43:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#yysXEDmr5p">
       <title>[登山] [Web] [炎上] 2025-02-03 知らなかったんだけど、とうとうやらかしてたんだ。  どうやら、子供と遊んでて骨折、か。登山で ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-03T08:00:10.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#pVJ2nX7nQr">
+      <title>[アニメ] 2025-02-03 やっぱり比古清十郎、最高にかっこええ。爺というには若いが、ハンターハンターの爺と同じぐらいに ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/03#pVJ2nX7nQr</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-03T05:45:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#YGKUuRlEy4">
       <title>[Web] 2025-02-03 へー やっぱり環境を整えると元気になるんだな。これを食べるときは… 辛くね？ </title>
@@ -77,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-03T01:18:24.00Z</dc:date>
+      <dc:date>2025-02-03T02:04:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#_3GTniT9El">
       <title>[Web] [炎上] [関東] 2025-02-03 あー、あのジョーカー仮装の地方議員、こっち系か。保留から完全却下に。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,関東,時事,関東]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-01-30T20:59:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ">
-      <title>[モンハンNow] 2025-01-31 金レイア ⭐ 9 はどうやっても勝ち筋が見えないなぁ。  ノーミスで 2 回 SP 当て切っ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/01/31#U1HOfjOCqQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-01-30T20:04:54.00Z</dc:date>
     </item>
   </rdf:RDF>
