@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-04T09:32:32.05Z</dc:date>
+    <dc:date>2025-02-04T12:30:58.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uI/uIQIhgcWfg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6l/6lqOxHIPC8.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5I/5IZ0o2XFAT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sc/sceslga1d6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6n/6nLcZcqJwf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZM/ZMSrCvLAI9.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/s8/s8PPB8nniv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eB/eBeFuvD0E8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uq/UqhwzT9slR.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,羽咋,北陸,生活,羽咋,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-04T09:32:32.05Z</dc:date>
+    <dc:date>2025-02-04T12:30:58.85Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6l/6lqOxHIPC8.htm">
     <title>[生活] [奥能登] [北陸] 2025-02-04 やっぱり最強寒波になると、すげぇな。甘かった。明後日までか… どうすっかな。 奥能登方面は積 ...</title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-04T09:32:32.05Z</dc:date>
+    <dc:date>2025-02-04T10:21:43.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5I/5IZ0o2XFAT.htm">
+    <title>[モンハンNow] 2025-02-04 HR281  これ、発射のとき変な音するのねww </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/5I/5IZ0o2XFAT.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-04T04:00:57.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sc/sceslga1d6.htm">
     <title>[生活] [北陸] 2025-02-04 朝起きたら白くない。雪かきしなくてよくて拍子抜け、と思ってたらこれからか。それでも大したこと ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-01-31T17:03:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm">
-    <title>[生活] [食事] [金沢] 2025-01-31 おじさんは雨の金沢へやってきた。  金レイア、タマミツネ、イビルジョーに絞って探してたら、犀 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Jf/JfbbquB7Ov.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-01-31T11:12:08.00Z</dc:date>
   </item>
 </rdf:RDF>
