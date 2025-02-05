@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-05T07:51:34.04Z</dc:date>
+    <dc:date>2025-02-05T12:55:16.48Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#14useeLH_-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#glrFsMiuFd"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#pVJ2nX7nQr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#YGKUuRlEy4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#2Ktqh_UsWv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#_3GTniT9El"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#-eDm_GqC9k"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#14useeLH_-">
+      <title>[登山] [Web] 2025-02-05 安全そうなポイントにはいるものの、雪が流れてる横にいるだけでも怖そうだけどね。雪が軽いからそ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#14useeLH_-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-05T12:55:16.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4">
+      <title>[料理] 2025-02-05 本日のアフタヌーンドリンク  花椒は松屋の水煮牛肉みたいなふざけた食べ方しないで普通に調理し ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-05T12:55:16.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu">
       <title>[食事] [羽咋] [金沢] 2025-02-05 昨日の羽咋の大和家、本店らしきのは金沢西エリアの↓ここっぽいね。名前がちょっと違って『らぁ麺 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,食事,羽咋,金沢,食事,羽咋,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-05T07:51:34.04Z</dc:date>
+      <dc:date>2025-02-05T12:55:16.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i">
       <title>[Web] [九州] 2025-02-05 へー。屋久島にもスキー場があるのか。そこに驚いた。 😂 </title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-05T07:51:34.04Z</dc:date>
+      <dc:date>2025-02-05T12:55:16.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg">
       <title>[生活] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-03T02:04:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#_3GTniT9El">
-      <title>[Web] [炎上] [関東] 2025-02-03 あー、あのジョーカー仮装の地方議員、こっち系か。保留から完全却下に。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/03#_3GTniT9El</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関東,Web,炎上,関東]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-02T13:47:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/03#-eDm_GqC9k">
-      <title>[モンハンNow] 2025-02-03 わ、まじか… これは欲しい！雷属性の倍化強化。  ↓この四つだな。武器は後回しで防具からだ。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/03#-eDm_GqC9k</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-02T10:57:14.00Z</dc:date>
     </item>
   </rdf:RDF>
