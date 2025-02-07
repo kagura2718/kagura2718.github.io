@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-07T12:07:51.30Z</dc:date>
+    <dc:date>2025-02-07T12:22:10.19Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#I4xCfgBBrU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#jNtGwnMrWN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#zZ0O09JYPO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#5o3nX6l5OO"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#wf3dcFZVaU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#OsdmI3mqP0"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#t6eo8F6miT"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-07T12:07:51.30Z</dc:date>
+      <dc:date>2025-02-07T12:22:10.19Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#jNtGwnMrWN">
+      <title>[Web] [炎上] 2025-02-07 マジか、マジなのか…？  真偽のほどはまだはっきりと分からないのだけど、ガチであれば、すごい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/07#jNtGwnMrWN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-07T12:22:10.19Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg">
       <title>[生活] [食事] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,食事,七尾,羽咋,金沢,食事,七尾,羽咋,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-05T11:51:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#t6eo8F6miT">
-      <title>[料理] 2025-02-04 麻婆豆腐、大好きだけど、現状では錬成に 20 分 - 25 分ぐらいかかる。これを 10 - ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/04#t6eo8F6miT</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-04T22:52:21.00Z</dc:date>
     </item>
   </rdf:RDF>
