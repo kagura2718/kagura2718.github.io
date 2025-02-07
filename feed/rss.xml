@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-07T08:47:34.84Z</dc:date>
+    <dc:date>2025-02-07T09:45:17.99Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#I4xCfgBBrU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#5o3nX6l5OO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#maBW_OgImh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#_wMsoKS51M"/>
@@ -21,7 +22,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#iD6k3GS01f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#wf3dcFZVaU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#OsdmI3mqP0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#t6eo8F6miT"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-07T08:47:34.84Z</dc:date>
+      <dc:date>2025-02-07T09:45:17.99Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg">
+      <title>[生活] [食事] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,食事,羽咋,北陸,生活,食事,羽咋,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-04T23:36:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#5o3nX6l5OO">
       <title>[生活] [かほく] 2025-02-06 これから、雪は小康状態ということで天気の晴れ間に久々に walking。 復活の八番。入らな ...</title>
@@ -134,14 +142,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-05T20:37:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg">
-      <title>[生活] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,北陸,生活,羽咋,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-04T23:36:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#wf3dcFZVaU">
       <title>[ポケモンgo] 2025-02-06 インドからのギフト。これはさすがにスプーだよなぁ？普段もあちこちから送られてくる人、だったは ...</title>
