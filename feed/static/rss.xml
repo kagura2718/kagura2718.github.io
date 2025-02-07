@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-07T11:52:35.82Z</dc:date>
+    <dc:date>2025-02-07T12:07:51.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,7 +13,9 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XG/XG2f0N5ys-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_x/_xGUN8otd5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HV/HV_H3AeM66.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yU/yUJMBLv-_O.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zi/ZiqYOcMG9d.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8r/8r1T6DpMbN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dX/dXlLs2X1TT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b2/b2s2nTvvKm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-C/-CFzstGdPp.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R4/R4QTQB8CAw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jl/jlVsQXAwe0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uz/Uzisc-IUhc.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IN/INM8lRf-F6.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6l/6lqOxHIPC8.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-07T11:52:35.82Z</dc:date>
+    <dc:date>2025-02-07T12:07:51.30Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uI/uIQIhgcWfg.htm">
     <title>[生活] [食事] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
@@ -71,6 +71,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-07T03:42:19.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yU/yUJMBLv-_O.htm">
+    <title>[モンハンNow] 2025-02-07 武器強化の儀 メロウパウ   </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/yU/yUJMBLv-_O.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-07T02:05:04.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Zi/ZiqYOcMG9d.htm">
     <title>[ポケモンgo] 2025-02-07 今日もインド。うーん、寒気や雪雲から逃げてるとも取れるし、どうなんだろうね。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Zi/ZiqYOcMG9d.htm</link>
@@ -78,6 +86,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-06T21:45:00.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8r/8r1T6DpMbN.htm">
+    <title>[モンハンNow] 2025-02-07 これ、クリアできるんかな… 😅  HR282 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/8r/8r1T6DpMbN.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-06T20:51:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dX/dXlLs2X1TT.htm">
     <title>[ポケモンgo] 2025-02-06 ゲンシマックス </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-04T22:52:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/IN/INM8lRf-F6.htm">
-    <title>[Web] [炎上] [文化] 2025-02-05 追い越し車線で車間距離を詰めすぎると、左側車線の車から  先行車に隠れて後続車が見えなくなる ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/IN/INM8lRf-F6.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-04T20:31:38.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6l/6lqOxHIPC8.htm">
-    <title>[生活] [奥能登] [北陸] 2025-02-04 やっぱり最強寒波になると、すげぇな。甘かった。明後日までか… どうすっかな。 奥能登方面は積 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/6l/6lqOxHIPC8.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-04T10:21:43.00Z</dc:date>
   </item>
 </rdf:RDF>
