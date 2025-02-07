@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-06T14:11:52.72Z</dc:date>
+    <dc:date>2025-02-07T03:02:07.27Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#5o3nX6l5OO"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#maBW_OgImh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#_wMsoKS51M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#w1eeqX0HBD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#hc1mMQYrBn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#tUbmWPzfIp"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#NRB821OHVm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#7Kaud4QXge"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#YHRumPcPjy"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#RSnhB2jPz-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#6_09HkKsmC"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,かほく,生活,かほく]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-06T14:11:52.72Z</dc:date>
+      <dc:date>2025-02-07T03:02:07.27Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#maBW_OgImh">
+      <title>[ポケモンgo] 2025-02-07 今はこれか。  なんかまた嫌がらせのイベント始まってね？ xxs とか xxl とか出てる。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/07#maBW_OgImh</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-06T23:16:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#_wMsoKS51M">
+      <title>[ポケモンgo] 2025-02-07 今日もインド。うーん、寒気や雪雲から逃げてるとも取れるし、どうなんだろうね。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/07#_wMsoKS51M</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-06T21:45:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#w1eeqX0HBD">
       <title>[ポケモンgo] 2025-02-06 ゲンシマックス </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-04T04:00:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#RSnhB2jPz-">
-      <title>[生活] [北陸] 2025-02-04 朝起きたら白くない。雪かきしなくてよくて拍子抜け、と思ってたらこれからか。それでも大したこと ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/04#RSnhB2jPz-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-03T22:32:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#6_09HkKsmC">
-      <title>[食事] [金沢] 2025-02-04 できたばかりだけど、すぐに閉業になるだろうなって店は割と分かる。分かりやすいお店は確実にある。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/04#6_09HkKsmC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,金沢,食事,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-03T13:09:07.00Z</dc:date>
     </item>
   </rdf:RDF>
