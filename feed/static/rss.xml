@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-07T12:50:21.26Z</dc:date>
+    <dc:date>2025-02-08T03:28:11.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J2/J2pwtzDDL4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wy/WydDVMYPV6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HF/HFXFnBP1lL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uI/uIQIhgcWfg.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Az/AzXhkDfnhE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G3/G36R_-h5mD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R4/R4QTQB8CAw.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jl/jlVsQXAwe0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/J2/J2pwtzDDL4.htm">
+    <title>[アニメ] [女性] [薬屋のひとりごと] 2025-02-08 本来のシスイはかわいい  これも。田舎ギャルって感じで  これはラノベ臭がそこかしこから漂っ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/J2/J2pwtzDDL4.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-08T03:28:11.95Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Wy/WydDVMYPV6.htm">
     <title>[Ingress] [Web] [炎上] 2025-02-07 マジか、マジなのか…？  真偽のほどはまだはっきりと分からないのだけど、ガチであれば、すごい ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Wy/WydDVMYPV6.htm</link>
     <description>
         日記,つぶやき,雑記帳,Ingress,Web,炎上,Ingress,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-07T12:50:21.26Z</dc:date>
+    <dc:date>2025-02-08T01:27:46.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/HF/HFXFnBP1lL.htm">
     <title>[モンハンNow] 2025-02-07 おお！キリンの rare 6  * 2 </title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-07T12:50:21.26Z</dc:date>
+    <dc:date>2025-02-08T01:01:43.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uI/uIQIhgcWfg.htm">
     <title>[生活] [食事] [羽咋] [北陸] 2025-02-04 急を要する不要不急の外出は滞りなく終わった。羽咋の大和家だ。  おお、ちゃんと家系の味と匂い ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-05T13:00:32.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jl/jlVsQXAwe0.htm">
-    <title>[食事] [七尾] [羽咋] [金沢] 2025-02-06 一昨日の「らぁ麺 大和」は七尾 (和倉) にも店があった。ふーん、和倉 -&gt; 金沢 -&gt; 羽 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/jl/jlVsQXAwe0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,食事,七尾,羽咋,金沢,食事,七尾,羽咋,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-05T11:51:41.00Z</dc:date>
   </item>
 </rdf:RDF>
