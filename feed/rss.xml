@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-08T10:20:33.20Z</dc:date>
+    <dc:date>2025-02-08T19:50:47.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#hZ5jEovn6p"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#h0PA57y71e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#jNtGwnMrWN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#I4xCfgBBrU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/04#JN0MV9Zrzg"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#glrFsMiuFd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#iD6k3GS01f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#9CvzPX8gCu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-08T10:20:33.20Z</dc:date>
+      <dc:date>2025-02-08T19:50:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#h0PA57y71e">
+      <title>[登山] [宝達山] 2025-02-09 本日の登頂  この雨量計が壊れてるらしい。後で国交省の依頼されたらしき業者が登ってきた。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/09#h0PA57y71e</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,宝達山,登山,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-08T12:55:37.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#jNtGwnMrWN">
       <title>[Ingress] [Web] [炎上] 2025-02-07 マジか、マジなのか…？  真偽のほどはまだはっきりと分からないのだけど、ガチであれば、すごい ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,食事,羽咋,金沢,食事,羽咋,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-05T21:06:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i">
-      <title>[Web] [九州] 2025-02-05 へー。屋久島にもスキー場があるのか。そこに驚いた。 😂 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#oqybN71X0i</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-05T20:37:35.00Z</dc:date>
     </item>
   </rdf:RDF>
