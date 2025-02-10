@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-09T11:55:20.65Z</dc:date>
+    <dc:date>2025-02-10T02:50:04.13Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/10#teCHa7dJ0J"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#xBhvpvoDpN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#gbk3_WYfyn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#DAcOlugidL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#hZ5jEovn6p"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#hc1mMQYrBn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#tUbmWPzfIp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#14useeLH_-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#glrFsMiuFd"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/10#teCHa7dJ0J">
+      <title>[ポケモンgo] 2025-02-10 ん？なんか変わった？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/10#teCHa7dJ0J</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-10T02:50:04.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9">
       <title>[料理] 2025-02-09 山から帰宅しての一杯。  久々に山成分は補給された。</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-09T11:55:20.65Z</dc:date>
+      <dc:date>2025-02-09T22:22:43.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#xBhvpvoDpN">
+      <title>[生活] [北陸] 2025-02-09 寒波の終焉、風も止んで積もりそうな雪だなーと思ってた。しかし、やっぱりそれほど積もらなかった ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/09#xBhvpvoDpN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-09T20:23:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#gbk3_WYfyn">
       <title>[Ingress] [Web] [炎上] [文化] 2025-02-09 言動に加えてアイコンから滲み出てしまう人柄とかね。すべてが SaclaNewLagoon な ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,炎上,文化,Ingress,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-09T11:55:20.65Z</dc:date>
+      <dc:date>2025-02-09T16:55:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#DAcOlugidL">
       <title>[映画] 2025-02-08 バックトゥザフューチャーが捕獲されていた。懐しい。  ☺️  うーん… 西部劇をみたような、 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-06T04:07:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4">
-      <title>[料理] 2025-02-05 本日のアフタヌーンドリンク  花椒は松屋の水煮牛肉みたいなふざけた食べ方しないで普通に調理し ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#fECUqk3-Y4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-06T02:55:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/05#glrFsMiuFd">
-      <title>[Web] [炎上] 2025-02-05 山間の小さいトイレで 1 億はきっと相場よりは高そうではあるよね。資材価格の高騰があったとし ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/05#glrFsMiuFd</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-05T05:43:43.00Z</dc:date>
     </item>
   </rdf:RDF>
