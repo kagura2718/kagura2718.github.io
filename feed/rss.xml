@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-11T09:13:08.92Z</dc:date>
+    <dc:date>2025-02-11T10:40:34.66Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#gbk3_WYfyn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-02-11-0875e.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/11#P08Wt2Of6r"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/11#DuOxtku0sX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/10#teCHa7dJ0J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#xBhvpvoDpN"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#oOK5TKAcxc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#_wMsoKS51M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/07#O2MI52vNt9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#w1eeqX0HBD"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-11T08:04:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/11#DuOxtku0sX">
+      <title>[Web] 2025-02-11 知らんかった。スティーブ・ジョブズってシリアからの移民の子だったのか。  あの後先考えない性 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/11#DuOxtku0sX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-10T19:57:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/10#teCHa7dJ0J">
       <title>[ポケモンgo] 2025-02-10 ん？なんか変わった？ </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-06T20:51:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/06#w1eeqX0HBD">
-      <title>[ポケモンgo] 2025-02-06 ゲンシマックス </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/06#w1eeqX0HBD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-06T13:11:48.00Z</dc:date>
     </item>
   </rdf:RDF>
