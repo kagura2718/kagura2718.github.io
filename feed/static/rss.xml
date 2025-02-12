@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-11T14:59:49.09Z</dc:date>
+    <dc:date>2025-02-12T03:23:59.58Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZF/ZFGul3D3HP.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/So/SoEUBPogM2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XL/XLyzc3Y8sT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3n/3nCclO4koQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/va/vap3oGyZJw.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lQ/lQVpRhOLh2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XG/XG2f0N5ys-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_x/_xGUN8otd5.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HV/HV_H3AeM66.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-11T14:59:49.09Z</dc:date>
+    <dc:date>2025-02-12T03:23:59.58Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/So/SoEUBPogM2.htm">
+    <title>[料理] 2025-02-12 牛肉だけ余ってたのでご飯なしのビーフストロガノフとした。ウクライナ、ロシアの料理。  ケチャ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/So/SoEUBPogM2.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-11T22:17:17.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XL/XLyzc3Y8sT.htm">
     <title>[登山] [生活] [宝達山] 2025-02-11 低山の山頂設備メンテナンス一考</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,かほく,生活,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-07T05:06:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/HV/HV_H3AeM66.htm">
-    <title>[ポケモンgo] 2025-02-07 今はこれか。  なんかまた嫌がらせのイベント始まってね？ xxs とか xxl とかいっぱい ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/HV/HV_H3AeM66.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-07T03:42:19.00Z</dc:date>
   </item>
 </rdf:RDF>
