@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-13T08:20:08.38Z</dc:date>
+    <dc:date>2025-02-13T08:49:37.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#-c6WyvcPpp"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#ZZrfvxq6n1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#-c6WyvcPpp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#q3PLDG-LNo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#8NhiahqGmP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-02-11-0875e.htm"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#hWekWIlzO9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/09#xBhvpvoDpN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/10#21B_qiS_fh"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#DAcOlugidL"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#-c6WyvcPpp">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#ZZrfvxq6n1">
+      <title>[食事] 2025-02-13 野菜らーめん | 野菜らーめんの８番らーめん 八番は嫌いだけど、牛モツは好き。  大好き   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/13#ZZrfvxq6n1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,食事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-13T08:49:37.17Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#-c6WyvcPpp">
       <title>[Web] [時事] [炎上] 2025-02-12 これが竹田くんのモデルになった「松井宏樹」医師の御尊顔か。自信に満ち溢れてるのがもうね…  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/12#-c6WyvcPpp</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-13T08:20:08.38Z</dc:date>
+      <dc:date>2025-02-13T08:49:37.17Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/12#q3PLDG-LNo">
       <title>[生活] [金沢] 2025-02-12 冬の金沢の路地裏、雨降ってめっちゃ歩きやすい！     歩道も除雪してあるとこはあるね。市役 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-13T08:20:08.38Z</dc:date>
+      <dc:date>2025-02-13T08:49:37.17Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#8NhiahqGmP">
       <title>[モンハンNow] 2025-02-13 バゼルギウスはイビルジョーと同じで乱入するタイプなのね。 【モンハンナウ】不安定エリアの発生 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,ポケモンgo,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-09T17:42:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/08#DAcOlugidL">
-      <title>[映画] 2025-02-08 バックトゥザフューチャーが捕獲されていた。懐しい。  ☺️  うーん… 西部劇をみたような、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/08#DAcOlugidL</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,映画,映画]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-09T00:57:35.00Z</dc:date>
     </item>
   </rdf:RDF>
