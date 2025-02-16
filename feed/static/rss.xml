@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-16T03:42:50.81Z</dc:date>
+    <dc:date>2025-02-16T09:55:38.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ab/AbXCAQknHp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sj/sjpQtcErhv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-i/-iVT1410wE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sD/sDI1ADXXo-.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ec/EczWoJYhgO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dw/dwre-x6WdG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZF/ZFGul3D3HP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2B/2BE8aMNSti.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -39,13 +39,21 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ab/AbXCAQknHp.htm">
+    <title>[生活] [地理] [高岡] 2025-02-16 高岡の積雪 (あるいは残雪) が多いのに驚いた。降雪量は雪雲がやってくる北西側にある能登のエ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ab/AbXCAQknHp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,地理,高岡,生活,地理,高岡</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-16T09:55:38.93Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sj/sjpQtcErhv.htm">
     <title>[ポケモンgo] [生活] [氷見] [高岡] [モンハンNow] 2025-02-15 氷見 - 高岡</title>
     <link>https://kagura2718.github.io/Gitwee/jump/sj/sjpQtcErhv.htm</link>
     <description>
         日記,随筆,簡約版,ポケモンgo,生活,氷見,高岡,モンハンNow,ポケモンgo,生活,氷見,高岡,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-15T19:44:11.00Z</dc:date>
+    <dc:date>2025-02-15T20:10:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-i/-iVT1410wE.htm">
     <title>[アニメ] [薬屋のひとりごと] 2025-02-16 「薬屋のひとりごと」年齢一覧丨猫猫との年齢差は？ | アニメニュース | アニメフリークス  ...</title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-15T10:00:55.00Z</dc:date>
+    <dc:date>2025-02-15T10:04:36.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sD/sDI1ADXXo-.htm">
     <title>[モンハンNow] 2025-02-14 ここ数週間ぐらいの最近、古龍のマッチングがなかなか完了しない。  そして、キリンもなかなか安 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-12T08:12:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2B/2BE8aMNSti.htm">
-    <title>[モンハンNow] 2025-02-12 まだバゼルギウスとやら、一度も野良で見かけてないけど？ </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/2B/2BE8aMNSti.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-12T00:42:35.00Z</dc:date>
   </item>
 </rdf:RDF>
