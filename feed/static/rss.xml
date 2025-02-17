@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-17T09:54:11.13Z</dc:date>
+    <dc:date>2025-02-17T11:14:47.47Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RO/ROUCjO4gWj.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yt/Yt9uospY3X.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ab/AbXCAQknHp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rh/rh2x9o0LAK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-g/-gB-AdaxcE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bT/bTllEH-9hl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-i/-iVT1410wE.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ne/ne1GKbOauu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fp/fp5QQt1vqW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hy/HyYOZs5gHt.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XL/XLyzc3Y8sT.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1p/1prjMKqBoe.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,AI,アニメ,AI</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-17T09:54:11.13Z</dc:date>
+    <dc:date>2025-02-17T11:14:47.47Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yt/Yt9uospY3X.htm">
+    <title>[生活] [北陸] 2025-02-17 えー。新潟よりも富山の方が降雪量が多いデータになってる。これは意外… 新潟の積雪が多いのは、 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Yt/Yt9uospY3X.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-17T11:14:47.47Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ab/AbXCAQknHp.htm">
     <title>[生活] [地理] [高岡] 2025-02-16 高岡の積雪 (あるいは残雪) が多いのに驚いた。降雪量は雪雲がやってくる北西側にある能登のエ ...</title>
@@ -54,6 +62,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-17T04:11:29.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-g/-gB-AdaxcE.htm">
+    <title>[生活] [モンハンNow] 2025-02-17 うーん… まだ勝てねぇ。  キリン装備二つ積んだんだけど…   5 - 6 回で諦めた。 さ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-g/-gB-AdaxcE.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,モンハンNow,生活,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-16T17:26:52.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bT/bTllEH-9hl.htm">
     <title>[Web] [炎上] [女性] 2025-02-17 ややザワついてる震源地はこれかな。頬を赤く染める描写が「性的」と映るわけね。髪をかき上げるシ ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-13T06:50:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XL/XLyzc3Y8sT.htm">
-    <title>[登山] [生活] [宝達山] 2025-02-11 低山の山頂設備メンテナンス一考</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/XL/XLyzc3Y8sT.htm</link>
-    <description>
-        日記,随筆,簡約版,登山,生活,宝達山,登山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-13T00:35:45.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1p/1prjMKqBoe.htm">
-    <title>[ポケモンgo] 2025-02-13 ダダリン？ </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/1p/1prjMKqBoe.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-13T05:50:11.00Z</dc:date>
   </item>
 </rdf:RDF>
