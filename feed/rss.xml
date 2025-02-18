@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-18T03:46:37.69Z</dc:date>
+    <dc:date>2025-02-18T09:27:03.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#56bTazlxy4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KmRMCXIEzu"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#56bTazlxy4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#C7AhbPQOSY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FNCEXQNE-S"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FPaOEuc8KK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#JyJZUwA4M_"/>
@@ -17,7 +19,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#ff_Dz-qcn9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#WsWMjYSPHd"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#KurU-FQBJA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#A3EYZxAZUi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#ZZrfvxq6n1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#x9z9nTWvqp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#0IE2pg9LzY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#zUwHmZIx8l"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#56bTazlxy4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KmRMCXIEzu">
+      <title>[時事] [NHK] [東北] 2025-02-18 雪山登山ネタな話かと思ったら、「ガス」か… 支配人も同行してるけど、日常業務だったんだろうか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KmRMCXIEzu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,NHK,東北,時事,NHK,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-18T09:27:03.41Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#56bTazlxy4">
       <title>[Web] [炎上] [新潟] 2025-02-18 正直面白かった。 😂 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/18#56bTazlxy4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,新潟,Web,炎上,新潟]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-18T03:46:37.69Z</dc:date>
+      <dc:date>2025-02-18T09:27:03.41Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#C7AhbPQOSY">
       <title>[mnnow] 2025-02-18 を！！なんかあった。 </title>
@@ -46,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,mnnow,mnnow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-17T18:59:41.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3">
+      <title>[Web] [サッカー] 2025-02-17 三笘のゴール、めっちゃバズってるけど、やっぱりバッジョの魔法のトラップにはやや及ばないんだよ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-17T16:44:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FNCEXQNE-S">
       <title>[アニメ] [AI] 2025-02-17 へー… 感性がまったく異なる。ハンターハンター大好きだけど、この頃の展開は冨樫が「投げた」状 ...</title>
@@ -69,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-17T11:08:41.00Z</dc:date>
+      <dc:date>2025-02-17T14:00:06.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KkVmS_yXtJ">
       <title>[生活] [富山] 2025-02-18 ライブカメラで眺めてみると、富山市もやや積雪量が少ない。高岡の場合は、西側に宝達丘陵に至る山 ...</title>
@@ -102,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-17T04:11:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3">
-      <title>[Web] [サッカー] 2025-02-17 三笘のゴール、めっちゃバズってるけど、やっぱりバッジョの魔法のトラップにはやや及ばないんだよ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-17T00:27:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#KurU-FQBJA">
       <title>[生活] [モンハンNow] 2025-02-17 うーん… まだ勝てねぇ。  キリン装備二つ積んだんだけど…   5 - 6 回で諦めた。 さ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-14T10:41:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#zUwHmZIx8l">
-      <title>[生活] [食事] 2025-02-14 10 年以上前に 8 番ラーメンで金を使った記録が残ってて、 630 円とある。おそらく税込 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/14#zUwHmZIx8l</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,食事,生活,食事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-14T03:42:48.00Z</dc:date>
     </item>
   </rdf:RDF>
