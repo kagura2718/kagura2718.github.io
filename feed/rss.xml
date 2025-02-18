@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FNCEXQNE-S"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FPaOEuc8KK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#JyJZUwA4M_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KkVmS_yXtJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#ff_Dz-qcn9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#WsWMjYSPHd"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#0IE2pg9LzY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#zUwHmZIx8l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/14#gxDO4xdMvC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#65NYZ94jvS"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -61,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-17T08:46:05.00Z</dc:date>
+      <dc:date>2025-02-17T11:08:41.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KkVmS_yXtJ">
+      <title>[生活] [富山] 2025-02-18 ライブカメラで眺めてみると、富山市もやや積雪量が少ない。高岡の場合は、西側に宝達丘陵に至る山 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/18#KkVmS_yXtJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,富山,生活,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-17T11:04:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR">
       <title>[生活] [地理] [高岡] 2025-02-16 高岡の積雪 (あるいは残雪) が多いのに驚いた。降雪量は雪雲がやってくる北西側にある能登のエ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-14T03:21:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/13#65NYZ94jvS">
-      <title>[Web] [料理] 2025-02-13 ふーむ。新しい店舗の調理機具がすげぇな。みたことないのばっかり。完全なオートメーションよりも ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/13#65NYZ94jvS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,料理,Web,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-13T21:19:57.00Z</dc:date>
     </item>
   </rdf:RDF>
