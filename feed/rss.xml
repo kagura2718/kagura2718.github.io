@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-20T22:16:00.50Z</dc:date>
+    <dc:date>2025-02-21T15:30:33.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#EEFtF_RNGD"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#9hdPmWqecK"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#EEFtF_RNGD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#DhE1n45dUH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/20#wNCj5kSSnG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#wVCknykxvY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#Jps75JzM29"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/20#bdwbkPjISl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/19#T4hB0NJfGE"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#C7AhbPQOSY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#ZErmJfjQk3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FNCEXQNE-S"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FPaOEuc8KK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#JyJZUwA4M_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#EEFtF_RNGD">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#9hdPmWqecK">
+      <title>[ポケモンgo] [生活] [食事] [金沢] 2025-02-21 顕著な大雪？？まじで分からん。通常通りの北陸の冬。あるいは除雪能力が大幅に向上したのかしらん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/21#9hdPmWqecK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,金沢,ポケモンgo,生活,食事,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-21T15:30:33.07Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#EEFtF_RNGD">
       <title>[生活] [北陸] 2025-02-21 ムラムラしてくるぐらいに降ってる。すごい。今年最大の積雪量だ。 こんな日に雪山に行きたかったな…</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/21#EEFtF_RNGD</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-20T22:16:00.50Z</dc:date>
+      <dc:date>2025-02-21T12:16:45.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#DhE1n45dUH">
+      <title>[Web] [文化] 2025-02-21 8 日前は「ようかまえ」なんだけど「はちにちまえ」と読む… 義務教育レベルでいまいちだったこ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/21#DhE1n45dUH</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-21T07:06:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/20#wNCj5kSSnG">
       <title>[Web] [奥能登] 2025-02-20 空港近辺で病院か。妥当な選定だとは思う。  あの空港ができたときは「何の意味があるんだ？無駄 ...</title>
@@ -45,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-20T22:16:00.50Z</dc:date>
+      <dc:date>2025-02-21T04:19:50.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#wVCknykxvY">
+      <title>[生活] 2025-02-21 顕著な大雪とか警報出てたけど、そこまでだっただろうか？もしかして、山の方だろうか。 石川 顕 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/21#wVCknykxvY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-21T01:06:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/21#Jps75JzM29">
       <title>[時事] [東海] 2025-02-21 ほう、地震… 富士山近辺ね。 地震情報（2025年2月20日）最大震度3｜震源地：山梨県東部 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,AI,アニメ,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-17T14:13:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FPaOEuc8KK">
-      <title>[生活] [北陸] 2025-02-17 えー。新潟よりも富山の方が降雪量が多いデータになってる。これは意外… 新潟の積雪が多いのは、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/17#FPaOEuc8KK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-17T14:10:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/18#JyJZUwA4M_">
-      <title>[Web] [時事] [炎上] 2025-02-18 こういうの、昔からあったとしか思えない。もしかしたら昨今の低賃金が定着化した環境下でこそ発生 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/18#JyJZUwA4M_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-17T14:00:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR">
-      <title>[生活] [地理] [高岡] 2025-02-16 高岡の積雪 (あるいは残雪) が多いのに驚いた。降雪量は雪雲がやってくる北西側にある能登のエ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/16#RYr3bVS4NR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,地理,高岡,生活,地理,高岡]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-16T20:35:01.00Z</dc:date>
     </item>
   </rdf:RDF>
