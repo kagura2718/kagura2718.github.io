@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-23T07:58:33.86Z</dc:date>
+    <dc:date>2025-02-23T08:26:45.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ja/Ja85-Polyd.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oM/oM2Zq6iFSp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OY/OYcqyYwc5t.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a1/a13lYD7JQr.htm"/>
@@ -18,7 +19,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_2/_2qbvBIwcB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fg/fgB-SQtPVw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BP/BPKz3vyNbD.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cU/cUJh2YCvhC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f7/f7eVYvXurM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eS/eSSMAwbhuE.htm"/>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-23T07:58:33.86Z</dc:date>
+    <dc:date>2025-02-23T08:26:45.87Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm">
+    <title>[Web] [奥能登] 2025-02-20 空港近辺で病院か。妥当な選定だとは思う。  あの空港ができたときは「何の意味があるんだ？無駄 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-22T09:15:38.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oM/oM2Zq6iFSp.htm">
     <title>[登山] [生活] 2025-02-23 久々の 1 day workout で久々に心地良い疲労感が残る。大雪で行動できなくなっても ...</title>
@@ -110,14 +118,6 @@
         日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-21T07:06:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm">
-    <title>[Web] [奥能登] 2025-02-20 空港近辺で病院か。妥当な選定だとは思う。  あの空港ができたときは「何の意味があるんだ？無駄 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/bD/bD6CTuJPFW.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-21T04:19:50.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cU/cUJh2YCvhC.htm">
     <title>[生活] 2025-02-21 顕著な大雪とか警報出てたけど、そこまでだっただろうか？もしかして、山の方だろうか。 石川 顕 ...</title>
