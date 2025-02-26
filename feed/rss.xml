@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-26T15:02:41.63Z</dc:date>
+    <dc:date>2025-02-26T23:24:23.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#x_iuNFEOuG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#kwgCp9DU0u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#G6ePSWqCCG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/27#VMCePSpP2v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#ajYNLWr7QW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#g-sP81z0qj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#0DKQL1M1LS"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/23#7M2zykWeNI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#k9Hv1Wuj1g"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#_8u5ujTnbE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#GlLWXFVOq-"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-26T15:02:41.63Z</dc:date>
+      <dc:date>2025-02-26T23:24:23.07Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#x_iuNFEOuG">
       <title>[生活] [志賀町] 2025-02-26 志賀町のような海側エリアはほんとに雪が少ない。おそらく冬の夜は暴風だろう。たぶん。  二郎系 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,志賀町,生活,志賀町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-26T15:02:41.63Z</dc:date>
+      <dc:date>2025-02-26T23:24:23.07Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#kwgCp9DU0u">
       <title>[アニメ] 2025-02-26 マギアレコード、じっくり観ても、まじで意味わからん… この角度だとちゃんとアイキャッチはされ ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-26T15:02:41.63Z</dc:date>
+      <dc:date>2025-02-26T23:24:23.07Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/26#G6ePSWqCCG">
       <title>[ポケモンgo] [AI] 2025-02-26  うーん？なんか使用する日本語が変わったね。 AI 翻訳かあるいは中の人が中国人か？？ 🤔  ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,AI,ポケモンgo,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-26T09:03:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/27#VMCePSpP2v">
+      <title>[モンハンNow] 2025-02-27 今の ⭐ 10 は古龍よりも楽しい。強すぎる。 そして、キリンは意外にうざい。なかなか慣れぬ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/27#VMCePSpP2v</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-26T08:08:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#ajYNLWr7QW">
       <title>[ポケモンgo] 2025-02-24 先週は 58km </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,東北,Web,時事,東北]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-23T18:34:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#GlLWXFVOq-">
-      <title>[ポケモンgo] [モンハンNow] 2025-02-24 今日、GPS の位置がものすごいジャンプする気がしてたけど、おそらくは屋根や屋上の雪のせいだ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/24#GlLWXFVOq-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-23T16:38:17.00Z</dc:date>
     </item>
   </rdf:RDF>
