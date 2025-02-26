@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-26T14:14:10.05Z</dc:date>
+    <dc:date>2025-02-26T15:02:41.63Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rp/RpgEAbR3Z-.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-o/-o-sNhoCNO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b7/b7bhRmNzoY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ES/ESTOSxLNLm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FH/FHoplaeLFR.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GK/GKX_raWfy-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6i/6iGReAusHR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tr/trQQORVOTP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G4/G40cR-pPYs.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-26T14:14:10.05Z</dc:date>
+    <dc:date>2025-02-26T15:02:41.63Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-o/-o-sNhoCNO.htm">
+    <title>[生活] [志賀町] 2025-02-26 志賀町のような海側エリアはほんとに雪が少ない。おそらく冬の夜は暴風だろう。たぶん。  二郎系 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-o/-o-sNhoCNO.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,志賀町,生活,志賀町</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-26T15:02:41.63Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/b7/b7bhRmNzoY.htm">
     <title>[アニメ] 2025-02-26 マギアレコード、じっくり観ても、まじで意味わからん… この角度だとちゃんとアイキャッチはされ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-26T14:14:10.05Z</dc:date>
+    <dc:date>2025-02-26T15:02:41.63Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ES/ESTOSxLNLm.htm">
     <title>[ポケモンgo] [AI] 2025-02-26  うーん？なんか使用する日本語が変わったね。 AI 翻訳かあるいは中の人が中国人か？？ 🤔  ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-23T16:38:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/G4/G40cR-pPYs.htm">
-    <title>[生活] [北陸] 2025-02-24 白銀の世界。まじでたまらん。 宝達山頂は最大積雪量を更新していることだろう。登りたい… 登り ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/G4/G40cR-pPYs.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-23T13:24:24.00Z</dc:date>
   </item>
 </rdf:RDF>
