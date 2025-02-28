@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-28T03:41:32.29Z</dc:date>
+    <dc:date>2025-02-28T10:06:57.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-t/-tSFjoDCAn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XI/XIg5VLdC-R.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aW/aW-eJ-vIXF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AO/AO3WdfcuYa.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iw/iwxU9M02WN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/My/MyG8Ywv9A0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iZ/iZA8RZK2Ng.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FW/FWeb5XWLly.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-t/-tSFjoDCAn.htm">
+    <title>[アニメ] 2025-02-28 フリーレンの「アウラ」の魔法。 1mm も理解できないので、人類の持つ無限の感性を探求するた ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-t/-tSFjoDCAn.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-02-28T10:06:57.23Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XI/XIg5VLdC-R.htm">
     <title>[モンハンNow] 2025-02-28 HR288 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/XI/XIg5VLdC-R.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-28T03:41:32.29Z</dc:date>
+    <dc:date>2025-02-28T10:06:57.23Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aW/aW-eJ-vIXF.htm">
     <title>[時事] [東北] 2025-02-27 火事現場は海側のこの辺りか。雪が全くないのが驚きだけど、海側でこれだけ長期間続く山火事になる ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-24T12:48:15.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FW/FWeb5XWLly.htm">
-    <title>[生活] [奥能登] 2025-02-24 あー、今朝、何回も揺れてたんだな。一回だけ気付いた。 地震情報（2025年2月24日）最大震 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/FW/FWeb5XWLly.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,奥能登,生活,奥能登</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-24T11:06:52.00Z</dc:date>
   </item>
 </rdf:RDF>
