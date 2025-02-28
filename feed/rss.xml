@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-28T15:00:17.07Z</dc:date>
+    <dc:date>2025-02-28T15:02:49.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#zlHYBbkAKa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#_qrn--iU4J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#tFJmWdrblb"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/01#5m0kw9jk-L"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/27#rPNEBMjV_r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/27#6J837HzIQV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#uex6uH7llL"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#wagRk8Yguo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/24#HFrScRCXZt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#AhndqfSAxI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#RHMog-KI2F"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-28T15:00:17.07Z</dc:date>
+      <dc:date>2025-02-28T15:02:49.87Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#_qrn--iU4J">
       <title>[時事] [東北] 2025-02-28 2011 年に津波で次はこの大火災。なかなか見てられないなぁ。野焼きが火元って情報がチラホラ ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,東北,時事,東北]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-28T15:00:17.07Z</dc:date>
+      <dc:date>2025-02-28T15:02:49.87Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/28#tFJmWdrblb">
       <title>[モンハンNow] 2025-02-28 HR288 </title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-28T10:49:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/01#5m0kw9jk-L">
+      <title>[ポケモンgo] 2025-03-01 ほう、色違い  2km 卵だけのイベントやってるらしいが、私は無料しか使わんからな。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/01#5m0kw9jk-L</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-02-28T05:16:41.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/27#rPNEBMjV_r">
       <title>[時事] [東北] 2025-02-27 火事現場は海側のこの辺りか。雪が全くないのが驚きだけど、海側でこれだけ長期間続く山火事になる ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-02-24T22:03:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/02/25#RHMog-KI2F">
-      <title>[Web] [炎上] [国際] 2025-02-25 意味わかんねぇ… 米露中に北が同一陣営てなぁ。トランプアメリカじゃパブリックエネミーだよ。ニ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/02/25#RHMog-KI2F</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-02-24T18:23:05.00Z</dc:date>
     </item>
   </rdf:RDF>
