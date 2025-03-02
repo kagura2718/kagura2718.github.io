@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-02-28T21:58:09.91Z</dc:date>
+    <dc:date>2025-03-01T18:36:43.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5x/5xNPaHO3BI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-t/-tSFjoDCAn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Vb/VbeyHpVdx_.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7-/7-rYnnzC6j.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V_/V_D1xxw0oL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/80/80_0D67kLF.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kG/kG-ANESGjt.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5x/5xNPaHO3BI.htm">
+    <title>[ポケモンgo] [食事] [奥能登] [七尾] [モンハンNow] 2025-03-01 能登島 - 和倉 - 七尾</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/5x/5xNPaHO3BI.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,食事,奥能登,七尾,モンハンNow,ポケモンgo,食事,奥能登,七尾,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-01T18:36:43.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm">
     <title>[時事] [国際] 2025-03-01 うーん… </title>
     <link>https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm</link>
     <description>
         日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-28T21:58:09.91Z</dc:date>
+    <dc:date>2025-03-01T09:13:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-t/-tSFjoDCAn.htm">
     <title>[アニメ] 2025-02-28 フリーレンの「アウラ」の魔法。 1mm も理解できないので、人類の持つ無限の感性を探求するた ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-25T08:27:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kG/kG-ANESGjt.htm">
-    <title>[料理] 2025-02-24 鮭のパスタといたしましょう。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/kG/kG-ANESGjt.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-25T05:49:01.00Z</dc:date>
   </item>
 </rdf:RDF>
