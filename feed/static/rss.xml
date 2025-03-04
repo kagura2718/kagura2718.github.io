@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-04T02:49:40.90Z</dc:date>
+    <dc:date>2025-03-04T11:30:19.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NZ/NZkbJNGa8V.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HA/HABxSCmD5r.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/H9/H9RZQ6clKQ.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YJ/YJ3qRUvSDI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wZ/wZwbkmCp51.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l2/l2pwQa0e5O.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jW/jW1q5tppNZ.htm"/>
@@ -25,19 +28,40 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XI/XIg5VLdC-R.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OP/OPqI7NjAkE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aW/aW-eJ-vIXF.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AO/AO3WdfcuYa.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uq/Uqx7n5Ozn-.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rp/RpgEAbR3Z-.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NZ/NZkbJNGa8V.htm">
+    <title>[ポケモンgo] [告知] 2025-03-04 キュレムの色違い高固体が欲しい。切実に。キラフレはいっぱい滞留してるんだけど、交換したいって ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/NZ/NZkbJNGa8V.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,告知,ポケモンgo,告知</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-04T11:30:19.07Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/HA/HABxSCmD5r.htm">
+    <title>[ポケモンgo] 2025-03-04 キラ交換で欲しいもの覚え書き</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/HA/HABxSCmD5r.htm</link>
+    <description>
+        記録,ドキュメント,簡約版,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-04T05:10:37.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/H9/H9RZQ6clKQ.htm">
     <title>[生活] 2025-03-04 昨晩から風邪っぽいかなーと思って今日は半休にしたんだけど、どうも風邪ではない。寒の戻りに風邪 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/H9/H9RZQ6clKQ.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-04T02:49:40.90Z</dc:date>
+    <dc:date>2025-03-04T04:05:01.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YJ/YJ3qRUvSDI.htm">
+    <title>[生活] [金沢] 2025-03-04 将来の金沢での駐車場問題を予想している。24H 越えるぐらいのほんとの長時間駐車の場合は駐車 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/YJ/YJ3qRUvSDI.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-03T19:07:21.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wZ/wZwbkmCp51.htm">
     <title>[ポケモンgo] [金沢] 2025-03-03 昨日の金沢駅中のポケモン勢、なんとなくの積算だけど朝から晩までずーっとやってる人はさすがに少 ...</title>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,時事,東北,時事,東北</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-02-28T00:56:46.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/AO/AO3WdfcuYa.htm">
-    <title>[モンハンNow] 2025-02-27 まじか… 目覚めの一撃だろうね。 😲  大刀など近接武器だと何が辛いかというと、 SP と連 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/AO/AO3WdfcuYa.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-27T16:24:06.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Uq/Uqx7n5Ozn-.htm">
-    <title>[ポケモンgo] 2025-02-28 本日の最大強化 (PL50) </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Uq/Uqx7n5Ozn-.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-27T13:22:08.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rp/RpgEAbR3Z-.htm">
-    <title>[料理] 2025-02-26 驚きの挽き肉入れ忘れるの巻 😭 目の前まで出してあったのに…   ふーん、挽き肉が入ってない ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Rp/RpgEAbR3Z-.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-02-27T08:09:08.00Z</dc:date>
   </item>
 </rdf:RDF>
