@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-05T13:57:35.12Z</dc:date>
+    <dc:date>2025-03-06T03:15:08.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fh/Fh56owHQxD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_x/_xYsgciKtg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rA/rAmLH3MxT4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Oc/OcXlbOtXve.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ep/EpLeJMGewX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3U/3UMAClOP04.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U9/U91Vg9UxFP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fh/Fh56owHQxD.htm">
+    <title>[時事] [東北] 2025-03-06 大船渡の火事の周辺、おそらくトレイルはあるんだろうなーと思ってたけど、やっぱりある。地元で山 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Fh/Fh56owHQxD.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,東北,時事,東北</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-06T03:15:08.79Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_x/_xYsgciKtg.htm">
     <title>[ポケモンgo] 2025-03-05 おおおお、今さら無茶をおっしゃる 😂  キュレムの色違いはとりあえず、手持ちで行くことにした ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/_x/_xYsgciKtg.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-05T13:57:35.12Z</dc:date>
+    <dc:date>2025-03-05T22:40:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rA/rAmLH3MxT4.htm">
     <title>[ポケモンgo] 2025-03-05 合体ネクロズマや黒白キュレムのような、初期からみるとぶっこわれ性能の種族があるとファイヤーソ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-05T13:57:35.12Z</dc:date>
+    <dc:date>2025-03-05T14:49:26.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Oc/OcXlbOtXve.htm">
     <title>[モンハンNow] 2025-03-05 これでキリン防具は一通り完成した。次は錬成だ。  錬成といえば、錬成がつく対象防具は、歩き終 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,奥能登,七尾,奥能登,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-01T12:19:26.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm">
-    <title>[時事] [国際] 2025-03-01 うーん… </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/2I/2IkqrYW0JU.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-01T09:13:09.00Z</dc:date>
   </item>
 </rdf:RDF>
