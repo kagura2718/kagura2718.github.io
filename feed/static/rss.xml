@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-10T09:52:14.12Z</dc:date>
+    <dc:date>2025-03-10T13:19:49.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3X/3XSbvqSaJ8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DX/DXidv8Y066.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TP/TPeP2ddb7F.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ik/Ik2yacUhhA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pF/pF2nOyDn7g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vO/vO7PLIt3K9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HX/HX4jJxKAJJ.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fh/Fh56owHQxD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7y/7yWynZdz6m.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pB/pBcOOz0uhm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xJ/xJ6DbCW64b.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,氷見,ポケモンgo,氷見</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-10T09:52:14.12Z</dc:date>
+    <dc:date>2025-03-10T13:19:49.29Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DX/DXidv8Y066.htm">
     <title>[モンハンNow] 2025-03-08 HR291  HR300 へカウントダウン。うーん、やっぱりそれ以上上がらなくなると、つまら ...</title>
@@ -45,7 +45,23 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-10T09:52:14.12Z</dc:date>
+    <dc:date>2025-03-10T13:19:49.29Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TP/TPeP2ddb7F.htm">
+    <title>[モンハンNow] 2025-03-10 勝てねぇ 😭   シーズンが変わって、重くなって回転が悪くなった印象はないんだけどねぇ？？ 🤔</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/TP/TPeP2ddb7F.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-10T11:01:06.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ik/Ik2yacUhhA.htm">
+    <title>[羽咋] [文化] [モンハンNow] 2025-03-10 羽咋や七尾あたりのゲームプレイヤ、こういうよく分からん人がときどきいる。人類の文明にあんまり ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ik/Ik2yacUhhA.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,羽咋,文化,モンハンNow,羽咋,文化,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-10T07:30:26.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pF/pF2nOyDn7g.htm">
     <title>[Web] [奥能登] 2025-03-08 あちゃー 😂  カレーラーメンについての私の認識は、 こちら  😂 カレーってね、自作すると ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-06T13:28:58.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xJ/xJ6DbCW64b.htm">
-    <title>[モンハンNow] 2025-03-06 新シーズン開始！ 強そう… ディノバルド。これが今回の目玉かなぁ？  これはゴミだ。ドスジャ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/xJ/xJ6DbCW64b.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-06T01:49:56.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm">
-    <title>[生活] [食事] 2025-03-06 外食一覧</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/oj/ojjVdjAt64.htm</link>
-    <description>
-        記録,ドキュメント,簡約版,生活,食事,生活,食事</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-06T01:14:57.00Z</dc:date>
   </item>
 </rdf:RDF>
