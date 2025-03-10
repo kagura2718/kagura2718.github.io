@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-10T09:38:50.04Z</dc:date>
+    <dc:date>2025-03-10T09:52:14.12Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/09#AZ-YGfcuGQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#w8xNqbIBvK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#yGi635kJ6Z"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#6P5B0LXI5W"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/09#zwi6tuaxjG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#4jGlwOiyH3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#KaULD5zgSX"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/06#efjpZxlVcZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/06#W0QAJPCHVb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/Meal/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/05#3hBWEOI2iC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/05#zt0F1NCNNB"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,氷見,ポケモンgo,氷見]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-10T09:38:50.04Z</dc:date>
+      <dc:date>2025-03-10T09:52:14.12Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#w8xNqbIBvK">
       <title>[モンハンNow] 2025-03-08 HR291  HR300 へカウントダウン。うーん、やっぱりそれ以上上がらなくなると、つまら ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-10T09:38:50.04Z</dc:date>
+      <dc:date>2025-03-10T09:52:14.12Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#yGi635kJ6Z">
       <title>[Web] [奥能登] 2025-03-08 あちゃー 😂  カレーラーメンについての私の認識は、 こちら  😂 カレーってね、自作すると ...</title>
@@ -55,6 +55,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-10T06:43:02.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#6P5B0LXI5W">
+      <title>[モンハンNow] 2025-03-10 うーん、黒ディアどうしても勝てなくなった… 😭 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#6P5B0LXI5W</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-10T02:42:36.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs">
       <title>[時事] [北陸] 2025-03-10 『トライアル』って、最近ときどき名前を聞くと思ったら、西友を買収したとかいう九州の企業でもあ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs</link>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,北陸,時事,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-09T18:34:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT">
+      <title>[ポケモンgo] 2025-03-10 先週は 48km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-09T22:32:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/09#zwi6tuaxjG">
       <title>[生活] [氷見] 2025-03-09 時間が押したので、中途半端な時間でも行ける氷見にした。  好天で北アルプスが見えるだろう、と ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[記録,ドキュメント,簡約版,生活,食事,生活,食事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-06T01:14:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/05#3hBWEOI2iC">
-      <title>[ポケモンgo] 2025-03-05 おおおお、今さら無茶をおっしゃる 😂  キュレムの色違いはとりあえず、手持ちで行くことにした ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/05#3hBWEOI2iC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-05T22:40:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/05#zt0F1NCNNB">
-      <title>[ポケモンgo] 2025-03-05 合体ネクロズマや黒白キュレムのような、初期からみるとぶっこわれ性能の種族があるとファイヤーソ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/05#zt0F1NCNNB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-05T14:49:26.00Z</dc:date>
     </item>
   </rdf:RDF>
