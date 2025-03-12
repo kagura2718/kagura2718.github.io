@@ -4,14 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-11T12:38:52.94Z</dc:date>
+    <dc:date>2025-03-11T23:40:21.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#gfjqdIpJKR"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/12#r_u-_Hp2ap"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/12#B3y1QNU-zp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#gfjqdIpJKR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#dStT2XQdlH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#E4rl1VHcS7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#8e-Rh26DRp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#BV1OjSuhjS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#FAi8yxqvev"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#nPObq3aKXh"/>
@@ -20,24 +23,37 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#Jy81J5CnHE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#yGi635kJ6Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#6P5B0LXI5W"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/09#zwi6tuaxjG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#4jGlwOiyH3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#KaULD5zgSX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#Pmx9RDOiR8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#K8qCDsBDLW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#xGpFwsyzef"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#gfjqdIpJKR">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/12#r_u-_Hp2ap">
+      <title>[アニメ] 2025-03-12 るろうには原作改変に向かってるね。これはよろしくない。  比古清十郎と剣心の絡みはよかったの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/12#r_u-_Hp2ap</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-11T23:40:21.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/12#B3y1QNU-zp">
+      <title>[料理] 2025-03-12 ぶり納豆。そろそろブリが美味しいシーズンも終わるか。  余りは雑に片付けた。漁師が港で食うみ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/12#B3y1QNU-zp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-11T20:49:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#gfjqdIpJKR">
       <title>[生活] [奥能登] [東北] 2025-03-11 そうか 3.11 か。死者 2 万って桁が違うんだものなぁ。 去年はよその地震を考えてるどこ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/11#gfjqdIpJKR</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,東北,生活,奥能登,東北]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-11T12:38:52.94Z</dc:date>
+      <dc:date>2025-03-11T19:49:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#dStT2XQdlH">
       <title>[Web] 2025-03-10 Abema の CM で流れてた、これ、かっこええな。音楽の韻と字幕の出し方が秀逸。 😯   ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-11T12:38:52.94Z</dc:date>
+      <dc:date>2025-03-11T15:24:07.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#E4rl1VHcS7">
       <title>[モンハンNow] 2025-03-11 HR292 </title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-11T12:38:52.94Z</dc:date>
+      <dc:date>2025-03-11T14:20:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/11#8e-Rh26DRp">
       <title>[生活] [北陸] 2025-03-11 津幡町ではまた下水道の不具合か。地震の影響らしいが… これは先日の事件だけど、酷い。  下水 ...</title>
@@ -62,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-11T11:51:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs">
+      <title>[時事] [北陸] 2025-03-10 『トライアル』って、最近ときどき名前を聞くと思ったら、西友を買収したとかいう九州の企業が、こ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,北陸,時事,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-09T18:34:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#BV1OjSuhjS">
       <title>[羽咋] [文化] [モンハンNow] 2025-03-10 羽咋や七尾あたりのゲームプレイヤ、こういうよく分からん人がときどきいる。人類の文明にあんまり ...</title>
@@ -127,14 +151,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-10T02:42:36.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs">
-      <title>[時事] [北陸] 2025-03-10 『トライアル』って、最近ときどき名前を聞くと思ったら、西友を買収したとかいう九州の企業でもあ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#b3JsshWRAs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,北陸,時事,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-09T18:34:44.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT">
       <title>[ポケモンgo] 2025-03-10 先週は 48km </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/10#xsex7nAGLT</link>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-08T02:57:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#K8qCDsBDLW">
-      <title>[ポケモンgo] 2025-03-08 ポケモンGo の splash 今までと明らかに雰囲気が違う。 🤔 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/08#K8qCDsBDLW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-07T23:26:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/08#xGpFwsyzef">
-      <title>[モンハンNow] 2025-03-08 武器強化の儀 レックスレイダー ティガレックス チャアク  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/08#xGpFwsyzef</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-07T20:38:45.00Z</dc:date>
     </item>
   </rdf:RDF>
