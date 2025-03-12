@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-11T23:40:21.00Z</dc:date>
+    <dc:date>2025-03-12T03:33:33.94Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jR/jRIgozT5St.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ie/Iey6rNmvhO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WK/WKqszjAFW1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MS/MSWOc0L5Kq.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ag/AgINWlURoR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fM/fM53uz8-cs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lR/lRKzHf_Ldc.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KC/KCBrtuYq8J.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jR/jRIgozT5St.htm">
+    <title>[モンハンNow] 2025-03-12 大部序列が落ちてきた感があるな… ジンオウガ兄貴… 絶対に兄貴の武器は上限解放されるはずなん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jR/jRIgozT5St.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-12T03:33:33.94Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ie/Iey6rNmvhO.htm">
     <title>[アニメ] 2025-03-12 るろうには原作改変に向かってるね。これはよろしくない。  比古清十郎と剣心の絡みはよかったの ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Ie/Iey6rNmvhO.htm</link>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-08T07:41:01.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/KC/KCBrtuYq8J.htm">
-    <title>[モンハンNow] 2025-03-08 キリン武器はどれがいいかな。ライトボウガンが強いらしいが、俺の候補はこの辺り。    大刀は ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/KC/KCBrtuYq8J.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-08T02:57:07.00Z</dc:date>
   </item>
 </rdf:RDF>
