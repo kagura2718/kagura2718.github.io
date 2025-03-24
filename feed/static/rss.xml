@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-24T14:23:50.80Z</dc:date>
+    <dc:date>2025-03-24T14:28:18.77Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0r/0rVtuoTJ-O.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dH/dHEPwCeOpk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J3/J34hrOi_RX.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DN/DNzq922iYm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ov/ovG7jO1c1y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xo/XoHEYtkcVP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R2/R2mwN1X1Be.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/62/62AxBnbWeA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gT/gTDU7RWLA0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/N4/N4FK3a_ndg.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-24T14:23:50.80Z</dc:date>
+    <dc:date>2025-03-24T14:28:18.77Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xG/xG_b9Podq8.htm">
     <title>[Web] [四国] 2025-03-24 また燃えたのか… これも太平洋側。日本海側もそろそろ乾燥するから要注意だな。 </title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,四国,Web,四国</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-24T14:23:50.80Z</dc:date>
+    <dc:date>2025-03-24T14:28:18.77Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0r/0rVtuoTJ-O.htm">
     <title>[ポケモンgo] 2025-03-24 先週は 112km </title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-24T14:23:50.80Z</dc:date>
+    <dc:date>2025-03-24T14:28:18.77Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dH/dHEPwCeOpk.htm">
     <title>[Web] [地理] 2025-03-24 この一連のポストはいわゆる僻地へ足を運ぶ、自分の体感とほぼ一致する。しかし、石仏や道祖神て、 ...</title>
@@ -70,6 +70,14 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-24T02:34:45.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DN/DNzq922iYm.htm">
+    <title>[Web] [炎上] [関西] 2025-03-24 これ、ぶら下がってるコメントにこの施設の実状を示されてる気がする。  金払ってプロに演奏して ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/DN/DNzq922iYm.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-03-24T01:04:59.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ov/ovG7jO1c1y.htm">
     <title>[登山] [食事] [奥能登] 2025-03-22 門前 - 桜滝 - 猿山 - 皆月 周回</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-19T08:03:22.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/N4/N4FK3a_ndg.htm">
-    <title>[時事] [文化] 2025-03-18 額が少なすぎて、さすがに引く 😅  これを仕掛けてるのが西田昌司という人なのかな。</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/N4/N4FK3a_ndg.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,文化,時事,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-18T12:51:41.00Z</dc:date>
   </item>
 </rdf:RDF>
