@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-25T08:01:00.77Z</dc:date>
+    <dc:date>2025-03-25T08:08:49.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#DlwgDvh-Gn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#zXccP8s3M9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#bV6rEoR5Lt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#AURHaX62LY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#VpIMLDp86j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#9Ej91lSo5R"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/21#UNqwKD74Ol"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/20#2S-xsfKHRa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/21#NHLvpluMlV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/21#GLKZT1rTsU"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-25T08:01:00.77Z</dc:date>
+      <dc:date>2025-03-25T08:08:49.79Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#zXccP8s3M9">
       <title>[アニメ] [水星の魔女] [呪術廻戦] 2025-03-25 次は TV シリーズになるんだな。 4/8 から、か  ここしばらく、ときどき水星の魔女を見 ...</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,水星の魔女,呪術廻戦,アニメ,水星の魔女,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-25T00:08:35.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#bV6rEoR5Lt">
+      <title>[時事] [羽咋] 2025-03-25 石川県議の稲村建男氏が死去　関係者から悼む声　羽咋市羽咋郡南部選挙区は補欠選挙へ（テレビ金沢 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/25#bV6rEoR5Lt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,羽咋,時事,羽咋]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-24T21:38:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#AURHaX62LY">
       <title>[登山] [Web] [炎上] [文化] 2025-03-24 これは、もしかしたら、なるほどかもしれないな。俺にはなかった視点だ。いまいち自分で納得のいく ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-20T23:31:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/21#GLKZT1rTsU">
-      <title>[モンハンNow] 2025-03-21 一気に進める。     HR295 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/21#GLKZT1rTsU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-20T21:45:31.00Z</dc:date>
     </item>
   </rdf:RDF>
