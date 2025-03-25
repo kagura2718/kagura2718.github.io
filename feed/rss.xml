@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-24T14:28:18.77Z</dc:date>
+    <dc:date>2025-03-24T19:07:28.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#AURHaX62LY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#9Ej91lSo5R"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#Mtqy_lVge7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#0jMRu8N_v-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#ttNGOaNMFa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/23#nzU7JuFI74"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#9iqum1-U4T"/>
@@ -27,17 +28,16 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/19#7Kn91NyUEZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/20#CIuoEdrb8j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/19#B3CXj3ICJl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/20#xAza07sj5x"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#AURHaX62LY">
-      <title>[登山] [Web] [炎上] 2025-03-24 これは、もしかしたら、なるほどかもしれないな。俺にはなかった視点だ。いまいち自分で納得のいく ...</title>
+      <title>[登山] [Web] [炎上] [文化] 2025-03-24 これは、もしかしたら、なるほどかもしれないな。俺にはなかった視点だ。いまいち自分で納得のいく ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/24#AURHaX62LY</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,文化,登山,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-24T14:28:18.77Z</dc:date>
+      <dc:date>2025-03-24T19:07:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#9Ej91lSo5R">
       <title>[Web] [四国] 2025-03-24 また燃えたのか… これも太平洋側。日本海側もそろそろ乾燥するから要注意だな。 </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,四国,Web,四国]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-24T14:28:18.77Z</dc:date>
+      <dc:date>2025-03-24T15:05:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#Mtqy_lVge7">
       <title>[ポケモンgo] 2025-03-24 先週は 112km </title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-24T14:28:18.77Z</dc:date>
+      <dc:date>2025-03-24T15:04:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/25#0jMRu8N_v-">
+      <title>[モンハンNow] 2025-03-25 これがイベント漂流石。「破壊王 SP スキル」はよくわからん。闘気活性もあんまり使ってねぇん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/25#0jMRu8N_v-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-24T13:24:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/24#ttNGOaNMFa">
       <title>[Web] [地理] 2025-03-24 この一連のポストはいわゆる僻地へ足を運ぶ、自分の体感とほぼ一致する。しかし、石仏や道祖神て、 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-19T17:10:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/20#xAza07sj5x">
-      <title>[Web] [炎上] [文化] 2025-03-20 なんかチラチラ見えてると思ってたら、こんな理由でも燃えるのか。さすがは日本の恥、ネトウヨ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/20#xAza07sj5x</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-19T08:03:22.00Z</dc:date>
     </item>
   </rdf:RDF>
