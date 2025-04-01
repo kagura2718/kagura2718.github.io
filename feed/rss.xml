@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-03-31T16:01:30.00Z</dc:date>
+    <dc:date>2025-03-31T20:00:24.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#hdLBrwjk_E"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#5Hll71Df3N"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#EnJK-kah54"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#WddXND2Bsu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#MNTA5fzqzl"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/28#1xo1_RTkL5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/28#LUphqEF_tA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/28#uCao_wx0q8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/27#3QzDPDAkDB"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#hdLBrwjk_E">
-      <title>[ポケモンgo] [生活] [七尾] [モンハンNow] 2025-03-31 おじさんは和倉にやってきた。はい、パンが買いたかったのにまたおしまい… 19:00 閉店とあ ...</title>
+      <title>[ポケモンgo] [生活] [食事] [七尾] [モンハンNow] 2025-03-31 おじさんは和倉にやってきた。はい、パンが買いたかったのにまたおしまい… 19:00 閉店とあ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/31#hdLBrwjk_E</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,七尾,モンハンNow,ポケモンgo,生活,七尾,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,食事,七尾,モンハンNow,ポケモンgo,生活,食事,七尾,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-31T16:01:30.00Z</dc:date>
+      <dc:date>2025-03-31T20:00:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#5Hll71Df3N">
+      <title>[七尾] 2025-04-01 昨日の和倉の沿岸、ここはなんじゃろね？ 近くに地縛霊が住んでるだけなのだろうか。  なんか知 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/01#5Hll71Df3N</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,七尾,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-03-31T15:52:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#EnJK-kah54">
       <title>[Web] [炎上] [文化] 2025-04-01 やっと起訴か。遅すぎるな。かといっても早すぎても碌なことにならんからなぁ… N の立花も、も ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,水星の魔女,アニメ,水星の魔女]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-28T09:12:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/27#3QzDPDAkDB">
-      <title>[モンハンNow] 2025-03-27 HR297 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/27#3QzDPDAkDB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-27T00:17:18.00Z</dc:date>
     </item>
   </rdf:RDF>
