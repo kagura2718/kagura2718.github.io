@@ -4,17 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-03T03:50:13.95Z</dc:date>
+    <dc:date>2025-04-03T07:48:21.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6e/6ere5DVz-1.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hR/hRqaOI8asw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5E/5EzS0hAj3f.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oz/ozAFIXZY9E.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z5/z5U81aTXZW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_O/_O_V5Nh97w.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwcW3klQWb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwcW3klQWb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4U/4UltrlnSn0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uw/uwg60oknue.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bi/bisux-E8FL.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/83/83NU4JQYGe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yg/ygUL1ht2kN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dx/dx0ak9gZCd.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BM/BMFUskHrI_.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,生活,食事,七尾,生活,食事,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-03T03:50:13.95Z</dc:date>
+    <dc:date>2025-04-03T07:48:21.95Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hR/hRqaOI8asw.htm">
+    <title>[Web] [炎上] 2025-04-03 なんか騒いでると思ったら、これも炎上したのか。数日前にちらっと見てた。  ここか… これは… ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/hR/hRqaOI8asw.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-03T04:50:40.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5E/5EzS0hAj3f.htm">
     <title>[モンハンNow] 2025-04-02 黒弓ほとんど使ってねぇんだけど、最強らしいから一応育成してるんだ。黒ディアの rare 1  ...</title>
@@ -71,6 +79,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-02T15:48:55.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm">
+    <title>[食事] 2025-04-03 昨日の「かつ庵」この辺りだと砺波と小松にあるらしい。金沢にはない。この店舗展開ならば、確実に ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,食事,食事</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-02T15:22:35.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dw/DwcW3klQWb.htm">
     <title>[漫画] [登山] [Web] [文化] 2025-04-01 『鋼の錬金術師』で大佐が言った「新しい焼死体が近くにある」という感覚、作者はどこで仕入れたん ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Dw/DwcW3klQWb.htm</link>
@@ -78,14 +94,6 @@
         日記,つぶやき,雑記帳,漫画,登山,Web,文化,漫画,登山,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-31T21:37:10.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm">
-    <title>[食事] 2025-04-03 昨日の「かつ庵」この辺りだと砺波と小松にあるらしい。金沢にはない。これは、今までに入ったこと ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,食事,食事</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-02T11:24:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4U/4UltrlnSn0.htm">
     <title>[アニメ] [女性] [薬屋のひとりごと] 2025-04-02 根暗陰キャの猫猫が超絶イケメン壬氏の股間を手で弄るシーンと壬氏が悶える顔が描きたかっただけで ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-03-30T14:33:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BM/BMFUskHrI_.htm">
-    <title>[生活] [宝達山] 2025-03-30 山の方が白くなってる。すごく、すごく登りに行きたい… 春の淡雪を味わいたい。</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/BM/BMFUskHrI_.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,宝達山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-03-30T10:50:43.00Z</dc:date>
   </item>
 </rdf:RDF>
