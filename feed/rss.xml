@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-03T03:44:47.66Z</dc:date>
+    <dc:date>2025-04-03T03:50:13.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#mCNAyia-Bz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#tb3GqoWJd_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#AvvKAfN6N6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#p0GOKB1Nq9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#qJBDjX6fgI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#Q9v11Q4z5b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#IE1yvUphRd"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#J0iqnq024s"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#7wS1EjPSjU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/30#KqJLdoGW6y"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/30#6eX5XwbCPX"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,七尾,生活,食事,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-03T03:44:47.66Z</dc:date>
+      <dc:date>2025-04-03T03:50:13.95Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#w8KlWb2Dj4">
       <title>[モンハンNow] 2025-04-02 黒弓ほとんど使ってねぇんだけど、最強らしいから一応育成してるんだ。黒ディアの rare 1  ...</title>
@@ -78,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,登山,Web,文化,漫画,登山,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-31T21:37:10.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#p0GOKB1Nq9">
+      <title>[食事] 2025-04-03 昨日の「かつ庵」この辺りだと砺波と小松にあるらしい。金沢にはない。これは、今までに入ったこと ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/03#p0GOKB1Nq9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,食事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-02T11:24:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#qJBDjX6fgI">
       <title>[アニメ] [女性] [薬屋のひとりごと] 2025-04-02 根暗陰キャの猫猫が超絶イケメン壬氏の股間を手で弄るシーンと壬氏が悶える顔が描きたかっただけで ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-30T10:50:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/30#6eX5XwbCPX">
-      <title>[Web] [時事] [炎上] [国際] 2025-03-30 あの派手に崩落していた高層ビルが中国系の企業(国営？)というのは事実のようだ。 バンコクで崩 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/30#6eX5XwbCPX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,国際,Web,時事,炎上,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-30T09:22:37.00Z</dc:date>
     </item>
   </rdf:RDF>
