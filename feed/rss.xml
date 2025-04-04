@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-03T23:38:19.57Z</dc:date>
+    <dc:date>2025-04-04T03:13:46.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fQ-Nsf7ATx"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/04#QxPJYLxYnr"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fQ-Nsf7ATx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#t8WfPLlWAS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#0hb3PFHj2N"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fz4EPo3c5T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#5UbKDeR6Gm"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#5Hll71Df3N"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#hdLBrwjk_E"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/01#EnJK-kah54"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#WddXND2Bsu"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fQ-Nsf7ATx">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0">
+      <title>[生活] [食事] [七尾] 2025-04-02 七尾にやってきた。ちょっとだけ散歩してから飯くって帰るつもりが、狙ってた中華の店は本日貸切だ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,食事,七尾,生活,食事,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-04T03:13:46.56Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/04#QxPJYLxYnr">
+      <title>[Web] [国際] 2025-04-04 うーん、倍速気味でみたけど面白かった。満州里(まんしゅうり)か。ここで飯がくいてぇな。そして ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/04#QxPJYLxYnr</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-04T03:13:46.56Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fQ-Nsf7ATx">
       <title>[Web] 2025-04-03 さっきモンゴルの動画をみたせいか、グアムの動画も流れてきた。俺には無縁そうな島だけど、これも ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/03#fQ-Nsf7ATx</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-03T23:38:19.57Z</dc:date>
+      <dc:date>2025-04-04T00:29:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#t8WfPLlWAS">
       <title>[Web] [AI] 2025-04-03 ないかなーと思ってた砂利道、ややガレた道のロボット二足歩行動画があった。平な足裏でもここまで ...</title>
@@ -46,14 +62,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,AI,Web,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-03T20:58:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0">
-      <title>[生活] [食事] [七尾] 2025-04-02 七尾にやってきた。ちょっとだけ散歩してから飯くって帰るつもりが、狙ってた中華の店は本日貸切だ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/02#BnnGWSPjh0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,食事,七尾,生活,食事,七尾]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-03T17:43:06.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/03#0hb3PFHj2N">
       <title>[生活] [北陸] 2025-04-03 今日は晴れるかと思ったら、また雨降ってきた。うんざりよ。 呑むか…</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-03-31T12:57:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/03/31#WddXND2Bsu">
-      <title>[Web] [モンハンNow] 2025-03-31 すげぇ… ⭐ 10 も勝ち切ってる。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/03/31#WddXND2Bsu</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-03-31T00:40:47.00Z</dc:date>
     </item>
   </rdf:RDF>
