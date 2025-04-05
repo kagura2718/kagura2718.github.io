@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-05T00:32:52.41Z</dc:date>
+    <dc:date>2025-04-05T13:57:35.33Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fi/fimv6lWPi1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iz/izy22sxfuu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xj/Xjng1kZF08.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fV/fVKi0ZGTeD.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5z/5zzLX_fZ35.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwcW3klQWb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4U/4UltrlnSn0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uw/uwg60oknue.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fi/fimv6lWPi1.htm">
+    <title>[ポケモンgo] 2025-04-05 今日は用事があって不参加  昨日のこれはとれた。  どういうイベントなのか、まだ分からん。分 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/fi/fimv6lWPi1.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-05T13:57:35.34Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iz/izy22sxfuu.htm">
     <title>[モンハンNow] 2025-04-05 HR300 到達 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/iz/izy22sxfuu.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-05T00:32:52.41Z</dc:date>
+    <dc:date>2025-04-05T13:14:43.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xj/Xjng1kZF08.htm">
     <title>[モンハンNow] 2025-04-04 武器強化の儀 黒ディア 弓 G9-5   ひねくれ者なので、大刀イベントに備えて弓の練習をや ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-01T09:16:49.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uw/uwg60oknue.htm">
-    <title>[ポケモンgo] 2025-03-31 先週はわずかに 36km </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/uw/uwg60oknue.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-01T22:05:52.00Z</dc:date>
   </item>
 </rdf:RDF>
