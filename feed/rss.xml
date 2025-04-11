@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-10T14:46:28.05Z</dc:date>
+    <dc:date>2025-04-10T22:37:26.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VQvhufbkx-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/11#66OceSyNjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/10#cgcLbQd1e7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#8EeOjqgonn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/10#G1AKVOPTni"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#DJXZhfLcZn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/06#QptHpMQcXM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#AJjs2FqxAi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#b6aB6LYPpf"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-10T14:46:28.05Z</dc:date>
+      <dc:date>2025-04-10T22:37:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VQvhufbkx-">
       <title>[ポケモンgo] [七尾] 2025-04-09 今日は七尾  今日はレイドアワーだった。七尾ではギリギリで成立するかどうか。駅前と食彩市場、 ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,七尾,ポケモンgo,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-10T14:46:28.05Z</dc:date>
+      <dc:date>2025-04-10T19:23:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/11#66OceSyNjD">
+      <title>[ポケモンgo] 2025-04-11 とうとうキュレムのキラ色違いがやってきた。91 で PL50 まで最大強化する許容範囲だ。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/11#66OceSyNjD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-10T16:51:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/10#cgcLbQd1e7">
       <title>[料理] 2025-04-10 とりあえず、レシピを調べ直さないで、感性で麻婆春雨を錬成してみた。とりあえず、唐辛子は入れな ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-07T03:38:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#b6aB6LYPpf">
-      <title>[アニメ] 2025-04-07 ふーん、やっぱり庵野氏はこういうタイプだね。そうだろうなって思ってた。エヴァはリアルタイムで ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/07#b6aB6LYPpf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-07T01:41:06.00Z</dc:date>
     </item>
   </rdf:RDF>
