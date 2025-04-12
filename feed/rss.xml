@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-11T14:27:19.53Z</dc:date>
+    <dc:date>2025-04-12T02:43:09.59Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#aUkHBncERV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#OT6fnFDe2J"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/11#66OceSyNjD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/11#o9KWybem5c"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VQvhufbkx-"/>
@@ -26,12 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/08#faxzk7ATc8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#FJWv7l8azx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#qiBHSGKXXR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#DJXZhfLcZn"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/06#QptHpMQcXM"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#aUkHBncERV">
+      <title>[モンハンNow] 2025-04-12 HR301 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/12#aUkHBncERV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-12T02:43:09.59Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#OT6fnFDe2J">
+      <title>[Web] [アニメ] [GQuuuuuuX] 2025-04-12 どうやらジークアクスの無料配信はない。格が違うのかな？昨晩、一応みたんだけど、そんなに大した ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/12#OT6fnFDe2J</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,GQuuuuuuX,Web,アニメ,GQuuuuuuX]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-12T02:43:09.59Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe">
       <title>[漫画] [呪術廻戦] 2025-04-09 0 巻を連載途中で読んだ俺のようなニワカと見え方が違うのかしら。要するに羂索て、読切の 0  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/09#i99tfNjtNe</link>
       <description>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-07T14:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/07#DJXZhfLcZn">
-      <title>[登山] [北アルプス] 2025-04-07 どうやら、燕岳の登山口の駐車場が民営化に伴った有料化をするらしい。なんと、驚愕の一日 300 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/07#DJXZhfLcZn</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-07T13:25:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/06#QptHpMQcXM">
-      <title>[モンハンNow] 2025-04-06 武器強化の儀 黒ディア 弓 G10-1  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/06#QptHpMQcXM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-07T05:39:41.00Z</dc:date>
     </item>
   </rdf:RDF>
