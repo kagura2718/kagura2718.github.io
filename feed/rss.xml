@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-13T10:10:14.85Z</dc:date>
+    <dc:date>2025-04-13T14:42:48.68Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#ufXgB7CRXO"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#rlEEjBgvBV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#ufXgB7CRXO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#VNQrPztGT-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#kBf35fx0b7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#s8L-4hysdH"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#0jVTf7EJn3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#aUkHBncERV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#m3qlA7tWTn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#OT6fnFDe2J"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/10#G1AKVOPTni"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/10#gJSMdgZOCS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#Uyt5cHIFIT"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VxkbnFY3VF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/08#OG_UW2KryN"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#ufXgB7CRXO">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#rlEEjBgvBV">
+      <title>[登山] [Web] [炎上] 2025-04-13 また、やっちゃったね。とうとう今度は自分が… あれだけ有名になっちゃうと名前が出なくても誰か ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/13#rlEEjBgvBV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-13T14:42:48.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#ufXgB7CRXO">
       <title>[Web] [奥能登] 2025-04-13 こういう特殊サイトを作って、がんばるよりも、Google Map を更新してほしい。絶対、そ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/13#ufXgB7CRXO</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-13T10:10:14.85Z</dc:date>
+      <dc:date>2025-04-13T14:42:48.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#VNQrPztGT-">
       <title>[ポケモンgo] 2025-04-13 タギングル？？？フランスのフレンドだけど。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-13T10:10:14.85Z</dc:date>
+      <dc:date>2025-04-13T14:42:48.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#kBf35fx0b7">
       <title>[アニメ] [GQuuuuuuX] 2025-04-13 どことなく、不思議の海のナディアのキャラを思わせる。  このガンダムはなんていうか、エヴァみ ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-13T10:10:14.85Z</dc:date>
+      <dc:date>2025-04-13T14:42:48.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#s8L-4hysdH">
       <title>[登山] [生活] [宝達山] 2025-04-13 今日も半日仕事… 山頂付近は無装備で歩くと思ったよりもまだ無理がある。この時期になってもこの ...</title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-13T10:10:14.85Z</dc:date>
+      <dc:date>2025-04-13T13:33:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/13#0jVTf7EJn3">
+      <title>[料理] 2025-04-13 麻婆豆腐を錬成 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/13#0jVTf7EJn3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-12T22:23:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/12#aUkHBncERV">
       <title>[モンハンNow] 2025-04-12 HR301 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-09T16:18:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VxkbnFY3VF">
-      <title>[ポケモンgo] 2025-04-09 なんじゃろね。ヒメンカ  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/09#VxkbnFY3VF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-09T13:24:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/08#OG_UW2KryN">
-      <title>[モンハンNow] 2025-04-08 武器強化の儀 イソネミクニ大刀 メロウパウ G9-5   次は 75000 ゼニー必要となる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/08#OG_UW2KryN</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-08T04:22:39.00Z</dc:date>
     </item>
   </rdf:RDF>
