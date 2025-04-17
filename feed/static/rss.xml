@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-16T13:34:35.03Z</dc:date>
+    <dc:date>2025-04-17T13:20:04.46Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aU/aUWQUYn3Q7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7F/7Fafia3zCW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/y5/y5JlNxLzQh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bh/Bhn3pWl_j0.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qm/qmvZDYpcOf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lD/lDh6X2_yx5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A4/A4PCu3dQ8t.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SN/SNUWJlcO7w.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aU/aUWQUYn3Q7.htm">
+    <title>[Web] [中能登] 2025-04-17 ほほう… あそこはこんな感じ… 春に行ったことないから気付いてなかったのかもしれん。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/aU/aUWQUYn3Q7.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,中能登,Web,中能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-17T13:20:04.46Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7F/7Fafia3zCW.htm">
     <title>[アニメ] [GQuuuuuuX] 2025-04-16 おっと勘違い。どうやら昨晩放映したらしい。どうやらほぼ映画の焼き増しで放映してる。騒いでるお ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/7F/7Fafia3zCW.htm</link>
     <description>
         日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-16T13:34:35.03Z</dc:date>
+    <dc:date>2025-04-16T14:41:06.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/y5/y5JlNxLzQh.htm">
     <title>[アニメ] 2025-04-15 呑みながらワンピース Red Film を眺めていた。 ウタというのが歌手なんでしょ？で、シ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-13T19:21:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/SN/SNUWJlcO7w.htm">
-    <title>[ポケモンgo] 2025-04-13 タギングル？？？フランスのフレンドだけど。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/SN/SNUWJlcO7w.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-13T19:19:24.00Z</dc:date>
   </item>
 </rdf:RDF>
