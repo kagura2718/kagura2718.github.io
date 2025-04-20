@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-20T07:23:50.43Z</dc:date>
+    <dc:date>2025-04-20T11:06:30.09Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#T8BG0ESstF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#NtCJNGhFiz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/20#qRw-VN0nfF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#LiJTkr93p0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#hqrCN1pMMx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#q40A4MwUYP"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-20T07:23:50.43Z</dc:date>
+      <dc:date>2025-04-20T11:06:30.09Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm">
+      <title>[登山] [奥能登] 2025-04-17 宝立山 - 珠洲</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-18T00:46:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -70,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,自転車,炎上,Web,自転車,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-19T03:42:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm">
-      <title>[登山] [奥能登] 2025-04-17 宝立山 - 珠洲</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-18T00:46:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#LiJTkr93p0">
       <title>[アニメ] 2025-04-18 最近の原作なしのアニメ、ストーリーやキャラは魂がこもってる感じがほとんどしないので、観察した ...</title>
