@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-20T11:06:30.09Z</dc:date>
+    <dc:date>2025-04-21T02:58:19.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/06/06hQFAiNhv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uh/Uh2MEjXZ38.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/77/77rP938gGs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/y5/y5JlNxLzQh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bh/Bhn3pWl_j0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2j/2jtosSjn8r.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TP/TPBJBrFOJG.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/06/06hQFAiNhv.htm">
+    <title>[ポケモンgo] 2025-04-21 先日の 💯 いらねぇ  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/06/06hQFAiNhv.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-21T02:58:19.80Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Uh/Uh2MEjXZ38.htm">
     <title>[生活] [氷見] 2025-04-19 今日は氷見だ。  おまいら、氷見はガソリンが安いぞ。体感でしかないけど 5 円ほど低い。  </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Uh/Uh2MEjXZ38.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,氷見,生活,氷見</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-20T11:06:30.09Z</dc:date>
+    <dc:date>2025-04-20T16:49:03.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/77/77rP938gGs.htm">
     <title>[登山] [奥能登] 2025-04-17 宝立山 - 珠洲</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-15T11:54:53.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TP/TPBJBrFOJG.htm">
-    <title>[生活] [食事] [七尾] 2025-04-15 早朝の七尾</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/TP/TPBJBrFOJG.htm</link>
-    <description>
-        日記,随筆,簡約版,生活,食事,七尾,生活,食事,七尾</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-15T21:19:13.00Z</dc:date>
   </item>
 </rdf:RDF>
