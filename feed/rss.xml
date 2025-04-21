@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-21T02:58:19.80Z</dc:date>
+    <dc:date>2025-04-21T11:26:55.81Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#K-GuUsUSCW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#0camocFn_7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/16#4GqW-o8Nif"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/15#6HFMBmZ4m_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/15#0KS7Kz9jTg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/16#tTCA25Z5Gv"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#K-GuUsUSCW">
+      <title>[Web] [バスケ] 2025-04-21 この撮影角度だとの臨場感がすごい。最後トラベリングくさいけど 😂 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#K-GuUsUSCW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-21T11:26:55.81Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj">
+      <title>[料理] 2025-04-21 私は海老をゲットした。海老のトマトクリームパスタを錬成しよう。   うめぇ。海老の本体が甘い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-21T11:26:55.81Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7">
       <title>[ポケモンgo] 2025-04-21 先日の 💯 いらねぇ  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-21T02:58:19.80Z</dc:date>
+      <dc:date>2025-04-21T06:00:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt">
       <title>[生活] [氷見] 2025-04-19 今日は氷見だ。  おまいら、氷見はガソリンが安いぞ。体感でしかないけど 5 円ほど低い。  </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-16T00:39:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/15#0KS7Kz9jTg">
-      <title>[ポケモンgo] 2025-04-15 先日の 💯  これももはやいらねぇ。そろそろダブついてる 💯 も捨てようかな。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/15#0KS7Kz9jTg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-16T03:01:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/16#tTCA25Z5Gv">
-      <title>[アニメ] [GQuuuuuuX] 2025-04-16 Abema の無料配信は始まった。 機動戦士Gundam GQuuuuuuX（ジークアクス） ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/16#tTCA25Z5Gv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-15T11:54:53.00Z</dc:date>
     </item>
   </rdf:RDF>
