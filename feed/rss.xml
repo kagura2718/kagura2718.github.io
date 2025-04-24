@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-24T02:42:28.07Z</dc:date>
+    <dc:date>2025-04-24T08:11:53.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-23.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#_Nuu81dkSU"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#T8BG0ESstF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#NtCJNGhFiz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/20#qRw-VN0nfF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#LiJTkr93p0"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k">
+      <title>[登山] [Web] [炎上] 2025-04-24 崩落したが歩行者のみ通行が可能に　北アルプスの中房温泉に行ける“唯一の道”　大型連休前に｜信 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-24T08:11:53.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O">
       <title>[ポケモンgo] 2025-04-24 こんなん出た…  一時的だったらしく、再起動したら普通に起動。3 out BAN の対象にな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T02:42:28.07Z</dc:date>
+      <dc:date>2025-04-24T08:11:53.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-23.htm">
       <title>[ポケモンgo] [生活] [七尾] [モンハンNow] 2025-04-23 七尾walk</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,七尾,モンハンNow,ポケモンgo,生活,七尾,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T02:42:28.07Z</dc:date>
+      <dc:date>2025-04-24T07:57:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-17.htm">
       <title>[登山] [奥能登] 2025-04-17 宝立山 - 珠洲</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,自転車,炎上,Web,自転車,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-19T03:42:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/18#LiJTkr93p0">
-      <title>[アニメ] 2025-04-18 最近の原作なしのアニメ、ストーリーやキャラは魂がこもってる感じがほとんどしないので、観察した ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/18#LiJTkr93p0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-18T17:29:21.00Z</dc:date>
     </item>
   </rdf:RDF>
