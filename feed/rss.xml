@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-25T03:17:11.24Z</dc:date>
+    <dc:date>2025-04-25T12:26:45.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#Ce7xVsLJPl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#fnmmEsZW78"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#ct1f7W5I20"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#YgmMkv_3-M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#_Nuu81dkSU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#8ONvwQDhYE"/>
@@ -25,27 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/22#cFTMLHTW6M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#397MAu5PAv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC">
+      <title>[モンハンNow] 2025-04-25 すげぇ。ひとりは桁違いだ。  完全に足引っぱってる 😅</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-25T12:26:45.55Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej">
       <title>[料理] 2025-04-25 これを参考に初めてマッシュポテト作ってみたけど、潰すのめんどくせぇな。この手の料理に向いてな ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-25T03:17:11.24Z</dc:date>
+      <dc:date>2025-04-25T12:26:45.55Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#Ce7xVsLJPl">
+      <title>[料理] 2025-04-25 麻婆春雨とした。  うーん… 何かが足りぬ。何が足りないか。プロの麻婆春雨でも食べてみたい。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#Ce7xVsLJPl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-25T05:58:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#fnmmEsZW78">
-      <title>[時事] [野球] 2025-04-25 大昔にパワプロをやってたせいか、著名なプロ野球選手、古い投手でも名前ぐらいはかなり知ってるは ...</title>
+      <title>[時事] [野球] 2025-04-25 大昔にパワプロをやってたせいか、著名なプロ野球選手、古い投手、選手でも名前ぐらいはかなり知っ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#fnmmEsZW78</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,野球,時事,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T19:49:23.00Z</dc:date>
+      <dc:date>2025-04-24T23:56:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#ct1f7W5I20">
+      <title>[Web] [奥能登] 2025-04-25 あそこに入ってる主力のボランティア、  認知機能に何らかの問題  がありそうだなって思ってた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#ct1f7W5I20</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-24T21:42:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#YgmMkv_3-M">
       <title>[Web] [炎上] [アニメ] 2025-04-24 新・比古清十郎や五条悟の中の人はこういう人なんだ 😂  おおお… これは意外なほどに twi ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-21T06:00:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#397MAu5PAv">
-      <title>[ポケモンgo] 2025-04-21 先週は 104km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#397MAu5PAv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-20T19:55:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt">
-      <title>[生活] [氷見] 2025-04-19 今日は氷見だ。  おまいら、氷見はガソリンが安いぞ。体感でしかないけど 5 円ほど低い。  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/19#mcw14iTGtt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-20T16:49:03.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
-      <title>随筆(長編日記)</title>
-      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
-      <description>
-        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2021-11-02T17:04:52.00Z</dc:date>
     </item>
   </rdf:RDF>
