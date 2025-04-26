@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-26T14:00:57.92Z</dc:date>
+    <dc:date>2025-04-26T14:47:29.09Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1r/1roeG-PHW7.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/li/liJ7XvUdXp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6G/6GRTc6fdi-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5u/5uQ5qdZzXb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_0/_04iws8hg-.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YQ/YQiW3i9wwe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f9/f9at3yBwpo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AA/AAzt9qJsUb.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4I/4IwJDNHhAb.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-26T14:00:57.92Z</dc:date>
+    <dc:date>2025-04-26T14:47:29.09Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/li/liJ7XvUdXp.htm">
+    <title>[アニメ] 2025-04-26 ワタルなんたらというのが捕獲されてた。なんとなく覚えが…  なんか見覚えがある。   ヒロイ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/li/liJ7XvUdXp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-25T21:22:54.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6G/6GRTc6fdi-.htm">
     <title>[モンハンNow] 2025-04-25 すげぇ。ひとりは桁違いだ。  完全に足引っぱってる 😅</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-21T21:21:51.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4I/4IwJDNHhAb.htm">
-    <title>[登山] [Web] [炎上] 2025-04-22 記事になった。まだ入院中かな。  こういう遭難事故を厳しく論難してる人で、自分が事故起こした ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/4I/4IwJDNHhAb.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-21T21:17:36.00Z</dc:date>
   </item>
 </rdf:RDF>
