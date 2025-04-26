@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-25T12:26:45.55Z</dc:date>
+    <dc:date>2025-04-26T14:00:57.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#Ce7xVsLJPl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#fnmmEsZW78"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#-ADvZg1CpC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/22#cFTMLHTW6M"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN">
+      <title>[アニメ] [GQuuuuuuX] 2025-04-26 この辺り、劇場でみたときもいまいち分かんなかったけど、やっぱり分かんない。いきなり昨日の人が ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-26T14:00:57.92Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC">
       <title>[モンハンNow] 2025-04-25 すげぇ。ひとりは桁違いだ。  完全に足引っぱってる 😅</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-25T12:26:45.55Z</dc:date>
+      <dc:date>2025-04-25T20:49:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej">
       <title>[料理] 2025-04-25 これを参考に初めてマッシュポテト作ってみたけど、潰すのめんどくせぇな。この手の料理に向いてな ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-25T12:26:45.55Z</dc:date>
+      <dc:date>2025-04-25T14:56:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#Ce7xVsLJPl">
       <title>[料理] 2025-04-25 麻婆春雨とした。  うーん… 何かが足りぬ。何が足りないか。プロの麻婆春雨でも食べてみたい。</title>
@@ -69,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T21:42:02.00Z</dc:date>
+      <dc:date>2025-04-24T23:49:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#YgmMkv_3-M">
       <title>[Web] [炎上] [アニメ] 2025-04-24 新・比古清十郎や五条悟の中の人はこういう人なんだ 😂  おおお… これは意外なほどに twi ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-21T21:17:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7">
-      <title>[ポケモンgo] 2025-04-21 先日の 💯 いらねぇ  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#dhcv6obSl7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-21T06:00:00.00Z</dc:date>
     </item>
   </rdf:RDF>
