@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-26T14:47:29.09Z</dc:date>
+    <dc:date>2025-04-27T00:58:17.81Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#zIUYFStlOk"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#IiIt40awqY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/22#r3TfHJwOrZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/22#wxiP3i74Mh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#K-GuUsUSCW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#-ADvZg1CpC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#zIUYFStlOk">
+      <title>[ポケモンgo] 2025-04-27 なんか新しい機能が…  いつも通り、動かないけど </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#zIUYFStlOk</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-27T00:58:17.81Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN">
       <title>[アニメ] [GQuuuuuuX] 2025-04-26 この辺り、劇場でみたときもいまいち分かんなかったけど、やっぱり分かんない。いきなり昨日の人が ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-26T14:47:29.09Z</dc:date>
+      <dc:date>2025-04-27T00:58:17.81Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm">
+      <title>[生活] [中能登] 2025-04-26 雨の宮古墳</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,生活,中能登,生活,中能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-26T08:15:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#IiIt40awqY">
       <title>[アニメ] 2025-04-26 ワタルなんたらというのが捕獲されてた。なんとなく覚えが…  なんか見覚えがある。   ヒロイ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-22T04:10:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#-ADvZg1CpC">
-      <title>[ポケモンgo] 2025-04-21 ズガドーンの色違い。これか。いいな…  ズガドーンが海外のかな。まったく参加せんかった。名前 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#-ADvZg1CpC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-22T00:18:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj">
-      <title>[料理] 2025-04-21 私は海老をゲットした。海老のトマトクリームパスタを錬成しよう。   うめぇ。海老の本体が甘い ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/21#FEBxIcq4sj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-21T21:21:51.00Z</dc:date>
     </item>
   </rdf:RDF>
