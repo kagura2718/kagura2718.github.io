@@ -4,19 +4,20 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-27T13:58:38.54Z</dc:date>
+    <dc:date>2025-04-28T10:14:52.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/28#0mW6_iUsqV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#PZ94eq8W5A"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#zIUYFStlOk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#5qifPlh3hN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#QKpQ1ViWmy"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#IiIt40awqY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#qvndTqlRUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/25#wyql1wpMej"/>
@@ -27,17 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#_Nuu81dkSU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#8ONvwQDhYE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/28#0mW6_iUsqV">
+      <title>[ポケモンgo] 2025-04-28 先週は 76km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/28#0mW6_iUsqV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-28T10:14:52.07Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS">
       <title>[アニメ] 2025-04-27 これだw 「魔神英雄伝ワタル』か  ピンクの女の子が子供の頃の俺の性癖に刺さってたような記憶 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-27T13:58:38.54Z</dc:date>
+      <dc:date>2025-04-28T10:14:52.07Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY">
+      <title>[モンハンNow] 2025-04-27 とりあえず、テスト中の機能だという同一種族の大量出現予告に参加してきた。 20 分ぐらいが限 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-28T09:40:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX">
+      <title>[登山] [Web] [炎上] 2025-04-27 すげぇ。アメリカ人並にダイナミックな中国人だ。 👍  こういうのからは、ちゃんと救助費用を回 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-28T08:15:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -53,23 +77,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,中能登,中能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-27T13:58:38.54Z</dc:date>
+      <dc:date>2025-04-27T16:55:39.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX">
-      <title>[登山] [Web] [炎上] 2025-04-27 すげぇ。アメリカ人並にダイナミックな中国人だ。 👍 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX</link>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm">
+      <title>[生活] [地理] [中能登] 2025-04-26 雨の宮古墳</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+        <![CDATA[日記,随筆,簡約版,生活,地理,中能登,生活,地理,中能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-27T13:58:38.54Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY">
-      <title>[モンハンNow] 2025-04-27 とりあえず、テスト中の機能だという同一種族の大量出現予告に参加してきた。 20 分ぐらいが限 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-27T11:14:18.00Z</dc:date>
+      <dc:date>2025-04-27T14:59:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#zIUYFStlOk">
       <title>[ポケモンgo] 2025-04-27 なんか新しい機能が…  いつも通り、動かないけど </title>
@@ -94,14 +110,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-27T03:24:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm">
-      <title>[生活] [地理] [中能登] 2025-04-26 雨の宮古墳</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,生活,地理,中能登,生活,地理,中能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-26T16:17:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/26#IiIt40awqY">
       <title>[アニメ] 2025-04-26 ワタルなんたらというのが捕獲されてた。なんとなく覚えが…  なんか見覚えがある。   ヒロイ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-24T13:01:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O">
-      <title>[ポケモンgo] 2025-04-24 こんなん出た…  一時的だったらしく、再起動したら普通に起動。3 out BAN の対象にな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/24#l-aFN1Nx5O</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T08:49:30.00Z</dc:date>
     </item>
   </rdf:RDF>
