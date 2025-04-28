@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-28T12:07:19.98Z</dc:date>
+    <dc:date>2025-04-28T12:54:01.53Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bm/Bmma37vQtB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rs/RsykKnCwqs.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ro/rota5hCUsw.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X1/X1PtL_HcIX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2b/2bry2Kybih.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bf/BfPRrLtHt8.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_b/_b3xUEi1mF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qv/QvD3C6cDRN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zM/zMXYttArBd.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Js/JsguI-U8cq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-28T12:07:19.98Z</dc:date>
+    <dc:date>2025-04-28T12:54:01.53Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rs/RsykKnCwqs.htm">
     <title>[アニメ] 2025-04-27 これだw 「魔神英雄伝ワタル』か  ピンクの女の子が子供の頃の俺の性癖に刺さってたような記憶 ...</title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-28T12:07:19.98Z</dc:date>
+    <dc:date>2025-04-28T12:54:01.53Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ro/rota5hCUsw.htm">
+    <title>[アニメ] [女性] [薬屋のひとりごと] 2025-04-28 ふーん、今回の OP は 2nd シーズンの主要登場人物からの視点でのショットが含まれてるの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ro/rota5hCUsw.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,女性,薬屋のひとりごと,アニメ,女性,薬屋のひとりごと</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-04-28T09:47:18.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/X1/X1PtL_HcIX.htm">
     <title>[モンハンNow] 2025-04-27 とりあえず、テスト中の機能だという同一種族の大量出現予告に参加してきた。 20 分ぐらいが限 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,アニメ,Web,炎上,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-04-24T19:08:39.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Js/JsguI-U8cq.htm">
-    <title>[Web] [文化] 2025-04-24 普通に文字が読めれば意味を考えたりするはずなんだけどね…  覚醒剤と麻薬という別々の単語が用 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Js/JsguI-U8cq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-04-23T17:50:47.00Z</dc:date>
   </item>
 </rdf:RDF>
