@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-04-28T10:22:11.68Z</dc:date>
+    <dc:date>2025-04-28T10:48:38.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#AE7Fl5sUEX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/28#RvDIjlOAwb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#PZ94eq8W5A"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-04-26.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#YgmMkv_3-M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#_Nuu81dkSU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#8ONvwQDhYE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-28T10:22:11.68Z</dc:date>
+      <dc:date>2025-04-28T10:48:38.74Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#gl6PpcbVmS">
       <title>[アニメ] 2025-04-27 これだw 「魔神英雄伝ワタル』か  ピンクの女の子が子供の頃の俺の性癖に刺さってたような記憶 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-28T10:22:11.68Z</dc:date>
+      <dc:date>2025-04-28T10:48:38.74Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/27#yLqZ8Ac6nY">
       <title>[モンハンNow] 2025-04-27 とりあえず、テスト中の機能だという同一種族の大量出現予告に参加してきた。 20 分ぐらいが限 ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-28T08:15:46.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/28#RvDIjlOAwb">
+      <title>[料理] 2025-04-28 ブリのソテーといたしましょう。しいたけは能登産 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/28#RvDIjlOAwb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-04-27T21:43:47.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-04-24T14:40:13.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k">
-      <title>[登山] [Web] [炎上] 2025-04-24 崩落したが歩行者のみ通行が可能に　北アルプスの中房温泉に行ける“唯一の道”　大型連休前に｜信 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/04/24#HTOgkmyt3k</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-04-24T13:01:14.00Z</dc:date>
     </item>
   </rdf:RDF>
