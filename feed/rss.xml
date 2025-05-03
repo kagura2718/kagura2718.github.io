@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-03T10:22:22.32Z</dc:date>
+    <dc:date>2025-05-03T11:16:38.15Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/02#1No3wqKkRF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#q04Pg_qXF4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/04/30#tXX6I-LfSG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-02.htm"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm">
+      <title>[登山] [奥能登] 2025-05-01 柳田 - 金蔵 - 南志見 - 町野 (岩倉山)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-03T11:16:38.15Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj">
       <title>[Web] [炎上] 2025-05-03 元動画自体はどうやら面白いと思うんだけど、イタリア人とパスタのことは関係なくない？「おばあち ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-03T10:22:22.32Z</dc:date>
+      <dc:date>2025-05-03T11:16:38.15Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/02#1No3wqKkRF">
       <title>[アニメ] [GQuuuuuuX] 2025-05-02 なんか騒いでた意味は分かった。  単純だね  ファーストガンダムから Z ガンダムに至る並行 ...</title>
@@ -46,14 +54,6 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-03T03:44:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm">
-      <title>[登山] [奥能登] 2025-05-01 柳田 - 金蔵 - 南志見 - 町野 (岩倉山)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-03T03:37:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#q04Pg_qXF4">
       <title>[Web] [炎上] [文化] 2025-05-03 これ、どうやらホワイトハウスの公式らしい。まじか、まじなのか… </title>
