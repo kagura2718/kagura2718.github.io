@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-07T14:51:32.53Z</dc:date>
+    <dc:date>2025-05-08T03:29:28.32Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#mZKlR9gSKH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/08#e946_kvd9J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#s6a7SOyQED"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#mZKlR9gSKH"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#UW7YJ4tcxQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#9pmYqiVb1m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -27,17 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#ynU5FgUMA8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#EOfGjACdgj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/03#-BEUptgQ5V"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/04#Bk4YYzTvX3"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#mZKlR9gSKH">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/08#e946_kvd9J">
+      <title>[アニメ] [GQuuuuuuX] 2025-05-08 ふーん、たぶん、最新話の流れと描写はだいたい分かった。表向きの視聴者対象は子供からせいぜい  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/08#e946_kvd9J</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-08T03:29:28.32Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#s6a7SOyQED">
+      <title>[Web] [炎上] [文化] 2025-05-07 「たかまつなな」って最近よく dis られてるなーと思ったら、お笑いタレントなん？  慶応卒 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/07#s6a7SOyQED</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-08T01:24:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#mZKlR9gSKH">
       <title>[モンハンNow] 2025-05-07 HR305 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/07#mZKlR9gSKH</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-07T14:51:32.53Z</dc:date>
+      <dc:date>2025-05-07T18:00:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm">
       <title>[登山] [奥能登] 2025-05-01 柳田 - 金蔵 - 南志見 - 町野 (岩倉山)</title>
@@ -46,14 +62,6 @@
         <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-03T13:57:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#s6a7SOyQED">
-      <title>[Web] [炎上] [文化] 2025-05-07 「たかまつなな」って最近よく dis られてるなーと思ったら、お笑いタレントなん？  慶応卒 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/07#s6a7SOyQED</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-07T03:18:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/07#UW7YJ4tcxQ">
       <title>[生活] [七尾] 2025-05-07 青柏祭が終わった直後の七尾  七尾のほぼ駅前にあるのだけど、ここまで地味な銭湯はみたことない ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,奥能登,料理,奥能登,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-04T00:47:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/04#Bk4YYzTvX3">
-      <title>[登山] [生活] [宝達山] 2025-05-04 本日の登頂 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/04#Bk4YYzTvX3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-03T20:53:19.00Z</dc:date>
     </item>
   </rdf:RDF>
