@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-09T09:10:31.87Z</dc:date>
+    <dc:date>2025-05-09T11:04:04.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#YFNw1PQx1Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#UGfHfxJ8ms"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/08#e946_kvd9J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/08#oPi93qmGqv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#AMZuSyjdcX"/>
@@ -27,17 +28,16 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#QY-mRkmlij"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-05.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#MTY7n186iu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#efdTF34c17"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#YFNw1PQx1Z">
-      <title>[生活] [北陸] 2025-05-09 自分の選挙区だから、自身の倫理観に基づいて投票には行くしかないのだけど、いつも通りの目糞と鼻 ...</title>
+      <title>[生活] [文化] [北陸] 2025-05-09 自分の選挙区だから、自身の倫理観に基づいて投票には行くしかないのだけど、いつも通りの目糞と鼻 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/09#YFNw1PQx1Z</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,文化,北陸,生活,文化,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-09T09:10:31.87Z</dc:date>
+      <dc:date>2025-05-09T11:04:04.17Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-05-01.htm">
       <title>[登山] [奥能登] 2025-05-01 柳田 - 金蔵 - 南志見 - 町野 (岩倉山)</title>
@@ -46,6 +46,14 @@
         <![CDATA[日記,随筆,簡約版,登山,奥能登,登山,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-03T13:57:31.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#UGfHfxJ8ms">
+      <title>[Web] [文化] [国際] 2025-05-09 この少年は稀にみるほど聡明そうだ。インド映画とかをちょっと眺めてみてるだけでも、インドへの印 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/09#UGfHfxJ8ms</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,国際,Web,文化,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-09T00:21:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/08#e946_kvd9J">
       <title>[アニメ] [GQuuuuuuX] 2025-05-08 ふーん、たぶん、最新話の流れと描写はだいたい分かった。表向きの視聴者対象は子供からせいぜい  ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-05T17:33:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#efdTF34c17">
-      <title>[モンハンNow] 2025-05-06 ミクニ ⭐ 10 も当たりさえよければそのうち勝てそう。  しかし、今日はドスジャグラス ⭐ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/06#efdTF34c17</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-05T16:47:24.00Z</dc:date>
     </item>
   </rdf:RDF>
