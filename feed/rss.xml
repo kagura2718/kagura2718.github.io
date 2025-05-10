@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-10T08:43:03.97Z</dc:date>
+    <dc:date>2025-05-10T14:08:32.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#_VaECfs162"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#WAmV68Nx_Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#YFNw1PQx1Z"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#gVtpI9c-iK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#9pmYqiVb1m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#2vggm4cqLh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#2y_VIh-NW1"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/05#z3mCgupVfi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#_dHWqBk3eX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/05#A2muy4COoj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/04#yR0m2g7eMy"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,七尾,金沢,郡上,石川,七尾,金沢,郡上,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-10T08:43:03.97Z</dc:date>
+      <dc:date>2025-05-10T14:08:32.55Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#WAmV68Nx_Z">
       <title>[モンハンNow] 2025-05-10 新しくなったんだな。 </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-10T08:43:03.97Z</dc:date>
+      <dc:date>2025-05-10T14:08:32.55Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/09#YFNw1PQx1Z">
       <title>[生活] [文化] [北陸] 2025-05-09 自分の選挙区だから、自身の倫理観に基づいて投票には行くしかないのだけど、いつも通りの目糞と鼻 ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,文化,北陸,生活,文化,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-10T02:04:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/10#gVtpI9c-iK">
+      <title>[料理] 2025-05-10 今回は変則の麻婆豆腐。余ってたチンゲン菜を入れた。  うーん、火を入れすぎると色が悪くなるか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/10#gVtpI9c-iK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-10T14:08:32.55Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/06#9pmYqiVb1m">
       <title>[Web] [文化] 2025-05-06 よく分かんねぇ。もしかして、寧ろ、大人になって少し状態が悪くなったんじゃね？ 🤔  ほんとは ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-06T02:14:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/04#yR0m2g7eMy">
-      <title>[Web] [アニメ] 2025-05-04 うーん？この攻殻機動隊のアニメストーリー見覚えがあるようなないような… これ複数系統の話が乱 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/04#yR0m2g7eMy</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-06T00:25:45.00Z</dc:date>
     </item>
   </rdf:RDF>
