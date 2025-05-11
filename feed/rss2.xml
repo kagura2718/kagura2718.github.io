@@ -6,6 +6,20 @@
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
     <item>
+      <guid>https://kagura2718.github.io/Diary/essay/index.htm</guid>
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+      <pubDate>Wed, 03 Nov 2021 02:04:52 +0900</pubDate>
+    </item>
+    <item>
+      <guid>https://kagura2718.github.io/Diary/essay/2025/2025-05-11.htm</guid>
+      <title>[ポケモンgo] [生活] [食事] [七尾] 2025-05-11 お散歩 七尾</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-05-11.htm</link>
+      <description>日記,随筆,簡約版,ポケモンgo,生活,食事,七尾,ポケモンgo,生活,食事,七尾</description>
+      <pubDate>Sun, 11 May 2025 16:44:49 +0900</pubDate>
+    </item>
+    <item>
       <guid>https://kagura2718.github.io/Gitwee/timeline/2025/05/10#_VaECfs162</guid>
       <title>[七尾] [金沢] [郡上] [石川] 2025-05-10 石川の城特集だったから珍しくリアタイで眺めてたけど、主に被災した七尾城とプラスαの金沢城だっ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/10#_VaECfs162</link>
@@ -39,6 +53,13 @@
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/10#O-LLa4Fubf</link>
       <description>日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
       <pubDate>Sun, 11 May 2025 04:39:45 +0900</pubDate>
+    </item>
+    <item>
+      <guid>https://kagura2718.github.io/Gitwee/timeline/2025/05/11#laHMp8xEyp</guid>
+      <title>[ポケモンgo] [モンハンNow] 2025-05-11 ポケモンとモンハンの併走はなかなかきつい。やるタスクが徐々に増えてくんだもの。ポケモンは G ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/11#laHMp8xEyp</link>
+      <description>日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow</description>
+      <pubDate>Sun, 11 May 2025 02:10:55 +0900</pubDate>
     </item>
     <item>
       <guid>https://kagura2718.github.io/Gitwee/timeline/2025/05/06#9pmYqiVb1m</guid>
@@ -123,27 +144,6 @@
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/07#UW7YJ4tcxQ</link>
       <description>日記,つぶやき,雑記帳,生活,七尾,生活,七尾</description>
       <pubDate>Thu, 08 May 2025 01:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <guid>https://kagura2718.github.io/Diary/essay/index.htm</guid>
-      <title>随筆(長編日記)</title>
-      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
-      <description>ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-      <pubDate>Wed, 03 Nov 2021 02:04:52 +0900</pubDate>
-    </item>
-    <item>
-      <guid>https://kagura2718.github.io/Gitwee/timeline/2025/05/05#z3mCgupVfi</guid>
-      <title>[アニメ] [女性] [GQuuuuuuX] 2025-05-05 ガンダムやピッタリスーツがエヴァっぽいデザインなのは、誰しもが感じるところなんだけど、戦艦と ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/05#z3mCgupVfi</link>
-      <description>日記,つぶやき,雑記帳,アニメ,女性,GQuuuuuuX,アニメ,女性,GQuuuuuuX</description>
-      <pubDate>Tue, 06 May 2025 02:22:28 +0900</pubDate>
-    </item>
-    <item>
-      <guid>https://kagura2718.github.io/Gitwee/timeline/2025/05/06#_dHWqBk3eX</guid>
-      <title>[ポケモンgo] 2025-05-06 💯 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/06#_dHWqBk3eX</link>
-      <description>日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-      <pubDate>Tue, 06 May 2025 17:00:32 +0900</pubDate>
     </item>
   </channel>
 </rss>
