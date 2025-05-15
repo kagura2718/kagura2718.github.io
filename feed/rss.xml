@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-15T03:37:10.70Z</dc:date>
+    <dc:date>2025-05-15T10:08:10.02Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,9 +13,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/14#EsBVv8Spar"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/14#HXFa-fp60i"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-14.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/13#YxZ-QnTMVe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#9ZmQLU63vl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/14#VvWEqBb5N6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/14#jV5XQqgqXy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-11.htm"/>
@@ -71,6 +71,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-14T07:42:32.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc">
+      <title>[七尾] 2025-05-15 よくみると、国土地理院地図には建物の登録はある。神社としては管理されてないから削除という扱い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,七尾,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-13T23:51:25.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/13#YxZ-QnTMVe">
       <title>[Web] [炎上] [金沢] 2025-05-13 こことか、 その後  、どうだろうね。俺が通るような時間帯だと人が入ってるのは見たことがない ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/13#YxZ-QnTMVe</link>
@@ -86,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-14T13:25:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc">
-      <title>[七尾] 2025-05-15 よくみると、国土地理院地図には建物の登録はある。神社としては管理されてないから削除という扱い ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/15#SMUuLqZiGc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,七尾,七尾]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-13T23:51:25.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/14#VvWEqBb5N6">
       <title>[ポケモンgo] 2025-05-14 💯  いらんくね？？？？ 電気 + 格闘と割とレアなタイプ組み合わせだけど。もはや PvP  ...</title>
