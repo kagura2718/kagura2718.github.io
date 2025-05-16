@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-16T12:21:30.92Z</dc:date>
+    <dc:date>2025-05-16T13:15:17.27Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwOGB0NQhb.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8O/8O7KEeFmmU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Tl/TlLCOy3GrS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Go/GoKYYEDxcZ.htm"/>
@@ -20,7 +21,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/L6/L6bq8OgM7Y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pv/Pv2Szdzu07.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ap/apBuMpmjvP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/57/57mDYLm7yr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/T9/T9FGwBkvBG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3c/3cx0FAH4hr.htm"/>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,七尾,Web,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-16T12:21:30.92Z</dc:date>
+    <dc:date>2025-05-16T13:15:17.27Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm">
+    <title>[ポケモンgo] [登山] [食事] [七尾] [地理] 2025-05-14 七尾城山</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,登山,食事,七尾,地理,ポケモンgo,登山,食事,七尾,地理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-14T07:42:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8O/8O7KEeFmmU.htm">
     <title>[食事] [Web] [金沢] 2025-05-16 これまでもときどき話題に上るし、割と人気がある店なんだけど、この映像みるだけで、この食堂は絶 ...</title>
@@ -126,14 +134,6 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-14T18:52:08.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm">
-    <title>[ポケモンgo] [登山] [食事] [七尾] [地理] 2025-05-14 七尾城山</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/TV/TVlBbnxou8.htm</link>
-    <description>
-        日記,随筆,簡約版,ポケモンgo,登山,食事,七尾,地理,ポケモンgo,登山,食事,七尾,地理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-14T07:42:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/57/57mDYLm7yr.htm">
     <title>[七尾] 2025-05-15 よくみると、国土地理院地図には建物の登録はある。神社としては管理されてないから削除という扱い ...</title>
