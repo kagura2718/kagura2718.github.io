@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-19T10:30:07.79Z</dc:date>
+    <dc:date>2025-05-19T15:15:18.08Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#5kt4sdTygD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/17#H8Ph1sUILx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#t-JiazIsDh"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#mxZRQ1tdhG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#f8Vl1zvAYj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#pOP9EtrJrl"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P">
+      <title>[登山] [生活] [宝達山] 2025-05-19 自宅作業がたくさんあったが、手詰まりとなった。ので、本日の登頂。  うーん、困りましたな…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-19T15:15:18.08Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7">
       <title>[Web] 2025-05-19 おチ○チ○の大きさを測られて人類に晒されたワニ♂のプライバシーについて考えてあげなさい。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-19T10:30:07.79Z</dc:date>
+      <dc:date>2025-05-19T15:15:18.08Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#5kt4sdTygD">
       <title>[アニメ] [GQuuuuuuX] 2025-05-19 旧バスク・オムの声優さん、動画はちょっと調べた程度では出てこなかった。  ジークアクスの、バ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-19T10:30:07.79Z</dc:date>
+      <dc:date>2025-05-19T11:21:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/17#H8Ph1sUILx">
       <title>[ポケモンgo] 2025-05-17 とうとう、ザシアン、ザマゼンタの強化がくる。 【ポケモンGO】ザシアンとザマゼンタのフォルム ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-15T06:37:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#pOP9EtrJrl">
-      <title>[地理] [国際] 2025-05-15 ふーん。ペルー(？)のアンデス山脈(？)が分水嶺として東側にある地域のすべてを集水して大西洋 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/15#pOP9EtrJrl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,地理,国際,地理,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-14T18:36:32.00Z</dc:date>
     </item>
   </rdf:RDF>
