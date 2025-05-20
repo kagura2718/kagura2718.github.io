@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-20T03:03:50.01Z</dc:date>
+    <dc:date>2025-05-20T15:28:45.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#cS62gh6A7Q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#SsNYQ4-LT7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#u17hJtuL53"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-14.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#jnC-rnN-d2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#6jYjVymgFZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#2hPg64voQq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#mxZRQ1tdhG"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs">
+      <title>[ポケモンgo] 2025-05-20 先週は 62km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-20T15:28:45.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P">
       <title>[登山] [生活] [宝達山] 2025-05-19 自宅作業がたくさんあったが、手詰まりとなった。ので、本日の登頂。  うーん、困りましたな…</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-20T03:03:50.01Z</dc:date>
+      <dc:date>2025-05-20T08:24:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX">
+      <title>[生活] [氷見] 2025-05-20 氷見の番屋街。最近、氷見の岩ガキののぼりが出てる。売り出し中かなぁ？  一日五食。かなり望み ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-20T05:59:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#cS62gh6A7Q">
       <title>[ポケモンgo] 2025-05-20 ほう、ドドゲザン… 強いな。鋼の最強の一角になりそう。と思ったら… 進化条件が厳しい。 【ポ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-16T03:29:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/15#2hPg64voQq">
-      <title>[奥能登] [七尾] [歴史] 2025-05-15 七尾城の戦い - Wikipedia 七尾の攻城戦の抜粋を読んでた。攻め手が上杉謙信、城主が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/15#2hPg64voQq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,七尾,歴史,奥能登,七尾,歴史]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-15T23:24:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#mxZRQ1tdhG">
-      <title>[Web] [奥能登] 2025-05-16 南志見にある名舟漁港だろうけど。  この場所なんかは 水害前と思われる 2024 年 9 月 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/16#mxZRQ1tdhG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-15T20:24:50.00Z</dc:date>
     </item>
   </rdf:RDF>
