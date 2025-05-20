@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-20T02:44:57.62Z</dc:date>
+    <dc:date>2025-05-20T03:03:50.01Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RT/RTEX4VPcgZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7e/7efJDcdeCd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Vu/VuEBDEnPTr.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uX/uXYz7QfAWC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Go/GoKYYEDxcZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mq/MqsL76vUN2.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-20T02:44:57.62Z</dc:date>
+    <dc:date>2025-05-20T03:03:50.01Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RT/RTEX4VPcgZ.htm">
+    <title>[ポケモンgo] 2025-05-20 ほう、ドドゲザン… 強いな。鋼の最強の一角になりそう。と思ったら… 進化条件が厳しい。 【ポ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/RT/RTEX4VPcgZ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-20T02:20:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7e/7efJDcdeCd.htm">
     <title>[Web] 2025-05-19 おチ○チ○の大きさを測られて人類に晒されたワニ♂のプライバシーについて考えてあげなさい。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-15T20:24:50.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
   </item>
 </rdf:RDF>
