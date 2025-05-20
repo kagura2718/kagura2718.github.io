@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-19T15:15:18.08Z</dc:date>
+    <dc:date>2025-05-20T02:44:57.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7e/7efJDcdeCd.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Vu/VuEBDEnPTr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fM/fMVPQBjsKl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9c/9czmLurrVj.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Go/GoKYYEDxcZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mq/MqsL76vUN2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/or/orqiph1zzR.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-19T15:15:18.08Z</dc:date>
+    <dc:date>2025-05-20T02:44:57.62Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7e/7efJDcdeCd.htm">
     <title>[Web] 2025-05-19 おチ○チ○の大きさを測られて人類に晒されたワニ♂のプライバシーについて考えてあげなさい。 </title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-19T15:15:18.08Z</dc:date>
+    <dc:date>2025-05-19T21:19:56.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm">
+    <title>[アニメ] [GQuuuuuuX] 2025-05-20 今回のバスク・オムが善良という表現を見かけたけど、「極右」と言明されてるからなぁ。難民の犯罪 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-19T13:56:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Vu/VuEBDEnPTr.htm">
     <title>[アニメ] [GQuuuuuuX] 2025-05-19 旧バスク・オムの声優さん、動画はちょっと調べた程度では出てこなかった。  ジークアクスの、バ ...</title>
@@ -182,13 +190,5 @@
         ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/or/orqiph1zzR.htm">
-    <title>[Web] [野球] 2025-05-15 今までに見かけた女子の始球式の中でもピカイチの部類だ。投げ方ももちろんいいのだけど、球筋がも ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/or/orqiph1zzR.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-15T06:37:43.00Z</dc:date>
   </item>
 </rdf:RDF>
