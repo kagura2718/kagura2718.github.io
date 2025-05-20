@@ -9,8 +9,8 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8C/8CSu_TmnhF.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QA/QA5MsUcnUy.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RT/RTEX4VPcgZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7e/7efJDcdeCd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm"/>
@@ -39,6 +39,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-20T15:28:45.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QA/QA5MsUcnUy.htm">
+    <title>[生活] [氷見] 2025-05-20 氷見の番屋街。最近、氷見の岩ガキののぼりが出てる。売り出し中かなぁ？  一日五食。かなり望み ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/QA/QA5MsUcnUy.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,氷見,生活,氷見</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-20T14:01:17.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm">
     <title>[登山] [生活] [宝達山] 2025-05-19 自宅作業がたくさんあったが、手詰まりとなった。ので、本日の登頂。  うーん、困りましたな…</title>
     <link>https://kagura2718.github.io/Gitwee/jump/gp/gpiLikHNGj.htm</link>
@@ -46,14 +54,6 @@
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-20T08:24:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QA/QA5MsUcnUy.htm">
-    <title>[生活] [氷見] 2025-05-20 氷見の番屋街。最近、氷見の岩ガキののぼりが出てる。売り出し中かなぁ？  一日五食。かなり望み ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/QA/QA5MsUcnUy.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,氷見,生活,氷見</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-20T05:59:32.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RT/RTEX4VPcgZ.htm">
     <title>[ポケモンgo] 2025-05-20 ほう、ドドゲザン… 強いな。鋼の最強の一角になりそう。と思ったら… 進化条件が厳しい。 【ポ ...</title>
