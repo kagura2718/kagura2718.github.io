@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-20T15:28:45.00Z</dc:date>
+    <dc:date>2025-05-21T14:12:59.86Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Yxw9UxUgzW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#IZYCVPhUzQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Ux6JxNRau7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/19#03IBfC9S7P"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#cS62gh6A7Q"/>
@@ -25,13 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#oRBUlMXXfr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/17#IaXnfmTeaY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#fPX9_CqFYY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-14.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#jnC-rnN-d2"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#6jYjVymgFZ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Yxw9UxUgzW">
+      <title>[ポケモンgo] 2025-05-21 なんじゃろね？ギフトで頂いた。  格闘関係のイベントがあるみたいだが、調べる時間がない。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Yxw9UxUgzW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-21T14:12:59.86Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#IZYCVPhUzQ">
+      <title>[モンハンNow] 2025-05-21 ようやく、当たりは出た。おそらく当たりは数週間ぶり。しかし、氷強化が欲しいのだよ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/21#IZYCVPhUzQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-21T11:13:05.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Ux6JxNRau7">
+      <title>[Web] [時事] [炎上] 2025-05-21 正直、私も米は買ったことがない。辞めるべきかどうかって話でいくと、現況では仕方ないとは思うの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Ux6JxNRau7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-21T06:28:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs">
       <title>[ポケモンgo] 2025-05-20 先週は 62km </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs</link>
       <description>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-16T04:43:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-05-14.htm">
-      <title>[ポケモンgo] [登山] [食事] [七尾] [地理] 2025-05-14 七尾城山</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-05-14.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,ポケモンgo,登山,食事,七尾,地理,ポケモンgo,登山,食事,七尾,地理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-14T07:42:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#jnC-rnN-d2">
-      <title>[食事] [Web] [金沢] 2025-05-16 これまでもときどき話題に上るし、割と人気がある店なんだけど、この映像みるだけで、この食堂は絶 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/16#jnC-rnN-d2</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,Web,金沢,食事,Web,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-16T02:31:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/16#6jYjVymgFZ">
-      <title>[Web] [炎上] [文化] 2025-05-16 こんな嫌味ったらしい言い方できるわけない。炎上対策専門家(笑) さすがに三行以上の文章が分か ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/16#6jYjVymgFZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-16T03:29:53.00Z</dc:date>
     </item>
   </rdf:RDF>
