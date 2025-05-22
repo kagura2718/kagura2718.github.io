@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-22T03:16:07.87Z</dc:date>
+    <dc:date>2025-05-22T13:23:26.12Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0z/0zaHKXxbHs.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DG/DG-mXzu1m7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xd/XdN3EWXL3y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1p/1pAvpixWtB.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1H/1H3P1ucnKa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aR/aRD8saz6gX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1U/1UPC8lc-xK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwOGB0NQhb.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,かほく,ポケモンgo,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-22T03:16:07.87Z</dc:date>
+    <dc:date>2025-05-22T13:23:26.12Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm">
+    <title>[生活] [氷見] [羽咋] 2025-05-22 氷見へ抜ける 415 号、現況の谷屋集落を迂回するバイパス部分も、もうすぐ通れると思うんだよ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,氷見,羽咋,生活,氷見,羽咋</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-21T20:33:07.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DG/DG-mXzu1m7.htm">
     <title>[ポケモンgo] 2025-05-21 なんじゃろね？ギフトで頂いた。  格闘関係のイベントがあるみたいだが、調べる時間がない。</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,かほく,生活,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-17T14:26:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dw/DwOGB0NQhb.htm">
-    <title>[Web] [七尾] 2025-05-16 昨日の 七尾城の戦いの wikipedia 、長期の荒らし行為としてマークされてるみたいだ。 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Dw/DwOGB0NQhb.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,七尾,Web,七尾</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-16T20:46:50.00Z</dc:date>
   </item>
 </rdf:RDF>
