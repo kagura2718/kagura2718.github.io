@@ -4,16 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-24T07:08:50.02Z</dc:date>
+    <dc:date>2025-05-24T11:29:27.14Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#0MKHH4mWvL"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#knEY1PklBQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-05-23.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#HmTOjbIZzY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#_H45PCXB1O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#_AE_Ebl7-m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#7AJcNtETQZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/22#cJ9CkuXoZC"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#IZYCVPhUzQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#Ux6JxNRau7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#kzE0yYv0Xs"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-24T07:08:50.02Z</dc:date>
+      <dc:date>2025-05-24T11:29:27.14Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f">
+      <title>[モンハンNow] 2025-05-24 とりあえず、１回目。二回ぐらい練習しようと思ったら、抜けそびれた。  まずは武器。  ライト ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-24T07:17:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#knEY1PklBQ">
       <title>[モンハンNow] 2025-05-24 これか… </title>
@@ -71,13 +79,13 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-24T03:08:50.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f">
-      <title>[モンハンNow] 2025-05-24 とりあえず、１回目。二回ぐらい練習しようと思ったら、抜けそびれた。  まずは武器。  ライト ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/24#rleBBgv-2f</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#_H45PCXB1O">
+      <title>[生活] [七尾] [AI] 2025-05-24 健康増進センターアスロン - Wikipedia 昨日の健康増進センターアスロンは「田鶴浜温 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/24#_H45PCXB1O</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,七尾,AI,生活,七尾,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-24T03:01:13.00Z</dc:date>
+      <dc:date>2025-05-23T21:55:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#_AE_Ebl7-m">
       <title>[アニメ] [GQuuuuuuX] 2025-05-23 あの女性将校はファーストでもシャリア・ブルと一緒に出てた人か。ようやっと思い出した。もっと深 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-20T15:28:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX">
-      <title>[生活] [氷見] 2025-05-20 氷見の番屋街。最近、氷見の岩ガキののぼりが出てる。売り出し中かなぁ？  一日五食。かなり望み ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/20#NmcqRj2EhX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-20T14:01:17.00Z</dc:date>
     </item>
   </rdf:RDF>
