@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-25T08:20:26.60Z</dc:date>
+    <dc:date>2025-05-25T12:07:15.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/73/73nFv_mA3O.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TQ/TQMe7gHA7j.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pr/Pr2Wp9OGXE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6w/6wiihEbSth.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/45/45aRr8zHXe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kv/kvvpEDE_8a.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yo/YoUj2F-nEQ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/73/73nFv_mA3O.htm">
+    <title>[料理] 2025-05-25 手羽先を手に入れた。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/73/73nFv_mA3O.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-05-25T12:07:15.10Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TQ/TQMe7gHA7j.htm">
     <title>[生活] [宝達] 2025-05-25 モーゼパーク、安置物が変化したね。モーゼとうとう降臨したのかしら 😂  これが 10 年前。 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/TQ/TQMe7gHA7j.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,宝達,生活,宝達</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-25T08:20:26.60Z</dc:date>
+    <dc:date>2025-05-25T12:07:15.10Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Pr/Pr2Wp9OGXE.htm">
     <title>[登山] [Web] [炎上] 2025-05-25 なんかチラチラ見えてたのが、この件か。↓このアカウントはなんだかトレランに対して攻撃的だな。 ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-25T08:20:26.60Z</dc:date>
+    <dc:date>2025-05-25T12:07:15.10Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6w/6wiihEbSth.htm">
     <title>[生活] [七尾] 2025-05-23 田鶴浜 walking</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-05-22T01:17:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm">
-    <title>[生活] [氷見] [羽咋] 2025-05-22 氷見へ抜ける 415 号、現況の谷屋集落を迂回するバイパス部分も、もうすぐ通れると思うんだよ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/LC/LCfZTZswPJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,氷見,羽咋,生活,氷見,羽咋</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-05-21T20:33:07.00Z</dc:date>
   </item>
 </rdf:RDF>
