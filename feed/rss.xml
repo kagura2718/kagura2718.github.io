@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-26T12:10:19.00Z</dc:date>
+    <dc:date>2025-05-26T14:21:17.63Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#U4RyFlh4DW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#lvn_en4JIb"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#7AJcNtETQZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#75SfKl2XJj"/>
@@ -26,12 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/24#_H45PCXB1O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#_AE_Ebl7-m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/22#cJ9CkuXoZC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#VFW2WRYm97"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/22#PaS80ClHkQ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn">
+      <title>[アニメ] [薬屋のひとりごと] 2025-05-26 あら？ここで出てくるんだっけ？つまり叛乱に加担してるのかしら。  この創作物で知ってる限り唯 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-26T14:21:17.63Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ">
       <title>[モンハンNow] 2025-05-26 HR308 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ</link>
       <description>
@@ -54,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-26T02:14:50.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id">
+      <title>[料理] 2025-05-26 本日のだし巻き </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-25T20:56:25.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj">
       <title>[Web] [国際] 2025-05-25 最近、ウクライナ vs ロシアの話がまた少なくなってきたけど、どこまで行くのだろうな。トラン ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-22T09:43:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/21#VFW2WRYm97">
-      <title>[ポケモンgo] [かほく] 2025-05-21 ぜろですね。   知ってた。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/21#VFW2WRYm97</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,かほく,ポケモンgo,かほく]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-22T18:33:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/22#PaS80ClHkQ">
-      <title>[登山] [Web] [炎上] 2025-05-22 野口建はまた、何かろくでもないこと言ったんだな。山をそれなりにやる人ほど、悉く、彼(=野口建 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/22#PaS80ClHkQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-22T16:56:50.00Z</dc:date>
     </item>
   </rdf:RDF>
