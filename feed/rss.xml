@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-29T03:51:11.44Z</dc:date>
+    <dc:date>2025-05-29T08:55:27.77Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#lx5r6vK5oo"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/23#7AJcNtETQZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#75SfKl2XJj"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8">
+      <title>[料理] 2025-05-29 晩酌の肴に、と梅干しのだし巻き卵というのを思い付いたので、適当に焼いてみたが、うまく固まらな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-29T08:55:27.77Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
       <title>[生活] [NHK] [女性] 2025-05-29 昨日、晴山さんのことに言及したら、喉まで出かかって出てこなかったワードが「コンサバ系」だ。昔 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,NHK,女性,生活,NHK,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T03:51:11.44Z</dc:date>
+      <dc:date>2025-05-29T08:55:27.77Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP">
       <title>[Web] [七尾] 2025-05-29 先日訪ねてみた田鶴浜地区が出てた。読んでみたが、これは AI ではない代物だと予想する。 😂 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,七尾,Web,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T03:51:11.44Z</dc:date>
+      <dc:date>2025-05-29T08:55:27.77Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc">
       <title>[生活] [時事] 2025-05-28 米で騒いでるので、なんとなくね。これは氷見で見かけた石碑。「農為国本 (のういこくほん、農は ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,氷見,羽咋,生活,氷見,羽咋]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-25T16:01:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#75SfKl2XJj">
-      <title>[登山] [Web] [炎上] 2025-05-25 なんかチラチラ見えてたのが、この件か。↓このアカウントはなんだかトレランに対して攻撃的だな。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/25#75SfKl2XJj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-25T12:15:59.00Z</dc:date>
     </item>
   </rdf:RDF>
