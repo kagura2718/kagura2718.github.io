@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-29T13:07:26.17Z</dc:date>
+    <dc:date>2025-05-30T03:03:01.59Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#lx5r6vK5oo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#-YxSsL4fft"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#U4RyFlh4DW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#lvn_en4JIb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu">
+      <title>[ポケモンgo] 2025-05-30 おー、次はジャラコか。これはできるだけがんばりましょう。この辺りで予定を空けられるかどうか… ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-30T03:03:01.59Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I">
       <title>[アニメ] [GQuuuuuuX] 2025-05-29 キシリアのデザインも古いままで気の毒だ。現代なら性欲強めの女傑みたいな描き方ばかりじゃなく、 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T13:07:26.17Z</dc:date>
+      <dc:date>2025-05-29T20:48:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8">
       <title>[料理] 2025-05-29 晩酌の肴に、と梅干しのだし巻き卵というのを思い付いたので、適当に焼いてみたが、うまく固まらな ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T13:07:26.17Z</dc:date>
+      <dc:date>2025-05-29T16:52:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
       <title>[生活] [NHK] [女性] 2025-05-29 昨日、晴山さんのことに言及したら、喉まで出かかって出てこなかったワードが「コンサバ系」だ。昔 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,NHK,女性,生活,NHK,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T13:07:26.17Z</dc:date>
+      <dc:date>2025-05-29T16:10:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP">
       <title>[Web] [七尾] 2025-05-29 先日訪ねてみた田鶴浜地区が出てた。読んでみたが、これは AI ではない代物だと予想する。 😂 ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,七尾,Web,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-29T10:17:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp">
+      <title>[モンハンNow] 2025-05-30 腕試しクエストは基本的に良いアイデアだとは思うんだけどね。お散歩ゲームと認知している我輩にと ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-29T10:05:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc">
       <title>[生活] [時事] 2025-05-28 米で騒いでるので、なんとなくね。これは氷見で見かけた石碑。「農為国本 (のういこくほん、農は ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-26T02:14:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id">
-      <title>[料理] 2025-05-26 本日のだし巻き </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FUEMp27Id</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-25T20:56:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj">
-      <title>[Web] [国際] 2025-05-25 最近、ウクライナ vs ロシアの話がまた少なくなってきたけど、どこまで行くのだろうな。トラン ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/25#EEXk-XMiUj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-25T17:23:31.00Z</dc:date>
     </item>
   </rdf:RDF>
