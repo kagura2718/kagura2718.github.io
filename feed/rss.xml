@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-30T03:03:01.59Z</dc:date>
+    <dc:date>2025-05-30T03:40:10.67Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#HexoT337KR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#-FefC8tUXZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#U4RyFlh4DW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#lvn_en4JIb"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-30T03:03:01.59Z</dc:date>
+      <dc:date>2025-05-30T03:40:10.67Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I">
       <title>[アニメ] [GQuuuuuuX] 2025-05-29 キシリアのデザインも古いままで気の毒だ。現代なら性欲強めの女傑みたいな描き方ばかりじゃなく、 ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-29T16:52:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#HexoT337KR">
+      <title>[ポケモンgo] 2025-05-30 大阪に行ってる人達がいる。  ふーん、どうやらリモートではエナジーみたいなのは手に入らないようだ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#HexoT337KR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-29T16:19:41.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
       <title>[生活] [NHK] [女性] 2025-05-29 昨日、晴山さんのことに言及したら、喉まで出かかって出てこなかったワードが「コンサバ系」だ。昔 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達,生活,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-26T03:00:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/25#lvn_en4JIb">
-      <title>[料理] 2025-05-25 私は手羽先を手に入れた。食べるのがめんどくせぇが、酒は進む。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/25#lvn_en4JIb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-26T02:14:50.00Z</dc:date>
     </item>
   </rdf:RDF>
