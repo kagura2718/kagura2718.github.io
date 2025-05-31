@@ -4,17 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-05-30T10:46:33.38Z</dc:date>
+    <dc:date>2025-05-31T07:47:37.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/31#2whn0UPO73"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#dSFL-dbw0L"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#IwRzM__DM_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#MWNKA8fKI8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#4XZxzGM_5M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#HexoT337KR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc"/>
@@ -26,18 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#QirIHT1X2L"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#v4RkK7f50M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#In9YiwCMan"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#ZcRTTVvMl2"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
+      <title>[生活] [NHK] [女性] 2025-05-29 昨日、晴山さんのことに言及したら、喉まで出かかって出てこなかったワードが「コンサバ系」だ。昔 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,NHK,女性,生活,NHK,女性]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-29T17:44:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/31#2whn0UPO73">
+      <title>[Web] [野球] 2025-05-31 やっぱ、そういう話になるよねぇ。でもいい球投げてるわ… キャッチャーが捕れないレベルの変化球 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/31#2whn0UPO73</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-31T07:47:37.56Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#dSFL-dbw0L">
+      <title>[Web] [モンハンNow] 2025-05-30 既に G10-5 に到達してるというのが、真似できないわけだが、そもそもジャスト回避もうます ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#dSFL-dbw0L</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-05-30T23:52:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu">
       <title>[ポケモンgo] 2025-05-30 おー、次はジャラコか。これはできるだけがんばりましょう。この辺りで予定を空けられるかどうか… ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#8wlvB6-OPu</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-30T10:46:33.38Z</dc:date>
+      <dc:date>2025-05-30T21:45:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#SsdVDn4l8I">
       <title>[アニメ] [GQuuuuuuX] 2025-05-29 キシリアのデザインも古いままで気の毒だ。現代なら性欲強めの女傑みたいな描き方ばかりじゃなく、 ...</title>
@@ -78,14 +102,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-29T16:19:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP">
-      <title>[生活] [NHK] [女性] 2025-05-29 昨日、晴山さんのことに言及したら、喉まで出かかって出てこなかったワードが「コンサバ系」だ。昔 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/29#E7dmBj8iJP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,NHK,女性,生活,NHK,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T16:10:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP">
       <title>[Web] [七尾] 2025-05-29 先日訪ねてみた田鶴浜地区が出てた。読んでみたが、これは AI ではない代物だと予想する。 😂 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-27T12:26:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#ZcRTTVvMl2">
-      <title>[モンハンNow] 2025-05-28 武器強化の儀 アケノシルム大刀 ヴァルナロス G10-5 最大強化  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/28#ZcRTTVvMl2</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-27T11:49:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn">
-      <title>[アニメ] [薬屋のひとりごと] 2025-05-26 あら？ここで出てくるんだっけ？つまり叛乱に加担してるのかしら。  この創作物で知ってる限り唯 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/26#vG6pOXl8Nn</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-26T22:54:16.00Z</dc:date>
     </item>
   </rdf:RDF>
