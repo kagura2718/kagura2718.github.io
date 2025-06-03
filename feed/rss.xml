@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-02T03:26:01.47Z</dc:date>
+    <dc:date>2025-06-03T03:00:34.55Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#f7V_-Tp4iO"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/03#1p9BWcx3fo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/03#mokzTsrzBe"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#LAXB_c_dpw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#f7V_-Tp4iO"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#twzoDYf4qZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#Mt3wb5c32o"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#0E1oFhp17e"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#HmlQCQ0L7C"/>
@@ -24,20 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#4XZxzGM_5M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#HexoT337KR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/29#RlSt-_0MiP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#lx5r6vK5oo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#-YxSsL4fft"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#f7V_-Tp4iO">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/03#1p9BWcx3fo">
+      <title>[ポケモンgo] 2025-06-03 先週は 72km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/03#1p9BWcx3fo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-03T03:00:34.55Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/03#mokzTsrzBe">
+      <title>[Web] [野球] 2025-06-03 これは… 😅 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/03#mokzTsrzBe</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-02T22:57:50.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#LAXB_c_dpw">
+      <title>[料理] 2025-06-02 私は肉が好きだ。炙りチャーシュー丼 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/02#LAXB_c_dpw</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-02T12:25:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#f7V_-Tp4iO">
       <title>[料理] 2025-06-01 冷凍してた鶏肉を処理しましょう。もしかして、串に刺して焼いた方が、美味しない？科学、化学で考 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/01#f7V_-Tp4iO</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-02T03:26:01.47Z</dc:date>
+      <dc:date>2025-06-02T11:02:39.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/02#twzoDYf4qZ">
+      <title>[Web] [芸能] [女性] 2025-06-02 これが現在の森七菜。美少女風から美女風に変化したのは年齢によるものだろうけど、何か他にも雰囲 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/02#twzoDYf4qZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,芸能,女性,Web,芸能,女性]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-02T05:35:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/01#Mt3wb5c32o">
       <title>[ポケモンgo] 2025-06-01 なんじゃこりゃ？？ゴリランダー？  ドテッコツシャドウも少し気になる。  たまたま参加したら ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,七尾,Web,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-05-29T10:17:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp">
-      <title>[モンハンNow] 2025-05-30 腕試しクエストは基本的に良いアイデアだとは思うんだけどね。お散歩ゲームと認知している我輩にと ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/30#Bly8anCrbp</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-29T10:05:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc">
-      <title>[生活] [時事] 2025-05-28 米で騒いでるので、なんとなくね。これは氷見で見かけた石碑。「農為国本 (のういこくほん、農は ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/28#5FVfvEePuc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,時事,生活,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-28T19:25:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#lx5r6vK5oo">
-      <title>[モンハンNow] 2025-05-27 唐突に竜骨「大」が不足気味になった。   これの素材の偏りが意味不明だ…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/27#lx5r6vK5oo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-28T17:28:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/05/27#-YxSsL4fft">
-      <title>[モンハンNow] 2025-05-27 チャアクも難しすぎ。斧にするとパワー出てる感じはあるけど、斧に三発目？でほぼ失敗する。大刀よ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/05/27#-YxSsL4fft</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-05-28T14:46:16.00Z</dc:date>
     </item>
   </rdf:RDF>
