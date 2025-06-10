@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-10T03:05:14.02Z</dc:date>
+    <dc:date>2025-06-10T03:49:19.88Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xa/xae8S4auBo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f4/f4I3Z9zaBl.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3u/3u4Sdcgzyp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CW/CWFzsLxab0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OQ/OQT8Fd1ATD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jd/jdpzleSr2Z.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V7/V7TS7S3gqB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pe/Pe5GsRn0aB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nV/nVhvoM_2KW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/as/assyFOAazY.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,随筆,簡約版,ポケモンgo,富山,砺波,モンハンNow,ポケモンgo,富山,砺波,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-10T03:05:14.02Z</dc:date>
+    <dc:date>2025-06-10T03:49:19.88Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,Ingress,宝達,Ingress,宝達</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-09T19:06:26.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3u/3u4Sdcgzyp.htm">
+    <title>[登山] [生活] [宝達山] 2025-06-10 むくり。  本日の登頂 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/3u/3u4Sdcgzyp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-09T18:11:47.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/CW/CWFzsLxab0.htm">
     <title>[生活] 2025-06-08 昨日、軽めに腹を壊してたんだけど、暇だからスマホでニュースをみてたら、中居とか白鵬とかのしょ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,奥能登,奥能登</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-06T07:14:27.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/as/assyFOAazY.htm">
-    <title>[料理] 2025-06-05 本日のづけ  だし巻き </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/as/assyFOAazY.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-05T06:11:42.00Z</dc:date>
   </item>
 </rdf:RDF>
