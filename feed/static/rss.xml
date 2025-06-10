@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-10T09:38:14.30Z</dc:date>
+    <dc:date>2025-06-10T12:59:45.69Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1p/1pJHV5XGAX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xa/xae8S4auBo.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vq/vq0-s1n1n6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/O6/O6z1XnpBey.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/f4/f4I3Z9zaBl.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JB/JBrXbkq6v8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/56/56jhTBVwiJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3e/3e4ip58lXV.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V7/V7TS7S3gqB.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-10T09:38:14.30Z</dc:date>
+    <dc:date>2025-06-10T12:59:45.69Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xa/xae8S4auBo.htm">
     <title>[ポケモンgo] [富山] [砺波] [モンハンNow] 2025-06-09 砺波walk</title>
@@ -45,7 +45,15 @@
     <description>
         日記,随筆,簡約版,ポケモンgo,富山,砺波,モンハンNow,ポケモンgo,富山,砺波,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-10T09:38:14.30Z</dc:date>
+    <dc:date>2025-06-10T12:59:45.69Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vq/vq0-s1n1n6.htm">
+    <title>[Web] [野球] 2025-06-10 👍 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/vq/vq0-s1n1n6.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-10T12:59:45.69Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-06T23:06:34.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V7/V7TS7S3gqB.htm">
-    <title>[アニメ] [薬屋のひとりごと] 2025-06-07 晩酌しながら眺めていた。 蠆盆の描写も雑なんだよなぁ。普通は失神させたり拘束した上で、檻に毒 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/V7/V7TS7S3gqB.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-06T22:31:34.00Z</dc:date>
   </item>
 </rdf:RDF>
