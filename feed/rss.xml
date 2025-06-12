@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-11T15:32:45.18Z</dc:date>
+    <dc:date>2025-06-12T02:49:53.58Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/12#GjCnHJRTYo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#_Or5d8cpm7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#ePkSzx4leD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/10#aF-maSNtvo"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/08#i47kepqs8y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/06#oshVU85M1u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/08#8PVQj8moCW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/07#NSwEpDgwi1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/12#GjCnHJRTYo">
+      <title>[芸能] [音楽] 2025-06-12 昨日の『パプリカ』を聞いたら米津のファン度が深化した。5 年前の動画なんだけど、その間気付き ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/12#GjCnHJRTYo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,芸能,音楽,芸能,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-12T02:49:53.58Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ">
       <title>[Web] [芸能] [音楽] 2025-06-11 これも米津玄師か。俺でも何度も聞いたことあるぐらいの粉うことなき名曲。 Foorin パプリ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-11T15:32:45.18Z</dc:date>
+      <dc:date>2025-06-12T02:49:53.58Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#_Or5d8cpm7">
       <title>[アニメ] [GQuuuuuuX] 2025-06-11 そういえば、ガンダムはジオン系のマシンと化したのに「ファンネル」じゃなくて「ビット」って呼ん ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-07T10:39:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/07#NSwEpDgwi1">
-      <title>[NHK] 2025-06-07 剣道の特集やってた。古い番組の再放送っぽい。こいつらの礼の姿勢の指導とか、こういうの現代では ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/07#NSwEpDgwi1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-07T10:20:03.00Z</dc:date>
     </item>
   </rdf:RDF>
