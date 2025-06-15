@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-15T12:55:39.60Z</dc:date>
+    <dc:date>2025-06-15T14:52:12.65Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#bFrtXwBErb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#7HHPmMYiVm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iwxYUOU_Hs"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#Vw_u0d74qJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#GkFC5ofjcX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#XQvpLVrDlP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/12#dd95njG04D"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-06-09-01ce7.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/12#GjCnHJRTYo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#_Or5d8cpm7"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,宝達,生活,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-15T12:55:39.60Z</dc:date>
+      <dc:date>2025-06-15T14:52:12.65Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#7HHPmMYiVm">
       <title>[Web] [サッカー] 2025-06-15 笑えるやつ。 😂 </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-15T12:55:39.60Z</dc:date>
+      <dc:date>2025-06-15T14:52:12.65Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iwxYUOU_Hs">
       <title>[時事] [国際] 2025-06-14 今度はテルアビブか。  このぐらいの高層ビル街にミサイルが降り注いでるのをみると、東京も…と ...</title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-15T12:55:39.60Z</dc:date>
+      <dc:date>2025-06-15T14:52:12.65Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#Vw_u0d74qJ">
+      <title>[アニメ] [GQuuuuuuX] 2025-06-15 いやなニュースばかり。いまいち気分が上がらなくて、アニメを観るのもあんまり楽しくない。がんば ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/15#Vw_u0d74qJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-15T14:52:12.65Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#GkFC5ofjcX">
       <title>[登山] 2025-06-15 山成分をたっぷり補給したばかりなのに、いまいちやる気が湧いてこない。嫌なニュースばかりだから ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,芸能,音楽,芸能,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-12T17:53:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#_Or5d8cpm7">
-      <title>[アニメ] [GQuuuuuuX] 2025-06-11 そういえば、ガンダムはジオン系のマシンと化したのに「ファンネル」じゃなくて「ビット」って呼ん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/11#_Or5d8cpm7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-11T12:30:53.00Z</dc:date>
     </item>
   </rdf:RDF>
