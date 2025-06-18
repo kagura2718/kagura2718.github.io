@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-17T03:19:29.99Z</dc:date>
+    <dc:date>2025-06-18T03:23:53.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#kxLnSksy5R"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#-KOyFGEWqx"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#lPV0dtykYJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#jnr01nroJh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#TmPeP3Gw6C"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/13#nosgHsl216"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#DN1sGWQqs1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iH4XEhj5ZB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#k46R06pkFf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#imLEEglgAq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#J6OQwVbT3N"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K">
-      <title>[生活] [北陸] 2025-06-17 もしかして、梅雨入りしてなくない？？？今年もスキップしたのかな。</title>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#kxLnSksy5R">
+      <title>[Web] [炎上] 2025-06-17 これ、ほんとに言ったのかな。言ったのなら、さすがは馬鹿。刈り入れの一時期に使う人達が大量にい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/17#kxLnSksy5R</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-18T03:23:53.62Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#-KOyFGEWqx">
+      <title>[Web] [文化] [国際] 2025-06-17 何の機械か知らないんだけど、これの動画が割と流れてくる。女体を観る男の視線の意味は全世界共通 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/17#-KOyFGEWqx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,国際,Web,文化,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-18T02:54:29.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp">
+      <title>[Web] [時事] [炎上] 2025-06-18 言っちゃってるね。この人の頭だと自分で思い至ったんじゃなくて、誰か身の周りに「アドバイス」し ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-17T19:18:21.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K">
+      <title>[生活] [北陸] 2025-06-17 もしかして、梅雨入りしてなくない？？？今年もスキップしたのかな。 暑いと昼寝の時間が長くなる ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-17T03:19:29.99Z</dc:date>
+      <dc:date>2025-06-17T18:34:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#lPV0dtykYJ">
       <title>[時事] [国際] 2025-06-16 どうも中東情勢の情報を眺めていると、予想に違わないけどイスラエルが圧倒してるみたいだ。イラク ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-14T16:04:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#k46R06pkFf">
-      <title>[漫画] [Web] [炎上] 2025-06-15 ただの創作物なんだろうけど、これで本当に 7 月に何かの災害が起こってしまったら、嫌な気分だ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/15#k46R06pkFf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,Web,炎上,漫画,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-14T12:58:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#imLEEglgAq">
-      <title>[Web] [奥能登] 2025-06-14 おお？金蔵は俺が通ったときはまったく作付されてなかったけど、なんだかんだ植えたみたいだ 👍 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/14#imLEEglgAq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-14T12:47:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#J6OQwVbT3N">
-      <title>[モンハンNow] 2025-06-14 を？ am 6:30 ぐらいに湧いてるね。  終了時刻も 23:00 ぐらいになってるかな。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/14#J6OQwVbT3N</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-14T08:01:25.00Z</dc:date>
     </item>
   </rdf:RDF>
