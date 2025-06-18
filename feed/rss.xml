@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-18T03:23:53.62Z</dc:date>
+    <dc:date>2025-06-18T07:41:48.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#kxLnSksy5R"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#-KOyFGEWqx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#nj27EkwJD0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#e-5vKmAaZy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#lPV0dtykYJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#jnr01nroJh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#TmPeP3Gw6C"/>
@@ -23,11 +25,9 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#iW53mwWwdm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/15#GkFC5ofjcX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#XQvpLVrDlP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#Ch00STXRG4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/13#nosgHsl216"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#DN1sGWQqs1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iH4XEhj5ZB"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-18T03:23:53.62Z</dc:date>
+      <dc:date>2025-06-18T07:41:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#-KOyFGEWqx">
       <title>[Web] [文化] [国際] 2025-06-17 何の機械か知らないんだけど、これの動画が割と流れてくる。女体を観る男の視線の意味は全世界共通 ...</title>
@@ -48,12 +48,20 @@
       <dc:date>2025-06-18T02:54:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp">
-      <title>[Web] [時事] [炎上] 2025-06-18 言っちゃってるね。この人の頭だと自分で思い至ったんじゃなくて、誰か身の周りに「アドバイス」し ...</title>
+      <title>[Web] [時事] [炎上] 2025-06-18 あー、モロに言っちゃってるね。この人の頭だと自分で思い至ったんじゃなくて、誰か身の周りに「ア ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/18#n5us9U3Nlp</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-17T19:18:21.00Z</dc:date>
+      <dc:date>2025-06-17T21:39:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#nj27EkwJD0">
+      <title>[ポケモンgo] [生活] [かほく] [モンハンNow] 2025-06-18 かほく市七塚の住宅街に佇む自己主張の弱いパン屋さん (Morita Pain) だ。しかし、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/18#nj27EkwJD0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,かほく,モンハンNow,ポケモンgo,生活,かほく,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-17T20:57:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/17#lyIsWoo19K">
       <title>[生活] [北陸] 2025-06-17 もしかして、梅雨入りしてなくない？？？今年もスキップしたのかな。 暑いと昼寝の時間が長くなる ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-17T18:34:26.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/18#e-5vKmAaZy">
+      <title>[Web] [野球] 2025-06-18 野球にそれほど興味がないから、リアタイではプロも社会人もほぼ観ないわけだけど、そうなんだろう ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/18#e-5vKmAaZy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-06-17T17:27:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/16#lPV0dtykYJ">
       <title>[時事] [国際] 2025-06-16 どうも中東情勢の情報を眺めていると、予想に違わないけどイスラエルが圧倒してるみたいだ。イラク ...</title>
@@ -151,14 +167,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-15T02:03:43.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ">
-      <title>[Web] [芸能] [音楽] 2025-06-11 これも米津玄師か。俺でも何度も聞いたことあるぐらいの粉うことなき名曲。 Foorin パプリ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/11#YHk1kxL5EZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-12T12:57:21.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#Ch00STXRG4">
       <title>[モンハンNow] 2025-06-14 武器強化の儀 イベント武器 大剣   </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/14#Ch00STXRG4</link>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,石川,Web,炎上,奥能登,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-06-14T17:04:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iH4XEhj5ZB">
-      <title>[Web] [芸能] [音楽] 2025-06-14 これも好き。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/06/14#iH4XEhj5ZB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-06-14T16:04:38.00Z</dc:date>
     </item>
   </rdf:RDF>
