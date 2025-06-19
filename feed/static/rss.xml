@@ -10,6 +10,7 @@
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K0/K02ieAHVC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yj/YjXLrmLXoR.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ep/Epa7HemchK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yA/yAq77Uf1KP.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Za/Za0IkP82-H.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6B/6B7DYU89N3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6s/6st8ySG4VI.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ev/EvdQsDUEpV.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,PerazziBeretta,かほく,ポケモンgo,PerazziBeretta,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-19T03:55:56.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm">
+    <title>[Web] [スポーツ] 2025-06-19 ほうほう 名門が売却。これは騒がれることになる。 NBAのロサンゼルス・レイカーズ、売却へ　 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-18T23:31:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm">
     <title>[生活] [氷見] 2025-06-18 おじさんは氷見にやってきた。無念の前半欠測だけど、たぶんゆっくり走って 15km ぐらいだろ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,白山,登山,白山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-15T12:42:10.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ev/EvdQsDUEpV.htm">
-    <title>[登山] 2025-06-15 山成分をたっぷり補給したばかりなのに、いまいちやる気が湧いてこない。嫌なニュースばかりだから ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ev/EvdQsDUEpV.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,登山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-15T11:03:49.00Z</dc:date>
   </item>
 </rdf:RDF>
