@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-19T03:05:25.78Z</dc:date>
+    <dc:date>2025-06-19T05:51:00.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K0/K02ieAHVC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yj/YjXLrmLXoR.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ep/Epa7HemchK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yA/yAq77Uf1KP.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_a/_azCPg-h3i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9f/9ftNeLG_Wb.htm"/>
@@ -26,18 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6B/6B7DYU89N3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6s/6st8ySG4VI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ev/EvdQsDUEpV.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0v/0vWOsFy2YR.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ch/Ch6quE35lw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/K0/K02ieAHVC6.htm">
+    <title>[Web] [音楽] 2025-06-19 あー、そうか。この動画はコロナ騒動の頃のライブか。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/K0/K02ieAHVC6.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-19T05:51:00.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Yj/YjXLrmLXoR.htm">
     <title>[ポケモンgo] [PerazziBeretta] [かほく] 2025-06-19 七塚からは深夜に帰宅した。残念ながら PB おじさんは生きてる。 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Yj/YjXLrmLXoR.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,PerazziBeretta,かほく,ポケモンgo,PerazziBeretta,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-19T03:05:25.78Z</dc:date>
+    <dc:date>2025-06-19T03:55:56.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm">
     <title>[生活] [氷見] 2025-06-18 おじさんは氷見にやってきた。無念の前半欠測だけど、たぶんゆっくり走って 15km ぐらいだろ ...</title>
@@ -46,6 +54,14 @@
         日記,つぶやき,雑記帳,生活,氷見,生活,氷見</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-18T22:19:13.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ep/Epa7HemchK.htm">
+    <title>[アニメ] [GQuuuuuuX] 2025-06-19 時間ないから寝る前に倍速でちょっとだけ観たけど、だいたい分かった。もうダメだろ、これ 😂 現 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ep/Epa7HemchK.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,GQuuuuuuX,アニメ,GQuuuuuuX</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-18T17:09:42.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yA/yAq77Uf1KP.htm">
     <title>[Web] [炎上] 2025-06-17 これ、ほんとに言ったのかな。言ったのなら、さすがは馬鹿。刈り入れの一時期に使う人達が大量にい ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,登山,登山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-15T11:03:49.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0v/0vWOsFy2YR.htm">
-    <title>[Web] [音楽] 2025-06-14 youtube 眺めてると、最近は PV (Promotion Video) というよりも  ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/0v/0vWOsFy2YR.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-15T02:03:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ch/Ch6quE35lw.htm">
-    <title>[モンハンNow] 2025-06-14 武器強化の儀 イベント武器 大剣   </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ch/Ch6quE35lw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-14T18:46:24.00Z</dc:date>
   </item>
 </rdf:RDF>
