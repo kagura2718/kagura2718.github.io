@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-23T03:12:44.89Z</dc:date>
+    <dc:date>2025-06-23T03:33:17.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aZ/aZo7W-chw_.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VS/VSWW_1fmZD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PC/PCqZKzRtBj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
@@ -26,11 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yS/ySc0cH5QeD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K0/K02ieAHVC6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yj/YjXLrmLXoR.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aZ/aZo7W-chw_.htm">
+    <title>[時事] [国際] 2025-06-23 イランの外相は日本人みたいな名前。「アラグチ」？ 顔立ちは普通に中東っぽい。  ほんとにうん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/aZ/aZo7W-chw_.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-23T03:33:17.80Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/VS/VSWW_1fmZD.htm">
+    <title>[ポケモンgo] 2025-06-23 先週は 65km </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/VS/VSWW_1fmZD.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-23T03:33:17.80Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm">
     <title>[Web] [国際] [AI] 2025-06-22 これなら… 毒があんまりないから、いいかな 😂  それぞれ面白いのだけど、ロシアとフランス、 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm</link>
@@ -45,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-23T03:12:44.89Z</dc:date>
+    <dc:date>2025-06-23T03:33:17.80Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,PerazziBeretta,かほく,ポケモンgo,PerazziBeretta,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-19T03:55:56.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm">
-    <title>[Web] [スポーツ] 2025-06-19 ほうほう 名門が売却。これは騒がれることになる。 NBAのロサンゼルス・レイカーズ、売却へ　 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ir/IrDaetADPQ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-18T23:31:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm">
-    <title>[生活] [氷見] 2025-06-18 おじさんは氷見にやってきた。無念の前半欠測だけど、たぶんゆっくり走って 15km ぐらいだろ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/gw/gwBddMOC0z.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,氷見,生活,氷見</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-18T22:19:13.00Z</dc:date>
   </item>
 </rdf:RDF>
