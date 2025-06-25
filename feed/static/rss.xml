@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-24T11:18:09.79Z</dc:date>
+    <dc:date>2025-06-25T03:42:39.88Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4x/4xkz27iUFi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NB/NBAp7GhOCA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PC/PCqZKzRtBj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zh/ZhY_kfnzCR.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zu/zupyWShRBN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pa/panidP0h84.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kx/kxHMISKweq.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ct/ctFjansuX0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4x/4xkz27iUFi.htm">
+    <title>[モンハンNow] 2025-06-25 レイギエナ ⭐ 10 は絶対勝てねぇw ノーミスでもまったく削り切れぬ。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4x/4xkz27iUFi.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-25T03:42:39.88Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NB/NBAp7GhOCA.htm">
     <title>[登山] [Web] 2025-06-24 やっぱり文章でテキストにしてまとめて欲しい 😅 さすがに全部観て聴いては難しい。  北海道の ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/NB/NBAp7GhOCA.htm</link>
     <description>
         日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-24T11:18:09.79Z</dc:date>
+    <dc:date>2025-06-24T17:43:37.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/PC/PCqZKzRtBj.htm">
     <title>[Web] [音楽] 2025-06-23 いつも  貧乏くさい  (自主規制) ジャージみたいなの着てた印象なのに、こんな衣装 + メ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,Web,アニメ,漫画,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-20T14:48:30.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ct/ctFjansuX0.htm">
-    <title>[モンハンNow] 2025-06-21 次元変異て、もしかして、スマホの動作を重くすることでモンスターを強くする感じ？   ⭐ 10 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ct/ctFjansuX0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-20T13:19:19.00Z</dc:date>
   </item>
 </rdf:RDF>
