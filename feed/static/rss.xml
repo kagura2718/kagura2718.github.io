@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-06-28T13:41:34.67Z</dc:date>
+    <dc:date>2025-06-28T14:13:00.82Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qp/QpcnzVkoxZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6T/6TMpr0T6d0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v4/v4wfNPt1MN.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wq/wqMeibUAkQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/36/36wksinovD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VS/VSWW_1fmZD.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/so/soYJ7g3q8E.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm">
+    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2025-06-28 ザマゼンタ</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-06-28T14:13:00.82Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Qp/QpcnzVkoxZ.htm">
     <title>[Web] [芸能] [音楽] 2025-06-26 しつこく何度も書いてしまうが、今まで女性アイドル的なの自分に刺さったことはないんだけど、これ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Qp/QpcnzVkoxZ.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-28T13:41:34.67Z</dc:date>
+    <dc:date>2025-06-28T14:13:00.82Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6T/6TMpr0T6d0.htm">
     <title>[生活] [かほく] 2025-06-27 kaji factory 完成後に初めてきてみたけど、なんだかすごい。  夜もライトアップし ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-23T13:28:20.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm">
-    <title>[Web] [国際] [AI] 2025-06-22 これなら… 毒があんまりないから、いいかな 😂  それぞれ面白いのだけど、ロシアとフランス、 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/il/ilzh5yBCRH.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,国際,AI,Web,国際,AI</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-22T13:29:45.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/so/soYJ7g3q8E.htm">
-    <title>[モンハンNow] 2025-06-23 これは凶悪… 左右の腕を早い段階で壊せないと俺には無理だし、次元なんたらマークのところも壊し ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/so/soYJ7g3q8E.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-23T08:06:32.00Z</dc:date>
   </item>
 </rdf:RDF>
