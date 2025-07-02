@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-01T12:12:35.65Z</dc:date>
+    <dc:date>2025-07-02T02:57:51.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nk/nkdPjfFi_i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Eq/EqhAj4eMHL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kd/KdGX-E-pA2.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oH/oHefUozekZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yA/yAV3IO4jq7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qw/QwmJD4vp74.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ml/mlDyKUKOwr.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/nk/nkdPjfFi_i.htm">
+    <title>[Web] [炎上] [北陸] [東海] 2025-07-02 名古屋は 40 度… ？？ まじ？  こっちは、ここ数日は涼しいんだけどね… それでも早朝に ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/nk/nkdPjfFi_i.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,炎上,北陸,東海,Web,炎上,北陸,東海</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-02T02:57:51.29Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm">
     <title>[ポケモンgo] [Ingress] [生活] [奥能登] [金沢] [モンハンNow] 2025-06-28 金沢 walking (ザマゼンタ)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Dn/DnMivwoNI-.htm</link>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,時事,高岡,時事,高岡</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-06-29T15:57:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ml/mlDyKUKOwr.htm">
-    <title>[Web] [時事] [炎上] [文化] 2025-06-30 あらー。元からネタ政党と化していたけど、ますます深化しそうな予感。というか、これでいよいよ終 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ml/mlDyKUKOwr.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,時事,炎上,文化,Web,時事,炎上,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-29T10:38:27.00Z</dc:date>
   </item>
 </rdf:RDF>
