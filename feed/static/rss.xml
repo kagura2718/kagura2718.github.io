@@ -4,10 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-03T23:08:52.00Z</dc:date>
+    <dc:date>2025-07-05T03:16:16.31Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ja/ja9h-J5C-0.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iy/iyRkZk3pLN.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gP/gP2Bbf0jPK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bo/Bo8PMt22PD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/u0/u07pWkGfjl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GD/GDWz-Chse6.htm"/>
@@ -25,12 +28,33 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Eq/EqhAj4eMHL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kd/KdGX-E-pA2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pn/PnAK3XpJpG.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ju/juhS5MMEDi.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PR/PRJ-9v6KdG.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2A/2Ay5xqFkJ9.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ja/ja9h-J5C-0.htm">
+    <title>[Ingress] 2025-07-05 滝崎灯台も末森山に来た人だ。がんばっとるね。  ん？どこの方だろうね。反対側の志賀町は昔から ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ja/ja9h-J5C-0.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Ingress,Ingress</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-05T03:16:16.31Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iy/iyRkZk3pLN.htm">
+    <title>[Web] [芸能] [音楽] 2025-07-04 yoasobi の古い曲で女性ボーカル、学生バンドって感じのカバーも聴いてみたいな。かなりハ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/iy/iyRkZk3pLN.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,芸能,音楽,Web,芸能,音楽</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-04T12:15:52.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gP/gP2Bbf0jPK.htm">
+    <title>[生活] [羽咋] 2025-07-04 滝港での夕陽は見えぬ。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/gP/gP2Bbf0jPK.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-04T05:12:38.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Bo/Bo8PMt22PD.htm">
     <title>[音楽] 2025-07-03 んで、これがアニメの方のビデオか。二年前で歌い方は控え目だな。韻の踏み方がついてけなくて、何 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Bo/Bo8PMt22PD.htm</link>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-01T03:17:28.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ju/juhS5MMEDi.htm">
-    <title>[高岡] [富山] 2025-07-01 高岡市液状化対策に関する検討結果報告 液状化があったのは伏木(ふしき)と吉久(よしひさ)、横 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ju/juhS5MMEDi.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,高岡,富山,高岡,富山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-01T00:50:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/PR/PRJ-9v6KdG.htm">
-    <title>[生活] [北陸] 2025-06-30 ときどき降るぐらいが好ましいのだけど、また雨マークがなくなったね… 梅雨、終わっちゃったんだ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/PR/PRJ-9v6KdG.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-30T23:44:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2A/2Ay5xqFkJ9.htm">
-    <title>[ポケモンgo] 2025-07-01 来週はソルガレオのレイドがあるらしい。コスモッグとどういう関係だったっけ… とにかくネクロズ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/2A/2Ay5xqFkJ9.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-06-30T23:23:13.00Z</dc:date>
   </item>
 </rdf:RDF>
