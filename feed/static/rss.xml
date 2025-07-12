@@ -4,17 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-12T03:15:38.12Z</dc:date>
+    <dc:date>2025-07-12T03:27:36.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xH/xHRkEStlaU.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mj/mj3_OMjyLC.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uE/uEu-ecZoAp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FP/FPDwj_8pWg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1u/1ukiQtR9Cr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2D/2DMYWqIEYf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/He/HejtniqfsR.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6B/6BuA8NLy7u.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xo/XoZOiF1SGS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JT/JT9xsrZ4iS.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SZ/SZ1aj9Fotb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/I3/I3SsDm2sTm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PN/PNT98BzC9_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/k0/k0YJ936XRn.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-12T03:15:38.12Z</dc:date>
+    <dc:date>2025-07-12T03:27:36.41Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm">
+    <title>[アニメ] 2025-07-10 またかわいい感じのキャラか… あるいはただのモブか。  で、ときどき見かけてたこのキャラがタ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-10T11:05:24.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mj/mj3_OMjyLC.htm">
     <title>[モンハンNow] 2025-07-12 武器強化の儀 マガイマガド弓 G10-2 G10-3  </title>
@@ -46,6 +54,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-11T19:05:40.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uE/uEu-ecZoAp.htm">
+    <title>[漫画] [アニメ] 2025-07-12 女子に関する重めの描写から女性作者かと思ったら、どうやら男性っぽい。 ダンダダン - Wik ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/uE/uEu-ecZoAp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-11T13:28:14.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FP/FPDwj_8pWg.htm">
     <title>[Web] [炎上] [地理] [九州] 2025-07-11 とうとう来た？ 【速報】新燃岳が噴火したもよう | MRTニュース ｜ ＭＲＴ宮崎放送</title>
@@ -78,14 +94,6 @@
         日記,つぶやき,雑記帳,生活,Web,天気,生活,Web,天気</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-10T16:03:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm">
-    <title>[アニメ] 2025-07-10 またかわいい感じのキャラか… あるいはただのモブか。  で、ときどき見かけてたこのキャラがタ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ZQ/ZQgVXc2TRi.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-10T11:05:24.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6B/6BuA8NLy7u.htm">
     <title>[Web] [野球] 2025-07-09 これはきついな。サヨナラっぽい。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,九州,生活,九州</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-06T17:20:26.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/k0/k0YJ936XRn.htm">
-    <title>[アニメ] [薬屋のひとりごと] 2025-07-07 ふーん、そうかそうか。   あれ、そうだったの… 原作ってそうだっけ？  どんな時代だろうと ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/k0/k0YJ936XRn.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-06T15:01:13.00Z</dc:date>
   </item>
 </rdf:RDF>
