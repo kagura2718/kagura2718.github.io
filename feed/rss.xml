@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-12T13:19:26.67Z</dc:date>
+    <dc:date>2025-07-13T02:56:20.39Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/12#ujXLHvQQIW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#zdKcAOU931"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#PQXqsnW-dO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/11#nOcdUzPNtA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#KVJR_p8-s0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/12#DyPEPrAkh4"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/07#YpRvGLOJl5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/08#D9Vsfb8e79"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/09#yePghV0KAp"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/08#WE8YkKdi5i"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/07#Lik6qwmyJn"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/12#ujXLHvQQIW">
-      <title>[Web] [音楽] 2025-07-12 尾崎豊に加えてこれもよく聴いたなぁ。この動画、音が乱れてる。なんかテンポが遅いな。 </title>
+      <title>[Web] [音楽] 2025-07-12 尾崎豊に加えてこれもよく聴いたなぁ。この動画音声、音が乱れてる。どうもテンポが遅いかな。   ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/12#ujXLHvQQIW</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-12T13:19:26.67Z</dc:date>
+      <dc:date>2025-07-13T02:56:20.39Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#zdKcAOU931">
+      <title>[モンハンNow] 2025-07-13 古龍素材は rare5 の方が蓄積が遅かったか。とにかくほぼリーチだ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/13#zdKcAOU931</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-13T02:56:20.39Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#PQXqsnW-dO">
+      <title>[Web] [野球] 2025-07-13 おー、これはかっこええな。 👍 全部同じ選手かな。 Baez ？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/13#PQXqsnW-dO</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-13T00:42:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/11#nOcdUzPNtA">
       <title>[漫画] [アニメ] 2025-07-11 唐突に話がやや重くなる。へーw 妖怪か幽霊か… あと宇宙人？が絡んできてるの？観てるくせに正 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-12T13:19:26.67Z</dc:date>
+      <dc:date>2025-07-12T20:03:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#KVJR_p8-s0">
       <title>[アニメ] 2025-07-10 またかわいい感じのキャラか… あるいはただのモブか。  で、ときどき見かけてたこのキャラがタ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-08T11:49:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/08#WE8YkKdi5i">
-      <title>[漫画] [アニメ] [呪術廻戦] 2025-07-08 無料だからちょっと眺めてた。 ダンダダン - ダンダダン - 4話 (アニメ) | 無料動画 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/08#WE8YkKdi5i</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,呪術廻戦,漫画,アニメ,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-07T21:39:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/07#Lik6qwmyJn">
-      <title>[モンハンNow] 2025-07-07 いらねぇ… 毒を始めとした状態異常って使い勝手が悪い気がしてならないのだが…？  爆破はあん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/07#Lik6qwmyJn</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-07T17:39:20.00Z</dc:date>
     </item>
   </rdf:RDF>
