@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-14T10:18:48.59Z</dc:date>
+    <dc:date>2025-07-15T03:17:36.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#baDGoh0kWx"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/15#R2bs0l9_W2"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#hyFZMZWPkn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#_HYlBVnO1-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#baDGoh0kWx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#KWG7jgg30D"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#GFyIR-zcu6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#p61Tb_YTEN"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/12#DyPEPrAkh4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/12#y0xJIrnRbl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/11#l2kgXXrwQG"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#x5dSarY7B3"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#OGztF2-km7"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/09#6pU7qeKXMr"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#baDGoh0kWx">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/15#R2bs0l9_W2">
+      <title>[モンハンNow] 2025-07-15 大連続でなんとかなった。イビルジョー。出なさすぎだろ。  最後がこれかな？手こずりそうだ 😂 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/15#R2bs0l9_W2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-15T03:17:36.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#hyFZMZWPkn">
+      <title>[料理] 2025-07-14 冷凍のブリ  追加でカプレーゼ風のサラダとしましょう。  久々のモッツァレラもうまいが、夏野 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/14#hyFZMZWPkn</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-15T01:10:40.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#_HYlBVnO1-">
+      <title>[生活] 2025-07-14 なんせ暑くてね… 今は早起きもしないといけないのでまとまった睡眠は難しいので、昼寝も必要だし ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/14#_HYlBVnO1-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-14T22:49:14.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#baDGoh0kWx">
       <title>[ポケモンgo] 2025-07-14 ソルガレオしたいのに、何かいベントでもやってるのか、こんなゴミみたいなのしか湧いてない。   ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/14#baDGoh0kWx</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-14T10:18:48.59Z</dc:date>
+      <dc:date>2025-07-14T22:12:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/14#KWG7jgg30D">
       <title>[モンハンNow] 2025-07-14 未だに進まない。なんとかしてくれ… </title>
@@ -45,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-14T10:18:48.59Z</dc:date>
+      <dc:date>2025-07-14T11:26:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/13#GFyIR-zcu6">
       <title>[生活] [自転車] 2025-07-13 夕方になってようやく、久々にチャリに跨った。車の少ないコースを、と思ったら、この通り  行く ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,地理,九州,Web,炎上,地理,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-11T00:39:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#x5dSarY7B3">
-      <title>[料理] 2025-07-10 前に食べたトンテキ、ウスターソースバージョンは甘過ぎたがベースとしては美味しかった。甘さを控 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/10#x5dSarY7B3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-10T17:42:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/10#OGztF2-km7">
-      <title>[生活] [Web] [天気] 2025-07-10 へー。大雨って海側かと思ったら、この映像の雲の湧き方からすると全然そんなことないな。こわー… ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/10#OGztF2-km7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,Web,天気,生活,Web,天気]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-10T16:03:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/09#6pU7qeKXMr">
-      <title>[Web] [野球] 2025-07-09 これはきついな。サヨナラっぽい。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/09#6pU7qeKXMr</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-10T07:09:35.00Z</dc:date>
     </item>
   </rdf:RDF>
