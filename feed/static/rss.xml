@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-24T03:30:38.83Z</dc:date>
+    <dc:date>2025-07-24T08:31:17.53Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4y/4ynTtLUGcP.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/k6/k6zQju9L0v.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kU/kUTSbOkrzb.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/SM/SMePZc_nRI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kF/kFbYg7UGfB.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5l/5lOv8ABuiI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A-/A-nXf4z5iF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wj/wjwaQZA1AN.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fa/FacPrUqs7w.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,漫画,Web,アニメ,漫画,Web,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-24T03:30:38.83Z</dc:date>
+    <dc:date>2025-07-24T08:31:17.53Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/k6/k6zQju9L0v.htm">
+    <title>[ポケモンgo] 2025-07-24 ムゲンダイナね。ダイマックスしかできないのかな。うーん、ここで前の剣盾のザシザマが活躍するの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/k6/k6zQju9L0v.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-24T00:09:06.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kU/kUTSbOkrzb.htm">
     <title>[Web] [音楽] 2025-07-20 うん、普通に上手いよね。機材やホールの反響の力もどっかに入ると思うけど、それはどんな歌い手で ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-21T19:03:43.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fa/FacPrUqs7w.htm">
-    <title>[ポケモンgo] 2025-07-21 先週は 57km </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Fa/FacPrUqs7w.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-21T16:37:17.00Z</dc:date>
   </item>
 </rdf:RDF>
