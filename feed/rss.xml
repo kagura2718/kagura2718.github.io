@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-27T00:32:11.00Z</dc:date>
+    <dc:date>2025-07-27T08:01:19.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#LGC9VXGi-b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#TMYD7pv-lf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#ErzbXViBXO"/>
@@ -16,6 +17,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#hBT_d-qGFV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#-diXh2eaOt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#Vb-wuIzWVW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#gFyGJqTCaf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#qmZBOJx2gq"/>
@@ -26,12 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/25#vYvr-povTC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/25#fjiiZG4aYn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/24#IuCXbrskut"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/25#e18jXbCfQr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/24#Yz64XnQo4p"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy">
+      <title>[ポケモンgo] 2025-07-27 クリスタルなんたらは使わなかったけど、割と余裕あるのよね。メガレックウザが入ってるからだろうか。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-27T08:01:19.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v">
       <title>[生活] 2025-07-26 今日はたっぷりお昼寝をした。久々に眠り終わるまで寝れたので頭がすっきり。さて、どっか行きてぇな。</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v</link>
       <description>
@@ -94,6 +102,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-26T15:36:44.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ">
+      <title>[Web] [音楽] 2025-07-27 こっちは元々こういうイメージか。スポーツのテーマソング？  ふーん。むしろ自分たち Yoas ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-26T14:33:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1">
       <title>[モンハンNow] 2025-07-27 初のネロミェール   武器の抜粋。見た目の美しさはミツネ武器に及ばないなぁ。    武器に関 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,Web,アニメ,漫画,Web,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-24T19:23:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/25#e18jXbCfQr">
-      <title>[ポケモンgo] 2025-07-25 本日のメガマックス </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/25#e18jXbCfQr</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-24T19:16:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/24#Yz64XnQo4p">
-      <title>[モンハンNow] 2025-07-24 当たりだけど… 雷強化が欲しいんだ。連撃ってそれほど当たりなんだろうか。いまいち分からぬ。俺 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/24#Yz64XnQo4p</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-24T16:45:32.00Z</dc:date>
     </item>
   </rdf:RDF>
