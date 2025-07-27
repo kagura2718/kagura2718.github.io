@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-27T08:01:19.95Z</dc:date>
+    <dc:date>2025-07-27T08:06:13.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xQ/xQjNNE_4lT.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U7/U7Jczoxm0F.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wY/wYHlkxRjir.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uo/uoZ200FFCT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z5/z5JtvuX8UT.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nl/Nl8Z2jdBMd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5S/5Sz1kuaKEJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p6/p6ymq1yFZn.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4y/4ynTtLUGcP.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-27T08:01:19.95Z</dc:date>
+    <dc:date>2025-07-27T08:06:13.62Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/U7/U7Jczoxm0F.htm">
+    <title>[料理] 2025-07-27 臭み消しはレモン汁使うといいのかしら。ほとんどのレシピはオリーブオイル + 醤油なんだけども ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/U7/U7Jczoxm0F.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-07-27T08:06:13.62Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wY/wYHlkxRjir.htm">
     <title>[生活] 2025-07-26 今日はたっぷりお昼寝をした。久々に眠り終わるまで寝れたので頭がすっきり。さて、どっか行きてぇな。</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-07-25T08:00:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4y/4ynTtLUGcP.htm">
-    <title>[漫画] [Web] [アニメ] 2025-07-24 これはイメージが膨らんでおもろいね。映画は人気あるらしいので出来がいいみたいだけど、どうする ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/4y/4ynTtLUGcP.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,Web,アニメ,漫画,Web,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-07-24T19:23:59.00Z</dc:date>
   </item>
 </rdf:RDF>
