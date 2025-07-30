@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-30T12:55:38.25Z</dc:date>
+    <dc:date>2025-07-30T22:50:25.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#tJeaslw3Gi"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#vjHc2mkvAf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#l027EdS673"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1nO_CpE_Jj"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#R87w9LyD6v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#LGC9VXGi-b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#TMYD7pv-lf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#tJeaslw3Gi">
+      <title>[ポケモンgo] [モンハンNow] 2025-07-31 時差の問題もあるのだろうが、やっぱり日本がほとんどに見えるね。香港とか台湾もちらほらいるかな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/31#tJeaslw3Gi</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-30T22:50:25.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs">
       <title>[Web] [モンハンNow] 2025-07-30 久々に出てきた。あまみ。どうやら妊娠したので、結婚するらしい 😂 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-30T12:55:38.25Z</dc:date>
+      <dc:date>2025-07-30T22:50:25.20Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#vjHc2mkvAf">
       <title>[生活] [北陸] 2025-07-30 雨、こっちにこないんじゃないかな… やばいぞ、これ。 ちょっと降るだけじゃ、もはや意味がない ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-30T12:55:38.25Z</dc:date>
+      <dc:date>2025-07-30T22:50:25.20Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#l027EdS673">
       <title>[Web] 2025-07-30 映画やアニメを配信してるサイトらしい U-Next を初めて開いてみたけど、画面の配置がほと ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,南アルプス,登山,南アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-26T19:44:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ">
-      <title>[Web] [音楽] 2025-07-27 こっちは元々はこういうイメージか。スポーツのテーマソング？  むしろ自分たち Yoasobi ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T17:43:59.00Z</dc:date>
     </item>
   </rdf:RDF>
