@@ -4,15 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-07-29T14:06:39.82Z</dc:date>
+    <dc:date>2025-07-30T03:02:30.13Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#l027EdS673"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1nO_CpE_Jj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#POsMIkxbw3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#PdsmMTv0Ro"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#0oL0xPIM_R"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#3HuVXW8V6v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#rmvz162YBa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy"/>
@@ -24,20 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#wMlt4CcWeJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#ErzbXViBXO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#dYF-VkOz7B"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#hBT_d-qGFV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#-diXh2eaOt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#Vb-wuIzWVW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#l027EdS673">
+      <title>[Web] 2025-07-30 映画やアニメを配信してるサイトらしい U-Next を初めて開いてみたけど、画面の配置がほと ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/30#l027EdS673</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-30T03:02:30.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1nO_CpE_Jj">
+      <title>[生活] [東北] 2025-07-30 結構な大きさの津波になりそう。このエリアはまだまだ 3.11 の恐怖感が残ってるから避難は速 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1nO_CpE_Jj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,東北,生活,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-30T03:02:30.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY">
       <title>[登山] [Web] [文化] 2025-07-29 へー、そうなんだ。微塵子ほどもいらね。 😦 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,文化,登山,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T14:06:39.82Z</dc:date>
+      <dc:date>2025-07-30T03:02:30.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#POsMIkxbw3">
+      <title>[Web] [炎上] [文化] [モンハンNow] 2025-07-30 あー、あれ、燃えてたんだ。なんかちょろちょろ騒いでるかなって思ってた。火属性武器がイベントだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/30#POsMIkxbw3</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,モンハンNow,Web,炎上,文化,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-30T03:02:30.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#PdsmMTv0Ro">
       <title>[生活] [北陸] [富山] 2025-07-29 昨日の 8 号線はほんとに長くて苦しかったなぁ。 17:00 前後の帰宅ラッシュの時間で、流 ...</title>
@@ -45,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,富山,生活,北陸,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T14:06:39.82Z</dc:date>
+      <dc:date>2025-07-30T03:02:30.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm">
       <title>[登山] [食事] [北アルプス] 2025-07-28 剱岳</title>
@@ -53,7 +77,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,登山,食事,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T14:06:39.82Z</dc:date>
+      <dc:date>2025-07-29T18:04:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#0oL0xPIM_R">
       <title>[モンハンNow] 2025-07-29 ハンマーてジャスト回避直後のカウンター攻撃があんまり当たんない。あのやたらと回避が上手な人達 ...</title>
@@ -70,6 +94,14 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1">
+      <title>[モンハンNow] 2025-07-27 初のネロミェール   武器の抜粋。見た目の美しさはミツネ武器に及ばないなぁ。    ミツネ武 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-26T21:46:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#3HuVXW8V6v">
       <title>[生活] [かほく] [津幡] [宝達志水町] 2025-07-26 そういえば、かほくエリアも神岡と同じく、風呂の不毛地帯だ。ちょっと山の方に入った「やたの湯」 ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-26T16:27:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#hBT_d-qGFV">
-      <title>[モンハンNow] 2025-07-26 HR317 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/26#hBT_d-qGFV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T16:22:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#-diXh2eaOt">
-      <title>[料理] 2025-07-27 カルパッチョ風簡単カプレーゼ。ビンチョウマグロの刺身はオリーブオイルと塩コショウで漬けてみた ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#-diXh2eaOt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T15:48:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/26#Vb-wuIzWVW">
-      <title>[ポケモンgo] 2025-07-26 ほぼ初めてのダイマックスはリモートにて。ふーん、レイドみたいに時間制限がない？  逃げられる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/26#Vb-wuIzWVW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T15:36:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1">
-      <title>[モンハンNow] 2025-07-27 初のネロミェール   武器の抜粋。見た目の美しさはミツネ武器に及ばないなぁ。    武器に関 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T11:30:07.00Z</dc:date>
     </item>
   </rdf:RDF>
