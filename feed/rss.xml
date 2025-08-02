@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-01T10:34:40.38Z</dc:date>
+    <dc:date>2025-08-02T03:12:30.47Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#0heggTU-B5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#rCfButKJmO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#Nwed5oYkX9"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#rmvz162YBa"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB">
+      <title>[登山] [Web] [炎上] 2025-08-02 MARiA と三流栗城とを比較してしまうと、男女無差別クラスの比較でも普通に越えてると思う。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-02T03:12:30.47Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z">
       <title>[登山] [Web] 2025-08-01 ほぅ…  標高2450ｍの山岳リゾート「ホテル立山」　来年8月末で宿泊事業の終了を発表（北日 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-01T10:34:40.38Z</dc:date>
+      <dc:date>2025-08-02T03:12:30.47Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#0heggTU-B5">
       <title>[モンハンNow] 2025-08-01 HR318 (スクショ撮りこぼした) </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-01T10:34:40.38Z</dc:date>
+      <dc:date>2025-08-02T01:58:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#rCfButKJmO">
       <title>[Web] [時事] [炎上] [地理] [国際] 2025-07-31 昨日のは結果としては騒ぎすぎだったわけだけど、津波騒ぎもまだまだ続くのかしら。  海底にも「 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-28T22:57:07.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy">
-      <title>[ポケモンgo] 2025-07-27 クリスタルなんたらは使わなかったけど、割と余裕あるのよね。メガレックウザが入ってるからだろうか。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#lVHb0kIlzy</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-27T21:16:03.00Z</dc:date>
     </item>
   </rdf:RDF>
