@@ -4,17 +4,21 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-02T03:16:56.40Z</dc:date>
+    <dc:date>2025-08-03T02:59:07.31Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#Rd06xptqmP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#2l85pBnK9T"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#ceESvIKQYo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#0heggTU-B5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#rCfButKJmO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#Nwed5oYkX9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#z5wN8FPoH6"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#tJeaslw3Gi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#i0nSJ1I0PO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#1oTBEVbfAs"/>
@@ -24,20 +28,56 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/30#POsMIkxbw3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#xkofCXnSAY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#PdsmMTv0Ro"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#0oL0xPIM_R"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#rmvz162YBa"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB">
-      <title>[登山] [Web] [炎上] 2025-08-02 MARiA と三流栗城とを比較してしまうと、男女無差別クラスの比較でも普通に越えてると思う。 ...</title>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#Rd06xptqmP">
+      <title>[生活] [奥能登] [七尾] 2025-08-03 ここは営業再開したらしい。和倉もまだまだ道路がでこぼこで、歩道も穴だらけ。昨日は七尾で花火を ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/03#Rd06xptqmP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,七尾,生活,奥能登,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-03T02:59:07.31Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#2l85pBnK9T">
+      <title>[モンハンNow] 2025-08-03 武器強化の儀 ティガ ヘヴィボ G8-5 銀レウス ライボ ミツネ ヘヴィボ G8-2 aaa</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/03#2l85pBnK9T</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-02T21:28:37.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>
+        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2021-11-02T17:04:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm">
+      <title>[登山] [食事] [北アルプス] [剱岳] [富山] 2025-07-28 剱岳 (早月尾根)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,剱岳,富山,登山,食事,北アルプス,剱岳,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-29T23:18:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB">
+      <title>[登山] [Web] [炎上] 2025-08-02 MARiA と三流栗城とを比較してしまうと、男女無差別クラスの比較でも登山スキルでも体力でも ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-02T03:16:56.40Z</dc:date>
+      <dc:date>2025-08-02T13:56:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#ceESvIKQYo">
+      <title>[ポケモンgo] [羽咋] [宝達] 2025-08-02 うーん、この方は… 何者だろうか。昔から、やや特殊な場所のジムにもやってくる人だ。交換しませ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/02#ceESvIKQYo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,羽咋,宝達,ポケモンgo,羽咋,宝達]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-02T13:11:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z">
       <title>[登山] [Web] 2025-08-01 ほぅ…  標高2450ｍの山岳リゾート「ホテル立山」　来年8月末で宿泊事業の終了を発表（北日 ...</title>
@@ -45,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-02T03:16:56.40Z</dc:date>
+      <dc:date>2025-08-02T04:18:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#0heggTU-B5">
       <title>[モンハンNow] 2025-08-01 HR318 (スクショ撮りこぼした) </title>
@@ -78,14 +118,6 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,剱岳,富山,登山,剱岳,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-31T16:15:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm">
-      <title>[登山] [食事] [北アルプス] [剱岳] [富山] 2025-07-28 剱岳</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,剱岳,富山,登山,食事,北アルプス,剱岳,富山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T23:18:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/31#tJeaslw3Gi">
       <title>[ポケモンgo] [モンハンNow] 2025-07-31 時差の問題もあるのだろうが、やっぱり日本がほとんどに見えるね。香港とか台湾もちらほらいるかな ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,富山,生活,北陸,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-07-30T06:28:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#0oL0xPIM_R">
-      <title>[モンハンNow] 2025-07-29 ハンマーてジャスト回避直後のカウンター攻撃があんまり当たんない。あのやたらと回避が上手な人達 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/29#0oL0xPIM_R</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T13:28:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
-      <title>随筆(長編日記)</title>
-      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
-      <description>
-        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1">
-      <title>[モンハンNow] 2025-07-27 初のネロミェール   武器の抜粋。見た目の美しさはミツネ武器に及ばないなぁ。    ミツネ武 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/27#MIPEexSdp1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-26T21:46:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/07/29#rmvz162YBa">
-      <title>[ポケモンgo] 2025-07-29 先週は 35km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/07/29#rmvz162YBa</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-28T22:57:07.00Z</dc:date>
     </item>
   </rdf:RDF>
