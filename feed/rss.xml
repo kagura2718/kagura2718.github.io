@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-05T02:38:35.16Z</dc:date>
+    <dc:date>2025-08-05T03:20:31.23Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#GOnTjzbJHS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#w_zjyjeqen"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#1ukO-CESLR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#wyai5moiPu"/>
@@ -18,7 +19,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#pVXRaEYI1J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#2l85pBnK9T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#VUd5txMmS0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#ceESvIKQYo"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-05T02:38:35.16Z</dc:date>
+      <dc:date>2025-08-05T03:20:31.23Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm">
+      <title>[登山] [食事] [北アルプス] [剱岳] [富山] 2025-07-28 剱岳 (早月尾根)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,剱岳,富山,登山,食事,北アルプス,剱岳,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-07-29T23:18:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#w_zjyjeqen">
       <title>[Web] [炎上] 2025-08-04 ちらちら見えてたけど、ガチやん… </title>
@@ -110,14 +118,6 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2021-11-02T17:04:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm">
-      <title>[登山] [食事] [北アルプス] [剱岳] [富山] 2025-07-28 剱岳 (早月尾根)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-07-28.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,剱岳,富山,登山,食事,北アルプス,剱岳,富山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-07-29T23:18:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#VUd5txMmS0">
       <title>[Web] [炎上] [岐阜] 2025-08-03 他にニュースが少ないからか流れてくる夜逃げの池田温泉は岐阜のどこかと思ったら、岐阜というより ...</title>
