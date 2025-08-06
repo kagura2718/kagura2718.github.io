@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-05T12:32:12.40Z</dc:date>
+    <dc:date>2025-08-06T03:39:38.48Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#Zlt_s4D9fk"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/06#fQwWj6dyIN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#Zlt_s4D9fk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#3BEycH5OGf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#PkkJtgU9WI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#GOnTjzbJHS"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#VUd5txMmS0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#LbsY_MkOXB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/02#ceESvIKQYo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#Zlt_s4D9fk">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/06#fQwWj6dyIN">
+      <title>[生活] [宝達山] 2025-08-06 本日の登頂  山頂エリアの池    貯水量はまだ余裕があるかな。今日からの雨でどれだけ復活す ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/06#fQwWj6dyIN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,宝達山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-06T03:39:38.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#Zlt_s4D9fk">
       <title>[生活] [北陸] 2025-08-05 未だ、雨は降らぬ… と思ってたら、ポツポツと当たり始めた。さすがに、明日、明後日は降るよなぁ…</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/05#Zlt_s4D9fk</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-05T12:32:12.40Z</dc:date>
+      <dc:date>2025-08-05T23:59:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#3BEycH5OGf">
       <title>[岐阜] 2025-08-05 チャオ御嶽。そういえばスキー場はあったかね。夏場に一度しか通ってないはずだから、あんまり印象 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,岐阜,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-05T12:32:12.40Z</dc:date>
+      <dc:date>2025-08-05T20:19:49.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#PkkJtgU9WI">
       <title>[Web] [炎上] [文化] 2025-08-05 そうだよな、と分かってることをいちいち確認できただけでいい。私は高校ぐらいから後は、この手の ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-05T12:32:12.40Z</dc:date>
+      <dc:date>2025-08-05T18:49:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#GOnTjzbJHS">
       <title>[ポケモンgo] 2025-08-05 先週は 67km </title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-05T12:32:12.40Z</dc:date>
+      <dc:date>2025-08-05T16:27:07.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/05#VbZSB-KE5n">
       <title>[モンハンNow] 2025-08-05 貴竜石は貯まってきたが、変異素材の欲しいのが全然こねぇ。  進まねぇだろ。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,羽咋,宝達,ポケモンgo,羽咋,宝達]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-02T13:11:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z">
-      <title>[登山] [Web] 2025-08-01 ほぅ…  標高2450ｍの山岳リゾート「ホテル立山」　来年8月末で宿泊事業の終了を発表（北日 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/01#Pe67f5JD2Z</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-02T04:18:34.00Z</dc:date>
     </item>
   </rdf:RDF>
