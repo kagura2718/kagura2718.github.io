@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-07T02:23:00.82Z</dc:date>
+    <dc:date>2025-08-07T02:43:42.98Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#4P5CrunMUd"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-08-06.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#5PMJcT3DgK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/06#fQwWj6dyIN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/06#WS1YT-GOUi"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#W6bShu3xnk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#7XXdHVojR9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/03#Rd06xptqmP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#pVXRaEYI1J"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-07T02:23:00.82Z</dc:date>
+      <dc:date>2025-08-07T02:43:42.98Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-08-06.htm">
+      <title>[生活] [金沢] 2025-08-06 久々にお散歩金沢</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-08-06.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,生活,金沢,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-07T02:43:42.98Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#5PMJcT3DgK">
       <title>[ポケモンgo] 2025-08-07 ザシアン色違いはもう一度チャレンジするか。やはりキラとしては物足りぬ… というか、なんかイベ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-07T02:23:00.82Z</dc:date>
+      <dc:date>2025-08-07T02:43:42.98Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/06#fQwWj6dyIN">
       <title>[生活] [宝達山] 2025-08-06 本日の登頂  山頂エリアの池   貯水量はまだ余裕があるかな。今日からの雨でどれだけ復活する ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,七尾,生活,奥能登,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-03T19:02:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/04#pVXRaEYI1J">
-      <title>[生活] [北陸] 2025-08-04 こんだけ降らないとどれだけでも降ってほしいけど、予報では警報級なんだな。また嫌な予感が… 😅 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/04#pVXRaEYI1J</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-03T16:44:23.00Z</dc:date>
     </item>
   </rdf:RDF>
