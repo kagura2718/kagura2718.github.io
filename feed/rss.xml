@@ -4,12 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-09T13:24:14.96Z</dc:date>
+    <dc:date>2025-08-09T13:29:05.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#y8EN61kNKX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#y8EN61kNKX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#k9t9oQVlrj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#BVNtQZnpv7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/08#WmZW6oDJpk"/>
@@ -31,21 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#y8EN61kNKX">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB">
+      <title>[Web] [国際] 2025-08-09 この動画みてブラジルでは何て言ってるんだろうなぁ。 😂 産地はブラジルっぽいのに謎に日本語の ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-09T13:29:05.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#y8EN61kNKX">
       <title>[モンハンNow] 2025-08-09 ギリだけど一回で勝てた。水属性が強化されたのは大きい。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/09#y8EN61kNKX</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-09T13:24:14.96Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB">
-      <title>[Web] [国際] 2025-08-09 何て言ってるんだろうなぁ。 😂 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/09#XKW5-cX2zB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-09T13:24:14.96Z</dc:date>
+      <dc:date>2025-08-09T13:29:05.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/09#k9t9oQVlrj">
       <title>[映画] 2025-08-09 しばらく前に、とりあえず予備知識なしで『国宝』は観てきたんだけど、あの不快さや、友情や愛情を ...</title>
