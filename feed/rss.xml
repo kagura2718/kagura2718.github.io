@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-11T12:27:48.27Z</dc:date>
+    <dc:date>2025-08-11T12:30:31.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#4cUiHZc1xl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#lM2ox3K_wr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#uDFc0hoZzz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-08-10.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#4JJ_v_KZXh"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/08#BsGX1uxEG_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#4P5CrunMUd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#gz_kFAWAg1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#rpiIsJtHPa"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-11T12:27:48.27Z</dc:date>
+      <dc:date>2025-08-11T12:30:31.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#lM2ox3K_wr">
+      <title>[Web] [NHK] 2025-08-11 俺がみてる範囲では NHK でもこの件は報道されてない。  完全に日本側のミス  だから報道 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/11#lM2ox3K_wr</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,NHK,Web,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-11T12:30:31.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/11#uDFc0hoZzz">
       <title>[モンハンNow] 2025-08-11 ⭐ 6 の古龍はなくなったかしら？あれ、邪魔だったもん。 そういえば、先日のエラー多発はスマ ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-11T12:27:48.27Z</dc:date>
+      <dc:date>2025-08-11T12:30:31.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-08-10.htm">
       <title>[ポケモンgo] [生活] [金沢] 2025-08-10 大雨北陸でレイドデイ</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-07T13:09:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/07#rpiIsJtHPa">
-      <title>[Web] [金沢] [小矢部] 2025-08-07 今回は小矢部から南砺の方だったみたいだ。金沢で酷かったのは西金沢方面かなぁ？海側は多少は冠水 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/07#rpiIsJtHPa</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,金沢,小矢部,Web,金沢,小矢部]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-07T10:50:31.00Z</dc:date>
     </item>
   </rdf:RDF>
