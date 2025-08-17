@@ -4,14 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-16T23:41:16.41Z</dc:date>
+    <dc:date>2025-08-17T06:57:40.43Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#AEr8KGVyjQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#gY2id4bUhf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GVd9aFYe8P"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#-lQkn2wIou"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#vq0OnDgRk7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#Wjs1Q8r68f"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/14#NjQnZInFyy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/13#6Zjou17F8m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/14#EYYTwOwiBU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/14#Pfx2NadZ4g"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-16T23:41:16.41Z</dc:date>
+      <dc:date>2025-08-17T06:57:40.43Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#gY2id4bUhf">
+      <title>[登山] [Web] 2025-08-17 一度しか行ってないのに、写真をちらっとみたら、割と分かる。御嶽山。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/17#gY2id4bUhf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-17T04:45:45.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj">
+      <title>[モンハンNow] 2025-08-17 昨日の活動でなんとかなった。一気に武器強化の儀 ドスギルオス ガンランス     G10-3 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-16T22:11:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX">
       <title>[モンハンNow] 2025-08-16 やっと… 整いました！武器強化の儀 黒ディア 弓   次は rare 4 か… まぁ使ってな ...</title>
@@ -54,14 +70,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,宝達山,Web,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-16T19:04:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj">
-      <title>[モンハンNow] 2025-08-17 昨日の活動でなんとかなった。一気に武器強化の儀 ドスギルオス ガンランス    </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-16T15:54:36.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#-lQkn2wIou">
       <title>[モンハンNow] 2025-08-15 リーチ！！長かったがもう少しだ。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,映画,アニメ,映画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-14T00:50:47.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/14#Pfx2NadZ4g">
-      <title>[アニメ] [音楽] [GQuuuuuuX] 2025-08-14 昨日はこの曲が頭でリプレイしてた。音楽もいいし、アニメーションの女の子のダンスもかわいいし。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/14#Pfx2NadZ4g</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,音楽,GQuuuuuuX,アニメ,音楽,GQuuuuuuX]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-14T00:05:59.00Z</dc:date>
     </item>
   </rdf:RDF>
