@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-18T03:30:53.65Z</dc:date>
+    <dc:date>2025-08-18T11:54:11.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fp/Fp0OoocNZc.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pk/pk7BuahDBc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ft/ftkvvQQfxo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5T/5T9zJZ602i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/13/13IRhPjJsv.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qr/qrNqerRmGU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UD/UDnozMOhAM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sc/scUxVyj7vU.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ob/obrsRX--yw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,九州,Web,九州</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-08-18T03:30:53.65Z</dc:date>
+    <dc:date>2025-08-18T11:54:11.64Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pk/pk7BuahDBc.htm">
+    <title>[Web] [野球] 2025-08-18 OMG ちゃんと捕ってるね。 😂 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pk/pk7BuahDBc.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-08-18T03:43:16.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ft/ftkvvQQfxo.htm">
     <title>[ポケモンgo] [生活] [七尾] [モンハンNow] 2025-08-17 お散歩七尾</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,Web,北アルプス,剱岳,登山,Web,北アルプス,剱岳</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-08-14T19:40:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ob/obrsRX--yw.htm">
-    <title>[Web] [野球] 2025-08-14 ピッチャーとしてもいい球投げるなぁ 😁 DH じゃなく外野だめなのかな。さすがに体力的に難しいか。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ob/obrsRX--yw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-08-14T17:34:11.00Z</dc:date>
   </item>
 </rdf:RDF>
