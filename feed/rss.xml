@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-19T03:26:09.61Z</dc:date>
+    <dc:date>2025-08-19T03:54:02.62Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/18#eQB9WbJfVY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#mzRXNGGBOi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#LhVzHNIkcD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#ex7ch05WEK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/18#51DdwvJpIK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/18#EQ9wih7IaP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-08-17.htm"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#vq0OnDgRk7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#Wjs1Q8r68f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#ZTE3YGndUB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#LjlmaDCCPF"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-19T03:26:09.61Z</dc:date>
+      <dc:date>2025-08-19T03:54:02.62Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#ZnFz8h-xVH">
       <title>[モンハンNow] 2025-08-19 やっぱりダメだこれwww 重過ぎるww  おや、個別 rare 6 だ。  ジャナフ亜種の武 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-19T03:26:09.61Z</dc:date>
+      <dc:date>2025-08-19T03:54:02.62Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/18#eQB9WbJfVY">
       <title>[料理] 2025-08-18 麻婆豆腐を錬成 </title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-19T03:26:09.61Z</dc:date>
+      <dc:date>2025-08-19T03:54:02.62Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#mzRXNGGBOi">
       <title>[モンハンNow] 2025-08-19 なんでこんなに出力量のバランスが悪いのん？   欲しい、レイアと泥のやつのだけ、出ない… 😭</title>
@@ -70,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-18T17:13:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#ex7ch05WEK">
+      <title>[ポケモンgo] [モンハンNow] 2025-08-19 アクセス可能範囲が 1.5 倍… これ、もっと暑い時期にやってほしぃ… 日陰でできる。  先 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/19#ex7ch05WEK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-18T15:18:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/18#51DdwvJpIK">
       <title>[モンハンNow] 2025-08-18 一勝しなくても素材が報酬のときは、新防具、武器として出てくるのね。  これは、なんだかやばそ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関西,Web,炎上,関西]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-15T17:04:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#LjlmaDCCPF">
-      <title>[Web] [野球] 2025-08-15 なるほろ。最初のポストで誤解してたけど、打者がタイム要求したんじゃなくて、投手の後ろの塁審が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/15#LjlmaDCCPF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-15T16:24:55.00Z</dc:date>
     </item>
   </rdf:RDF>
