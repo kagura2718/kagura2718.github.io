@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-20T03:21:04.41Z</dc:date>
+    <dc:date>2025-08-20T08:10:18.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#18chTxsLk8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#rAyNIqnXS7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#mzRXNGGBOi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#MeM_O4MAlz"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GVd9aFYe8P"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#-lQkn2wIou"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-20T03:21:04.42Z</dc:date>
+      <dc:date>2025-08-20T08:10:18.79Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#18chTxsLk8">
+      <title>[登山] [北アルプス] 2025-08-20 太郎平も出たかぁ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/20#18chTxsLk8</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-20T08:10:18.79Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#rAyNIqnXS7">
       <title>[Web] [炎上] 2025-08-20 テレビに出てた弁護士さんて、こうなる運命にあるのかしら… 橋下もそうだもんね。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-20T03:21:04.42Z</dc:date>
+      <dc:date>2025-08-20T03:26:01.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#mzRXNGGBOi">
       <title>[モンハンNow] 2025-08-19 なんでこんなに出力量のバランスが悪いのん？レイアの次元変異はかなり狙ってるのに…   欲しい ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,宝達山,Web,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-16T19:04:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/15#-lQkn2wIou">
-      <title>[モンハンNow] 2025-08-15 リーチ！！長かったがもう少しだ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/15#-lQkn2wIou</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-15T22:35:13.00Z</dc:date>
     </item>
   </rdf:RDF>
