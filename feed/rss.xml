@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-20T08:10:18.79Z</dc:date>
+    <dc:date>2025-08-20T14:40:16.13Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#MMuJ1OltYd"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#18chTxsLk8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#rAyNIqnXS7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#mzRXNGGBOi"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#wCBhaA_atv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#MeM_O4MAlz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#2Wm3BQWLFV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#ZnFz8h-xVH"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#AEr8KGVyjQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#gY2id4bUhf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/17#1doJZJB9Yj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GVd9aFYe8P"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#MMuJ1OltYd">
+      <title>[金沢] [石川] 2025-08-20 なんじゃろね？よく散歩してるとこだ 😨 胸にナイフ刺さった男性遺体、自殺か　金沢の県西部緑地 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/20#MMuJ1OltYd</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,金沢,石川,金沢,石川]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-20T14:40:16.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3">
       <title>[登山] [北アルプス] 2025-08-19 地名ですぐに分かるから、情報や光景がばんばん頭に入ってきちゃう。 🐻 爺ヶ岳（南峰）・爺ヶ岳 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/19#zmwxBndnt3</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-20T08:10:18.79Z</dc:date>
+      <dc:date>2025-08-20T14:40:16.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#18chTxsLk8">
       <title>[登山] [北アルプス] 2025-08-20 太郎平も出たかぁ。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-20T08:10:18.79Z</dc:date>
+      <dc:date>2025-08-20T08:58:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#rAyNIqnXS7">
       <title>[Web] [炎上] 2025-08-20 テレビに出てた弁護士さんて、こうなる運命にあるのかしら… 橋下もそうだもんね。 </title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-19T22:11:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#wCBhaA_atv">
+      <title>[モンハンNow] 2025-08-20 やっぱりみんな重いみたいだ。俺の格安スマホだけじゃないw アンジャナフ亜種のエフェクトについ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/20#wCBhaA_atv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-19T17:08:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/19#MeM_O4MAlz">
       <title>[Web] [炎上] [文化] [国際] 2025-08-19 ををを？？？まじ？ ✌️ サインがトルコではテロリストを示すハンドサイン？別口で調べてみると ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-16T22:11:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX">
-      <title>[モンハンNow] 2025-08-16 やっと… 整いました！武器強化の儀 黒ディア 弓   次は rare 4 か… まぁ使ってな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GBZ_39_xKX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-16T21:01:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GVd9aFYe8P">
-      <title>[Web] [宝達山] 2025-08-16 今の夏場の帰省中に低山に登る人っているかなぁ。よほど、帰宅先にいたくない事情があればあえて登 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/16#GVd9aFYe8P</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,宝達山,Web,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-16T19:04:59.00Z</dc:date>
     </item>
   </rdf:RDF>
