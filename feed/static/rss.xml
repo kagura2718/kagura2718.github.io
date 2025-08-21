@@ -11,6 +11,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8q/8qC_38URLh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sl/slFnxqHMny.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/y1/y19sN0BqZ7.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yQ/yQhIqR80cO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bP/bPdnz5eoI9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ub/ubz9-jT78h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KS/KST2hTl5MX.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5T/5T9zJZ602i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/13/13IRhPjJsv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gx/GxdhTQ0ZLy.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bS/bSbFGI57-S.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-08-20T16:12:14.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yQ/yQhIqR80cO.htm">
+    <title>[生活] [北陸] [九州] 2025-08-21 またあの辺りか… こっちに台風が来なくなったのはありがたいが、そろそろ雨も降ってほしいぐらい ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/yQ/yQhIqR80cO.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,北陸,九州,生活,北陸,九州</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-08-20T14:07:23.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bP/bPdnz5eoI9.htm">
     <title>[登山] [北アルプス] 2025-08-20 太郎平も出たかぁ。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-08-17T14:18:17.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bS/bSbFGI57-S.htm">
-    <title>[登山] [Web] 2025-08-17 一度しか行ってないのに、写真をちらっとみたら、割と分かる。御嶽山。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/bS/bSbFGI57-S.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-08-17T04:45:45.00Z</dc:date>
   </item>
 </rdf:RDF>
