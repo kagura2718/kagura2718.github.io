@@ -13,6 +13,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#XX6lJ8J_EP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#O-mMe5EB1T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#YMTAkvahBd"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#bCjl8l373q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/22#lowGj3ZAB-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#5b2EDzexd3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/23#GkI8bNAxMn"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#mOzckMPr0N"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#KrcAqLHAxM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/20#MMuJ1OltYd"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#89ZjkEbJH0"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -70,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-24T07:36:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#bCjl8l373q">
+      <title>[ポケモンgo] 2025-08-25 割と高固体はきたものの、これ以上ザシアンが増えるのは面白くない。そろそろメガミュウツーとやら ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/25#bCjl8l373q</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-24T06:25:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/22#lowGj3ZAB-">
       <title>[生活] [金沢] 2025-08-22 今日もしつこく駅前へ出動。ザマゼンタレイドアワー。なんだけど、昨日ザシアンがんばったから今日 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,金沢,石川,金沢,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-21T01:48:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#89ZjkEbJH0">
-      <title>[モンハンNow] 2025-08-21 武器強化の儀 ギエナ ヘヴィボ ロゼッテス  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/21#89ZjkEbJH0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-21T00:16:22.00Z</dc:date>
     </item>
   </rdf:RDF>
