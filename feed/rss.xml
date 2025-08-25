@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-25T02:58:25.20Z</dc:date>
+    <dc:date>2025-08-25T13:37:48.21Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#TdlQpgyZZp"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#G7E3uADHvl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#YMTAkvahBd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#rSBlVBfWEV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/23#e7tLQ06wpy"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/23#WQ5jPIh63H"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/22#CqNuVX80Rj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/22#qC2xnkAZtf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#9Pt5V3_oVV"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-25T02:58:25.20Z</dc:date>
+      <dc:date>2025-08-25T13:37:48.21Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#G7E3uADHvl">
+      <title>[ポケモンgo] 2025-08-25 なんか騒いでるのはこれか。 『Pokémon GO』の新たなレベルアップの旅が始まります 雑 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/25#G7E3uADHvl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-08-25T08:10:33.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/24#YMTAkvahBd">
       <title>[ポケモンgo] 2025-08-24 取れました。強そうだけど。     ほえー 😯   で、これをどうしろと… 🤔  交換はでき ...</title>
@@ -45,15 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-25T02:58:25.20Z</dc:date>
+      <dc:date>2025-08-25T06:25:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/25#rSBlVBfWEV">
-      <title>[文化] [北陸] [福井] 2025-08-25 あのお寺の様子をみてると妙に納得しちゃうんだよな。 😅 永平寺の修行僧 座禅体験の高校生にわ ...</title>
+      <title>[文化] [北陸] [福井] 2025-08-25 あのお寺の様子 をみてると妙に納得しちゃうんだよな。 😅 永平寺の修行僧 座禅体験の高校生に ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/25#rSBlVBfWEV</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,文化,北陸,福井,文化,北陸,福井]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-25T02:58:25.20Z</dc:date>
+      <dc:date>2025-08-25T05:41:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/23#e7tLQ06wpy">
       <title>[生活] [羽咋] 2025-08-23 羽咋でまつりやってた。主催はどこだろうね。できたばかりの LAKUNA を中心にした祭りみた ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-08-22T00:07:21.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/08/21#9Pt5V3_oVV">
-      <title>[モンハンNow] 2025-08-21 ジャナフ亜種武器は会心率の上昇に加えて、スキル会心撃がついてることを考えると、ジンオウガ武器 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/08/21#9Pt5V3_oVV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-08-21T21:32:50.00Z</dc:date>
     </item>
   </rdf:RDF>
