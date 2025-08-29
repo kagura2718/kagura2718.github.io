@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-08-29T04:25:00.96Z</dc:date>
+    <dc:date>2025-08-29T08:16:18.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-A/-AkDzKLuCY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Kj/KjPMSRM6JJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tu/tu8C1dwNw5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dz/dz_hcQwciM.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sf/Sf5KQcJzJD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4V/4VkSStVs_3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gi/GikvPAPbDm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wj/WjfIKdExFn.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-A/-AkDzKLuCY.htm">
+    <title>[モンハンNow] 2025-08-29 はい。これは漂流純石から。  を？？ </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/-A/-AkDzKLuCY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-08-29T08:16:18.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Kj/KjPMSRM6JJ.htm">
     <title>[ポケモンgo] 2025-08-29 本日の最大強化 (PL50) </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Kj/KjPMSRM6JJ.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-08-29T04:25:00.96Z</dc:date>
+    <dc:date>2025-08-29T06:09:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tu/tu8C1dwNw5.htm">
     <title>[生活] [氷見] 2025-08-28 どうやら氷見の海岸は満潮時刻だ  満潮で海沿いは走りづらかった。  おお！たまたま成立して  ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,文化,音楽,Web,文化,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-08-24T08:53:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Wj/WjfIKdExFn.htm">
-    <title>[ポケモンgo] 2025-08-25 割と高固体はきたものの、これ以上ザシアンが増えるのは面白くない。そろそろメガミュウツーとやら ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Wj/WjfIKdExFn.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-08-24T06:26:10.00Z</dc:date>
   </item>
 </rdf:RDF>
