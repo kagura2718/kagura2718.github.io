@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-09T14:21:18.43Z</dc:date>
+    <dc:date>2025-09-09T23:46:46.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jU/jU0_e1JO_J.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cq/cq-6Xa9KpD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mm/mmZlM3r4g6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Py/PyTmGTLLzf.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-1/-12HpOhmuV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2H/2HF8FRMHR0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fP/fPdU1-wkZY.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xc/xcuwnBucNw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jU/jU0_e1JO_J.htm">
+    <title>[モンハンNow] 2025-09-10 やっと終わった。ナルガクルガ、超苦手…    あちゃー 😂 ⭐ 10 とは無茶をおっしゃるwww </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jU/jU0_e1JO_J.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-09T23:46:46.87Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cq/cq-6Xa9KpD.htm">
     <title>[登山] [生活] [宝達山] 2025-09-09 本日の登頂  どっか行きてぇな。</title>
     <link>https://kagura2718.github.io/Gitwee/jump/cq/cq-6Xa9KpD.htm</link>
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-09T14:21:18.43Z</dc:date>
+    <dc:date>2025-09-09T18:09:11.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mm/mmZlM3r4g6.htm">
     <title>[モンハンNow] 2025-09-08 抜ける人が多いのは「祭り」のこのイベント武器かついでる人がいるときかな。まぁ仕方ない。  気 ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-09T14:21:18.43Z</dc:date>
+    <dc:date>2025-09-09T16:00:19.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Py/PyTmGTLLzf.htm">
     <title>[ポケモンgo] 2025-09-09 を？   幻枠だから交換できんらしいな。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,Web,炎上,文化,登山,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-06T01:11:13.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xc/xcuwnBucNw.htm">
-    <title>[漫画] [アニメ] 2025-09-02 進撃の巨人のアニメが無料だ。Season1 ぐらいの頃の漫画は、読み返してみるとほんとに荒削 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/xc/xcuwnBucNw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-05T00:10:03.00Z</dc:date>
   </item>
 </rdf:RDF>
