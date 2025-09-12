@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-12T03:19:11.46Z</dc:date>
+    <dc:date>2025-09-12T03:28:00.70Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#69z-NNvERR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#EQp_mVBRp6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#R9cie22Pxo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SRp1J7jr10"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/09#GS75Jx855F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/10#kvzDgVaL8P"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/09#n1x1eRO--T"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/08#-yL6GBoZU-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/08#8H-aGvUQ3X"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/08#oKv1d4CCL_"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-12T03:19:11.46Z</dc:date>
+      <dc:date>2025-09-12T03:28:00.70Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#EQp_mVBRp6">
       <title>[モンハンNow] 2025-09-11 貴竜石 86 … バランスが悪すぎねぇ？？？？  レイアの次元変異はかなり狙ってるのに、まだ ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-11T20:04:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SRp1J7jr10">
+      <title>[モンハンNow] 2025-09-12 ネロミェール防具はだいぶ完成してきた。頭以外が完成 (Level8) したら、次は武器だ。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SRp1J7jr10</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-11T12:25:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu">
       <title>[モンハンNow] 2025-09-11 うーん、 SP 二回撃って二回ともはずすと ⭐ 9 でもいかんともしがたい。はずれるタイミン ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-08T19:48:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/08#oKv1d4CCL_">
-      <title>[生活] 2025-09-08 早朝に土砂災害情報が出てたみたいだ。全然気付かなかった。 💤 ＜解除＞【土砂災害警戒情報】石 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/08#oKv1d4CCL_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-08T16:52:24.00Z</dc:date>
     </item>
   </rdf:RDF>
