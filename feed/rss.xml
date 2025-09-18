@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-15T09:57:15.31Z</dc:date>
+    <dc:date>2025-09-17T10:14:30.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#KX94MlTyp-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-14.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/14#TVYB3U8uOp"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SoSAunmy-f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#R9cie22Pxo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/09#GS75Jx855F"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P">
+      <title>[Ingress] [Web] [文化] 2025-09-18 出かける前に見かけたポストだけど、ほんとに数年見かけなくても、まったく成長が見られないね。こ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,文化,Ingress,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-17T10:14:30.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9">
       <title>[モンハンNow] 2025-09-15 一応当たり枠だけど、いらね…  ガンランスまったくわからん。  結局、当たり枠はひとつだけだ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-15T09:57:15.31Z</dc:date>
+      <dc:date>2025-09-15T19:07:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#KX94MlTyp-">
       <title>[ポケモンgo] 2025-09-15 夜になってもこれだった。なんなんだ、あほかw </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-15T09:57:15.31Z</dc:date>
+      <dc:date>2025-09-15T18:12:07.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-09-14.htm">
       <title>[ポケモンgo] [生活] [羽咋] 2025-09-14 滝港 walking</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,羽咋,ポケモンgo,生活,羽咋]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-15T09:57:15.31Z</dc:date>
+      <dc:date>2025-09-15T11:06:38.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/14#TVYB3U8uOp">
       <title>[ポケモンgo] 2025-09-14 進化条件がダルい。めんどくせぇしやめとくか…  キープしてあった、進化待ちも、ほれ、この通り ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-11T11:56:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/09#GS75Jx855F">
-      <title>[登山] [生活] [宝達山] 2025-09-09 本日の登頂。土砂災害警報だかが出てたけど、何も問題なかった。登山道は頑強。  どっか行きてぇな。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/09#GS75Jx855F</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-11T10:39:08.00Z</dc:date>
     </item>
   </rdf:RDF>
