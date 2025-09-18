@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-17T10:14:30.00Z</dc:date>
+    <dc:date>2025-09-18T08:43:54.70Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-16.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#bsvB7YrmZQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#k5Gw_jHAQ9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/15#KX94MlTyp-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-14.htm"/>
@@ -25,13 +28,34 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#32yEvAec7u"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#69z-NNvERR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SRp1J7jr10"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SoSAunmy-f"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#R9cie22Pxo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm">
+      <title>[登山] 2025-09-17 お散歩 霧ヶ峰</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,登山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-18T08:43:54.70Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-09-16.htm">
+      <title>[登山] 2025-09-16 白樺湖から蓼科山</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-09-16.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,登山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-17T20:04:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#bsvB7YrmZQ">
+      <title>[地理] [長野] 2025-09-18 立科町(たてしなまち)、えらく細長いな。確実に蓼科山と関係あると思ってたけど、ちょっと離れた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/18#bsvB7YrmZQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,地理,長野,地理,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-17T16:41:09.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P">
       <title>[Ingress] [Web] [文化] 2025-09-18 出かける前に見かけたポストだけど、ほんとに数年見かけなくても、まったく成長が見られないね。こ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/18#tYx96xIt7P</link>
       <description>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-12T09:32:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SoSAunmy-f">
-      <title>[Web] [サッカー] 2025-09-12 すげぇぜ。ゴールもキーパーのヘディングも。 👍 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/12#SoSAunmy-f</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-12T02:54:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#R9cie22Pxo">
-      <title>[Web] [野球] 2025-09-11 うーん、これもすさまじいな。外角の低めを掬い上げるように反対側へって、日本のプロ野球では少な ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/11#R9cie22Pxo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-11T20:04:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu">
-      <title>[モンハンNow] 2025-09-11 うーん、 SP 二回撃って二回ともはずすと ⭐ 9 でもいかんともしがたい。はずれるタイミン ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/11#3SAjib_mMu</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-11T11:56:32.00Z</dc:date>
     </item>
   </rdf:RDF>
