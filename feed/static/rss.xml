@@ -4,13 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-18T11:18:10.08Z</dc:date>
+    <dc:date>2025-09-18T23:29:00.34Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fO/fONoIC1h-2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8A/8A5084C7dr.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rj/RjaAs-9hzH.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BD/BDXB7MPBUL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kD/kDrpFNT95Q.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EF/EFySkxzG_P.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vQ/vQoZIV2pZe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hV/hVMwmMjh7y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/s4/s4VuM7DWG3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QU/QUGD6qWKBm.htm"/>
@@ -24,10 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cQ/cQqdsmnV8l.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-7/-72EF0aBEZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K8/K8mXEZyhdP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sd/Sd-ZGahSV5.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-A/-AXc07QJS5.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wc/wcJW7CPEUG.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/om/omhrr40v56.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-18T11:18:10.08Z</dc:date>
+    <dc:date>2025-09-18T23:29:00.34Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8A/8A5084C7dr.htm">
     <title>[生活] [奥能登] [北陸] 2025-09-18 地震は大きなのに一度遭ったら生きてる間は起きなさそうという予感はあるが、もはや竜巻被害はどこ ...</title>
@@ -45,7 +45,23 @@
     <description>
         日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-18T11:18:10.08Z</dc:date>
+    <dc:date>2025-09-18T23:29:00.34Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rj/RjaAs-9hzH.htm">
+    <title>[ポケモンgo] 2025-09-15 先週は 55km </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Rj/RjaAs-9hzH.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-18T20:32:14.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BD/BDXB7MPBUL.htm">
+    <title>[モンハンNow] 2025-09-18 これだけ大盤振る舞いしてるってことは、ボックス圧迫する新要素が近いのだろう。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/BD/BDXB7MPBUL.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-18T19:28:39.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kD/kDrpFNT95Q.htm">
     <title>[登山] [長野] 2025-09-17 お散歩 霧ヶ峰</title>
@@ -53,7 +69,23 @@
     <description>
         日記,随筆,簡約版,登山,長野,登山,長野</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-18T11:18:10.08Z</dc:date>
+    <dc:date>2025-09-18T14:04:57.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EF/EFySkxzG_P.htm">
+    <title>[モンハンNow] 2025-09-19 新規追加は一通り終わった。エスピナスがメインだろうけど、ガランゴルムが面白い。 ルナガロン  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/EF/EFySkxzG_P.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-18T09:10:04.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vQ/vQoZIV2pZe.htm">
+    <title>[モンハンNow] 2025-09-19 HR326 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/vQ/vQoZIV2pZe.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-18T06:49:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hV/hVMwmMjh7y.htm">
     <title>[登山] [長野] 2025-09-16 白樺湖から蓼科山</title>
@@ -158,37 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-13T16:50:49.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Sd/Sd-ZGahSV5.htm">
-    <title>[モンハンNow] 2025-09-11 貴竜石 86 … バランスが悪すぎねぇ？？？？  レイアの次元変異はかなり狙ってるのに、まだ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Sd/Sd-ZGahSV5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-13T10:11:31.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-A/-AXc07QJS5.htm">
-    <title>[時事] [炎上] 2025-09-13 やっぱりさ。前にちらっと話題になった、あのアカウント、まさに裏垢だったんじゃね？本来の性癖、 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/-A/-AXc07QJS5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,時事,炎上,時事,炎上</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-13T05:16:54.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wc/wcJW7CPEUG.htm">
-    <title>[モンハンNow] 2025-09-13 どういうタイミングでアセットダウンロードの必要性が発生するのやら… 重いやつはせめてシーズン ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/wc/wcJW7CPEUG.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-13T02:24:18.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/om/omhrr40v56.htm">
-    <title>[ポケモンgo] [Ingress] [生活] [北陸] [モンハンNow] 2025-09-12 今日も割と雨降り。明日の夜からが豪雨予報になるのかな。お出かけ + お散歩はやめときましょう ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/om/omhrr40v56.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,Ingress,生活,北陸,モンハンNow,ポケモンgo,Ingress,生活,北陸,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-13T01:41:55.00Z</dc:date>
   </item>
 </rdf:RDF>
