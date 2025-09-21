@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-21T00:19:37.08Z</dc:date>
+    <dc:date>2025-09-21T03:10:28.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fv/Fv563fFEqc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uW/uWZDzUSVZ2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5Z/5Z6P9ZZqZ3.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hV/hVMwmMjh7y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UH/UHpW7_13PK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GM/GMo3XWCdZ-.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vQ/vQoZIV2pZe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/s4/s4VuM7DWG3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QU/QUGD6qWKBm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XQ/XQ_vUS-wic.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-21T00:19:37.08Z</dc:date>
+    <dc:date>2025-09-21T03:10:28.95Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uW/uWZDzUSVZ2.htm">
     <title>[Web] [音楽] 2025-09-20 こういうコラボたまんねぇw </title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-21T00:19:37.08Z</dc:date>
+    <dc:date>2025-09-21T01:12:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5Z/5Z6P9ZZqZ3.htm">
     <title>[ポケモンgo] 2025-09-20 シャドウグラードンが出てる。シャドウグラードンは、野良なら 5 - 6 人必要かな。今日は参 ...</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-20T22:19:25.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm">
+    <title>[Web] [音楽] 2025-09-21 宇多田と米津もコラボか。観たかったような、今の宇多田とのは観たくなかったような… </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-20T20:34:51.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hV/hVMwmMjh7y.htm">
     <title>[登山] [長野] 2025-09-16 白樺湖から蓼科山</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Ingress,Web,文化,Ingress,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-17T10:14:30.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XQ/XQ_vUS-wic.htm">
-    <title>[モンハンNow] 2025-09-15 一応当たり枠だけど、いらね…  ガンランスまったくわからん。  結局、当たり枠はひとつだけだ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/XQ/XQ_vUS-wic.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-15T19:07:39.00Z</dc:date>
   </item>
 </rdf:RDF>
