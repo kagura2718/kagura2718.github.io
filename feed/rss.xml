@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-22T20:32:56.00Z</dc:date>
+    <dc:date>2025-09-23T03:53:22.69Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#MAbRLTFioc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-09-16.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/22#Gc7zWz2Qo6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#enX3l91lTC"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/20#gFTf5FdWJf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/19#d5GayOrY4Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#-TszTink0l"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#1t4O1orErf"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#MAbRLTFioc">
+      <title>[羽咋] [モンハンNow] 2025-09-23 これ、信州遠征してるときにちょっとだけニュースで見てた。 介護サービス事業者の行政処分につい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/23#MAbRLTFioc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,羽咋,モンハンNow,羽咋,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-23T03:53:22.69Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm">
       <title>[登山] [食事] [長野] 2025-09-17 お散歩 霧ヶ峰</title>
       <link>https://kagura2718.github.io/Diary/essay/2025/2025-09-17.htm</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-19T05:16:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/18#1t4O1orErf">
-      <title>[生活] [奥能登] [北陸] 2025-09-18 地震は大きなのに一度遭ったら生きてる間は起きなさそうという予感はあるが、もはや竜巻被害はどこ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/18#1t4O1orErf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,奥能登,北陸,生活,奥能登,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-19T01:09:22.00Z</dc:date>
     </item>
   </rdf:RDF>
