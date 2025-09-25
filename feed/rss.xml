@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-25T11:58:54.20Z</dc:date>
+    <dc:date>2025-09-25T15:01:07.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#w9C-aGVoKX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#xRE15k2Jrp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#mcErQWOYCH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#MAbRLTFioc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#JXuXfL6EDJ"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/20#JfkZgUUCaD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/22#mxi4zcY9FC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/22#EOTOh18rG4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/20#4jmWeRLNIe"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-25T11:58:54.20Z</dc:date>
+      <dc:date>2025-09-25T15:01:07.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#xRE15k2Jrp">
+      <title>[料理] 2025-09-25 鮭が手に入ったので、雑にクリームパスタになっていただいた。  小骨がどうしても残る。どうする ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/25#xRE15k2Jrp</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-25T11:20:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#mcErQWOYCH">
       <title>[Web] [音楽] 2025-09-24 米津玄師と宇多田ヒカル。これか… </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-21T14:24:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/20#4jmWeRLNIe">
-      <title>[Web] [音楽] 2025-09-20 こういうコラボたまんねぇw </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/20#4jmWeRLNIe</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-21T01:12:10.00Z</dc:date>
     </item>
   </rdf:RDF>
