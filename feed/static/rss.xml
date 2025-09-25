@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-24T14:25:58.05Z</dc:date>
+    <dc:date>2025-09-25T02:19:11.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ie/iej0Uy_Sp5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t0/t0JT-p8S8X.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rd/Rduk8XVHi7.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5y/5yUG0R9Hzn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iN/iNBSp_cGHM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bm/bmOZf3Rd-H.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uU/uUcGd9yz0W.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7-/7-UOO1FWZl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uW/uWZDzUSVZ2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5Z/5Z6P9ZZqZ3.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-24T14:25:58.05Z</dc:date>
+    <dc:date>2025-09-25T02:19:11.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ie/iej0Uy_Sp5.htm">
     <title>[羽咋] [モンハンNow] 2025-09-23 これ、信州遠征してるときにちょっとだけニュースで見てた。 介護サービス事業者の行政処分につい ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,羽咋,モンハンNow,羽咋,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-24T14:25:58.05Z</dc:date>
+    <dc:date>2025-09-24T16:56:15.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/t0/t0JT-p8S8X.htm">
     <title>[登山] [生活] [宝達山] 2025-09-24 本日の登頂  </title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-24T14:25:58.05Z</dc:date>
+    <dc:date>2025-09-24T14:46:43.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Rd/Rduk8XVHi7.htm">
     <title>[モンハンNow] 2025-09-24 MrBeast  </title>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-24T11:24:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5y/5yUG0R9Hzn.htm">
+    <title>[モンハンNow] 2025-09-25 武器強化の儀  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/5y/5yUG0R9Hzn.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-24T10:15:04.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iN/iNBSp_cGHM.htm">
     <title>[ポケモンgo] 2025-09-24 レイドアワーに なんとか 3 回参加。ノー高固体。ノー色違い。あくうせつだんは 1  色違い ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-20T22:19:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm">
-    <title>[Web] [音楽] 2025-09-21 宇多田と米津もコラボか。観たかったような、今の宇多田とのは観たくなかったような… </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/aF/aF7GYWXUMn.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-20T20:34:51.00Z</dc:date>
   </item>
 </rdf:RDF>
