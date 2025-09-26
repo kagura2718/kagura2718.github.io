@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-26T02:21:20.95Z</dc:date>
+    <dc:date>2025-09-26T03:40:23.04Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R_/R_Sei1oGBV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/66/66zK5yELH_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kN/kNfflJB58J.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yf/yf31bRqhFW.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/no/noIPC6swqW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fv/Fv563fFEqc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GM/GMo3XWCdZ-.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DP/DPGdrBr6lY.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/R_/R_Sei1oGBV.htm">
+    <title>[Web] [羽咋] 2025-09-26 おおー、あそこか。少しは流れがよくなるかなぁ。 11/1 からであと一ヶ月ぐらいか。  現状 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/R_/R_Sei1oGBV.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,羽咋,Web,羽咋</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-26T03:40:23.04Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/66/66zK5yELH_.htm">
     <title>[漫画] [呪術廻戦] 2025-09-26 呪術廻戦の追加エピソードでみたいものといえば、虎杖じいちゃんのストーリーも読んでみたい。 呪 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/66/66zK5yELH_.htm</link>
     <description>
         日記,つぶやき,雑記帳,漫画,呪術廻戦,漫画,呪術廻戦</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-26T02:21:20.95Z</dc:date>
+    <dc:date>2025-09-26T03:08:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kN/kNfflJB58J.htm">
     <title>[Web] [バスケ] 2025-09-25 コービーのポストプレイや 1 on 1 をじっくりみると、やっぱりジョーダンクローンかなって ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-22T02:02:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DP/DPGdrBr6lY.htm">
-    <title>[生活] [金沢] 2025-09-22 ほんとにこれ、なんだろうね？  なぜ、こんな名前 (ドムスかわおちん) に… 🤔  どうやら ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/DP/DPGdrBr6lY.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-21T20:03:58.00Z</dc:date>
   </item>
 </rdf:RDF>
