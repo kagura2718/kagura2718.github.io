@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-27T13:06:08.87Z</dc:date>
+    <dc:date>2025-09-27T14:07:42.15Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#UMoxLb14YO"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#zcfgIFksd0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/26#m5xtRTlGqY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/26#ZawG-3c0NT"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#PPPZqy8AK-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#pPhoIThJAN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/22#n9CxcSdL7i"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#enX3l91lTC"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#UMoxLb14YO">
+      <title>[Web] [地理] [南アルプス] [東海] 2025-09-27 へー、静岡県てこういう形なんだ。  で、富士山山頂が静岡県に入って、間ノ岳が入る感じ。甲斐駒 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/27#UMoxLb14YO</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,地理,南アルプス,東海,Web,地理,南アルプス,東海]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-27T14:07:42.15Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy">
       <title>[登山] [生活] 2025-09-27 久々に末森山をお散歩することにした。いっぱい土砂崩れしてた。   おそらく、しばらく前の大雨 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,登山,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-27T13:06:08.87Z</dc:date>
+      <dc:date>2025-09-27T14:07:42.15Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#zcfgIFksd0">
       <title>[生活] [羽咋] 2025-09-27 羽咋の道の駅人がいっぱいだ。近くでイベントやってるみたい。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-27T13:06:08.87Z</dc:date>
+      <dc:date>2025-09-27T14:07:42.15Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/26#m5xtRTlGqY">
       <title>[Web] [羽咋] 2025-09-26 おおー、あそこか。少しは流れがよくなるかなぁ。 11/1 からなのであと一ヶ月ぐらいか。   ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-23T08:10:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/23#enX3l91lTC">
-      <title>[Web] [長野] 2025-09-23 【長野の絶景高原5選】一度は行きたい感動の大パノラマスポット（たいやき） - エキスパート  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/23#enX3l91lTC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-23T00:07:33.00Z</dc:date>
     </item>
   </rdf:RDF>
