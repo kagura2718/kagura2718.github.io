@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-28T02:44:51.93Z</dc:date>
+    <dc:date>2025-09-28T12:23:19.28Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#4cqaSeaeT1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#wueOZVUxPy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#UMoxLb14YO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#YGnPYkOGdj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#kmteMFxy0j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#PtGdpKBrMU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#zcfgIFksd0"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#xRE15k2Jrp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#mcErQWOYCH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#JXuXfL6EDJ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#cO4p_dNaY5"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#RGwe0EdCBH"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#4cqaSeaeT1">
+      <title>[ポケモンgo] [生活] [モンハンNow] 2025-09-28 今日もお出かけに失敗。失敗しつつ近場で処理できるだけ処理はした。ソロでもいける。  バクーダ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/28#4cqaSeaeT1</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,モンハンNow,ポケモンgo,生活,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-28T12:23:19.28Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt">
       <title>[モンハンNow] 2025-09-28 武器強化の儀 ミクニの笛     MrBeast   イビルジョーガンランス グラグリード  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-28T02:44:51.93Z</dc:date>
+      <dc:date>2025-09-28T12:23:19.28Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#wueOZVUxPy">
       <title>[モンハンNow] 2025-09-28 HR328 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-28T02:44:51.93Z</dc:date>
+      <dc:date>2025-09-28T10:05:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#UMoxLb14YO">
       <title>[Web] [地理] [南アルプス] [東海] 2025-09-27 へー、静岡県てこういう形なんだ。  で、富士山山頂が静岡県に入って、間ノ岳が入る感じ。甲斐駒 ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,地理,南アルプス,東海,Web,地理,南アルプス,東海]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-28T02:44:51.93Z</dc:date>
+      <dc:date>2025-09-28T08:00:09.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#YGnPYkOGdj">
       <title>[NHK] 2025-09-28 現行のブラタモリの女性アナウンサーはこの方か。  まだ表情が辿々しいかな。  佐藤 茉那 か ...</title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-28T02:44:51.93Z</dc:date>
+      <dc:date>2025-09-28T04:21:02.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#kmteMFxy0j">
+      <title>[モンハンNow] 2025-09-28 武器強化の儀 ラージャンのヘヴィボ 金獅子砲  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/28#kmteMFxy0j</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-28T03:59:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/27#QPUeqInacy">
       <title>[登山] [生活] 2025-09-27 久々に末森山をお散歩することにした。いっぱい土砂崩れしてた。   おそらく、しばらく前の大雨 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-24T14:46:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/24#cO4p_dNaY5">
-      <title>[モンハンNow] 2025-09-24 MrBeast  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/24#cO4p_dNaY5</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-24T11:24:46.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/25#RGwe0EdCBH">
-      <title>[モンハンNow] 2025-09-25 武器強化の儀  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/25#RGwe0EdCBH</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-24T10:15:04.00Z</dc:date>
     </item>
   </rdf:RDF>
