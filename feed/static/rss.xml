@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-28T12:23:19.28Z</dc:date>
+    <dc:date>2025-09-28T14:14:10.52Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E5/E5mL102h25.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/08/08BXWqe5cU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/97/97Rk3ZSHng.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WA/WAomw-emFA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p0/p0pFfO_M3Y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/h1/h14tAiwuaL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ic/IcYjQOE0nD.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kN/kNfflJB58J.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yf/yf31bRqhFW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qA/qAzmiiHIOm.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/t0/t0JT-p8S8X.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,生活,モンハンNow,ポケモンgo,生活,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-28T12:23:19.28Z</dc:date>
+    <dc:date>2025-09-28T14:14:10.52Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/08/08BXWqe5cU.htm">
     <title>[モンハンNow] 2025-09-28 武器強化の儀 ミクニの笛     MrBeast   イビルジョーガンランス グラグリード  ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-28T12:23:19.28Z</dc:date>
+    <dc:date>2025-09-28T14:14:10.52Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/97/97Rk3ZSHng.htm">
     <title>[モンハンNow] 2025-09-28 HR328 </title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-28T10:05:26.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/WA/WAomw-emFA.htm">
+    <title>[モンハンNow] 2025-09-28 酔ってると、安牌のはずのこいつにも勝てぬ。  だが、それがいい。 🍺</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/WA/WAomw-emFA.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-09-28T09:31:55.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/p0/p0pFfO_M3Y.htm">
     <title>[Web] [地理] [南アルプス] [東海] 2025-09-27 へー、静岡県てこういう形なんだ。  で、富士山山頂が静岡県に入って、間ノ岳が入る感じ。甲斐駒 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-25T02:19:11.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/t0/t0JT-p8S8X.htm">
-    <title>[登山] [生活] [宝達山] 2025-09-24 本日の登頂  </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/t0/t0JT-p8S8X.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-24T14:46:43.00Z</dc:date>
   </item>
 </rdf:RDF>
