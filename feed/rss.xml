@@ -4,18 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-09-30T07:52:44.92Z</dc:date>
+    <dc:date>2025-09-30T08:31:10.66Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#_EPdy2pDFx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#_EPdy2pDFx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#53iTJEjjns"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#cQcZhBKLh6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#s1WjkzTqoU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#cQcZhBKLh6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#bRv5WTEjA3"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#jLuUZCDDkK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#jLuUZCDDkK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#RdeZxNQF4o"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#4cqaSeaeT1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/28#TQYdXLX1Jt"/>
@@ -31,21 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#_EPdy2pDFx">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy">
+      <title>[生活] [食事] [七尾] 2025-09-29 七尾を散歩して帰る。奥能登の方にまたぶ厚い雲がかかってる。今晩も雨かな。   前から来てみた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,食事,七尾,生活,食事,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-30T08:31:10.66Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#_EPdy2pDFx">
       <title>[モンハンNow] 2025-09-29 黒ディア 双剣 素材緩和済みかな？    テオハンマー  恐竜のヘヴィボ </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/29#_EPdy2pDFx</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-30T07:52:44.92Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy">
-      <title>[生活] [七尾] 2025-09-29 七尾を散歩して帰る。奥能登の方にまたぶ厚い雲がかかってる。今晩も雨かな。   前から来てみた ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/29#6vvjjpATgy</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,七尾,生活,七尾]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-30T07:52:44.92Z</dc:date>
+      <dc:date>2025-09-30T08:31:10.66Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#53iTJEjjns">
       <title>[モンハンNow] 2025-09-30 レイギエナ ヘヴィボ これも素材緩和済みかなぁ。     </title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-30T07:52:44.92Z</dc:date>
+      <dc:date>2025-09-30T08:31:10.66Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#s1WjkzTqoU">
+      <title>[ポケモンgo] 2025-09-30 昨晩のお散歩でなんか入ってた。ハピナス 98% だけど、今さらだなぁ。  というわけで、唐突 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#s1WjkzTqoU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-30T03:48:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#cQcZhBKLh6">
       <title>[長野] [甲信越] 2025-09-30 この記事、無料会員でも限定で読むことができた。 諏訪の 6 市町村というのが「下諏訪町」「岡 ...</title>
@@ -63,14 +71,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-30T02:44:44.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#s1WjkzTqoU">
-      <title>[ポケモンgo] 2025-09-30 昨晩のお散歩でなんか入ってた。ハピナス 98% だけど、今さらだなぁ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#s1WjkzTqoU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-30T00:26:14.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#bRv5WTEjA3">
       <title>[モンハンNow] 2025-09-30 当たりが出た。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#bRv5WTEjA3</link>
@@ -79,6 +79,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-29T22:01:12.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu">
+      <title>[モンハンNow] 2025-09-30 大刀のスタイル変更で翼破壊とか、背中破壊とかできるスタイルがあったら面白いんだけどね… 大刀 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-09-29T14:22:39.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#jLuUZCDDkK">
       <title>[モンハンNow] 2025-09-30 武器強化の儀 ラージャン砲  ヘヴィボ  恐竜のやつのヘヴィボ。ディノバルドだっけ。名前が覚 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#jLuUZCDDkK</link>
@@ -86,14 +94,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-29T15:39:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu">
-      <title>[モンハンNow] 2025-09-30 大刀のスタイル変更で翼破壊とか、背中破壊とかできるスタイルがあったら面白いんだけどね… ジャ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-29T12:33:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#RdeZxNQF4o">
       <title>[モンハンNow] 2025-09-29 へー、ティガレックス亜種。亜種モンスターってどういう基準だろうね。ドスジャグラスの亜種とかさ ...</title>
