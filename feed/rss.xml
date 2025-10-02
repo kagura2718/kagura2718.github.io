@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-02T02:59:19.58Z</dc:date>
+    <dc:date>2025-10-02T10:30:22.10Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#iZI8F6qEiO"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#OSm89e1BNn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#B0o6F2_x3w"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#IMv_3aAWWv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#OSm89e1BNn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#TbpaAslLzz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#YInDJ-3Lf0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#jex5HrMeKT"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#bRv5WTEjA3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#ozfmy2f2Zu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/30#jLuUZCDDkK"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#RdeZxNQF4o"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-02T02:59:19.58Z</dc:date>
+      <dc:date>2025-10-02T10:30:22.10Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#B0o6F2_x3w">
+      <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2025-10-01 割と気合いを入れて金沢駅前レイドアワー。本日の 98 で、ようやく特別技持ち。  時差のある ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/01#B0o6F2_x3w</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-02T10:25:19.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#IMv_3aAWWv">
+      <title>[ポケモンgo] 2025-10-02 今週末はメガメタグロス。たぶん、今シーズンのメインイベントのひとつだよね。知らんけど。 【ポ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/02#IMv_3aAWWv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-02T09:34:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/02#OSm89e1BNn">
       <title>[ポケモンgo] 2025-10-02 昨日、キラ交換が成立して、満足する個体がきた。 96% 🎊 🎉  とりあえず、何も考えずでき ...</title>
@@ -45,15 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-02T02:59:19.58Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#B0o6F2_x3w">
-      <title>[ポケモンgo] [生活] [金沢] 2025-10-01 金沢駅前レイドアワー 本日の 98  時差のある海外勢も最近あんまりアクティブじゃない。これ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/01#B0o6F2_x3w</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-01T21:30:27.00Z</dc:date>
+      <dc:date>2025-10-02T08:30:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/01#TbpaAslLzz">
       <title>[食事] [アニメ] [国際] 2025-10-01 薬屋のひとりごとでときどき出てきた「月餅」という中国のお菓子、売ってたから買ってみたんだけど ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-09-29T15:39:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/09/29#RdeZxNQF4o">
-      <title>[モンハンNow] 2025-09-29 へー、ティガレックス亜種。亜種モンスターってどういう基準だろうね。ドスジャグラスの亜種とかさ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/09/29#RdeZxNQF4o</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-09-29T08:58:05.00Z</dc:date>
     </item>
   </rdf:RDF>
