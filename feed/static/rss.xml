@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-02T10:30:22.10Z</dc:date>
+    <dc:date>2025-10-02T13:25:07.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/j7/j7oaEbiglg.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yl/ylc0l2vW_X.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Va/Vak6jWlOet.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Se/Seq7rphtxG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/U6/U6eb9ixhy5.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dX/dXnh2EbC6s.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XD/XDqp2fV5bo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pu/PuSZeJYtx0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/99/99toMJsTOP.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-02T10:30:22.10Z</dc:date>
+    <dc:date>2025-10-02T13:25:07.37Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yl/ylc0l2vW_X.htm">
+    <title>[Web] [時事] [炎上] 2025-10-02 引用はしないのだけど、東京での通り魔事件、被害者側のポストが、ちらほらと言及されている。どう ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/yl/ylc0l2vW_X.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-02T13:25:07.37Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Va/Vak6jWlOet.htm">
     <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2025-10-01 割と気合いを入れて金沢駅前レイドアワー。本日の 98 で、ようやく特別技持ち。  時差のある ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-09-29T14:22:39.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/99/99toMJsTOP.htm">
-    <title>[モンハンNow] 2025-09-30 武器強化の儀 ラージャン砲  ヘヴィボ  恐竜のやつのヘヴィボ。ディノバルドだっけ。名前が覚 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/99/99toMJsTOP.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-09-29T15:39:31.00Z</dc:date>
   </item>
 </rdf:RDF>
