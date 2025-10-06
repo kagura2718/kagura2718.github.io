@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-06T03:07:26.21Z</dc:date>
+    <dc:date>2025-10-06T07:53:29.09Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zd/zdfiOj7Uzg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DM/DMKOEzyur6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LK/LK6uGHZNFQ.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ml/mlFU8cEluM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZY/ZYuIEQRmvQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OT/OTG1NgWIlh.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VY/VYfg7Mp_3h.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -39,13 +39,21 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-02T22:49:36.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/zd/zdfiOj7Uzg.htm">
+    <title>[石川] 2025-10-06 小松「水晶山」で土砂崩れ、男性生き埋め　県外の３０代　日没で救助打ち切り、６日朝再開｜社会｜ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/zd/zdfiOj7Uzg.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,石川,石川</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-06T07:23:18.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm">
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm</link>
     <description>
         ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-06T03:07:26.21Z</dc:date>
+    <dc:date>2025-10-06T05:03:19.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DM/DMKOEzyur6.htm">
     <title>[モンハンNow] 2025-10-05 ディアブロスも龍が弱点。そして、最近気付いたのだけど、後ろにいるときの尻尾振り (振り下ろし ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-03T21:26:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/VY/VYfg7Mp_3h.htm">
-    <title>[モンハンNow] 2025-10-03 HR329 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/VY/VYfg7Mp_3h.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-03T10:14:14.00Z</dc:date>
   </item>
 </rdf:RDF>
