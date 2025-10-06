@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-06T12:13:09.86Z</dc:date>
+    <dc:date>2025-10-06T12:23:08.54Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#xu6yJwlnpB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#0i58qc993d"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#IXTOUR5opD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#pERJjvKwJM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#e0UDA8_g4X"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#Bosr3eKz8f"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-06T12:13:09.86Z</dc:date>
+      <dc:date>2025-10-06T12:23:08.54Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/about.htm">
+      <title>神楽@AR(拡張現実世界) 自己紹介</title>
+      <link>https://kagura2718.github.io/about.htm</link>
+      <description>
+        <![CDATA[ingress, ポケモンGo, Pokémon GO, モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2022-03-27T04:25:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/index.htm">
       <title>山旅と AR と一人旅と</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-04T11:23:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#Bosr3eKz8f">
-      <title>[ポケモンgo] [Ingress] [宝達] 2025-10-04 末森城跡にジムが増えてるんだよな。  誰が生やしたか…  Ingress では F さんがポ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/04#Bosr3eKz8f</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,宝達,ポケモンgo,Ingress,宝達]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-04T05:20:35.00Z</dc:date>
     </item>
   </rdf:RDF>
