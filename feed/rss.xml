@@ -4,40 +4,72 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-08T13:06:53.29Z</dc:date>
+    <dc:date>2025-10-09T02:44:47.38Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#HsI8nwSX_d"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Road/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/09#tis_Cf_wJ7"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#HsI8nwSX_d"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#aBuWnsxJRP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#dORGb0MDUW"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#I-klm-IOqv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/09#KC_TnJ2FmZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-07.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#3pjuKARmyP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#NJS0yre-38"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#xu6yJwlnpB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#0i58qc993d"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#9sJD1-5s99"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#JfYcEbo7M1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#SB2-3zdKeV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#mSNCNThIuF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#e5fAb13Fcs"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#6g6kGrhndV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#tcblc2_GD9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#HaEbxJoHEw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#sK8o0h6SWf"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#HsI8nwSX_d">
+  <item rdf:about="https://kagura2718.github.io/Road/index.htm">
+      <title>石川県近辺の道路情報(予定)</title>
+      <link>https://kagura2718.github.io/Road/index.htm</link>
+      <description>
+        <![CDATA[道路情報]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-05T00:36:30.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/09#tis_Cf_wJ7">
+      <title>[モンハンNow] 2025-10-09 武器強化の儀 バゼルギウスの槍  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/09#tis_Cf_wJ7</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-09T02:44:47.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#HsI8nwSX_d">
       <title>[Web] [バスケ] 2025-10-08 じっくり見ちゃうと、トラベリングにしか見えないやつ。 😅 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#HsI8nwSX_d</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-08T13:06:53.29Z</dc:date>
+      <dc:date>2025-10-09T02:44:47.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#aBuWnsxJRP">
+      <title>[女性] [音楽] 2025-10-08 ふーん、かわいい。 NewJeans が韓国の女性アイドルグループみたい。背が高いな。韓国の ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#aBuWnsxJRP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,女性,音楽,女性,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-08T22:33:14.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#dORGb0MDUW">
+      <title>[生活] [北陸] 2025-10-08 昨日、台湾料理屋で飯くってるときに、ちょうど入ってきた二人組の若者。一瞬の見た目では中国か台 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#dORGb0MDUW</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-08T20:09:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -47,21 +79,29 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#dORGb0MDUW">
-      <title>[生活] [北陸] 2025-10-08 昨日、台湾料理屋で飯くってるときに、ちょうど入ってきた二人組の若者。見た目では中国か台湾、あ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#dORGb0MDUW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-08T13:06:53.29Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#I-klm-IOqv">
       <title>[Web] [野球] 2025-10-08 この人もやっぱりすげぇね。五割越えって。守備の動きをみてると、ちょっと雑さが目立つのだけど、 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#I-klm-IOqv</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-08T13:06:53.29Z</dc:date>
+      <dc:date>2025-10-08T16:10:25.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/09#KC_TnJ2FmZ">
+      <title>[ポケモンgo] 2025-10-09 本日の最大強化 (PL50) </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/09#KC_TnJ2FmZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-08T11:40:01.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb">
+      <title>[Web] [文化] [北陸] 2025-10-06 富山県立図書館はまだ行ってない。「ちえなみき」というのは…  敦賀市にある図書館か。駅前にあ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,北陸,Web,文化,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-06T03:28:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-07.htm">
       <title>[登山] [食事] [紅葉] [白山] 2025-10-07 白山周遊</title>
@@ -70,6 +110,14 @@
         <![CDATA[日記,随筆,簡約版,登山,食事,紅葉,白山,登山,食事,紅葉,白山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-08T01:06:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#3pjuKARmyP">
+      <title>[ポケモンgo] 2025-10-08 どうせパスを消化する見込みはない。ソロで挑んでみたけど、かなりキツそうに見える。ネクロズマの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/08#3pjuKARmyP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-07T22:14:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/08#NJS0yre-38">
       <title>[モンハンNow] 2025-10-08 武器強化の儀 ラージャン砲   ついにヘヴィボも最大強化に到達か。ほとんど使ってないけど。  ...</title>
@@ -119,14 +167,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-06T03:34:30.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb">
-      <title>[Web] [文化] [北陸] 2025-10-06 富山県立図書館はまだ行ってない。「ちえなみき」というのは…  敦賀市か。駅前にあるみたいだ。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/06#M9rH3RMUVb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,文化,北陸,Web,文化,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-06T01:07:14.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#JfYcEbo7M1">
       <title>[モンハンNow] 2025-10-05 ディアブロスも龍が弱点。そして、最近気付いたのだけど、後ろにいるときの尻尾振り (振り下ろし ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/05#JfYcEbo7M1</link>
@@ -150,45 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-05T11:00:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#e5fAb13Fcs">
-      <title>[モンハンNow] 2025-10-05 武器強化の儀 イビルジョー ガンランス グラグリ   黒ディア 双剣    </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/05#e5fAb13Fcs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-05T08:54:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#6g6kGrhndV">
-      <title>[北アルプス] [NHK] 2025-10-04 ブラタモリは上高地。多少は知ってる地名と地形が出てくるだけに、ついつい見入ってしまった。   ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/04#6g6kGrhndV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,北アルプス,NHK,北アルプス,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-05T08:40:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#tcblc2_GD9">
-      <title>[Web] [野球] 2025-10-05 3 失点したと聞いたけど、いい球投げとるわー。これで、シーズン 55 本だっけ？打つんだぜ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/05#tcblc2_GD9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-05T07:29:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/05#HaEbxJoHEw">
-      <title>[Ingress] [登山] [白山] 2025-10-05 今の白山の owner どっかで見たことがある。 奥能登のどっかだったような…  ミッション ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/05#HaEbxJoHEw</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Ingress,登山,白山,Ingress,登山,白山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-05T03:15:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/04#sK8o0h6SWf">
-      <title>[ポケモンgo] 2025-10-04 ほほう。メガレックウザがレイドデイに登場… 10/18 か。参加できるかどうかは微妙なとこだ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/04#sK8o0h6SWf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-04T21:52:21.00Z</dc:date>
     </item>
   </rdf:RDF>
