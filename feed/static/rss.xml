@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-12T13:48:22.89Z</dc:date>
+    <dc:date>2025-10-12T13:55:14.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -15,6 +15,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dl/DlMhoxW_N1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X9/X9AizL_5Xt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sk/SkK1hQHviD.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wz/wzlwe6Bzoo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZE/ZEbf5F008W.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QX/QXjcD6AIMA.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nl/nlukT-A-Px.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gc/gcbnYnkElY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fl/FltQ_6HSA1.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pS/pSjFBmhVoD.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,生活</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-12T13:48:22.89Z</dc:date>
+    <dc:date>2025-10-12T13:55:14.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,北アルプス,長野,登山,北アルプス,長野</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-12T13:48:22.89Z</dc:date>
+    <dc:date>2025-10-12T13:55:14.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/E2/E25RGoEp0r.htm">
     <title>[Web] [スポーツ] 2025-10-12 これ、すげぇなぁ。筋力だけじゃなく柔軟性も必要だから、俺無理かもしれん。  まぁ、やってみま ...</title>
@@ -61,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-12T13:48:22.89Z</dc:date>
+    <dc:date>2025-10-12T13:55:14.05Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dl/DlMhoxW_N1.htm">
     <title>[モンハンNow] 2025-10-12 武器強化の儀 ドスギルオス ガンランス リーチ   レアレウス ライボ  </title>
@@ -86,6 +86,14 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-12T01:10:02.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm">
+    <title>[料理] 2025-10-12 焼きそば。うめぇ。安いくせにもやしがうめぇ。水につけて、あんまり火を通しすぎない感じで、シャ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-12T00:00:28.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wz/wzlwe6Bzoo.htm">
     <title>[ポケモンgo] 2025-10-11 前に白山に行ったタイミングで ギフトが 20 しか持てなくなってたんだけど、また 30 持て ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,女性,音楽,女性,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-08T22:33:14.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pS/pSjFBmhVoD.htm">
-    <title>[生活] [北陸] 2025-10-08 昨日、台湾料理屋で飯くってるときに、ちょうど入ってきた二人組の若者。一瞬の見た目では中国か台 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/pS/pSjFBmhVoD.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-08T20:09:05.00Z</dc:date>
   </item>
 </rdf:RDF>
