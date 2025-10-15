@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-15T02:20:31.83Z</dc:date>
+    <dc:date>2025-10-15T03:54:26.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xj/XjQubUompg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TG/TGxdv72sGr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vW/vWMybDHxE4.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2t/2tuKZnT7L5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ys/Ysc05_6PE1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ii/IilEYOWmgC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E2/E25RGoEp0r.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dl/DlMhoxW_N1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X9/X9AizL_5Xt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sk/SkK1hQHviD.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-15T02:20:31.83Z</dc:date>
+    <dc:date>2025-10-15T03:54:26.96Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TG/TGxdv72sGr.htm">
     <title>[料理] 2025-10-14 今年の初サンマをようやっと get した。久々に焼き魚したからちょっと失敗したぞ。しかし、大 ...</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-14T17:48:40.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2t/2tuKZnT7L5.htm">
+    <title>[Web] [時事] [炎上] 2025-10-15 いやー、でもほんとにアレだね。高市に投票した国会議員は公明党の離脱の可能性は微塵も考えてなか ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/2t/2tuKZnT7L5.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-14T15:02:24.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ys/Ysc05_6PE1.htm">
     <title>[生活] [氷見] 2025-10-13 今日も遠出はできなかった。氷見を散歩してから帰る。  夜とはいえ、祝日なのに人がまったくおら ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-12T01:10:02.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm">
-    <title>[料理] 2025-10-12 焼きそば。うめぇ。安いくせにもやしがうめぇ。水につけて、あんまり火を通しすぎない感じで、シャ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/e8/e8xuEEXcFq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-12T00:00:28.00Z</dc:date>
   </item>
 </rdf:RDF>
