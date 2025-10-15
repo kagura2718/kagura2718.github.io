@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-15T07:36:18.20Z</dc:date>
+    <dc:date>2025-10-15T14:44:50.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#exiwcRg6Vc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#jgKXT7OROm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#WVT5d4YW-M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#DJGpJiCIMH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#exiwcRg6Vc">
+      <title>[Web] [炎上] 2025-10-15 この人達 (= 産経) もしかしなくても馬鹿ですよね。 😲 😵 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#exiwcRg6Vc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4">
       <title>[モンハンNow] 2025-10-15 弓のスタイル変更が来てる。  動作は身躱しスタイルがよさそう。火力が出るかはやってみないとま ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T07:36:18.20Z</dc:date>
+      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#jgKXT7OROm">
       <title>[ポケモンgo] 2025-10-15 進化ボタンが影になってるから、進化させてみると…  特に何も起こらない。  L とか XL  ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T07:36:18.20Z</dc:date>
+      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN">
       <title>[ポケモンgo] 2025-10-15 紙屑のアタックだったかなーと思って入ったら、これスピードだ。硬い。ソロは無理なやつ。  覚え ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,女性,NHK,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-13T10:36:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh">
-      <title>[生活] 2025-10-12 数年来の懸案だった DIY の最終設計に着手したが、今までよりも格段に難しい。鋼材は今までほ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-12T23:52:31.00Z</dc:date>
     </item>
   </rdf:RDF>
