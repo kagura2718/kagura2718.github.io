@@ -4,40 +4,56 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-14T03:09:48.18Z</dc:date>
+    <dc:date>2025-10-15T02:20:31.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#fRb-BEVxmP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#dfaBmAV0i3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#kaBqmwcLCr"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#yZYcz5aMDH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#fUZA5hYu3i"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#WVT5d4YW-M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#DJGpJiCIMH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/about.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#rCXME50F8H"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#bcmbpnqOpC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/09#IohPmywXAv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/11#57fA-pZWu6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#OHG0Lgzp-B"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/11#paH_c1rihM"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wNi9n6lCOV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/11#oPQTT1ww4n"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_">
-      <title>[料理] 2025-10-14 今年の初サンマを get した。久々に焼き魚したらちょっと失敗したぞ。しかし、大漁だとかって ...</title>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN">
+      <title>[ポケモンgo] 2025-10-15 紙屑のアタックだったかなーと思って入ったら、これスピードだ。硬い。ソロは無理なやつ。  覚え ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-15T02:20:31.83Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_">
+      <title>[料理] 2025-10-14 今年の初サンマをようやっと get した。久々に焼き魚したからちょっと失敗したぞ。しかし、大 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-14T03:09:48.18Z</dc:date>
+      <dc:date>2025-10-15T01:51:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#fRb-BEVxmP">
+      <title>[モンハンNow] 2025-10-15 HR331 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#fRb-BEVxmP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-14T17:48:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#dfaBmAV0i3">
       <title>[生活] [氷見] 2025-10-13 今日も遠出はできなかった。氷見を散歩してから帰る。  夜とはいえ、祝日なのに人がまったくおら ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,氷見,生活,氷見]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-14T03:09:48.18Z</dc:date>
+      <dc:date>2025-10-14T05:56:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#kaBqmwcLCr">
       <title>[モンハンNow] 2025-10-14 武器強化の儀 素材緩和中のマガマガ片手剣          テオハンマー  </title>
@@ -53,7 +69,31 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T21:28:32.00Z</dc:date>
+      <dc:date>2025-10-14T04:41:11.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR">
+      <title>[Web] [スポーツ] 2025-10-12 これ、すげぇなぁ。筋力だけじゃなく柔軟性とバランス感覚も必要だから、俺無理かもしれん。  ま ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-13T03:28:32.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L">
+      <title>[モンハンNow] 2025-10-13 マガマガの次元変異がくる。昼になっても、まだ当たらない。  大連続があったので入ってみた。こ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-14T02:10:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#yZYcz5aMDH">
+      <title>[生活] [石川] 2025-10-14 へー、こういう展開してるのか… </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/14#yZYcz5aMDH</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,石川,生活,石川]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-13T19:20:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#fUZA5hYu3i">
       <title>[ポケモンgo] [Ingress] [モンハンNow] 2025-10-13 先週は 70km  週が変わって、なんかはじまりましたな… モンハンの週間チームタスクみたい ...</title>
@@ -87,14 +127,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-13T10:36:59.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L">
-      <title>[モンハンNow] 2025-10-13 マガマガの次元変異がくる。昼になっても、まだ当たらない。  大連続があったので入ってみた。こ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T10:25:54.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh">
       <title>[生活] 2025-10-12 数年来の懸案だった DIY の最終設計に着手したが、今までよりも格段に難しい。鋼材は今までほ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#-pWUnFNlHh</link>
@@ -127,14 +159,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-12T19:53:15.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR">
-      <title>[Web] [スポーツ] 2025-10-12 これ、すげぇなぁ。筋力だけじゃなく柔軟性も必要だから、俺無理かもしれん。  まぁ、やってみま ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-12T14:11:48.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#bcmbpnqOpC">
       <title>[モンハンNow] 2025-10-12 武器強化の儀 ドスギルオス ガンランス リーチ   レアレウス ライボ  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#bcmbpnqOpC</link>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-12T00:00:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/11#paH_c1rihM">
-      <title>[ポケモンgo] 2025-10-11 前に白山に行ったタイミングで ギフトが 20 しか持てなくなってたんだけど、また 30 持て ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/11#paH_c1rihM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-11T20:26:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wNi9n6lCOV">
-      <title>[モンハンNow] 2025-10-12 アンジャナフの次元変異部位が左腕だと一気に難易度が上がる。爆上がりだ。  これ、モンスター動 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wNi9n6lCOV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-11T20:15:16.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/11#oPQTT1ww4n">
-      <title>[ポケモンgo] 2025-10-11 本日のメガマックス </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/11#oPQTT1ww4n</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-11T18:03:16.00Z</dc:date>
     </item>
   </rdf:RDF>
