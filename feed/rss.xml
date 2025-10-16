@@ -4,16 +4,20 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-15T14:44:50.79Z</dc:date>
+    <dc:date>2025-10-16T02:45:38.68Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#exiwcRg6Vc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/16#G9fKGFxZtt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#VBCIw8mCEm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#jgKXT7OROm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/16#1jk02PR9oD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#L70uxfj1Sa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#hed1qRLmpY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#lU9lDnTjvV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#fRb-BEVxmP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#A_ydUR2O5l"/>
@@ -24,10 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/12#wYbFZdwkpR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#4w4PwPaV7L"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#yZYcz5aMDH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#fUZA5hYu3i"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#WVT5d4YW-M"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#DJGpJiCIMH"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
+      <dc:date>2025-10-16T02:45:38.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/16#G9fKGFxZtt">
+      <title>[モンハンNow] 2025-10-16 武器強化の儀 マガマガ 片手剣       ミツネ砲  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/16#G9fKGFxZtt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-16T02:45:38.68Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#VBCIw8mCEm">
+      <title>[モンハンNow] 2025-10-15 なるほろ。こういう感じで承認欲求を刺激するわけね。   ほほう… 結構豪華(に見える) </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#VBCIw8mCEm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-16T02:45:38.68Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4">
       <title>[モンハンNow] 2025-10-15 弓のスタイル変更が来てる。  動作は身躱しスタイルがよさそう。火力が出るかはやってみないとま ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
+      <dc:date>2025-10-16T01:09:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#jgKXT7OROm">
       <title>[ポケモンgo] 2025-10-15 進化ボタンが影になってるから、進化させてみると…  特に何も起こらない。  L とか XL  ...</title>
@@ -53,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T14:44:50.79Z</dc:date>
+      <dc:date>2025-10-15T22:48:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/16#1jk02PR9oD">
+      <title>[ポケモンgo] 2025-10-16 おお！  カウンターストップしてるみたいで、なんかこう…  もらってもほとんど捨てるんだよね ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/16#1jk02PR9oD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-15T09:38:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN">
       <title>[ポケモンgo] 2025-10-15 紙屑のアタックだったかなーと思って入ったら、これスピードだ。硬い。ソロは無理なやつ。  覚え ...</title>
@@ -78,6 +102,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-15T01:50:43.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#hed1qRLmpY">
+      <title>[時事] [奥能登] [石川] 2025-10-15 山野か。予想通りではある。 県知事選挙　山野之義前金沢市長が立候補する意向固める「県民のみな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#hed1qRLmpY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,石川,時事,奥能登,石川]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-14T21:08:40.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#lU9lDnTjvV">
       <title>[モンハンNow] 2025-10-15 武器強化の儀 テオハンマー </title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,石川,生活,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-13T19:20:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#fUZA5hYu3i">
-      <title>[ポケモンgo] [Ingress] [モンハンNow] 2025-10-13 先週は 70km  週が変わって、なんかはじまりましたな… モンハンの週間チームタスクみたい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/13#fUZA5hYu3i</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,モンハンNow,ポケモンgo,Ingress,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T18:06:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#WVT5d4YW-M">
-      <title>[モンハンNow] 2025-10-13 武器強化の儀 蒼レウス チャアク 最大強化  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/13#WVT5d4YW-M</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T16:58:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/series/index.htm">
-      <title>シリーズもの一覧</title>
-      <link>https://kagura2718.github.io/Diary/series/index.htm</link>
-      <description>
-        <![CDATA[ゲーム,日記,Ingress,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T14:28:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/13#DJGpJiCIMH">
-      <title>[NHK] [女性] 2025-10-13 これだけ長い生足が蠢いて出てくると、じっくり見てしまう派。  うーん、胸よりも生足の方にはる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/13#DJGpJiCIMH</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,女性,NHK,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T10:36:59.00Z</dc:date>
     </item>
   </rdf:RDF>
