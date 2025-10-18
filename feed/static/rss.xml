@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-18T10:51:56.86Z</dc:date>
+    <dc:date>2025-10-18T12:11:41.63Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nh/Nhehb7R0LY.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lQ/lQuK5nM_OX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YU/YUxR1_L_Ie.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dq/DqQRV_rU39.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1A/1APC9D38Iz.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sI/sIs0ABHOsr.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bx/BxM2vuTCkp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2P/2P85Xh3P2w.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vW/vWMybDHxE4.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-18T10:51:56.86Z</dc:date>
+    <dc:date>2025-10-18T12:11:41.63Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lQ/lQuK5nM_OX.htm">
+    <title>[料理] 2025-10-18 麻婆豆腐を錬成 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/lQ/lQuK5nM_OX.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-18T12:11:41.63Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YU/YUxR1_L_Ie.htm">
     <title>[生活] [七尾] 2025-10-17 大好きな金木犀の芳醇な薫り。  ☺️   七尾の食彩市場はたぶん、そろそろ仕上げに入るんじゃ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,七尾,生活,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-18T10:51:56.86Z</dc:date>
+    <dc:date>2025-10-18T11:54:59.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dq/DqQRV_rU39.htm">
     <title>[Web] [野球] 2025-10-18 勝ったようだな。 ようやった！ ✌️ 👍 </title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-18T10:51:56.86Z</dc:date>
+    <dc:date>2025-10-18T11:38:26.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1A/1APC9D38Iz.htm">
     <title>[Web] [奥能登] 2025-10-17 とうとう再開するか。奥能登、どこもかしこも風呂が少なくてなぁ。そういえば、門前にも何か施設が ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-14T18:55:31.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vW/vWMybDHxE4.htm">
-    <title>[モンハンNow] 2025-10-15 HR331 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/vW/vWMybDHxE4.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-14T17:48:40.00Z</dc:date>
   </item>
 </rdf:RDF>
