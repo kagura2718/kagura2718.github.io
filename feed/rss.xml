@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-19T00:44:00.70Z</dc:date>
+    <dc:date>2025-10-19T03:05:42.93Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#kVqcx_7esj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#whP5iEIzGt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#47_yk8osQC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#Yzp5ecPSJC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/17#55gUAfUzYp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#nmticATir8"/>
@@ -25,19 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#JWiMeyBop4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#jgKXT7OROm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/16#1jk02PR9oD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#L70uxfj1Sa"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#kVqcx_7esj">
+      <title>[モンハンNow] 2025-10-19 弓だと部位破壊がめっちゃ難しい。というか、全然破壊できねぇ。もっと狙わないといかんのか…   ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/19#kVqcx_7esj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-19T03:05:42.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#whP5iEIzGt">
+      <title>[Web] 2025-10-19 郡上 vs スイスはいいとして、長野 vs スイスはスイスの圧勝だね。なんて山だったかな。き ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/19#whP5iEIzGt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-19T03:05:42.93Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm">
       <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2025-10-18 金沢駅前 レイドデイ</title>
       <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-19T00:44:00.70Z</dc:date>
+      <dc:date>2025-10-19T03:05:42.93Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#47_yk8osQC">
       <title>[料理] 2025-10-18 麻婆豆腐を錬成  続けてたらこの炒飯 (バター醤油風味) とする。うめぇ。 😋 </title>
@@ -45,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-19T00:44:00.70Z</dc:date>
+      <dc:date>2025-10-19T03:01:20.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT">
+      <title>[モンハンNow] 2025-10-19 マガイマガドの次元変異がなかなかにうざい。散歩しながらだと不可能に近いぐらい被弾する。特に厄 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-19T01:27:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#Yzp5ecPSJC">
       <title>[ポケモンgo] 2025-10-18 デオキシスって、防御不能の通常技にデオキシスの限定技 (高回転、高火力) とかでプレミアをつ ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-15T09:38:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN">
-      <title>[ポケモンgo] 2025-10-15 紙屑のアタックだったかなーと思って入ったら、これスピードだ。硬い。ソロは無理なやつ。  覚え ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#AWGSUxNyDN</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T05:42:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_">
-      <title>[料理] 2025-10-14 今年の初サンマをようやっと get した。久々に焼き魚したからちょっと失敗したぞ。しかし、大 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/14#ROVPrKvHu_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T01:51:06.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#L70uxfj1Sa">
-      <title>[ポケモンgo] 2025-10-15 TL の上限解放、今日じゃなかったっけ…？我が経験値は 2 億を越えている。  何も変化がねぇぞ？</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#L70uxfj1Sa</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-15T01:50:43.00Z</dc:date>
     </item>
   </rdf:RDF>
