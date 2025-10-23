@@ -6,11 +6,18 @@
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
     <item>
+      <guid>https://kagura2718.github.io/Diary/essay/index.htm</guid>
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+      <pubDate>Fri, 03 Oct 2025 07:49:36 +0900</pubDate>
+    </item>
+    <item>
       <guid>https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm</guid>
       <title>[登山] [飛騨] 2025-10-22 ほんのり色付く位山 - 川上岳 - 上呂</title>
       <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm</link>
       <description>日記,随筆,簡約版,登山,飛騨,登山,飛騨</description>
-      <pubDate>Thu, 23 Oct 2025 22:45:22 +0900</pubDate>
+      <pubDate>Thu, 23 Oct 2025 22:48:27 +0900</pubDate>
     </item>
     <item>
       <guid>https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm</guid>
@@ -137,13 +144,6 @@
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/18#nmticATir8</link>
       <description>日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
       <pubDate>Sat, 18 Oct 2025 20:38:26 +0900</pubDate>
-    </item>
-    <item>
-      <guid>https://kagura2718.github.io/Gitwee/timeline/2025/10/17#fCqenYT0MQ</guid>
-      <title>[Web] [奥能登] 2025-10-17 とうとう再開するか。奥能登、どこもかしこも風呂が少なくてなぁ。そういえば、門前にも何か施設が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/17#fCqenYT0MQ</link>
-      <description>日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
-      <pubDate>Sat, 18 Oct 2025 01:24:47 +0900</pubDate>
     </item>
   </channel>
 </rss>
