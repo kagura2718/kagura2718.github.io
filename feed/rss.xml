@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-20T11:30:26.03Z</dc:date>
+    <dc:date>2025-10-22T19:26:48.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#aJYw1yYxq8"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#MtMivwMDJi"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#G6uGK_7Tny"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#aJYw1yYxq8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#lw9BGJb0M5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#S5gXC_JDEj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#3J27KDiCXW"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/17#fCqenYT0MQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/17#TPTb5opAfn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitfire/login.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#Y40EzmQGFR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/17#Thwv1UuWd1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#aJYw1yYxq8">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#MtMivwMDJi">
+      <title>[Web] [音楽] 2025-10-23 セーラー服風味の ikura かな。 MV は緑黄色社会とかの雰囲気だった。 セーラー服っぽ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/23#MtMivwMDJi</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-22T19:26:48.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#G6uGK_7Tny">
+      <title>[ポケモンgo] 2025-10-23 「がんさくフォルム」というのがあるみたいだ。「贋作」のことかな。ということは「真作」もあるわ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/23#G6uGK_7Tny</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-22T09:24:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#aJYw1yYxq8">
       <title>[ポケモンgo] 2025-10-20 先週は 77km </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/20#aJYw1yYxq8</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-20T11:30:26.03Z</dc:date>
+      <dc:date>2025-10-20T17:14:34.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#lw9BGJb0M5">
       <title>[料理] 2025-10-20 水分多めにすると、強火でもいけるという知見を得たので早速試す。  さすがにちょっと焦げは目立 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-20T11:30:26.03Z</dc:date>
+      <dc:date>2025-10-20T16:14:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/20#S5gXC_JDEj">
       <title>[Web] 2025-10-20 へー。 「I married」 = 「結婚させた」 となる。つまり牧師さんがこのポストをした ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[ログインシステム]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2020-09-07T22:30:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/15#Y40EzmQGFR">
-      <title>[Web] [野球] 2025-10-15 すげぇ。リストの強さかなぁ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/15#Y40EzmQGFR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-16T12:19:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/17#Thwv1UuWd1">
-      <title>[生活] [北陸] 2025-10-17 今日、いい天気だったな。休めればどっか近場になら行けるチャンスだった。もったいねぇ。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/17#Thwv1UuWd1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-16T10:43:35.00Z</dc:date>
     </item>
   </rdf:RDF>
