@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-24T02:56:32.06Z</dc:date>
+    <dc:date>2025-10-24T10:29:32.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#a2_JdacjKm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#a2_JdacjKm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#sjNg1LbV1v"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#R2F2XxYR78"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#1KviNCGqt6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#BYZtVbg5q1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#Mo_mgB3UEW"/>
@@ -26,12 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#kVqcx_7esj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#whP5iEIzGt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-18.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#47_yk8osQC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm">
+      <title>[登山] [食事] [紅葉] [飛騨] [岐阜] [飛騨高山] 2025-10-22 位山 - 川上岳 - 上呂</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,紅葉,飛騨,岐阜,飛騨高山,登山,食事,紅葉,飛騨,岐阜,飛騨高山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-24T10:29:32.26Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -39,13 +47,13 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm">
-      <title>[登山] [食事] [紅葉] [飛騨] [岐阜] 2025-10-22 位山 - 川上岳 - 上呂</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-22.htm</link>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm">
+      <title>[登山] [食事] [紅葉] [飛騨] [岐阜] [飛騨高山] 2025-10-21 野谷荘司山 - 三方岩岳</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm</link>
       <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,紅葉,飛騨,岐阜,登山,食事,紅葉,飛騨,岐阜]]></description>
+        <![CDATA[日記,随筆,簡約版,登山,食事,紅葉,飛騨,岐阜,飛騨高山,登山,食事,紅葉,飛騨,岐阜,飛騨高山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-24T02:56:32.06Z</dc:date>
+      <dc:date>2025-10-24T02:58:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#a2_JdacjKm">
       <title>[モンハンNow] 2025-10-24 武器強化の儀 レアレイア の大刀   </title>
@@ -55,13 +63,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-24T02:19:20.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm">
-      <title>[登山] [食事] [紅葉] [飛騨] [岐阜] 2025-10-21 野谷荘司山 - 三方岩岳</title>
-      <link>https://kagura2718.github.io/Diary/essay/2025/2025-10-21.htm</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#sjNg1LbV1v">
+      <title>[生活] [北陸] 2025-10-24 昨日、今日と天気がいいなぁ。この二日なら、飛騨も天気よかったのでは… うーん… くやしい。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/24#sjNg1LbV1v</link>
       <description>
-        <![CDATA[日記,随筆,簡約版,登山,食事,紅葉,飛騨,岐阜,登山,食事,紅葉,飛騨,岐阜]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-23T22:52:32.00Z</dc:date>
+      <dc:date>2025-10-24T01:43:05.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/24#R2F2XxYR78">
+      <title>[飛騨] [北陸] [富山] [岐阜] [飛騨高山] [東海] [名古屋] 2025-10-24 先日、乗車した高山本線は岐阜から富山まで接続してるみたいだ。そうか。あの細入の横を並走してい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/24#R2F2XxYR78</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,飛騨,北陸,富山,岐阜,飛騨高山,東海,名古屋,飛騨,北陸,富山,岐阜,飛騨高山,東海,名古屋]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-23T21:26:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/23#1KviNCGqt6">
       <title>[ポケモンgo] 2025-10-23 先日の 💯 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-19T12:35:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/18#47_yk8osQC">
-      <title>[料理] 2025-10-18 麻婆豆腐を錬成  続けてたらこの炒飯 (バター醤油風味) とする。うめぇ。 😋 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/18#47_yk8osQC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-19T03:01:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT">
-      <title>[モンハンNow] 2025-10-19 マガイマガドの次元変異がなかなかにうざい。散歩しながらだと不可能に近いぐらい被弾する。特に厄 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/19#E5EB1ShTYT</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-19T01:27:44.00Z</dc:date>
     </item>
   </rdf:RDF>
