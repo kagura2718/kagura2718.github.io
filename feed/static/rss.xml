@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
+    <dc:date>2025-10-26T14:21:28.41Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/P0/P0DvXYCRH0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wa/watF73IMRl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Se/SeLCR1InOV.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YZ/YZo2wdRn9o.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6R/6RNBgDHYwx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/q5/q5M1-iDUwo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IU/IUJkSLubKs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a-/a-5G13XmAh.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AP/APRdKZ5_Um.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
+    <dc:date>2025-10-26T14:21:28.41Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/P0/P0DvXYCRH0.htm">
     <title>[生活] [金沢] 2025-10-26 今日、金沢マラソンなのに大雨予報だったけど、大したことない感じだね。土砂降りランだとさすがに ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
+    <dc:date>2025-10-26T14:21:28.41Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wa/watF73IMRl.htm">
     <title>[ポケモンgo] 2025-10-26 なんかみたことないのがいる。  へー </title>
@@ -62,6 +62,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-26T07:49:14.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YZ/YZo2wdRn9o.htm">
+    <title>[ポケモンgo] 2025-10-26 へーゴーストタイプでゾロア… XXL ゾロアとかいるのかしら。 11372pt で桁違い。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/YZ/YZo2wdRn9o.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-26T04:22:19.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm">
     <title>[Web] [野球] 2025-10-26  山本由伸は甲子園は出てないのだな。トップ選手のスポーツで考えると、甲子園みたいなイベントは ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-22T20:03:30.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/AP/APRdKZ5_Um.htm">
-    <title>[Web] [音楽] 2025-10-23 セーラー服風味の ikura かな。 MV は緑黄色社会とかの雰囲気だった。 セーラー服っぽ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/AP/APRdKZ5_Um.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-22T19:26:48.00Z</dc:date>
   </item>
 </rdf:RDF>
