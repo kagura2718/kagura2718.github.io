@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-26T11:40:08.72Z</dc:date>
+    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -13,6 +13,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wa/watF73IMRl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Se/SeLCR1InOV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6R/6RNBgDHYwx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vb/vb7l1fnLBz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1C/1CU_jB3ScZ.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IU/IUJkSLubKs.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a-/a-5G13XmAh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AP/APRdKZ5_Um.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_f/_fqc25rQiy.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-26T11:40:08.72Z</dc:date>
+    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/P0/P0DvXYCRH0.htm">
     <title>[生活] [金沢] 2025-10-26 今日、金沢マラソンなのに大雨予報だったけど、大したことない感じだね。土砂降りランだとさすがに ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-26T11:40:08.72Z</dc:date>
+    <dc:date>2025-10-26T14:16:03.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wa/watF73IMRl.htm">
     <title>[ポケモンgo] 2025-10-26 なんかみたことないのがいる。  へー </title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-26T11:40:08.72Z</dc:date>
+    <dc:date>2025-10-26T11:56:37.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Se/SeLCR1InOV.htm">
     <title>[ポケモンgo] 2025-10-26 10km は一個だけ時間差で割れて…  こんな感じに。  もちろん、ノー高固体。 😑</title>
@@ -70,6 +70,14 @@
         日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-26T02:34:45.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6R/6RNBgDHYwx.htm">
+    <title>[料理] 2025-10-26 とりあえず、初心者級のコロッケを作り上げた。フライは苦手… 衣をつけるのも、大嫌い。めんどく ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/6R/6RNBgDHYwx.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-25T22:29:52.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm">
     <title>[生活] [料理] 2025-10-24 一回、気合い入れてコロッケでも作ってみるかなぁ。あれ、めんどくせぇんだよな。 我が家、米には ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,音楽,Web,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-22T19:26:48.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_f/_fqc25rQiy.htm">
-    <title>[ポケモンgo] 2025-10-23 「がんさくフォルム」というのがあるみたいだ。「贋作」のことかな。ということは「真作」もあるわ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_f/_fqc25rQiy.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-22T09:24:00.00Z</dc:date>
   </item>
 </rdf:RDF>
