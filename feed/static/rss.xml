@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-25T03:01:54.09Z</dc:date>
+    <dc:date>2025-10-26T02:34:45.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vb/vb7l1fnLBz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1C/1CU_jB3ScZ.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ve/Ve2pmqdLjE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QI/QI0Xqogg20.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iF/iFWVabcmYr.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FE/FEorAPGOys.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm">
+    <title>[Web] [野球] 2025-10-26  山本由伸は甲子園は出てないのだな。トップ選手のスポーツで考えると、甲子園みたいなイベントは ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jD/jD5PU7IW9x.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-26T02:34:45.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm">
     <title>[生活] [料理] 2025-10-24 一回、気合い入れてコロッケでも作ってみるかなぁ。あれ、めんどくせぇんだよな。 我が家、米には ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/ue/ueLq2XCP7g.htm</link>
     <description>
         日記,つぶやき,雑記帳,生活,料理,生活,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-25T03:01:54.09Z</dc:date>
+    <dc:date>2025-10-25T03:25:23.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vb/vb7l1fnLBz.htm">
     <title>[モンハンNow] 2025-10-25 武器強化の儀 メロウパウ 狩猟笛        未だに狩猟笛の使い方がまったくわからん。覚え ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-25T00:26:00.00Z</dc:date>
+    <dc:date>2025-10-25T01:50:54.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1C/1CU_jB3ScZ.htm">
     <title>[登山] [食事] [紅葉] [飛騨] [岐阜] [飛騨高山] 2025-10-22 位山 - 川上岳 - 上呂</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-19T23:02:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FE/FEorAPGOys.htm">
-    <title>[モンハンNow] 2025-10-20 うーん、弓で部位破壊がまったくできぬ。   コツはなんじゃろね。 G10-5 まで到達してる ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/FE/FEorAPGOys.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-19T23:02:41.00Z</dc:date>
   </item>
 </rdf:RDF>
