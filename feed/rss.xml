@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-10-31T03:04:02.09Z</dc:date>
+    <dc:date>2025-10-31T03:19:26.13Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-10-30.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#fPUBRtU1de"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#Qnm9KcbLyo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#6WsQRP9gl2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/28#5kiYqXcp9B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/29#u7s00vXEx_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/29#FeyjO2voOC"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/26#UzatTU9JDO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/26#IZJotLsR6t"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/26#12owCZHFLx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/10/26#9ETFjthwUe"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,食事,剱岳,富山,登山,食事,剱岳,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-31T03:04:02.09Z</dc:date>
+      <dc:date>2025-10-31T03:19:26.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#fPUBRtU1de">
       <title>[ポケモンgo] [Ingress] [告知] [モンハンNow] 2025-10-31 現状ではポケモンは続けるとして、モンハンもお散歩のお友に放すことはできない。削るとしたら i ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Ingress,告知,モンハンNow,ポケモンgo,Ingress,告知,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-31T03:04:02.09Z</dc:date>
+      <dc:date>2025-10-31T03:19:26.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#Qnm9KcbLyo">
       <title>[ポケモンgo] 2025-10-31 うぜぇ… 440 ぐらいのうち 360 てなぁ。これ、ほとんど捨てられない奴が入ってる状態じ ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-30T20:51:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/31#6WsQRP9gl2">
+      <title>[モンハンNow] 2025-10-31 武器強化の儀 ネタ枠と思われる、イベント武器 スカルホイッスル    </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/31#6WsQRP9gl2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-30T15:11:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/28#5kiYqXcp9B">
       <title>[野球] 2025-10-28 どうなったかなーと思ってたら、現時点で延長 15 回で同点。熱戦じゃないの。大谷は 4 連続 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-26T04:22:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/10/26#9ETFjthwUe">
-      <title>[Web] [野球] 2025-10-26  山本由伸は甲子園は出てないのだな。トップ選手のスポーツで考えると、甲子園みたいなイベントは ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/10/26#9ETFjthwUe</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-26T02:34:45.00Z</dc:date>
     </item>
   </rdf:RDF>
