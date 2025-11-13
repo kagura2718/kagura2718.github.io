@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-13T03:36:39.81Z</dc:date>
+    <dc:date>2025-11-13T08:14:28.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DE/DENKQCUneC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uG/uGatBamXln.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cy/cyHaSRXdwx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9y/9yLy_TMHMV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ch/ChdLGN0QhA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qM/qMzXV4iZjP.htm"/>
@@ -27,17 +28,16 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rp/rp7H-Z_MXk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/o2/o2auGwGIrj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/s8/s8qHIDj5ts.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IV/IVo7qg0n9S.htm"/>
       </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DE/DENKQCUneC.htm">
-    <title>[ポケモンgo] [生活] [金沢] 2025-11-12 金沢 ネクロズマ(あかつき)</title>
+    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2025-11-12 金沢 ネクロズマ(黄昏)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/DE/DENKQCUneC.htm</link>
     <description>
-        日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
+        日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-13T03:36:39.81Z</dc:date>
+    <dc:date>2025-11-13T08:14:28.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uG/uGatBamXln.htm">
     <title>[ポケモンgo] 2025-11-13 ケルディオ… 格闘の、強いやつだよね。 </title>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-13T03:36:39.81Z</dc:date>
+    <dc:date>2025-11-13T06:34:24.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cy/cyHaSRXdwx.htm">
+    <title>[Web] [野球] 2025-11-13 一個でも先の塁を獲得して、守備選手から逃げるシンプルな鬼ごっこみたいな感じ。 😂 プロの醍醐 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/cy/cyHaSRXdwx.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-11-13T04:57:14.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9y/9yLy_TMHMV.htm">
     <title>[ポケモンgo] 2025-11-13 フリーボックスがある。ポケモンボックスが増やしたいなぁ。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-11-09T23:40:30.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/IV/IVo7qg0n9S.htm">
-    <title>[モンハンNow] 2025-11-10 HR335 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/IV/IVo7qg0n9S.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-10T01:07:32.00Z</dc:date>
   </item>
 </rdf:RDF>
