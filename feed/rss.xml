@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-17T03:16:53.22Z</dc:date>
+    <dc:date>2025-11-17T08:35:44.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#1qEe0oJBq1"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#ZXXDgbrKmv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#cEhp9LZY2v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#Snkh086RUa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-11-14.htm"/>
@@ -26,26 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#jMmtg2Mn5W"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/13#UXFyAtW5Ao"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-11-12-bdd2b.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/13#KKenj0V_Dj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/13#LyGZWCKjwT"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569">
+      <title>[登山] [生活] [紅葉] [宝達山] 2025-11-17 朝からうつくしい   本日の登頂  北アルプスの展望はない。  宝達山のこぶしの道も石川県側 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-17T08:35:44.26Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569">
-      <title>[登山] [生活] [宝達山] 2025-11-17 朝からうつくしい   本日の登頂  北アルプスの展望はない。  宝達山のこぶしの道も石川県側 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-17T03:16:53.22Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#1qEe0oJBq1">
       <title>[登山] [福井] 2025-11-16 荒島岳から下山中に気付いたの、このレースだね。 THE STEEP 荒島VK - 公式ホーム ...</title>
@@ -54,6 +54,22 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,福井,登山,福井]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-17T01:02:38.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h">
+      <title>[漫画] [アニメ] 2025-11-17 チェンソーマンは一巻を Bookoff でぱら読みした。その程度。ふーん、なるほどだね。米津 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-16T17:13:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#ZXXDgbrKmv">
+      <title>[Web] 2025-11-17 ふーむ。これは家庭ではかなり作りづらい。広い鉄板がないと。  ストリートフードらしいから、屋 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#ZXXDgbrKmv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-16T17:13:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#cEhp9LZY2v">
       <title>[Web] 2025-11-15 彼女は、たぶん、何も考えてない。総理になることだけ夢みてきた。なった後のことは、大して考えて ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-13T23:04:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/13#KKenj0V_Dj">
-      <title>[ポケモンgo] 2025-11-13 ケルディオ… 格闘の、強いやつだよね。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/13#KKenj0V_Dj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-13T06:34:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/13#LyGZWCKjwT">
-      <title>[Web] [野球] 2025-11-13 一個でも先の塁を獲得して、守備選手から逃げるシンプルな鬼ごっこみたいな感じ。 😂 プロの醍醐 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/13#LyGZWCKjwT</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-13T04:57:14.00Z</dc:date>
     </item>
   </rdf:RDF>
