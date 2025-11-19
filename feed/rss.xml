@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-19T02:49:51.06Z</dc:date>
+    <dc:date>2025-11-19T12:04:30.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#YFOMkT-yHF"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#p29AgIlv5X"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#tsoN_JJ1zy"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#ZXXDgbrKmv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#cEhp9LZY2v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#Snkh086RUa"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#t05QV0pBEY"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#YFOMkT-yHF">
+      <title>[時事] [奥能登] [九州] 2025-11-19 火事は怖いなぁ。佐賀関はこの辺りか。半島先端ではあるけど、能登半島の奥能登ほどの僻地感はない ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/19#YFOMkT-yHF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,九州,時事,奥能登,九州]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-19T12:04:30.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy">
       <title>[木曽] 2025-11-18 100 件以上クチコミを集めて 5.0 のクチコミのとこ、みたことないな。全員が満点というは ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,木曽,木曽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-19T02:49:51.06Z</dc:date>
+      <dc:date>2025-11-19T05:35:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h">
       <title>[ポケモンgo] 2025-11-19 キョダイマックスのオーロンゲ  通常(？)のオーロンゲ ダイマックスのオーロンゲというのでも ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-19T02:49:51.06Z</dc:date>
+      <dc:date>2025-11-19T03:04:03.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#p29AgIlv5X">
       <title>[Web] [炎上] [文化] 2025-11-18 現役猟師… 普通に現役の芸人だろう。この人、どうやら関東近郊の山の中に住んでるらしく、クマ被 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-16T14:52:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#t05QV0pBEY">
-      <title>[NHK] 2025-11-17 再び「イゾラド」の NHK スペシャル。イゾラド = Aislados か。  後でじっくり ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#t05QV0pBEY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-16T12:36:29.00Z</dc:date>
     </item>
   </rdf:RDF>
