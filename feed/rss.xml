@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+    <dc:date>2025-11-19T02:31:54.45Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#p29AgIlv5X"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#tsoN_JJ1zy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#vn-zIca2Vz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#0ln0kUbSYC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#bwsqgetnc6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#j_hanLqw2-"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#cEhp9LZY2v"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#Snkh086RUa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#t05QV0pBEY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#XpnI-z5dJ1"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#OoyzwZRaWR"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,木曽,木曽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+      <dc:date>2025-11-19T02:31:54.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h">
+      <title>[ポケモンgo] 2025-11-19 キョダイマックスのオーロンゲ  ダイマックスのオーロンゲ  図鑑もやたらと複雑になっとるなぁ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-19T02:31:54.45Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#p29AgIlv5X">
       <title>[Web] [炎上] [文化] 2025-11-18 現役猟師… 普通に現役の芸人だろう。この人、どうやら関東近郊の山の中に住んでるらしく、クマ被 ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+      <dc:date>2025-11-19T01:26:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#tsoN_JJ1zy">
       <title>[Web] [音楽] 2025-11-18 ほう↓これが米津玄師のアカウントみたいだ。本物だろう。 米津玄師　ハチ 10 年以上前のポス ...</title>
@@ -53,7 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+      <dc:date>2025-11-19T00:43:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#vn-zIca2Vz">
+      <title>[料理] 2025-11-19 トンテキとした。  こちらは木滑のでけぇなめこで作った、丼である。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/19#vn-zIca2Vz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-18T19:53:12.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#0ln0kUbSYC">
       <title>[ポケモンgo] 2025-11-18 これ、たぶん、一人じゃ勝てないね。 😅  意味わかんないのだけど、なんか調べるモチベーションが…</title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+      <dc:date>2025-11-18T19:31:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#bwsqgetnc6">
       <title>[モンハンNow] 2025-11-18 メル・ゼナというのは、龍属性の倍化スキルがついてるようだ。ふーむ。火属性の倍化は、まだ来ない ...</title>
@@ -69,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-18T13:55:43.36Z</dc:date>
+      <dc:date>2025-11-18T18:04:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#j_hanLqw2-">
       <title>[ポケモンgo] 2025-11-18 これを読めばいいのかね。 「マックスバトル」と「マックスポケモン」のつかまえ方  —  Po ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-16T12:36:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#XpnI-z5dJ1">
-      <title>[ポケモンgo] [生活] 2025-11-16 今日は朝から自宅作業。どうやら今日もポケモンのイベントやってたみたい。オーロンゲ？ダークライ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/16#XpnI-z5dJ1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,ポケモンgo,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-16T11:30:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/15#OoyzwZRaWR">
-      <title>[Ingress] [Web] 2025-11-15 ほほう、久々に Ingress ネタ(？)が流れてきた。何かあったか… 広域の極大フィールド ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/15#OoyzwZRaWR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Ingress,Web,Ingress,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-15T18:03:07.00Z</dc:date>
     </item>
   </rdf:RDF>
