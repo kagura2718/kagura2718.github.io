@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-20T10:53:29.78Z</dc:date>
+    <dc:date>2025-11-20T12:21:29.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#Im1S8mIokt"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#F5P9OoQsSb"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#Im1S8mIokt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#s6tvgvprLh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#YFOMkT-yHF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#38rcB76d7h"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#p29AgIlv5X"/>
@@ -26,18 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#teftdvf569"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#99UE1ivKBm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#1qEe0oJBq1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#Im1S8mIokt">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#F5P9OoQsSb">
+      <title>[モンハンNow] 2025-11-20 メル・ゼナの武器             どれを選ぶか、じっくり悩みましょう。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/20#F5P9OoQsSb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-20T12:21:29.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#Im1S8mIokt">
       <title>[モンハンNow] 2025-11-20 昼ぐらいになって初登場のメル・ゼナがいた。しかし遠い。古龍の種類が増えてしまって、まったく届 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/20#Im1S8mIokt</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-20T10:53:29.78Z</dc:date>
+      <dc:date>2025-11-20T12:21:29.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz">
+      <title>[Web] [時事] [炎上] 2025-11-19 さて、この先、どうなってくかねぇ。風刺でも笑えない。面白いのに笑えない。  ちなみに、こいつ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-20T05:44:31.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h">
+      <title>[漫画] [アニメ] 2025-11-17 チェンソーマンは一巻を Bookoff でぱら読みした。その程度。ふーん、なるほどだね。米津 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-17T12:14:30.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG">
+      <title>[ポケモンgo] 2025-11-20 ツツケラとかいう  ゴミ  鳥さんのコミュデイだという話だったんだけど、進化させて特別技でレ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-19T19:42:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#s6tvgvprLh">
       <title>[ポケモンgo] 2025-11-20 スーパーボールとハイパーボール、出る確率一緒になってね？  さらに、最近やたらとブラックアウ ...</title>
@@ -54,22 +86,6 @@
         <![CDATA[日記,つぶやき,雑記帳,時事,奥能登,九州,時事,奥能登,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-19T13:14:08.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG">
-      <title>[ポケモンgo] 2025-11-20 ツツケラとかいう  ゴミ  のコミュデイだという話だったんだけど、進化させて特別技でレックウ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/20#oczAScURYG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-19T10:04:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz">
-      <title>[Web] [時事] [炎上] 2025-11-19 さて、この先、どうなってくかねぇ。風刺でも笑えない。面白いのに笑えない。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/19#hYPBFmM6sz</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-19T07:37:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/18#nrsMNOBYKy">
       <title>[木曽] 2025-11-18 100 件以上クチコミを集めて 5.0 のクチコミのとこ、みたことないな。全員が満点というは ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-17T12:20:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h">
-      <title>[漫画] [アニメ] 2025-11-17 チェンソーマンは一巻を Bookoff でぱら読みした。その程度。ふーん、なるほどだね。米津 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/17#LXQgdETx6h</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-17T11:22:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/16#1qEe0oJBq1">
-      <title>[登山] [福井] 2025-11-16 荒島岳から下山中に気付いたの、このレースだね。 THE STEEP 荒島VK - 公式ホーム ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/16#1qEe0oJBq1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,福井,登山,福井]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-17T01:02:38.00Z</dc:date>
     </item>
   </rdf:RDF>
