@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-19T13:20:30.00Z</dc:date>
+    <dc:date>2025-11-20T10:53:29.78Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vv/vvJaLuQVgS.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ko/KofwbMHMNx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sn/snqM2z9l0E.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dX/dXT40W1e29.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Uc/UcIMc-CTXf.htm"/>
@@ -26,11 +28,25 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hp/HpxkgsZYR0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UL/UL0cnEIn8I.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/j0/j0cixVvdL1.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6T/6T-pJAn7e8.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AI/AIE5Ia1eRJ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vv/vvJaLuQVgS.htm">
+    <title>[モンハンNow] 2025-11-20 昼ぐらいになって初登場のメル・ゼナがいた。しかし遠い。古龍の種類が増えてしまって、まったく届 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/vv/vvJaLuQVgS.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-11-20T10:53:29.78Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ko/KofwbMHMNx.htm">
+    <title>[ポケモンgo] 2025-11-20 スーパーボールとハイパーボール、出る確率一緒になってね？  さらに、最近やたらとブラックアウ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ko/KofwbMHMNx.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-11-19T17:34:58.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sn/snqM2z9l0E.htm">
     <title>[時事] [奥能登] [九州] 2025-11-19 火事は怖いなぁ。   佐賀関はこの辺りか。半島先端ではあるけど、能登半島の奥能登ほどの僻地感 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/sn/snqM2z9l0E.htm</link>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,登山,福井,登山,福井</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-11-17T01:02:38.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6T/6T-pJAn7e8.htm">
-    <title>[Web] 2025-11-17 ふーむ。これは家庭ではかなり作りづらい。広い鉄板がないと。  ストリートフードらしいから、屋 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/6T/6T-pJAn7e8.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-16T17:13:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/AI/AIE5Ia1eRJ.htm">
-    <title>[Web] 2025-11-15 彼女は、たぶん、何も考えてない。総理になることだけ夢みてきた。なった後のことは、大して考えて ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/AI/AIE5Ia1eRJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-15T17:47:24.00Z</dc:date>
   </item>
 </rdf:RDF>
