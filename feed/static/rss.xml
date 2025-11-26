@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-25T12:16:00.77Z</dc:date>
+    <dc:date>2025-11-26T03:10:43.34Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eI/eIpyp83cSY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uA/uAOau8XTVK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/HA/HABxSCmD5r.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/a3/a3bEWfysbw.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xN/xNIopxR90c.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/po/poH5TN9BJm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lq/lqRqT2v2KJ.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_Z/_ZqAFhObPZ.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/eI/eIpyp83cSY.htm">
+    <title>[モンハンNow] 2025-11-26 なんとかなった。双剣まったくわからん！  これは素材緩和もまだ来ないみたいだし、遠いぜ。桜レ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/eI/eIpyp83cSY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-11-26T03:10:43.34Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uA/uAOau8XTVK.htm">
     <title>[ポケモンgo] [生活] [北陸] 2025-11-24 イーブイのイベント？ダイマックスをやろうかなって気になって出動したんだけど、雷が怖すぎて撤収 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/uA/uAOau8XTVK.htm</link>
@@ -45,7 +53,7 @@
     <description>
         記録,ドキュメント,簡約版,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-25T12:16:00.77Z</dc:date>
+    <dc:date>2025-11-25T12:36:31.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/a3/a3bEWfysbw.htm">
     <title>[登山] [生活] [紅葉] [宝達山] 2025-11-25 むくり  本日の登頂  北アルプス (立山連峰) の稜線は見えないが、白馬の稜線 (後立山) ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-11-22T22:43:27.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_Z/_ZqAFhObPZ.htm">
-    <title>[モンハンNow] 2025-11-23 武器強化の儀 イビルジョーガンス グラグリ  </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_Z/_ZqAFhObPZ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-11-22T20:55:50.00Z</dc:date>
   </item>
 </rdf:RDF>
