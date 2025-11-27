@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-26T03:10:43.34Z</dc:date>
+    <dc:date>2025-11-27T02:54:22.30Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#WMv6bhSUJU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#VwZHMAbZXh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vvnwcGds4x"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#6JRJlc1KAh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/25#BetQG1YMUx"/>
@@ -24,20 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#m9Q9M5tWon"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#kb611jxPyP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#E-SpXKyx16"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#RSFeGuNowY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#NA9SfSFdWA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/22#ZirqsBQtCQ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj">
+      <title>[登山] [生活] [紅葉] [宝達山] 2025-11-27 昨日、呑み食いしすぎた。というわけでしつこく…  色が深い  くっきり猪の足跡あるね。今年は ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-27T02:54:22.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#WMv6bhSUJU">
+      <title>[登山] [Web] [炎上] 2025-11-27 うーん… 面識もないのに「ご冥福をお祈りします」とか書いてしまう人、それなりの数の人がネガテ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#WMv6bhSUJU</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-27T02:54:22.30Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-">
       <title>[モンハンNow] 2025-11-26 なんとかなった。双剣まったくわからん！  これは素材緩和もまだ来ないみたいだし、遠いぜ。桜レ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-26T03:10:43.34Z</dc:date>
+      <dc:date>2025-11-26T18:47:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#VwZHMAbZXh">
+      <title>[生活] [北陸] 2025-11-26 ガソリン価格が徐々に下がってきた。今のとこ大体 160 - 165 ぐらいか？前に荒島岳に出 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/26#VwZHMAbZXh</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-26T16:00:54.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vvnwcGds4x">
+      <title>[Web] [炎上] 2025-11-27 後ろの女性、すごい視線を送ってる… 😅 どういう立ち位置の人だろう。官僚かな？  こいつか… ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vvnwcGds4x</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-26T12:54:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#6JRJlc1KAh">
       <title>[ポケモンgo] [生活] [北陸] 2025-11-24 イーブイのイベント？ダイマックスをやろうかなって気になって出動したんだけど、雷が怖すぎて撤収 ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-23T15:41:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#RSFeGuNowY">
-      <title>[モンハンNow] 2025-11-23 相変わらずギリギリ… ティガ亜種 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/23#RSFeGuNowY</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-23T10:11:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM">
-      <title>[登山] [Web] [炎上] 2025-11-23 うーん、登山中の滑落事故による訃報を読んでしまった。今のとこ炎上て感じはないけど、これはしば ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-23T06:26:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#NA9SfSFdWA">
-      <title>[モンハンNow] 2025-11-23 HR337 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/23#NA9SfSFdWA</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-23T03:36:03.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/22#ZirqsBQtCQ">
-      <title>[モンハンNow] 2025-11-22 なるほろ、劫血纏いでハイチャージの効果が up する感じかな。ただ、実際に HP が回復する ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/22#ZirqsBQtCQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-22T22:43:27.00Z</dc:date>
     </item>
   </rdf:RDF>
