@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-11-27T08:29:16.71Z</dc:date>
+    <dc:date>2025-11-27T12:59:37.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#aSpa6jVKiu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#WMv6bhSUJU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vSS0aXMVtJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#VwZHMAbZXh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vvnwcGds4x"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#FUtzngBl2j"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#ggBoHcVk-d"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/22#AbFqCDfatx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#90UbXJSkSL"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#m9Q9M5tWon"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6">
+      <title>[モンハンNow] 2025-11-27 おーもう当たりが出た。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-27T12:59:37.17Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj">
       <title>[登山] [生活] [紅葉] [宝達山] 2025-11-27 昨日、呑み食いしすぎた。というわけでしつこく…  朱い色が深い。至福 🍁  くっきり猪の足跡 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#hVOi8MVQTj</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,紅葉,宝達山,登山,生活,紅葉,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-27T08:29:16.71Z</dc:date>
+      <dc:date>2025-11-27T12:59:37.17Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#aSpa6jVKiu">
       <title>[モンハンNow] 2025-11-27 ⭐ 10 なんとかなった！ ✌️ </title>
@@ -45,15 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-27T08:29:16.71Z</dc:date>
+      <dc:date>2025-11-27T12:59:37.17Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6">
-      <title>[モンハンNow] 2025-11-27 おーもう出た。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#rRTUBp9EX6</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM">
+      <title>[登山] [Web] [炎上] 2025-11-23 うーん、登山中の滑落事故による訃報を読んでしまった。今のとこ炎上て感じはないけど、これはしば ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/23#pFQFps9JGM</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-27T08:29:16.71Z</dc:date>
+      <dc:date>2025-11-24T07:17:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#WMv6bhSUJU">
       <title>[登山] [Web] [炎上] 2025-11-27 うーん… 面識もないのに「ご冥福をお祈りします」とか書いてしまう人、ごく少数でも、それなりの ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,登山,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-27T04:07:53.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vSS0aXMVtJ">
+      <title>[炎上] [国際] 2025-11-27 このぐらいの高層階でこのレベルの火事って日本では見たことないよね。防火や消火設備ってないもん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/27#vSS0aXMVtJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,炎上,国際,炎上,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-11-27T06:38:24.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/26#6eSHcnoPH-">
       <title>[モンハンNow] 2025-11-26 なんとかなった。双剣まったくわからん！  これは素材緩和もまだ来ないみたいだし、遠いぜ。桜レ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,音楽,漫画,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-24T00:17:56.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#90UbXJSkSL">
-      <title>[Web] [時事] 2025-11-24 あの「ぬいぐるみ」をぶら下げてるの「バッグにぬい」って言うのか？あるいは「ぬい活」？これぐら ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/24#90UbXJSkSL</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-24T03:04:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/24#m9Q9M5tWon">
-      <title>[Web] [サッカー] 2025-11-24 巧いトラップから、しかもアウトサイドでシュートやん。 👍  たまたまほぼ同時に流れてきた、本 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/24#m9Q9M5tWon</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-23T22:45:31.00Z</dc:date>
     </item>
   </rdf:RDF>
