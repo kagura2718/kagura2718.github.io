@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-02T03:31:44.50Z</dc:date>
+    <dc:date>2025-12-02T14:47:52.13Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#tHYqHEUhoh"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#koZnFkqjk5"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#tHYqHEUhoh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#UrW5zkC1jG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#QStjGngXDb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#BUQxl-u1sL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#PxFguBsKaj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#mNKbKPP6tS"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#MWFy9VMaMz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#chJ6xA4tLx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#OKK-lgSfBy"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#6yxmn8yGfB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#cSoN4zXbLM"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#tHYqHEUhoh">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#koZnFkqjk5">
+      <title>[アニメ] 2025-12-02 正直わらったよねw きったねぇ。これ、体育会系のノリなんだけど、作者ってそれ系？  ハンジと ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/02#koZnFkqjk5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-02T14:47:52.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#tHYqHEUhoh">
       <title>[ポケモンgo] 2025-12-01 先週は 69km </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/01#tHYqHEUhoh</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-02T03:31:44.50Z</dc:date>
+      <dc:date>2025-12-02T14:47:52.13Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#UrW5zkC1jG">
       <title>[Web] [奥能登] 2025-12-02 あれ、浚渫工事なんかねぇ？港の底を削って土砂を取り除いても海面水位が高くなるわけがないから、 ...</title>
@@ -45,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-02T03:31:44.50Z</dc:date>
+      <dc:date>2025-12-02T14:47:52.13Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#QStjGngXDb">
+      <title>[ポケモンgo] [生活] [北陸] 2025-12-02 また、今の荒天時期が去ったら、できればキラ交換がしたい。TL 70 到達してるようなガチの人 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/02#QStjGngXDb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,北陸,ポケモンgo,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-02T11:36:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#BUQxl-u1sL">
       <title>[Web] [文化] 2025-12-02 おお… これはきついな。 </title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-02T03:31:44.50Z</dc:date>
+      <dc:date>2025-12-02T11:09:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/02#PxFguBsKaj">
       <title>[モンハンNow] 2025-12-02 武器強化の儀 ティガ亜種 大刀   ディノバルド ヘヴィボ     ティガ亜種の大刀はそれな ...</title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-02T03:31:44.50Z</dc:date>
+      <dc:date>2025-12-02T03:58:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/01#mNKbKPP6tS">
       <title>[歴史] [地理] 2025-12-01 上杉謙信の居城だった「春日山城」 なんとなく新潟市あたりかと思ってたけど、上越市の近郊だ。昔 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-11-29T12:07:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#6yxmn8yGfB">
-      <title>[Web] [白山] 2025-11-29 ほほう、これは興味深い。こういうとこで冬眠か… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/29#6yxmn8yGfB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,白山,Web,白山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-29T11:26:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/11/29#cSoN4zXbLM">
-      <title>[Web] [炎上] [文化] 2025-11-29 ほーう。有料だから note は読んでないけど、こういうことね。自国領海内の  「漁業」   ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/11/29#cSoN4zXbLM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-11-29T03:56:37.00Z</dc:date>
     </item>
   </rdf:RDF>
