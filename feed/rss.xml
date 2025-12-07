@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-07T11:54:23.78Z</dc:date>
+    <dc:date>2025-12-07T11:55:36.38Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/07#QVe4TEadmd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#3XK-Ab_8qf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/04#ebz2i73uaA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/05#ytfPTYKMeB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/04#blACSLwv5v"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-07T11:54:23.78Z</dc:date>
+      <dc:date>2025-12-07T11:55:36.38Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#3XK-Ab_8qf">
       <title>[Web] [炎上] 2025-12-06 震源はそっち方向か。 </title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-07T11:54:23.78Z</dc:date>
+      <dc:date>2025-12-07T11:55:36.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR">
+      <title>[生活] [食事] [金沢] 2025-12-05 買い物に金沢駅へ出動  ヒードランのシャドウか。人気が… ない？   フォーラスの 12 月 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-07T11:55:36.38Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F">
       <title>[ポケモンgo] 2025-12-06 このホウオウなんだったか… かっけぇ </title>
@@ -54,14 +62,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-06T20:06:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR">
-      <title>[生活] [食事] [金沢] 2025-12-05 買い物に金沢駅へ出動  ヒードランのシャドウか。人気が… ない？   フォーラスの 12 月 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-06T08:04:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/04#ebz2i73uaA">
       <title>[漫画] [Web] [炎上] [国際] 2025-12-04 数日前から車力の巨人が流れてたのは、高市に似ているという話か… あれだけ独特形状だとなぁ。  ...</title>
