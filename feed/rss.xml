@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-10T03:16:44.55Z</dc:date>
+    <dc:date>2025-12-10T03:55:44.44Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#5V_vuXZhy5"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#ch1TyuKk2a"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#izws7H0HWJ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#5E9-635G8f"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#U51FZc9sMN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#3xrGhaOd5D"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#3XK-Ab_8qf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#yNb1W1RhjB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/05#O75akyO8HR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#9qYNu8LxT8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-">
+      <title>[モンハンNow] 2025-12-10 ふーん、次は「次元臨界」？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#5V_vuXZhy5">
+      <title>[モンハンNow] 2025-12-10 ティガ亜種 ⭐ 9 ようやく一勝！  居合カウンターはすべて成功した。それぐらいじゃないと無理。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/10#5V_vuXZhy5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI">
       <title>[ポケモンgo] 2025-12-09 やっぱり TL80 到達してるね。 👍 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-10T03:16:44.55Z</dc:date>
+      <dc:date>2025-12-10T03:55:44.44Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -55,14 +71,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-10T02:08:12.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/index.htm">
-      <title>山旅と AR と一人旅と</title>
-      <link>https://kagura2718.github.io/index.htm</link>
-      <description>
-        <![CDATA[ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-06T06:13:15.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#izws7H0HWJ">
       <title>[Web] [女性] [音楽] 2025-12-10 これ、上品めの女声だといかんね。女性はこの歌詞の暴力性の意味するところ、分かんない気がする。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/10#izws7H0HWJ</link>
@@ -70,6 +78,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,女性,音楽,Web,女性,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-09T19:07:47.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/index.htm">
+      <title>山旅と AR と一人旅と</title>
+      <link>https://kagura2718.github.io/index.htm</link>
+      <description>
+        <![CDATA[ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-06T06:13:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#5E9-635G8f">
       <title>[漫画] [アニメ] 2025-12-08 を？チェンソーマンのテレビ版も無料だ。もしかして… エンディングが全部バラバラじゃない？おそ ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-07T19:44:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#9qYNu8LxT8">
-      <title>[モンハンNow] 2025-12-08 やっと揃った…   で 現時点では属性攻撃が 2750 当たりさえよければ ⭐ 10 ディア ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/08#9qYNu8LxT8</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-07T17:14:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F">
-      <title>[ポケモンgo] 2025-12-06 このホウオウなんだったか… かっけぇ </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/06#6PkOvVMd3F</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-06T20:06:39.00Z</dc:date>
     </item>
   </rdf:RDF>
