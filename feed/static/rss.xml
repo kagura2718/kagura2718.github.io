@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-10T02:51:46.11Z</dc:date>
+    <dc:date>2025-12-10T03:00:46.01Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/S5/S5_HG-mtof.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9O/9OrEJ4mc7G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-F/-F2aFVVrjm.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xg/XgFhP-iLrf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/96/96yB0Jyqb9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bc/BcGJ6N4Cxi.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mX/mXZybWxLo5.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,Web,映画,文化,北陸,Web,映画,文化,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-10T01:40:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/S5/S5_HG-mtof.htm">
+    <title>[ポケモンgo] 2025-12-10 やっぱり TL80 到達してるね。 👍 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/S5/S5_HG-mtof.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-10T01:27:19.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9O/9OrEJ4mc7G.htm">
     <title>[ポケモンgo] 2025-12-09 やっぱり TL80 到達してるね。 👍 </title>
@@ -69,7 +77,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,女性,音楽,Web,女性,音楽</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-09T19:00:58.00Z</dc:date>
+    <dc:date>2025-12-09T19:07:47.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x7/x7X_swc12H.htm">
     <title>[漫画] [アニメ] 2025-12-08 を？チェンソーマンのテレビ版も無料だ。もしかして… エンディングが全部バラバラじゃない？おそ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-07T17:14:38.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mX/mXZybWxLo5.htm">
-    <title>[ポケモンgo] 2025-12-06 このホウオウなんだったか… かっけぇ </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/mX/mXZybWxLo5.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-06T20:06:39.00Z</dc:date>
   </item>
 </rdf:RDF>
