@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    <dc:date>2025-12-10T13:56:23.97Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/M0/M02t74-wGg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9O/9OrEJ4mc7G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_X/_XSHQZBrhY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-F/-F2aFVVrjm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7N/7N3S8reyun.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pJ/pJoAlF6YLm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xg/XgFhP-iLrf.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/96/96yB0Jyqb9.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    <dc:date>2025-12-10T13:56:23.97Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/M0/M02t74-wGg.htm">
     <title>[モンハンNow] 2025-12-10 ティガ亜種 ⭐ 9 ようやく一勝！  居合カウンターはすべて成功した。それぐらいじゃないと無理。 </title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    <dc:date>2025-12-10T13:56:23.97Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9O/9OrEJ4mc7G.htm">
     <title>[ポケモンgo] 2025-12-09 やっぱり TL80 到達してるね。 👍 </title>
@@ -53,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-10T03:55:44.44Z</dc:date>
+    <dc:date>2025-12-10T12:38:50.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -62,6 +62,14 @@
         ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_X/_XSHQZBrhY.htm">
+    <title>[モンハンNow] 2025-12-10 HR340 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/_X/_XSHQZBrhY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-10T05:51:13.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm">
     <title>[Web] [映画] [文化] [北陸] 2025-12-10 北國新聞の記者ってアホ揃いだなぁ。本当に観たのだろうか？原作を多少は読んだのだろうか？なお、 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-07T22:42:59.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/96/96yB0Jyqb9.htm">
-    <title>[生活] [食事] [金沢] 2025-12-05 買い物に金沢駅へ出動  ヒードランのシャドウか。人気が… ない？   フォーラスの 12 月 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/96/96yB0Jyqb9.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-07T19:44:34.00Z</dc:date>
   </item>
 </rdf:RDF>
