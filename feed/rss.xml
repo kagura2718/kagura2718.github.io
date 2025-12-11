@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-10T13:56:23.97Z</dc:date>
+    <dc:date>2025-12-11T03:47:38.51Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#5V_vuXZhy5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#d6Mh2FAdAu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/07#QVe4TEadmd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/06#3XK-Ab_8qf"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#yNb1W1RhjB"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf">
+      <title>[Web] [音楽] 2025-12-11 ダンダダンの曲だね。コラボ系かなぁ。これ「優里」ってのが男性かなぁ。これ俺が女だったら、この ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-11T03:47:38.51Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-">
       <title>[モンハンNow] 2025-12-10 ふーん、次は「次元臨界」？ </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/10#pfeKyyKDL-</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-10T13:56:23.97Z</dc:date>
+      <dc:date>2025-12-10T17:57:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/10#5V_vuXZhy5">
       <title>[モンハンNow] 2025-12-10 ティガ亜種 ⭐ 9 ようやく一勝！  居合カウンターはすべて成功した。それぐらいじゃないと無理。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-10T13:56:23.97Z</dc:date>
+      <dc:date>2025-12-10T14:58:20.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/09#KtzsbW83OI">
       <title>[ポケモンgo] 2025-12-09 やっぱり TL80 到達してるね。 👍 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-08T04:30:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/08#yNb1W1RhjB">
-      <title>[ポケモンgo] 2025-12-08 先日の 💯  これは、まだダイマックスのない子だけど、ダイマックスが別系統なのがほんとにムカ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/08#yNb1W1RhjB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-07T22:42:59.00Z</dc:date>
     </item>
   </rdf:RDF>
