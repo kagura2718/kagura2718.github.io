@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-12T10:15:03.64Z</dc:date>
+    <dc:date>2025-12-12T10:16:34.01Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#R2hhlT_8ut"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#ASh5lBNvdh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#DOiDOv3Feo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#naFLoYuY39"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#uRykGDtJ35"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#7TsjB-oQZt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#tdSUIIQBw6"/>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-12T10:15:03.64Z</dc:date>
+      <dc:date>2025-12-12T10:16:34.01Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#ASh5lBNvdh">
       <title>[登山] [Web] [炎上] [文化] 2025-12-12 高尾山で遭難…？これ 100 件程度というけど、あの山は単に登る人が、極端に多過ぎることに加 ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,炎上,文化,登山,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-12T10:15:03.64Z</dc:date>
+      <dc:date>2025-12-12T10:16:34.01Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST">
+      <title>[NHK] 2025-12-12 現行ニュース 7 の副島アナは慶応出身か。 副島萌生 - Wikipedia 直感では桑子ア ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-12T08:45:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf">
       <title>[Web] [音楽] 2025-12-11 ダンダダンの曲だね。コラボ系かなぁ。これ「優里」ってのが男性かなぁ。これ俺が女だったら、この ...</title>
@@ -70,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-12T00:32:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST">
-      <title>[NHK] 2025-12-12 現行ニュース 7 の副島アナは慶応出身か。 副島萌生 - Wikipedia 直感では桑子ア ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-12T00:21:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#uRykGDtJ35">
       <title>[Web] [スポーツ] 2025-12-12 ここまでスムーズに片足スクワットできないなぁ。前にも見かけた方だと思うけど、特に女性の方。美 ...</title>
