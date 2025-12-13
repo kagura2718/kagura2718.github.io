@@ -4,15 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-13T00:56:20.00Z</dc:date>
+    <dc:date>2025-12-13T04:28:29.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b9/b9mw6Vs_Zn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jv/jvCMNOEfpj.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hb/Hbo_x77ZKA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dS/dSPK0NcCH_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V8/V8_Re7Q1RZ.htm"/>
@@ -31,6 +31,14 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm">
+    <title>[漫画] [アニメ] 2025-12-13 チェンソーマン。レゼ編あたりも大体読んだんだけどね。感想はそれだけかなぁ。 😅 デンジは少年 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-13T04:28:29.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm">
     <title>[モンハンNow] 2025-12-13 新規追加メモ ケマトリス  破壊可能は 頭、尻尾(切断)    ライゼクス  破壊可能は 頭 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm</link>
@@ -62,14 +70,6 @@
         日記,つぶやき,雑記帳,登山,Web,炎上,文化,登山,Web,炎上,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-12T20:45:56.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm">
-    <title>[漫画] [アニメ] 2025-12-13 チェンソーマン。レゾ編あたりも大体読んだんだけどね。感想はそれだけかなぁ。 😅 デンジは少年 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-12T19:37:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hb/Hbo_x77ZKA.htm">
     <title>[NHK] 2025-12-12 現行ニュース 7 の副島アナは慶応出身か。 副島萌生 - Wikipedia 直感では桑子ア ...</title>
