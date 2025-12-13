@@ -9,6 +9,7 @@
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b9/b9mw6Vs_Zn.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jv/jvCMNOEfpj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9O/9OrEJ4mc7G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_X/_XSHQZBrhY.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -38,6 +38,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-13T00:56:20.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm">
+    <title>[登山] [生活] [宝達山] 2025-12-13 朝から自宅作業してたけど、天気がよくてウズウズしてたので、なんとか登りに行ってきた。中腹から ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-12T22:42:18.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/b9/b9mw6Vs_Zn.htm">
     <title>[モンハンNow] 2025-12-12 武器強化の儀 ディノバルト ヘヴィボ。最大強化！   はやくレウス武器のスタイル強化がしたい ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-10T05:51:13.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm">
-    <title>[Web] [映画] [文化] [北陸] 2025-12-10 北國新聞の記者ってアホ揃いだなぁ。本当に観たのだろうか？原作を多少は読んだのだろうか？なお、 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/gO/gOcJgxQHqi.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,映画,文化,北陸,Web,映画,文化,北陸</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-10T02:08:12.00Z</dc:date>
   </item>
 </rdf:RDF>
