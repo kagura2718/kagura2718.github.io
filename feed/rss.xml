@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-15T02:51:19.26Z</dc:date>
+    <dc:date>2025-12-15T18:14:24.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#1Z0COIw_pZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#HqSaA9Wbr5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#M0KkwefNnU"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#UaRUlCMtZE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#dG5gunzyMe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#M1BiggmbcY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#FmOAIgsCRp"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#R2hhlT_8ut"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#ASh5lBNvdh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#mYaD5RIdST"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#uRykGDtJ35"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#1Z0COIw_pZ">
-      <title>[生活] [食事] [金沢] 2025-12-15 そういえば、別院通りにあるラーメンの「白鷺」は移転するのだとか… 駅中だと悪意が反映されやす ...</title>
+      <title>[生活] [食事] [金沢] 2025-12-15 そういえば、別院通りにあるラーメンの「白鷺」は駅中に移転するのだとか… 駅中だと人が多過ぎて ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/15#1Z0COIw_pZ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-15T02:51:19.26Z</dc:date>
+      <dc:date>2025-12-15T16:46:09.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx">
+      <title>[漫画] [アニメ] 2025-12-15 チェンソーマンに「田舎のねずみと都会のねずみ」って話が、何度か出てくると思ったら、イソップ寓 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-15T12:21:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#HqSaA9Wbr5">
       <title>[ポケモンgo] 2025-12-15 マックス粒子の仕組みがまだよーわからん。暴風雨の中金沢駅まで出たのに数回で終わったら、さすが ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-15T02:51:19.26Z</dc:date>
+      <dc:date>2025-12-15T11:20:43.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/series/index.htm">
       <title>シリーズもの一覧</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-14T13:06:16.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#UaRUlCMtZE">
+      <title>[モンハンNow] 2025-12-15 武器強化の儀 イビルジョー ガンランス グラグリ   </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/15#UaRUlCMtZE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-14T22:19:30.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#dG5gunzyMe">
       <title>[Web] [郡上] [飛騨] [岐阜] 2025-12-14 写真をみた直感から、岐阜の郡上か飛騨のどこかだなーと思ってたら、岐阜市からちょっと下呂か中山 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,NHK,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-12T08:45:43.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/12#uRykGDtJ35">
-      <title>[Web] [スポーツ] 2025-12-12 ここまでスムーズに片足スクワットできないなぁ。前にも見かけた方だと思うけど、特に女性の方は美 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/12#uRykGDtJ35</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-12T07:58:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf">
-      <title>[Web] [音楽] 2025-12-11 ダンダダンの曲だね。コラボ系かなぁ。これ「優里」ってのが男性かなぁ。これ俺が女だったら、この ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/11#9Eq57b3Kbf</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-11T18:07:36.00Z</dc:date>
     </item>
   </rdf:RDF>
