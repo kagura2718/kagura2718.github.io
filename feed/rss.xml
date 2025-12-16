@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-16T03:55:08.28Z</dc:date>
+    <dc:date>2025-12-16T08:44:07.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/16#gog0pgMCP4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#s4rK-UqMBJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#1Z0COIw_pZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#HqSaA9Wbr5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/14#M0KkwefNnU"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-16T03:55:08.28Z</dc:date>
+      <dc:date>2025-12-16T08:44:07.05Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx">
+      <title>[漫画] [アニメ] 2025-12-15 チェンソーマンに「田舎のねずみと都会のねずみ」って話が、何度か出てくると思ったら、イソップ寓 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-16T08:44:07.05Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#s4rK-UqMBJ">
       <title>[ポケモンgo] 2025-12-15 先週は 50km </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-16T03:55:08.28Z</dc:date>
+      <dc:date>2025-12-16T04:16:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#1Z0COIw_pZ">
       <title>[生活] [食事] [金沢] 2025-12-15 そういえば、別院通りにあるラーメンの「白鷺」は駅中に移転するのだとか… 駅中だと人が多過ぎて ...</title>
@@ -54,14 +62,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-15T16:46:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx">
-      <title>[漫画] [アニメ] 2025-12-15 チェンソーマンに「田舎のねずみと都会のねずみ」って話が、何度か出てくると思ったら、イソップ寓 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-15T12:21:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#HqSaA9Wbr5">
       <title>[ポケモンgo] 2025-12-15 マックス粒子の仕組みがまだよーわからん。暴風雨の中金沢駅まで出たのに数回で終わったら、さすが ...</title>
