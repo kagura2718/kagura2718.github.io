@@ -10,6 +10,7 @@
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4t/4tjrLGvUcY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fO/fOnKKXuab4.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jb/jba_78R6py.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X3/X3NZcgLpkz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EU/EUTjjsXAcW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gs/Gso5xuW0Gq.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/N0/N0atqGhjs8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A4/A407RyRxRJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c8/c8ajc3b6Os.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-16T20:18:21.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jb/jba_78R6py.htm">
+    <title>[Web] [中国地方] 2025-12-17 ↓これは岡山県高梁(たかはし)市の風景らしい。俺の行動範囲の金沢、奥能登や飛騨、郡上にもたく ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/jb/jba_78R6py.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,中国地方,Web,中国地方</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-16T16:09:56.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/X3/X3NZcgLpkz.htm">
     <title>[漫画] [アニメ] 2025-12-15 チェンソーマンに「田舎のねずみと都会のねずみ」って話が、何度か出てくると思ったら、イソップ寓 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-13T10:14:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm">
-    <title>[漫画] [アニメ] 2025-12-13 チェンソーマン。レゼ編あたりも大体読んだんだけどね。感想はそれだけかなぁ。 😅 デンジは少年 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-13T04:28:29.00Z</dc:date>
   </item>
 </rdf:RDF>
