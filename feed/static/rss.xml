@@ -10,6 +10,8 @@
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fO/fOnKKXuab4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X3/X3NZcgLpkz.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EU/EUTjjsXAcW.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gs/Gso5xuW0Gq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/y_/y_PWaRD7YH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rq/RqbyLB9Pf-.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9O/9OJjCytmZg.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c8/c8ajc3b6Os.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oH/oHxt4f_Rxz.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,22 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-16T14:39:29.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EU/EUTjjsXAcW.htm">
+    <title>[モンハンNow] 2025-12-17 こいつもハマるとどんどん回転が悪くなって ⭐ 8 ですら失敗する。  新規追加ではゴシャハギ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/EU/EUTjjsXAcW.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-16T10:38:53.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Gs/Gso5xuW0Gq.htm">
+    <title>[モンハンNow] 2025-12-17 武器強化の儀 ネロミエール ライボ   </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Gs/Gso5xuW0Gq.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-16T10:29:28.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/y_/y_PWaRD7YH.htm">
     <title>[Web] [時事] [炎上] 2025-12-17 マジかよ… これ。俺はコンビニはほぼ入らないんだけどさ。でもさ、不起訴理由の開示にはなってな ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-13T01:58:19.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm">
-    <title>[モンハンNow] 2025-12-13 新規追加メモ ケマトリス  破壊可能は 頭、尻尾(切断)    ライゼクス  破壊可能は 頭 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/RM/RME_9G2SR0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-13T00:56:20.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm">
-    <title>[登山] [生活] [宝達山] 2025-12-13 朝から自宅作業してたけど、天気がよくてウズウズしてたので、なんとか登りに行ってきた。中腹から ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/V7/V78Q7beZN9.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-12T22:42:18.00Z</dc:date>
   </item>
 </rdf:RDF>
