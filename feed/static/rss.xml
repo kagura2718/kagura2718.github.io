@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-16T20:18:21.00Z</dc:date>
+    <dc:date>2025-12-17T00:02:15.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/4t/4tjrLGvUcY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fO/fOnKKXuab4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/X3/X3NZcgLpkz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EU/EUTjjsXAcW.htm"/>
@@ -27,10 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A4/A407RyRxRJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/c8/c8ajc3b6Os.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jQ/jQo2AtboFY.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oH/oHxt4f_Rxz.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/4t/4tjrLGvUcY.htm">
+    <title>[料理] 2025-12-17 サーモンを塩こんぶ締めした丼にしてみた。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/4t/4tjrLGvUcY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-17T00:02:15.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/fO/fOnKKXuab4.htm">
     <title>[モンハンNow] 2025-12-16 HR341  お？今まで気付かなった… </title>
     <link>https://kagura2718.github.io/Gitwee/jump/fO/fOnKKXuab4.htm</link>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-13T04:28:29.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oH/oHxt4f_Rxz.htm">
-    <title>[モンハンNow] 2025-12-13 フルフル次元変異、二回咆哮する感じだし、バックステップ動作が増えてる？次元変異だけ特殊動作し ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/oH/oHxt4f_Rxz.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-13T01:58:19.00Z</dc:date>
   </item>
 </rdf:RDF>
