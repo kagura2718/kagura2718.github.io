@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-21T02:43:38.66Z</dc:date>
+    <dc:date>2025-12-21T03:40:03.42Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#6F2Q8OPded"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/20#r7dUNlhv3l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#YdTDB1_0sO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/20#W6vJ-DIBOD"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#R0Rrzkpn6r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/15#pBY7_xVTxx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#KaG5eo5AWh"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#wxlLRS5J5g"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-21T02:43:38.66Z</dc:date>
+      <dc:date>2025-12-21T03:40:03.42Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#6F2Q8OPded">
+      <title>[Web] [七尾] [文化] 2025-12-21 読んでても、興味がないせいか、なんだかよーわからんのだが、前に市議会議員の選挙のときに、やけ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/21#6F2Q8OPded</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,七尾,文化,Web,七尾,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-21T03:40:03.42Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/20#r7dUNlhv3l">
       <title>[モンハンNow] 2025-12-20 武器強化の儀 ライゼクス 片手剣   </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-21T02:43:38.66Z</dc:date>
+      <dc:date>2025-12-21T03:40:03.42Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#YdTDB1_0sO">
       <title>[料理] 2025-12-21 炒飯といたしましょう。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-16T10:38:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#wxlLRS5J5g">
-      <title>[モンハンNow] 2025-12-17 武器強化の儀 ネロミエール ライボ   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/17#wxlLRS5J5g</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-16T10:29:28.00Z</dc:date>
     </item>
   </rdf:RDF>
