@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-21T11:40:48.11Z</dc:date>
+    <dc:date>2025-12-22T11:03:46.77Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/22#fEMzmpNk6N"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/22#g4MCsaBLBQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#6F2Q8OPded"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/20#r7dUNlhv3l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#GZHxpL87n1"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#jyfG5VShPo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#uMxqhYTv81"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#pCt-nRTjCg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/16#gog0pgMCP4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#R0Rrzkpn6r"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/22#fEMzmpNk6N">
+      <title>[モンハンNow] 2025-12-22 武器強化の儀    </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/22#fEMzmpNk6N</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-22T11:03:46.77Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/22#g4MCsaBLBQ">
+      <title>[登山] [生活] [宝達山] 2025-12-22 午前のやぼ用が終わったので、本日の登頂。 火事だね？海沿いだ。白尾よりも北、高松 IC より ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/22#g4MCsaBLBQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-22T01:24:03.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-">
       <title>[モンハンNow] 2025-12-18 武器強化の儀 バゼルギウス槍  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/18#k-hJu0xLT-</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-21T11:40:48.11Z</dc:date>
+      <dc:date>2025-12-21T20:09:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/21#6F2Q8OPded">
       <title>[Web] [七尾] [文化] 2025-12-21 読んでても、興味がないせいか、なんだかよーわからんのだが、前に市議会議員の選挙のときに七尾市 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,七尾,文化,Web,七尾,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-21T11:40:48.11Z</dc:date>
+      <dc:date>2025-12-21T19:37:21.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/20#r7dUNlhv3l">
       <title>[モンハンNow] 2025-12-20 武器強化の儀 ライゼクス 片手剣   </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-17T00:02:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/16#gog0pgMCP4">
-      <title>[モンハンNow] 2025-12-16 HR341  お？今まで気付かなった… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/16#gog0pgMCP4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-16T20:18:21.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/17#R0Rrzkpn6r">
-      <title>[Web] [中国地方] 2025-12-17 ↓これは岡山県高梁(たかはし)市の風景らしい。俺の行動範囲の金沢、奥能登や飛騨、郡上にもたく ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/17#R0Rrzkpn6r</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,中国地方,Web,中国地方]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-16T16:09:56.00Z</dc:date>
     </item>
   </rdf:RDF>
