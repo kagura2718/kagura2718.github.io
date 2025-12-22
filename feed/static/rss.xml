@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-22T11:10:52.81Z</dc:date>
+    <dc:date>2025-12-22T11:52:54.61Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d-/d-pJi-lBPh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6Q/6QrEd5JwUv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/5b/5bhbUgRLkP.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kQ/kQNpXnB5IU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fi/FiZtb9shPk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y3/Y3j29AkN-j.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V_/V_prMOSayM.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Of/OfPWJuiHFh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1b/1b63Tfob2i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Pi/PifUZUBQF5.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mo/MoYfDW4EZm.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-22T11:10:52.81Z</dc:date>
+    <dc:date>2025-12-22T11:52:54.61Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6Q/6QrEd5JwUv.htm">
     <title>[生活] [かほく] 2025-12-22 見えてた火事はこれか。 工場兼住宅焼く火事　石川・かほく市の鉄工所 けが人なし　警察と消防が ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,かほく,生活,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-22T11:10:52.81Z</dc:date>
+    <dc:date>2025-12-22T11:33:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/5b/5bhbUgRLkP.htm">
     <title>[登山] [生活] [宝達山] 2025-12-22 午前のやぼ用が終わったので、本日の登頂。  火事だね？海沿いだ。白尾よりも北、高松 IC よ ...</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-22T02:02:04.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/kQ/kQNpXnB5IU.htm">
+    <title>[生活] [東京] 2025-12-22 なんだかホントっぽいね 😅 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/kQ/kQNpXnB5IU.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,東京,生活,東京</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-22T01:17:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fi/FiZtb9shPk.htm">
     <title>[モンハンNow] 2025-12-18 武器強化の儀 バゼルギウス槍  </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-17T18:54:59.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Mo/MoYfDW4EZm.htm">
-    <title>[Web] 2025-12-18 😱 さすがに登れるライン(接地するライン？)を読み切ってるとは思えないから、接地がはずれたら ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Mo/MoYfDW4EZm.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-17T16:46:22.00Z</dc:date>
   </item>
 </rdf:RDF>
