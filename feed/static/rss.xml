@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-25T03:30:13.06Z</dc:date>
+    <dc:date>2025-12-25T03:45:43.79Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/O9/O9TKmzTJr4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zf/zfuaCkbFuh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/km/kmjy1Rn_8Y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oT/oTyeh3Doqs.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DV/DVe4VU04UL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/d-/d-pJi-lBPh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6Q/6QrEd5JwUv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Is/IscWa8hQ1S.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/O9/O9TKmzTJr4.htm">
+    <title>[Web] [野球] 2025-12-25 二遊間プレイ超すき。 ❤️ 👍 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/O9/O9TKmzTJr4.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-25T03:45:43.79Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/zf/zfuaCkbFuh.htm">
     <title>[Web] [炎上] 2025-12-25 これは、なんだかものすごそうだね。相対的に貧困化している japan (=自民党) に中国共 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/zf/zfuaCkbFuh.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-25T03:30:13.06Z</dc:date>
+    <dc:date>2025-12-25T03:45:43.79Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/km/kmjy1Rn_8Y.htm">
     <title>[Web] [炎上] 2025-12-24 うーん？見つからないね。これだけ華麗な経歴ならすぐに分かりそうだけど。  この人 (=大噴火 ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-25T03:30:13.06Z</dc:date>
+    <dc:date>2025-12-25T03:45:43.79Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oT/oTyeh3Doqs.htm">
     <title>シリーズもの一覧</title>
@@ -69,7 +77,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-25T03:30:13.06Z</dc:date>
+    <dc:date>2025-12-25T03:45:43.79Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/r-/r-Q9bBzyR7.htm">
     <title>[Web] [奥能登] [地理] [九州] 2025-12-24 ほほう…  宮崎と鹿児島が九州の中でも九州山地によって隔てられてるわけね。新幹線が貫通してい ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,生活,かほく,生活,かほく</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-22T11:33:10.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Is/IscWa8hQ1S.htm">
-    <title>[ポケモンgo] 2025-12-22 先週は 35km 天気悪かったからね… </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Is/IscWa8hQ1S.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-22T06:31:50.00Z</dc:date>
   </item>
 </rdf:RDF>
