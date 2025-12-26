@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-26T14:14:40.60Z</dc:date>
+    <dc:date>2025-12-26T14:18:30.99Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#iLqNSYr8_b"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#iLqNSYr8_b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#JUeBQ5Npx6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#ZVsXAoZE8V"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#fgbUJp7Grt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#Qt3o2D9FTo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#SzlB3a34hH"/>
@@ -18,8 +20,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#PQo0pbUSsB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#67A-vhkHRo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#1RRlvnG78Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/23#2OldXMhHZd"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#iLqNSYr8_b">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww">
+      <title>[ポケモンgo] 2025-12-25 キラ交換が成立！ 96% ネクロズマ。ついでにマックスラッキーも交換でキラじゃないけど高固体 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-25T18:20:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#iLqNSYr8_b">
       <title>[モンハンNow] 2025-12-26 武器強化の儀 イビルジョーガンランス グラグリ  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/26#iLqNSYr8_b</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-26T14:14:40.60Z</dc:date>
+      <dc:date>2025-12-26T14:18:30.99Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#JUeBQ5Npx6">
       <title>[金沢] [長野] 2025-12-26 へー、ライトアップしたんだ。そして、松本城は国宝だったのか… 正直、現状では金沢城の方が優れ ...</title>
@@ -54,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,時事,七尾,Web,時事,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-26T13:10:31.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9">
+      <title>[奥能登] [石川] 2025-12-25 現状では県知事選は立候補者は二人だけかな。さすがに、今は能登半島地震からほどないので、兵庫県 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,奥能登,石川,奥能登,石川]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-25T06:14:27.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#fgbUJp7Grt">
       <title>[ポケモンgo] 2025-12-26 最近、前にも増してギフトの送受信がきついと思ったら、大親友+ を狙って、疎遠だった人達も贈っ ...</title>
@@ -110,22 +126,6 @@
         <![CDATA[記録,ドキュメント,簡約版,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-24T13:00:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww">
-      <title>[ポケモンgo] 2025-12-25 キラ交換が成立！ 96% ネクロズマ。ついでにマックスラッキーも交換でキラじゃないけど高固体 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-25T11:17:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9">
-      <title>[奥能登] [石川] 2025-12-25 現状では県知事選は二人だけかな。さすがに、今は能登半島地震からほどないから、兵庫県や宮城県の ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,奥能登,石川,奥能登,石川]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-25T06:13:44.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#67A-vhkHRo">
       <title>[Web] [奥能登] [地理] [九州] 2025-12-24 ほほう…  宮崎と鹿児島が九州の中でも九州山地によって隔てられてるわけね。新幹線が貫通してい ...</title>
