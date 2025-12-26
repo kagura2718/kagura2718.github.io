@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-26T03:58:24.10Z</dc:date>
+    <dc:date>2025-12-26T04:14:24.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dN/dN3LFuEimL.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Io/Iolfh5y0fW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/O9/O9TKmzTJr4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zf/zfuaCkbFuh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/km/kmjy1Rn_8Y.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z0/z01JULaxai.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/I7/I760CTt5I2.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CZ/CZxtIllVbP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DV/DVe4VU04UL.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-26T03:58:24.10Z</dc:date>
+    <dc:date>2025-12-26T04:14:24.37Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Io/Iolfh5y0fW.htm">
+    <title>[Web] [時事] [七尾] 2025-12-26 昨晩、か。たぶん、国分寺公園の近くのアルビス？ときどき行くところで、こういう事件あると嫌だね… </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Io/Iolfh5y0fW.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,時事,七尾,Web,時事,七尾</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-26T04:14:24.37Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/O9/O9TKmzTJr4.htm">
     <title>[Web] [野球] 2025-12-25 二遊間プレイ超すき。 ❤️ 👍 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-23T15:22:42.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DV/DVe4VU04UL.htm">
-    <title>[モンハンNow] 2025-12-22 HR342 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/DV/DVe4VU04UL.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-22T19:30:17.00Z</dc:date>
   </item>
 </rdf:RDF>
