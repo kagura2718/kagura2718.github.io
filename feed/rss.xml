@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-27T04:22:13.19Z</dc:date>
+    <dc:date>2025-12-27T13:33:04.90Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#3RNuYWj-QK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#xP96rYRGRF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#1ZVai7z4Ae"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-12-23.htm"/>
@@ -19,7 +20,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#JUeBQ5Npx6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#ZVsXAoZE8V"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#x5prU_gXC9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#fgbUJp7Grt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#Qt3o2D9FTo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#SzlB3a34hH"/>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-27T04:22:13.19Z</dc:date>
+      <dc:date>2025-12-27T06:50:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww">
       <title>[ポケモンgo] 2025-12-25 キラ交換が成立！ 96% ネクロズマ。ついでにマックスラッキーも交換でキラじゃないけど高固体 ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-25T18:20:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-">
+      <title>[映画] [AI] 2025-12-27 眉や目の周辺の動きなどなど、どうしても生成系 AI では真似できないところはありそう。それで ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,映画,AI,映画,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-26T11:14:36.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#xP96rYRGRF">
       <title>[氷見] [文化] [北陸] 2025-12-27 へー 氷見にあった Gramping Resort 一泊二名で 3 万から 5 万ぐらいらし ...</title>
@@ -72,7 +80,7 @@
       <dc:date>2025-12-26T19:54:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-12-23.htm">
-      <title>[自転車] [氷見] 2025-12-23 氷見</title>
+      <title>[自転車] [氷見] 2025-12-23 氷見 散策</title>
       <link>https://kagura2718.github.io/Diary/essay/2025/2025-12-23.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,自転車,氷見,自転車,氷見]]></description>
@@ -118,14 +126,6 @@
         <![CDATA[日記,つぶやき,雑記帳,奥能登,石川,奥能登,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-25T06:14:27.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-">
-      <title>[映画] [AI] 2025-12-27 眉や目の周辺の動きなどなど、どうしても生成系 AI では真似できないところはありそう。それで ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,映画,AI,映画,AI]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-26T08:37:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#fgbUJp7Grt">
       <title>[ポケモンgo] 2025-12-26 最近、前にも増してギフトの送受信がきついと思ったら、大親友+ を狙って、疎遠だった人達も贈っ ...</title>
