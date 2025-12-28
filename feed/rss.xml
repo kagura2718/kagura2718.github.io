@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-27T13:33:04.90Z</dc:date>
+    <dc:date>2025-12-28T08:23:35.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#3RNuYWj-QK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#PQo0pbUSsB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#67A-vhkHRo"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ">
+      <title>[登山] [生活] [宝達山] 2025-12-28 朝は締まってて歩きやすい。   本日の登頂  山頂付近はサラサラのパウダー。心地良い。  昼 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-28T08:23:35.37Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[記録,ドキュメント,簡約版,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-24T13:00:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#67A-vhkHRo">
-      <title>[Web] [奥能登] [地理] [九州] 2025-12-24 ほほう…  宮崎と鹿児島が九州の中でも九州山地によって隔てられてるわけね。新幹線が貫通してい ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/24#67A-vhkHRo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,奥能登,地理,九州,Web,奥能登,地理,九州]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-25T02:39:14.00Z</dc:date>
     </item>
   </rdf:RDF>
