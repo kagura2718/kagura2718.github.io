@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-28T08:23:35.37Z</dc:date>
+    <dc:date>2025-12-28T11:23:24.97Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#dmcpPlJJAV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#3RNuYWj-QK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#nZSelVXaww"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#QvQyssXmx-"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/26#SzlB3a34hH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/25#CwwE0KwT5O"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/24#PQo0pbUSsB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-28T08:23:35.37Z</dc:date>
+      <dc:date>2025-12-28T11:23:24.97Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -46,6 +46,22 @@
         <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#dmcpPlJJAV">
+      <title>[モンハンNow] 2025-12-28 HR343 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/28#dmcpPlJJAV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-27T19:26:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6">
+      <title>[モンハンNow] 2025-12-28 ネタ武器 ツインリース     ライゼクス 片手剣 サルガナリース   </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-27T18:09:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/27#3RNuYWj-QK">
       <title>[モンハンNow] 2025-12-27 武器強化の儀 フルフル ガンス   ライゼクス 片手剣    どうみてもネタ武器だけど、コス ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-25T15:20:13.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/series/index.htm">
-      <title>シリーズもの一覧</title>
-      <link>https://kagura2718.github.io/Diary/series/index.htm</link>
-      <description>
-        <![CDATA[ゲーム,日記,Ingress,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-13T14:55:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm">
-      <title>[ポケモンgo] 2025-12-24 ポケモンGo キラ交換で欲しいもの覚え書き</title>
-      <link>https://kagura2718.github.io/Diary/series/PokemonLucky/index.htm</link>
-      <description>
-        <![CDATA[記録,ドキュメント,簡約版,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-24T13:00:53.00Z</dc:date>
     </item>
   </rdf:RDF>
