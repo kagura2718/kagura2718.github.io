@@ -4,14 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-31T13:35:19.53Z</dc:date>
+    <dc:date>2025-12-31T14:29:05.81Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/45/45HPCM4gjS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hz/HzTQOSQK6E.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fd/FdYBEHZ3Jl.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwCaUKLOTh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z_/z_Yv8XFoil.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/21/219VWh4Ft2.htm"/>
@@ -31,13 +31,21 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/45/45HPCM4gjS.htm">
     <title>[Web] [炎上] [文化] [北海道] 2025-12-31 ほっ  ☺️   どうやら削除されたようだ 😅   ああああああー とうとう町の公式で EM ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/45/45HPCM4gjS.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,炎上,文化,北海道,Web,炎上,文化,北海道</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-31T13:35:19.53Z</dc:date>
+    <dc:date>2025-12-31T14:29:05.81Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hz/HzTQOSQK6E.htm">
     <title>[Ingress] [生活] [奥能登] 2025-12-31 今年一年</title>
@@ -54,14 +62,6 @@
         日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-31T08:41:53.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-02T22:49:36.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Dw/DwCaUKLOTh.htm">
     <title>[ポケモンgo] 2025-12-30 ふしぎアメの様子がおかしい。どこからいっぱい出てるのか…？  そういえば、赤玉も多いような。 ...</title>
