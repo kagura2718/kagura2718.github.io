@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-31T03:13:34.62Z</dc:date>
+    <dc:date>2025-12-31T10:11:48.19Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#0caqvRtBmo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-12-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#mYrDOpSMhC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#_aa0tyk3-U"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#Pa0MxQDaoW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#dmcpPlJJAV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#0caqvRtBmo">
-      <title>[Web] [炎上] [文化] [北海道] 2025-12-31 ああああああー とうとう町の公式で EM 菌がきた。 🤮  「愛の波動」ってのも初めて聞いた ...</title>
+      <title>[Web] [炎上] [文化] [北海道] 2025-12-31 どうやら削除されたようだ 😅   ああああああー とうとう町の公式で EM 菌がきた。 🤮  ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/31#0caqvRtBmo</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,北海道,Web,炎上,文化,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-31T03:13:34.62Z</dc:date>
+      <dc:date>2025-12-31T10:11:48.19Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2025/2025-12-31.htm">
+      <title>[Ingress] [生活] [奥能登] 2025-12-31 今年一年</title>
+      <link>https://kagura2718.github.io/Diary/essay/2025/2025-12-31.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,Ingress,生活,奥能登,Ingress,生活,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-12-31T10:11:48.19Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#mYrDOpSMhC">
       <title>[漫画] [アニメ] 2025-12-31 デスノートってアニメ化されてたんだ。まったく興味がわかない。けど、ちょっとだけ観るか… DE ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-31T03:13:34.62Z</dc:date>
+      <dc:date>2025-12-31T08:41:53.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-31T03:13:34.62Z</dc:date>
+      <dc:date>2025-12-31T03:50:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#6pvpfjpy5U">
       <title>[ポケモンgo] 2025-12-30 最大強化 (PL50) </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-27T19:26:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6">
-      <title>[モンハンNow] 2025-12-28 ネタ武器 ツインリース     ライゼクス 片手剣 サルガナリース   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/28#_CbZtAwht6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-27T18:09:39.00Z</dc:date>
     </item>
   </rdf:RDF>
