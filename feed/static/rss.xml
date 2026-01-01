@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2025-12-31T14:29:05.81Z</dc:date>
+    <dc:date>2026-01-01T04:29:26.40Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/45/45HPCM4gjS.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mi/MiWR7VEbUH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hz/HzTQOSQK6E.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fd/FdYBEHZ3Jl.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Dw/DwCaUKLOTh.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dy/dyHHP618Wt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kZ/kZ2RG-_Ims.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_g/_gjDXV154Y.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bG/bGfa8AE-xm.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,文化,北海道,Web,炎上,文化,北海道</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-31T14:29:05.81Z</dc:date>
+    <dc:date>2025-12-31T20:53:07.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Mi/MiWR7VEbUH.htm">
+    <title>[登山] [生活] [宝達山] [告知] 2026-01-01 新年、明けましておめでとうございます。 本年も変わらぬご愛顧のほど、よろしくお願いいたします ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Mi/MiWR7VEbUH.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,宝達山,告知,登山,生活,宝達山,告知</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-12-31T13:55:53.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Hz/HzTQOSQK6E.htm">
     <title>[Ingress] [生活] [奥能登] 2025-12-31 今年一年</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-12-27T23:47:27.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bG/bGfa8AE-xm.htm">
-    <title>[モンハンNow] 2025-12-28 HR343 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/bG/bGfa8AE-xm.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-12-27T19:26:49.00Z</dc:date>
   </item>
 </rdf:RDF>
