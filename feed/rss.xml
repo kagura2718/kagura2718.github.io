@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-01T09:56:30.15Z</dc:date>
+    <dc:date>2026-01-02T03:19:34.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#kYHJ84rRwz"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#Y9rWpQpzwa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#RBAuQEekLa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#kYHJ84rRwz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#0caqvRtBmo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#0l9MdVhcYt"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/29#NMQ3hMq0Ra"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#yvqw-e79II"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#9r_NXuvPCM"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/29#KQmF5ph4ll"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#kYHJ84rRwz">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#Y9rWpQpzwa">
+      <title>[Web] [文化] [NHK] 2026-01-01 ドラマ映像なのかと思ったら、リアル映像みたいだな。 😅 とりあえず人員 (=CA) だけ確保 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/01#Y9rWpQpzwa</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,NHK,Web,文化,NHK]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-02T03:19:34.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#RBAuQEekLa">
+      <title>[生活] [Web] 2026-01-02 二年ほど前の動画だけど、超有名人主婦？同士の会話かな。おもろいぞ。  そして数珠繋ぎに流れて ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/02#RBAuQEekLa</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,Web,生活,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-01T14:02:14.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#kYHJ84rRwz">
       <title>[Web] [NHK] [音楽] 2026-01-01 これか。たぶん地上波でも「ゲロ」は流れたんだろうね。 👍 話によると有線ではゲロのところはピ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/01#kYHJ84rRwz</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,NHK,音楽,Web,NHK,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-01T09:56:30.15Z</dc:date>
+      <dc:date>2026-01-01T11:32:27.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-29T19:05:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/29#KQmF5ph4ll">
-      <title>[ポケモンgo] 2025-12-29 先週は 58km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/29#KQmF5ph4ll</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-29T11:22:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ">
-      <title>[登山] [生活] [宝達山] 2025-12-28 朝は締まってて歩きやすい。   本日の登頂  山頂付近はサラサラのパウダー。心地良い。  昼 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/28#edyBSNiaLQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-29T00:41:01.00Z</dc:date>
     </item>
   </rdf:RDF>
