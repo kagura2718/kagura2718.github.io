@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-02T13:13:45.65Z</dc:date>
+    <dc:date>2026-01-02T14:34:12.54Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#-VT_272YyU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#mq95Saqup1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#VAZsKBrXta"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#mq95Saqup1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#Y9rWpQpzwa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#CADxG6Ej2B"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#JPF41fGoWn"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-02T13:13:45.65Z</dc:date>
+      <dc:date>2026-01-02T14:34:12.54Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#VAZsKBrXta">
+      <title>[生活] [Web] [炎上] [奥能登] 2026-01-02 やっぱり、今の時期になると、二年前の地震の話題が嫌でも目に入ってきて、気が滅入ってくる。なん ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/02#VAZsKBrXta</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,Web,炎上,奥能登,生活,Web,炎上,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-02T13:03:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#mq95Saqup1">
       <title>[富山] [岐阜] [飛騨高山] 2026-01-02 冬の飛騨高山に行ってみたい。行ってみたいが東海北陸道を越えるのがめんどくせぇんだよな。雪のせ ...</title>
@@ -46,14 +54,6 @@
         <![CDATA[日記,つぶやき,雑記帳,富山,岐阜,飛騨高山,富山,岐阜,飛騨高山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-02T10:54:39.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#VAZsKBrXta">
-      <title>[生活] [Web] [炎上] [奥能登] 2026-01-02 やっぱり、今の時期になると、二年前の地震の話題が嫌でも目に入ってきて、気が滅入ってくる。なん ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/02#VAZsKBrXta</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,Web,炎上,奥能登,生活,Web,炎上,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-02T08:01:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#Y9rWpQpzwa">
       <title>[Web] [文化] [NHK] 2026-01-01 ドラマ映像なのかと思ったら、リアル映像みたいだな。 😅 とりあえず人員 (=CA) だけ確保 ...</title>
