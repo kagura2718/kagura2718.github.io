@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-04T04:15:58.53Z</dc:date>
+    <dc:date>2026-01-04T09:58:01.99Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#RdTXCCsqY-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/03#g7DLveCd-k"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#x7voQOCJlC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#O8Rj5rbyG5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/03#zFRRWWTFR9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/02#-VT_272YyU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/03#xnhyth0TSg"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/01#0l9MdVhcYt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2025/2025-12-31.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/31#mYrDOpSMhC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#_aa0tyk3-U"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-04T04:15:58.53Z</dc:date>
+      <dc:date>2026-01-04T09:58:01.99Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/03#g7DLveCd-k">
       <title>[生活] [金沢] [北陸] 2026-01-03 買い物に緊急出動。新年、初の鼓門。今年もよろしくね！  新年早々、出ました！寒いし雪があるの ...</title>
@@ -54,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-03T20:37:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#O8Rj5rbyG5">
+      <title>[Web] [炎上] [関東] 2026-01-04 これ、たぶん、埼玉あたりの寸断された神社の話だ。  ↓このニュースだ。 三峯神社で参拝客など ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/04#O8Rj5rbyG5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,関東,Web,炎上,関東]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-03T13:56:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/03#zFRRWWTFR9">
       <title>[Web] [炎上] [国際] 2026-01-03 おおー なんだかかなりざわついてると思ったら… これか。これは、ウクライナ方面でロシアに対し ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,漫画,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-12-31T08:41:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2025/12/30#_aa0tyk3-U">
-      <title>[ポケモンgo] 2025-12-30 ふしぎアメの様子がおかしい。どこからいっぱい出てるのか…？  そういえば、赤玉も多いような。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2025/12/30#_aa0tyk3-U</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-12-31T03:50:29.00Z</dc:date>
     </item>
   </rdf:RDF>
