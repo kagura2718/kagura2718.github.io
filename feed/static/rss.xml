@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-07T07:30:05.86Z</dc:date>
+    <dc:date>2026-01-07T08:50:15.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xm/XmcF7kXXbh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8R/8RgIAvZdeF.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oL/oLfEr_aGa_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oQ/oQfMKNjIyd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Le/LeX8ejzyHo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8i/8iz6qGrRZu.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gk/gk6rc-uSgM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bZ/bZoTRlqHNk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ds/dsaJ9Qc5Hv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uu/uu0rotS8RT.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,北陸,生活,北陸</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-07T07:30:05.86Z</dc:date>
+    <dc:date>2026-01-07T08:50:15.74Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8R/8RgIAvZdeF.htm">
     <title>[モンハンNow] 2026-01-07 武器強化の儀 ライゼクス 片手剣    あと一週間で G10 は絶対無理だ…</title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-07T03:50:15.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oL/oLfEr_aGa_.htm">
+    <title>[北陸] [福井] 2026-01-07 😑  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/oL/oLfEr_aGa_.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,北陸,福井,北陸,福井</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-01-07T03:03:30.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oQ/oQfMKNjIyd.htm">
     <title>[モンハンNow] 2026-01-07 HR345 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,関東,Web,炎上,関東</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-03T13:56:51.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uu/uu0rotS8RT.htm">
-    <title>[Web] [炎上] [国際] 2026-01-03 おおー なんだかかなりざわついてると思ったら… これか。これは、ウクライナ方面でロシアに対し ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/uu/uu0rotS8RT.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,国際,Web,炎上,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-03T11:01:51.00Z</dc:date>
   </item>
 </rdf:RDF>
