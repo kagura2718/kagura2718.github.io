@@ -4,14 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-09T02:20:03.00Z</dc:date>
+    <dc:date>2026-01-09T06:59:26.99Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Iz3r61Iug7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#_I1eY3AEik"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#LfX9lcVRPt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/07#zwBQqx29cX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#b_R-CmUkRO"/>
@@ -27,11 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#asQ8SuRLav"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#3KA7Q2Phos"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#xApM2PrcvJ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#RdTXCCsqY-"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf">
+      <title>[生活] [食事] [金沢] 2026-01-09 あら、ここが閉店。たぶん、行きそびれた。 石川県金沢市寺町にあった『加登長 寺町店（かどちょ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-09T06:59:26.99Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8">
+      <title>[Web] [東北] 2026-01-08 前のジャングリア沖縄  の女の子が、 Youtube TL に流れてくるようになった。強制退 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,東北,Web,東北]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-09T00:10:34.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh">
       <title>[Web] [炎上] [国際] 2026-01-08 こういう状況か。これは暴動になるな。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh</link>
       <description>
@@ -54,14 +70,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-08T22:38:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8">
-      <title>[Web] [東北] 2026-01-08 前のジャングリア沖縄  の女の子が、 Youtube TL に流れてくるようになった。強制退 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,東北,Web,東北]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-08T15:14:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#LfX9lcVRPt">
       <title>[モンハンNow] 2026-01-09 一時期 💯 連発してたんだけど、やっぱりなかなか満点せんなぁ。コツがいまだに分からん… </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-04T22:56:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#RdTXCCsqY-">
-      <title>[Web] [国際] 2026-01-04 あーあ…  いや、でもね。これもどう転ぶか分からないと思うんだよ。どうやら実際にかなり強権的 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/04#RdTXCCsqY-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-04T18:03:06.00Z</dc:date>
     </item>
   </rdf:RDF>
