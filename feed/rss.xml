@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-09T06:59:26.99Z</dc:date>
+    <dc:date>2026-01-09T14:46:26.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Iz3r61Iug7"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/06#iNPcM3WAh7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Zw53uuMAcO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#asQ8SuRLav"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#3KA7Q2Phos"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#xApM2PrcvJ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U">
+      <title>[生活] [七尾] [モンハンNow] 2026-01-09 寒いけどせっかくの北陸の晴れ間なので、根性で散歩いたしましょう。  海側の工事は 3/25  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,七尾,モンハンNow,生活,七尾,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-09T14:46:26.89Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl">
+      <title>[料理] 2026-01-09 再びミートソースのパスタ。これが、一番楽だよね。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-09T10:02:17.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf">
       <title>[生活] [食事] [金沢] 2026-01-09 あら、ここが閉店。たぶん、行きそびれた。 石川県金沢市寺町にあった『加登長 寺町店（かどちょ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,食事,金沢,生活,食事,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-09T06:59:26.99Z</dc:date>
+      <dc:date>2026-01-09T14:46:26.89Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#-GcRjXRPl8">
       <title>[Web] [東北] 2026-01-08 前のジャングリア沖縄  の女の子が、 Youtube TL に流れてくるようになった。強制退 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-05T11:00:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#3KA7Q2Phos">
-      <title>[Web] [国際] 2026-01-05 とりあえず、ベネズエラの位置を確認。政治ではチャベス大統領という名称は覚えがある。政情不安な ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/05#3KA7Q2Phos</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-05T02:19:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/04#xApM2PrcvJ">
-      <title>[生活] [料理] 2026-01-04 久々の麻婆豆腐。うめー。正月料理とかだと普通に味気ない。冷たい料理なんて食うなら普段通りの生 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/04#xApM2PrcvJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-04T22:56:31.00Z</dc:date>
     </item>
   </rdf:RDF>
