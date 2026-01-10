@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-10T06:02:16.02Z</dc:date>
+    <dc:date>2026-01-10T12:21:43.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#aXcVKp3vIa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#3DelC7mLue"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#6T3wwLsf9b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#GiSy8-I8sf"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/06#CHDgy1X37c"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#A8M_eoeDDK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/06#jI2LpgOX61"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/06#iNPcM3WAh7"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Zw53uuMAcO"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-10T06:02:16.02Z</dc:date>
+      <dc:date>2026-01-10T12:21:43.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#3DelC7mLue">
+      <title>[モンハンNow] 2026-01-10 武器強化の儀 黒ディアルガ 双剣     ライゼクスの片手剣も揃った。    しかし、あと  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/10#3DelC7mLue</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-10T06:29:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#6T3wwLsf9b">
+      <title>[ポケモンgo] [位置偽装] [宝達山] 2026-01-10 前回登ったときは見るの忘れてたけど、白かったよね。 前々回の宝達山登山で雪山状態  の 22 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/10#6T3wwLsf9b</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,位置偽装,宝達山,ポケモンgo,位置偽装,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-09T21:45:26.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U">
       <title>[生活] [七尾] [モンハンNow] 2026-01-09 寒いけどせっかくの北陸の晴れ間なので、根性で散歩いたしましょう。  海側の工事は 3/25  ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-06T03:54:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/06#iNPcM3WAh7">
-      <title>[モンハンNow] 2026-01-06 武器強化の儀 ジンオウガ ライボ  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/06#iNPcM3WAh7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-06T00:38:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Zw53uuMAcO">
-      <title>[料理] 2026-01-05 正月の残りのたらこを処理してしまいましょう。タラコの炒飯だ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Zw53uuMAcO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-05T12:54:20.00Z</dc:date>
     </item>
   </rdf:RDF>
