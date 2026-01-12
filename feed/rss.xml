@@ -4,13 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-11T13:09:14.93Z</dc:date>
+    <dc:date>2026-01-12T04:24:58.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#pkSDGaBjGJ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#0YhO1tYOQM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#5NnV7bRTc3"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#-2CK21zzMJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#KXxF-VoimB"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#Z4KMNiD5Vv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#tlGOxb5P3d"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#WgmU-ISiWQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#CF1X5R8WK8"/>
@@ -25,9 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#BlQpn7iAhh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/05#Iz3r61Iug7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#_I1eY3AEik"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#LfX9lcVRPt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/07#zwBQqx29cX"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#b_R-CmUkRO"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-11T13:09:14.93Z</dc:date>
+      <dc:date>2026-01-12T00:29:08.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#0YhO1tYOQM">
+      <title>[国際] 2026-01-12 鈴木亮平が案内役の番組。南米のイグアスという滝だ。この光景、すげぇや。なんで人がいないのだろ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/12#0YhO1tYOQM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,国際,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-11T19:37:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#5NnV7bRTc3">
       <title>[Web] [国際] [女性] 2026-01-11 メローニさん、また惚れそうになった。日本の似非極右とまったく違う。 👍   一方ではこういう ...</title>
@@ -45,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,国際,女性,Web,国際,女性]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-11T13:09:14.93Z</dc:date>
+      <dc:date>2026-01-11T17:27:31.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#-2CK21zzMJ">
+      <title>[Web] [アニメ] 2026-01-12 へー、あれが… 俺はフリーレンにまったく興味が動かないんだよな。ヨーロッパ、となると、分かる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/12#-2CK21zzMJ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-11T14:09:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#KXxF-VoimB">
       <title>[ポケモンgo] 2026-01-11 昨日、キュレムはやらない予定だったのだけど、二人でも割と余裕でいけるって情報を得たので出撃。 ...</title>
@@ -54,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-11T11:26:35.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#Z4KMNiD5Vv">
+      <title>[時事] [富山] 2026-01-12 昨年末の、こんな特異事件のニュースがこれまで目に入ってこなかった。なんだろうね。単なる共犯を ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/12#Z4KMNiD5Vv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,富山,時事,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-11T09:16:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/11#tlGOxb5P3d">
       <title>[モンハンNow] 2026-01-11 武器強化の儀 ライゼクス 片手剣   あと rare6 が 4 。七日ぐらい。ギリでなんとか ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-08T22:38:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#LfX9lcVRPt">
-      <title>[モンハンNow] 2026-01-09 一時期 💯 連発してたんだけど、やっぱりなかなか満点せんなぁ。コツがいまだに分からん… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#LfX9lcVRPt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-08T14:19:15.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/07#zwBQqx29cX">
-      <title>[生活] [北陸] 2026-01-07 今朝はやたらと冷え込んでた。地面が凍ってるぐらい。 今晩は  爆風  暴風の予定だから昼ぐら ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/07#zwBQqx29cX</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-08T00:41:41.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/08#b_R-CmUkRO">
-      <title>[登山] [Web] [九州] 2026-01-08 この噴火口(？)のところがどうなってるのか、知りたい。写真じゃなくて、自分の目で見たい。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/08#b_R-CmUkRO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,九州,登山,Web,九州]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-07T23:12:26.00Z</dc:date>
     </item>
   </rdf:RDF>
