@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-13T08:38:25.19Z</dc:date>
+    <dc:date>2026-01-13T13:42:44.43Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#MFuYdrqCFK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#agAEpqOvhl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#DGxOyTC4qk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#3G54ZikGaE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#t5xelJJ9zM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#-39vG6OX9d"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#GXjFS9qSJC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/10#6T3wwLsf9b"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#Y4aVipmn2U"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-13T08:38:25.19Z</dc:date>
+      <dc:date>2026-01-13T13:42:44.43Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/12#agAEpqOvhl">
       <title>[生活] [中能登] 2026-01-12 思ってた通りで、中能登エリアの方が積雪が多い。おそらく七尾の方も同程度に多い。  だが、誰も ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,中能登,生活,中能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-13T08:38:25.19Z</dc:date>
+      <dc:date>2026-01-13T13:42:44.43Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#DGxOyTC4qk">
+      <title>[NHK] [音楽] 2026-01-13 一瞬、違和感あったなーと思ったら 3:12 でマイク操作ミスってるのか。へーw 生放送なんだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/13#DGxOyTC4qk</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,NHK,音楽,NHK,音楽]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-13T06:19:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/13#3G54ZikGaE">
       <title>[告知] 2026-01-13 サイトのメンテナンスを行っています。しばらくの間、不安定となります。</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,七尾,モンハンNow,生活,七尾,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-09T19:23:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl">
-      <title>[料理] 2026-01-09 再びミートソースのパスタ。これが、一番楽だよね。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/09#yX2JSTFvgl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-09T10:02:17.00Z</dc:date>
     </item>
   </rdf:RDF>
