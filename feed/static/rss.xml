@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-25T05:43:49.45Z</dc:date>
+    <dc:date>2026-01-25T11:52:30.56Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/k0/k0A3JKkoxn.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pE/pEcT1eBmZ3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pz/pzCOoa665b.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0p/0pEn3S0Mda.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pN/pN5-2eplDu.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bJ/bJc_5fBRlS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MA/MAq5btS9Vm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Hb/HbPnA5tBG_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y0/Y0Dk63PWYm.htm"/>
       </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/k0/k0A3JKkoxn.htm">
-    <title>[アニメ] 2026-01-25 へーw  このアニメの様々な描写から滲み出る違和感。これを直感的になんとも思わない人と話が通 ...</title>
+    <title>[アニメ] 2026-01-25 へーw  このアニメの様々な描写から滲み出る違和感。  極寒の中で素手で剣術披露ですか。そう ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/k0/k0A3JKkoxn.htm</link>
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-25T05:43:49.45Z</dc:date>
+    <dc:date>2026-01-25T11:52:30.56Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pE/pEcT1eBmZ3.htm">
+    <title>[アニメ] 2026-01-25 改めてフリーレンのアニメ一話目を眺めている。俺には打ち切り集の漂う連載か、ラノベにしか見えん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/pE/pEcT1eBmZ3.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-01-25T11:52:30.56Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pz/pzCOoa665b.htm">
     <title>[Web] [関東] [東京] 2026-01-25 おー、なんだか進撃の巨人に出てきたどこかのようにも見える。  防災用の施設になるのか？ 首都 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-20T18:07:16.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Y0/Y0Dk63PWYm.htm">
-    <title>[ポケモンgo] [複垢] [津幡] [yosikaturikuto] 2026-01-20 あがた公園、相変わらずだね… よしかつりくとはしねばいいのに。しかし yosikaturik ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Y0/Y0Dk63PWYm.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,複垢,津幡,yosikaturikuto,ポケモンgo,複垢,津幡,yosikaturikuto</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-20T14:42:45.00Z</dc:date>
   </item>
 </rdf:RDF>
