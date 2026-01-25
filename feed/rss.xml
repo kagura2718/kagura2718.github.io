@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-25T11:52:30.56Z</dc:date>
+    <dc:date>2026-01-25T23:39:49.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#HoarnXfuDh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#EyOvE86UWU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#zf-uoO2vaH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/24#L1ZnpVJijC"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/22#H23WUB77cK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/21#uV-t7LDJ_L"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/21#XIqObbJ3FF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/20#BNyXEPRTos"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#HoarnXfuDh">
+      <title>[映画] [アニメ] [呪術廻戦] 2026-01-26 舞台設定や描写がほぼ『キルビル』…  真希は紛れもない JK だから、か？キルビルで出てたの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/26#HoarnXfuDh</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,映画,アニメ,呪術廻戦,映画,アニメ,呪術廻戦]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-25T23:39:49.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4">
       <title>[アニメ] 2026-01-25 へーw  このアニメの様々な描写から滲み出る違和感。  極寒の中で素手で剣術披露ですか。そう ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-25T11:52:30.56Z</dc:date>
+      <dc:date>2026-01-25T23:39:49.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#EyOvE86UWU">
       <title>[アニメ] 2026-01-25 改めてフリーレンのアニメ一話目を眺めている。俺には打ち切り集の漂う連載か、ラノベにしか見えん ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-25T11:52:30.56Z</dc:date>
+      <dc:date>2026-01-25T23:39:49.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#zf-uoO2vaH">
       <title>[Web] [関東] [東京] 2026-01-25 おー、なんだか進撃の巨人に出てきたどこかのようにも見える。  防災用の施設になるのか？ 首都 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-20T22:11:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/20#BNyXEPRTos">
-      <title>[Web] [炎上] 2026-01-20 あー、あのガンジス川での炎上www なるほどね。その人達 (友人の男性 Youtuber だ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/20#BNyXEPRTos</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-20T18:07:16.00Z</dc:date>
     </item>
   </rdf:RDF>
