@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-27T03:33:31.46Z</dc:date>
+    <dc:date>2026-01-27T03:45:11.45Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Cv/CvgfWnQb8p.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/D3/D3ube1VYDN.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sz/Szi1xxeR9x.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PW/PWQz0S6lo3.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AM/AMewBKHYii.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ej/ej2gtWLY1q.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dV/dVMpM3E9FW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mz/mz7YntaYPM.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Cv/CvgfWnQb8p.htm">
+    <title>[モンハンNow] 2026-01-27 とうとうリオレウスのスタイル変更がくる！火属性が今は弱すぎるんよ。  そして、ラドバルキンの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Cv/CvgfWnQb8p.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-01-27T03:45:11.45Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/D3/D3ube1VYDN.htm">
     <title>[ポケモンgo] 2026-01-27 リモート交換機能がお目見え。こっちはめんどくせぇので、交換候補はすべてリモート交換に追加だ。 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/D3/D3ube1VYDN.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-27T03:33:31.46Z</dc:date>
+    <dc:date>2026-01-27T03:45:11.45Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Sz/Szi1xxeR9x.htm">
     <title>[モンハンNow] 2026-01-27 スマホの回転が悪いと一気に、被弾が増す。   討伐直前の 60 秒ぐらい経過した後半になって ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-23T09:17:20.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mz/mz7YntaYPM.htm">
-    <title>[登山] [生活] [宝達山] 2026-01-23 山成分が足りないので、意地で補給しに行く。が、思ったより積もってないなぁ。  で、本日の登頂 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/mz/mz7YntaYPM.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-22T19:22:22.00Z</dc:date>
   </item>
 </rdf:RDF>

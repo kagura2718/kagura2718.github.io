@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-27T03:33:31.46Z</dc:date>
+    <dc:date>2026-01-27T03:45:11.45Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#MwLYjuqe8q"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#rMLcO0jcRl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#MwLYjuqe8q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#RhSqWeHAfX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#HoarnXfuDh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#biV-ondILW"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/23#tsgCnM9Hb5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/24#eeeuhkDIFk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/23#gzKI4mhn6A"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/23#Zs7eBrBsux"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#MwLYjuqe8q">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#rMLcO0jcRl">
+      <title>[モンハンNow] 2026-01-27 とうとうリオレウスのスタイル変更がくる！火属性が今は弱すぎるんよ。  そして、ラドバルキンの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/27#rMLcO0jcRl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-27T03:45:11.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#MwLYjuqe8q">
       <title>[ポケモンgo] 2026-01-27 リモート交換機能がお目見え。こっちはめんどくせぇので、交換候補はすべてリモート交換に追加だ。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/27#MwLYjuqe8q</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-27T03:33:31.46Z</dc:date>
+      <dc:date>2026-01-27T03:45:11.45Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#RhSqWeHAfX">
       <title>[モンハンNow] 2026-01-27 スマホの回転が悪いと一気に、被弾が増す。   討伐直前の 60 秒ぐらい経過した後半になって ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-23T09:17:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/23#Zs7eBrBsux">
-      <title>[登山] [生活] [宝達山] 2026-01-23 山成分が足りないので、意地で補給しに行く。が、思ったより積もってないなぁ。  で、本日の登頂 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/23#Zs7eBrBsux</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-22T19:22:22.00Z</dc:date>
     </item>
   </rdf:RDF>
