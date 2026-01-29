@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-29T13:52:19.61Z</dc:date>
+    <dc:date>2026-01-29T15:32:38.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aI/aIpvNUaE6V.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8g/8gdX6jhQgD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/-Y/-YmrGd8322.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iA/iAEx9U_VKG.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PW/PWQz0S6lo3.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sv/Svt4k-1gRM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b4/b4FrLoryaM.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xb/Xb4JllHoTq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/aI/aIpvNUaE6V.htm">
+    <title>[ポケモンgo] 2026-01-29 なんか見覚えがあるけど、影になってたからパスを消化に行く。  「マガイモノ」と「タカイモノ」 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/aI/aIpvNUaE6V.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-01-29T15:32:38.60Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8g/8gdX6jhQgD.htm">
     <title>[アニメ] 2026-01-28 なんか、色々とひどいね… 観るに耐えぬ。 るろうに剣心 ‐明治剣客浪漫譚‐ 新京都編 - シ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/8g/8gdX6jhQgD.htm</link>
     <description>
         日記,つぶやき,雑記帳,アニメ,アニメ</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-29T13:52:19.61Z</dc:date>
+    <dc:date>2026-01-29T15:32:38.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/-Y/-YmrGd8322.htm">
     <title>[料理] 2026-01-29 本日のづけ丼 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-26T17:28:07.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xb/Xb4JllHoTq.htm">
-    <title>[モンハンNow] 2026-01-27 武器強化の儀 ディアブロスのヘヴィボ。ほんとはいらんけど、イベントだから適当にね。   </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Xb/Xb4JllHoTq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-01-26T14:49:32.00Z</dc:date>
   </item>
 </rdf:RDF>
