@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-01-28T11:13:22.74Z</dc:date>
+    <dc:date>2026-01-29T03:29:58.57Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#OfFrwTRkkD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/29#m6ORkSrEEt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#p24bKsQ6wr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#mKHiy6ymIs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#xwnQUxDJBl"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/27#myvZyymnkS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#3WCIQfOWVC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#AhHCU1I7sw"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#Cv51sjglPO"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#OfFrwTRkkD">
+      <title>[アニメ] 2026-01-28 なんか、色々とひどいね… 観るに耐えぬ。 るろうに剣心 ‐明治剣客浪漫譚‐ 新京都編 - シ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#OfFrwTRkkD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-29T03:29:58.57Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/29#m6ORkSrEEt">
+      <title>[アニメ] [呪術廻戦] 2026-01-29 着座でじっくり観てみた。真希と真依  これぐらいの描写をしてくれたなら、まだ姉妹の関係の意味 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/29#m6ORkSrEEt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,アニメ,呪術廻戦]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-29T02:06:33.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj">
       <title>[料理] 2026-01-28 昨日の焼きそば </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T11:13:22.74Z</dc:date>
+      <dc:date>2026-01-28T16:52:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#p24bKsQ6wr">
       <title>[モンハンNow] 2026-01-28 HR349 </title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T11:13:22.74Z</dc:date>
+      <dc:date>2026-01-28T13:44:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#mKHiy6ymIs">
       <title>[モンハンNow] 2026-01-28 武器強化の儀 ティガレックス スラアク   </title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T11:13:22.74Z</dc:date>
+      <dc:date>2026-01-28T11:44:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#xwnQUxDJBl">
       <title>[登山] [富山] 2026-01-28 ほほう、こんな切符が… 20K 越えは登山を絡めた俺の使い方ではなかなかお高いが、何か利用方 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,文化,北陸,福井,文化,北陸,福井]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-26T05:20:02.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/26#Cv51sjglPO">
-      <title>[モンハンNow] 2026-01-26 武器強化の儀 ティガレックス亜種  大刀   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/26#Cv51sjglPO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-26T04:20:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4">
-      <title>[アニメ] 2026-01-25 へーw  このアニメの様々な描写から滲み出る違和感。  極寒の中で素手で剣術披露ですか。そう ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/25#XtSfPfKxr4</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-26T03:50:51.00Z</dc:date>
     </item>
   </rdf:RDF>
