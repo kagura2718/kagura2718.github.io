@@ -1,0 +1,1 @@
+import{Ja as i,Z as n,aa as c,ia as r}from"./chunk-WNZQYDYN.js";var a=class e{constructor(t){this.injector=t}appendComponent(t,o,p){let f={ngModuleRef:i(o,this.injector)};return t.createComponent(p,f).instance}static \u0275fac=function(o){return new(o||e)(c(r))};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{a};
