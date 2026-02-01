@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-01T00:16:44.54Z</dc:date>
+    <dc:date>2026-02-01T02:55:26.99Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#Hdoo-KfG_t"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/30#KOzHmOJKwh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/30#M7778tvKOG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/30#MlUmuFyW4P"/>
@@ -24,20 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/29#li1nkKSxEf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#2FUGz-TDLj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#p24bKsQ6wr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#1nsDWLJspk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#mKHiy6ymIs"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#xwnQUxDJBl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Tools/S2/map/index.htm"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>
+        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-01-31 大雪後の金沢</title>
       <link>https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-01T00:16:44.54Z</dc:date>
+      <dc:date>2026-02-01T02:55:26.99Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE">
+      <title>[時事] [文化] 2026-02-01 支持者との握手ってことで、テロリストが混じりこんだわけではなさそうだね。野太い声援でも送るタ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,文化,時事,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-31T12:01:45.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv">
+      <title>[ポケモンgo] [位置偽装] [宝達山] 2026-02-01 を？戻ってきてた。  そして、スプーの可能性が高い小便くんが麓のお披露目に参加してるね。 🤔 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,位置偽装,宝達山,ポケモンgo,位置偽装,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-31T11:20:56.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#Hdoo-KfG_t">
+      <title>[ポケモンgo] 2026-02-01 なんか出た。  進化させると最大で CP3700 攻撃特化タイプかな？ 【ポケモンGO】キラ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/01#Hdoo-KfG_t</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-01-31T08:18:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/30#KOzHmOJKwh">
       <title>[生活] [PerazziBeretta] [かほく] 2026-01-30 かほく市から水道メーターの検針の際にメーター周辺の除雪をしてほしいとお願いがきているようです ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-01-28T13:44:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#1nsDWLJspk">
-      <title>[時事] [文化] [大阪] [関西] 2026-01-28 あー、これ、ときどき流れてたねぇ 😅 あの人だったのか… なお、この現総理大臣である高市への ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#1nsDWLJspk</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,文化,大阪,関西,時事,文化,大阪,関西]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T11:59:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#mKHiy6ymIs">
-      <title>[モンハンNow] 2026-01-28 武器強化の儀 ティガレックス スラアク   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#mKHiy6ymIs</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T11:44:10.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/01/28#xwnQUxDJBl">
-      <title>[登山] [富山] 2026-01-28 ほほう、こんな切符が… 20K 越えは登山を絡めた俺の使い方ではなかなかお高いが、何か利用方 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#xwnQUxDJBl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,富山,登山,富山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-28T05:16:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Tools/S2/map/index.htm">
-      <title>[道具] S2 地図</title>
-      <link>https://kagura2718.github.io/Tools/S2/map/index.htm</link>
-      <description>
-        <![CDATA[s2-geometry を地図上で可視化するためのツール]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2022-01-21T00:16:13.00Z</dc:date>
     </item>
   </rdf:RDF>
