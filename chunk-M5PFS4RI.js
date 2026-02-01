@@ -1,0 +1,1 @@
+function s(t){let r="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",o="";for(let e=0;e<t;e++)o+=r.charAt(Math.floor(Math.random()*r.length));return o}function f(t){let r=new Array,o=t.length;for(let e=0;e<o;e++){let n=Math.floor(Math.random()*t.length),a=t.slice(0,n),c=t.slice(n+1);r.push(t[n]),t=a.concat(c)}return r}export{s as a,f as b};
