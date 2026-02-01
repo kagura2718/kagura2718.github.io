@@ -1,0 +1,1 @@
+import{Ma as r,Qc as t,la as i}from"./chunk-PNXDVUHT.js";var n=class e{after=new i;constructor(){t("AfterIfDirective")}ngAfterContentInit(){t("AfterIfDirective.ngAfterContentInit()"),setTimeout(()=>this.after.next())}static \u0275fac=function(f){return new(f||e)};static \u0275dir=r({type:e,selectors:[["","appAfterIf",""]],outputs:{after:"appAfterIf"}})};export{n as a};
