@@ -5,9 +5,16 @@
   <author>
     <name>e神楽</name>
   </author>
-  <updated>2026-02-02T04:44:31.00+09:00</updated>
+  <updated>2026-02-02T10:49:09.00+09:00</updated>
   <link rel="alternate" type="text/html" href="https://kagura2718.github.io/"/>
   <link rel="self" type="application/atom+xml" href="https://kagura2718.github.io/feed/atom.xml"/>
+  <entry>
+    <id>https://kagura2718.github.io/Gitfire/login.htm</id>
+    <title>Gitfire Login</title>
+    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitfire/login.htm"/>
+    <updated>2026-02-02T10:49:09.00+09:00</updated>
+    <summary>ログインシステム</summary>
+  </entry>
   <entry>
     <id>https://kagura2718.github.io/Diary/essay/2026/2026-01-31.htm</id>
     <title>[ポケモンgo] [生活] [金沢] 2026-01-31 大雪後の金沢</title>
@@ -180,13 +187,6 @@
     <summary type="html">&lt;p&gt;羽咋でもガソリンは 156 円ぐらいだった。志賀町とあんまり変わんないね。金沢近郊と羽咋近郊で結構差があるような気がするけど、なんでだろうね。暫定税率の廃止前はせいぜい 5 円ぐらいの差だったはず。&lt;/p&gt;
 &lt;p&gt;地元だからって高いところで入れる馬鹿はいない。普通に金沢近郊の安いところ 140 円台のところで入れる。奥能登地域、しばらく行ってないけど、今はいくらぐらいだろう。この様子だと 160 円台後半になるだろうか？普通に考えると輸送費がかかる分高くなるのは当たり前なんだけど、かといって不思議なほどに格差が出てお財布を圧迫すると他のとこに使いづらくなるので、復興の足も引っ張るというもの。僻地のガソリン価格を低くするための補助金でもないもんかね。&lt;/p&gt;
 </summary>
-  </entry>
-  <entry>
-    <id>https://kagura2718.github.io/Gitfire/login.htm</id>
-    <title>Gitfire Login</title>
-    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitfire/login.htm"/>
-    <updated>2026-01-30T07:52:17.00+09:00</updated>
-    <summary>ログインシステム</summary>
   </entry>
   <entry>
     <id>https://kagura2718.github.io/Gitwee/timeline/2026/01/28#OfFrwTRkkD</id>

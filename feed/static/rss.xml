@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-01T19:44:31.00Z</dc:date>
+    <dc:date>2026-02-02T01:49:09.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FY/FYcCsZxCvc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/v3/v3MtXg-gXx.htm"/>
@@ -23,7 +24,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ic/IcYwNs2sdB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aI/aIpvNUaE6V.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UL/UL24_AggEa.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8g/8gdX6jhQgD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZZ/ZZgg7IA1rx.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WR/WRTAuHTc9O.htm"/>
@@ -31,6 +31,14 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm">
+    <title>Gitfire Login</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm</link>
+    <description>
+        ログインシステム</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2020-09-07T22:30:39.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FY/FYcCsZxCvc.htm">
     <title>[ポケモンgo] [生活] [金沢] 2026-01-31 大雪後の金沢</title>
     <link>https://kagura2718.github.io/Gitwee/jump/FY/FYcCsZxCvc.htm</link>
@@ -150,14 +158,6 @@
         日記,つぶやき,雑記帳,生活,奥能登,羽咋,生活,奥能登,羽咋</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-01-30T03:49:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm">
-    <title>Gitfire Login</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm</link>
-    <description>
-        ログインシステム</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2020-09-07T22:30:39.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8g/8gdX6jhQgD.htm">
     <title>[アニメ] 2026-01-28 なんか、色々とひどいね… 観るに耐えぬ。 るろうに剣心 ‐明治剣客浪漫譚‐ 新京都編 - シ ...</title>
