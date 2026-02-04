@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-04T03:28:47.20Z</dc:date>
+    <dc:date>2026-02-04T15:09:58.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/04#sxyHO9o60r"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/04#9iS4JAbthv"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/03#gTnGQUYdwP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/03#VYkupA87eH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/04#qPrEVStBbL"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/02#DXNYma7MqI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/02#c_iq_7avPn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/02#dKLys4rkJd"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,グレートトラバース,登山,Web,グレートトラバース]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-04T03:28:47.20Z</dc:date>
+      <dc:date>2026-02-04T15:09:58.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/04#9iS4JAbthv">
+      <title>[時事] [七尾] 2026-02-04 年末に現われた七尾の刃物男も捕まったけど、これも捕まりそう、かな。冤罪ではないことを願うが、 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/04#9iS4JAbthv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,七尾,時事,七尾]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-02-04T12:00:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/index.htm">
+      <title>山旅と AR と一人旅と</title>
+      <link>https://kagura2718.github.io/index.htm</link>
+      <description>
+        <![CDATA[ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-06T06:13:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/03#gTnGQUYdwP">
       <title>[モンハンNow] 2026-02-03 (どうでもいい)武器強化の儀 ディアブロス ヘヴィボ    </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-01T06:59:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE">
-      <title>[時事] [文化] 2026-02-01 なーんだ、詐病の可能性すらあるのか 😂 😂 なんでもアリだな、この集団。高市支持者にかなり大 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/01#lNeTOr2USE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,時事,文化,時事,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-31T12:54:13.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv">
-      <title>[ポケモンgo] [位置偽装] [宝達山] 2026-02-01 を？戻ってきてた。  そして、スプーの可能性が高い小便くんが麓のお披露目に参加してるね。 🤔 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/01#X9LGn66nnv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,位置偽装,宝達山,ポケモンgo,位置偽装,宝達山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-01-31T11:20:56.00Z</dc:date>
     </item>
   </rdf:RDF>
