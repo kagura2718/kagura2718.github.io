@@ -1,0 +1,1 @@
+import{a as n,d as a}from"./chunk-VB56BUGO.js";function i(s=[]){return{toFirestore(t){let o=t,{id:e}=o;return a(o,["id"])},fromFirestore(t,e){let r=t.data(e);return n({id:t.id},r)}}}function u(s=[]){return{toFirestore(t){return t},fromFirestore(t,e){return t.data(e)}}}export{i as a,u as b};
