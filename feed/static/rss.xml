@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-08T12:11:09.70Z</dc:date>
+    <dc:date>2026-02-08T14:27:02.26Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zo/ZoKpq_i7D4.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ES/ESXzgDgJEG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9E/9EmuJdSfXL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/av/avpOuGkvd4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wq/wqOqRQ8L0_.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9v/9vll70yZLg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ie/ieZ5te_g_t.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ps/psv6-fR6GM.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/W_/W_4kaCHciE.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-08T12:11:09.70Z</dc:date>
+    <dc:date>2026-02-08T14:27:02.26Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm">
     <title>[モンハンNow] 2026-02-08 武器強化の儀 ディアブロス ヘヴィボ   使わないのに最大強化</title>
@@ -54,6 +54,22 @@
         日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-08T03:18:02.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm">
+    <title>[音楽] 2026-02-08 幾田りら名義で歌ってる曲、それぞれいいのだけど、それぞれに独特の色がない。「幾田りら」全体で ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,音楽,音楽</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-07T16:49:14.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ES/ESXzgDgJEG.htm">
+    <title>[時事] [文化] 2026-02-08 大体、予想してたし、予想されてた通りとはいえ、自民党圧勝ですなぁ。明日から何が起こるか…   ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ES/ESXzgDgJEG.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,文化,時事,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-07T21:20:44.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9E/9EmuJdSfXL.htm">
     <title>[モンハンNow] 2026-02-07 武器強化の儀 バゼルギウス 槍   </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-03T19:50:06.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ps/psv6-fR6GM.htm">
-    <title>[料理] 2026-02-03 昨晩の焼きそば。かなり濃くなってもた。故にうまい。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ps/psv6-fR6GM.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-03T17:42:45.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/W_/W_4kaCHciE.htm">
-    <title>[Web] [文化] 2026-02-04 こんなもん、今に限った話じゃなかろうな。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/W_/W_4kaCHciE.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-03T05:22:56.00Z</dc:date>
   </item>
 </rdf:RDF>
