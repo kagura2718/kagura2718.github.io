@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-08T14:27:02.26Z</dc:date>
+    <dc:date>2026-02-09T02:29:49.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V-/V-7kKz-LxC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zo/ZoKpq_i7D4.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fm/FmKIg32hGQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9v/9vll70yZLg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ie/ieZ5te_g_t.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V-/V-7kKz-LxC.htm">
+    <title>[登山] [生活] 2026-02-08 行動可能な時間が夕暮れになったので、超低山の末森山に久々に入山することにした。   山頂。  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/V-/V-7kKz-LxC.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,登山,生活</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-09T02:29:49.96Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm">
     <title>[モンハンNow] 2026-02-08 やっと出た… </title>
     <link>https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-08T14:27:02.26Z</dc:date>
+    <dc:date>2026-02-08T18:20:54.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm">
     <title>[モンハンNow] 2026-02-08 武器強化の儀 ディアブロス ヘヴィボ   使わないのに最大強化</title>
@@ -182,13 +190,5 @@
         ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-06T06:13:15.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ie/ieZ5te_g_t.htm">
-    <title>[モンハンNow] 2026-02-03 (どうでもいい)武器強化の儀 ディアブロス ヘヴィボ    </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ie/ieZ5te_g_t.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-03T19:50:06.00Z</dc:date>
   </item>
 </rdf:RDF>
