@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-11T14:26:01.82Z</dc:date>
+    <dc:date>2026-02-11T15:33:15.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jk/Jk4-lVSlTX.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lZ/lZXaFnVHTQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zo/ZoKpq_i7D4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ER/ER8kXDMCPZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Mu/Mu6egVuiij.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uB/uBN36L-YVB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-11T14:26:01.82Z</dc:date>
+    <dc:date>2026-02-11T15:33:15.60Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lZ/lZXaFnVHTQ.htm">
+    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2026-02-11 金沢 お散歩</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/lZ/lZXaFnVHTQ.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-11T15:06:28.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Zo/ZoKpq_i7D4.htm">
     <title>[ポケモンgo] [生活] [金沢] 2026-02-07 お散歩 金沢</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-08T05:52:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm">
-    <title>[音楽] 2026-02-08 幾田りら名義で歌ってる曲、それぞれいいのだけど、それぞれに独特の色がない。「幾田りら」全体で ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/P9/P9efYMrlPB.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,音楽,音楽</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-07T16:49:14.00Z</dc:date>
   </item>
 </rdf:RDF>
