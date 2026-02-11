@@ -5,14 +5,21 @@
   <author>
     <name>e神楽</name>
   </author>
-  <updated>2026-02-11T15:33:15.60Z</updated>
+  <updated>2026-02-11T15:42:09.60Z</updated>
   <link rel="alternate" type="text/html" href="https://kagura2718.github.io/"/>
   <link rel="self" type="application/atom+xml" href="https://kagura2718.github.io/feed/atom.xml"/>
+  <entry>
+    <id>https://kagura2718.github.io/Diary/essay/index.htm</id>
+    <title>随筆(長編日記)</title>
+    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Diary/essay/index.htm"/>
+    <updated>2026-02-11T15:42:09.60Z</updated>
+    <summary>ゲーム,日記,記録,随筆,エッセイ,一人旅</summary>
+  </entry>
   <entry>
     <id>https://kagura2718.github.io/Gitwee/timeline/2026/02/10#pBUn_BL7pR</id>
     <title>[料理] 2026-02-10 麻婆豆腐を錬成  ついでのだし巻き </title>
     <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitwee/timeline/2026/02/10#pBUn_BL7pR"/>
-    <updated>2026-02-11T15:33:15.60Z</updated>
+    <updated>2026-02-11T15:42:09.60Z</updated>
     <summary type="html">&lt;p&gt;麻婆豆腐を錬成&lt;/p&gt;
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-10/pBUn_BL7pRiG5Pke/2c699f02ad3fce02b9c57f81a86dc172.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-10/pBUn_BL7pRiG5Pke/2c699f02ad3fce02b9c57f81a86dc172.jpg&quot; alt=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -233,19 +240,6 @@
     <summary type="html">&lt;p&gt;やっと出た…&lt;/p&gt;
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-08/fvgjvxQPCVXmud_k/2213f84a7c2c72988108c879070af207.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-08/fvgjvxQPCVXmud_k/2213f84a7c2c72988108c879070af207.jpg&quot; alt=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</summary>
-  </entry>
-  <entry>
-    <id>https://kagura2718.github.io/Gitwee/timeline/2026/02/08#ggZcm_zMTc</id>
-    <title>[モンハンNow] 2026-02-08 武器強化の儀 ディアブロス ヘヴィボ   使わないのに最大強化</title>
-    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitwee/timeline/2026/02/08#ggZcm_zMTc"/>
-    <updated>2026-02-08T05:52:04.00Z</updated>
-    <summary type="html">&lt;p&gt;武器強化の儀 ディアブロス ヘヴィボ&lt;/p&gt;
-
-
-&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-08/ggZcm_zMTcl8vViu/32cce312aced1dd75d5bf99adc270dbf.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-08/ggZcm_zMTcl8vViu/32cce312aced1dd75d5bf99adc270dbf.jpg&quot; alt=&quot;&quot; title=&quot;G10-4&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;
-&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-08/ggZcm_zMTcl8vViu/89d67641b4b8106fe7cf68ccfac4d3ba.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-08/ggZcm_zMTcl8vViu/89d67641b4b8106fe7cf68ccfac4d3ba.jpg&quot; alt=&quot;&quot; title=&quot;G10-5&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使わないのに最大強化&lt;/p&gt;
 </summary>
   </entry>
 </feed>

@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-11T15:33:15.60Z</dc:date>
+    <dc:date>2026-02-11T15:42:09.60Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jk/Jk4-lVSlTX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lZ/lZXaFnVHTQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zo/ZoKpq_i7D4.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V-/V-7kKz-LxC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uB/uBN36L-YVB.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qI/qICtIaoHmM.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Jk/Jk4-lVSlTX.htm">
     <title>[料理] 2026-02-10 麻婆豆腐を錬成  ついでのだし巻き </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Jk/Jk4-lVSlTX.htm</link>
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-11T15:33:15.60Z</dc:date>
+    <dc:date>2026-02-11T15:42:09.60Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lZ/lZXaFnVHTQ.htm">
     <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2026-02-11 金沢 お散歩</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-08T18:20:54.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm">
-    <title>[モンハンNow] 2026-02-08 武器強化の儀 ディアブロス ヘヴィボ   使わないのに最大強化</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/54/54fmmkUM9h.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-08T05:52:04.00Z</dc:date>
   </item>
 </rdf:RDF>
