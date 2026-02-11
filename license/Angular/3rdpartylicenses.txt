@@ -748,7 +748,7 @@ License: "Apache-2.0"
 
 --------------------------------------------------------------------------------
 Package: ngx-toastr
-License: undefined
+License: "MIT"
 
 The MIT License (MIT)
 
