@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-16T03:29:50.03Z</dc:date>
+    <dc:date>2026-02-16T03:37:21.40Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/16#ztKTm2OTE2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/15#iRjRwyNjpN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/16#5ZCvyt1ul6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/15#0dUd8gTLKc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/15#oXWRTOy6oy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/15#7_HBtrhXfz"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/10#VwKCwAIrDS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitfire/login.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/10#kyrVYybWZt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitfire/settings.htm"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-16T03:29:50.03Z</dc:date>
+      <dc:date>2026-02-16T03:37:21.40Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/16#ztKTm2OTE2">
       <title>[飛騨] [岐阜] 2026-02-16 へー。積雪下ではまったく分からなかったけど、車で登れるみたい。たぶん、北側を通ってる林道経由 ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,飛騨,岐阜,飛騨,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-16T03:29:50.03Z</dc:date>
+      <dc:date>2026-02-16T03:37:21.40Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-16T00:23:05.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/16#5ZCvyt1ul6">
+      <title>[飛騨] [岐阜] 2026-02-16 飛騨古川の駅の近くにあった広い更地。 AI に聞いてみると soranotani という、や ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/16#5ZCvyt1ul6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,飛騨,岐阜,飛騨,岐阜]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-02-15T19:19:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/15#0dUd8gTLKc">
       <title>[ポケモンgo] [Wayfarer] 2026-02-15 おお…   美術館か何か知らんが、一際目を惹く…</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-10T06:32:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitfire/settings.htm">
-      <title>Gitfire Settings</title>
-      <link>https://kagura2718.github.io/Gitfire/settings.htm</link>
-      <description>
-        <![CDATA[ユーザー設定]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2020-09-07T22:58:00.00Z</dc:date>
     </item>
   </rdf:RDF>
