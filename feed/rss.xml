@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-20T03:59:04.09Z</dc:date>
+    <dc:date>2026-02-20T14:49:11.04Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/20#wFV69YTRlv"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/20#wFV69YTRlv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/19#rZO69kxEoB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/19#bk-k-NPD9K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/19#xJYdGGeq7H"/>
@@ -20,7 +21,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/18#glttiuTVgl"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/18#Uwx6qiU0uP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/17#NGUdB7Jji4"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/17#oNzk40E7ZN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/17#kG0qY5GHnZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/18#Q9R7QhBdCs"/>
@@ -31,13 +31,21 @@
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/20#wFV69YTRlv">
+  <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm">
+      <title>[ポケモンgo] [登山] [食事] [飛騨] [岐阜] [飛騨高山] 2026-02-14 飛騨古川 - 高山 (ラブトロス)</title>
+      <link>https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-02-18T01:53:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/20#wFV69YTRlv">
       <title>[料理] 2026-02-20 麻婆豆腐を錬成。飛騨高山の木綿豆腐だ。今までの豆腐で一番硬さがしっかりしてる。でかいし、そん ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/20#wFV69YTRlv</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-20T03:59:04.09Z</dc:date>
+      <dc:date>2026-02-20T10:10:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/19#rZO69kxEoB">
       <title>[Web] [炎上] 2026-02-19 またなんか流れてきたんだけど、全力でネタにしてるねぇ Youtuber はこうじゃないと。  ...</title>
@@ -126,14 +134,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,石川,生活,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-17T19:56:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm">
-      <title>[ポケモンgo] [登山] [食事] [飛騨] [岐阜] [飛騨高山] 2026-02-14 飛騨古川 - 高山 (ラブトロス)</title>
-      <link>https://kagura2718.github.io/Diary/essay/2026/2026-02-14.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山,ポケモンgo,登山,食事,飛騨,岐阜,飛騨高山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-17T18:07:41.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/17#oNzk40E7ZN">
       <title>[モンハンNow] 2026-02-17 武器強化の儀 桜レイアの双剣  </title>
