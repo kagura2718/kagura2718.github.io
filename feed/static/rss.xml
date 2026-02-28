@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-02-26T21:29:10.00Z</dc:date>
+    <dc:date>2026-02-27T14:15:42.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/m-/m-N9ioEsTm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ue/UeiOanPFBI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dh/dhb9Fu5Rij.htm"/>
@@ -26,11 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0a/0aXy9A7AE4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/T7/T7bhUrEmk5.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/w7/w7-slX9z7h.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZW/ZWzyllzmCs.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm">
+    <title>[ポケモンgo] 2026-02-28 なんか… 今日がメガカイリューデイかと思ってたんだけど、湧いてない。俺、なんか勘違いしてた気 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-27T14:15:42.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm">
     <title>[ポケモンgo] [生活] [金沢] 2026-02-25 最近、お昼がなぜか忙しくてね… あんまり調べる時間がないのだけど、ゲンシカイオーガとグラード ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm</link>
@@ -38,6 +46,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-26T19:01:38.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm">
+    <title>[料理] 2026-02-27 輪島の町野にある谷内の豆腐だけど、ボロボロに荷崩れるのが売りなのかしらね？ </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-02-26T21:20:21.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/m-/m-N9ioEsTm.htm">
     <title>[登山] [生活] [宝達山] 2026-02-27 やぼ用があるので、隙間時間に本日の登頂。  雪、大部減ったな。今年も春がくる。そして、きっと ...</title>
@@ -174,21 +190,5 @@
         ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-02T22:49:36.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/w7/w7-slX9z7h.htm">
-    <title>[道具] S2 地図</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/w7/w7-slX9z7h.htm</link>
-    <description>
-        s2-geometry を地図上で可視化するためのツール</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-22T04:25:25.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ZW/ZWzyllzmCs.htm">
-    <title>Gitfire Settings</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ZW/ZWzyllzmCs.htm</link>
-    <description>
-        ユーザー設定</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-22T02:21:27.00Z</dc:date>
   </item>
 </rdf:RDF>

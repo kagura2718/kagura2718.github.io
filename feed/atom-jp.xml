@@ -5,9 +5,18 @@
   <author>
     <name>e神楽</name>
   </author>
-  <updated>2026-02-27T06:29:10.00+09:00</updated>
+  <updated>2026-02-27T23:15:42.00+09:00</updated>
   <link rel="alternate" type="text/html" href="https://kagura2718.github.io/"/>
   <link rel="self" type="application/atom+xml" href="https://kagura2718.github.io/feed/atom.xml"/>
+  <entry>
+    <id>https://kagura2718.github.io/Gitwee/timeline/2026/02/28#r1qphFq4G8</id>
+    <title>[ポケモンgo] 2026-02-28 なんか… 今日がメガカイリューデイかと思ってたんだけど、湧いてない。俺、なんか勘違いしてた気 ...</title>
+    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitwee/timeline/2026/02/28#r1qphFq4G8"/>
+    <updated>2026-02-27T23:15:42.00+09:00</updated>
+    <summary type="html">&lt;p&gt;なんか… 今日がメガカイリューデイかと思ってたんだけど、湧いてない。俺、なんか勘違いしてた気がするね。&lt;/p&gt;
+&lt;p&gt;さて、どうすっか。調べるのがめんどくせぇなぁ。 😩&lt;/p&gt;
+</summary>
+  </entry>
   <entry>
     <id>https://kagura2718.github.io/Gitwee/timeline/2026/02/25#z7ZNtAEmFm</id>
     <title>[ポケモンgo] [生活] [金沢] 2026-02-25 最近、お昼がなぜか忙しくてね… あんまり調べる時間がないのだけど、ゲンシカイオーガとグラード ...</title>
@@ -22,6 +31,16 @@
 &lt;p&gt;カイオーガはまだ 💯 も出てない。この日はカイオーガ専でやって 💯 が出たらすぐにやめるつもりだったけど、出るわけがないよね。駅中はポケモン勢がうろついてて、普通の駅客が迷惑そうww&lt;/p&gt;
 
 &lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-25/z7ZNtAEmFmT9gBTD/1691a7051d2d50e217abcf949da8b278.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-25/z7ZNtAEmFmT9gBTD/1691a7051d2d50e217abcf949da8b278.jpg&quot; alt=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</summary>
+  </entry>
+  <entry>
+    <id>https://kagura2718.github.io/Gitwee/timeline/2026/02/27#QWoy4GpT1w</id>
+    <title>[料理] 2026-02-27 輪島の町野にある谷内の豆腐だけど、ボロボロに荷崩れるのが売りなのかしらね？ </title>
+    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitwee/timeline/2026/02/27#QWoy4GpT1w"/>
+    <updated>2026-02-27T06:20:21.00+09:00</updated>
+    <summary type="html">&lt;p&gt;輪島の町野にある谷内の豆腐だけど、ボロボロに荷崩れるのが売りなのかしらね？&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/MyContents2026/2026-02-27/QWoy4GpT1wQKu0OK/23dc274d61ebfe45a8f170719090fa0b.jpg&quot;&gt;&lt;img src=&quot;/MyContents2026/2026-02-27/QWoy4GpT1wQKu0OK/23dc274d61ebfe45a8f170719090fa0b.jpg&quot; alt=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </summary>
   </entry>
   <entry>
@@ -206,19 +225,5 @@
     <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Diary/essay/index.htm"/>
     <updated>2026-02-23T06:18:40.00+09:00</updated>
     <summary>ゲーム,日記,記録,随筆,エッセイ,一人旅</summary>
-  </entry>
-  <entry>
-    <id>https://kagura2718.github.io/Tools/S2/map/index.htm</id>
-    <title>[道具] S2 地図</title>
-    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Tools/S2/map/index.htm"/>
-    <updated>2026-02-22T13:25:25.00+09:00</updated>
-    <summary>s2-geometry を地図上で可視化するためのツール</summary>
-  </entry>
-  <entry>
-    <id>https://kagura2718.github.io/Gitfire/settings.htm</id>
-    <title>Gitfire Settings</title>
-    <link rel="alternate" type="text/html" href="https://kagura2718.github.io/Gitfire/settings.htm"/>
-    <updated>2026-02-22T11:21:27.00+09:00</updated>
-    <summary>ユーザー設定</summary>
   </entry>
 </feed>
