@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-01T12:13:07.91Z</dc:date>
+    <dc:date>2026-03-01T12:18:07.53Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#4V8uQnu0AS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#PZGn_wwaR9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#dSw_HAGOIL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/27#9GkandcYcj"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-02-21.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/23#8gkau2GHdQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/24#LfY3-3Dm1p"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/23#no7klO19op"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-01T12:13:07.91Z</dc:date>
+      <dc:date>2026-03-01T12:18:07.53Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#4V8uQnu0AS">
+      <title>[ポケモンgo] 2026-03-01 カイリューのメガエナジーは昨日でとりあえず溜まったので、今日はメガカイリューレイドに一度だけ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/01#4V8uQnu0AS</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-03-01T07:35:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#PZGn_wwaR9">
       <title>[ポケモンgo] [生活] [金沢] 2026-03-01 金沢は人がいっぱい。選挙カーがやかましい。駅中は相変わらずポケモン勢があちこちにいらっしゃる ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-23T23:21:57.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/23#no7klO19op">
-      <title>[ポケモンgo] 2026-02-23 先週は 56km </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/23#no7klO19op</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-23T18:59:27.00Z</dc:date>
     </item>
   </rdf:RDF>
