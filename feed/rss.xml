@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-01T12:18:07.53Z</dc:date>
+    <dc:date>2026-03-02T03:09:15.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#8l2q5Lkywz"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/02#7St2vcASAm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/02#R6bHonudbz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#4V8uQnu0AS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#PZGn_wwaR9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#dSw_HAGOIL"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/26#VEUq94KddF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/25#bSHvz3WNN2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/24#OvJC9NFKm_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-02-21.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/23#8gkau2GHdQ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/02/24#LfY3-3Dm1p"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#8l2q5Lkywz">
+      <title>[ポケモンgo] [複垢] [金沢] [yosikaturikuto] 2026-03-01 あ、思い出した。 yosikaturikuto が金沢駅で入ってきた。見覚えのある 2 アカ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/01#8l2q5Lkywz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,複垢,金沢,yosikaturikuto,ポケモンgo,複垢,金沢,yosikaturikuto]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-03-02T03:09:15.89Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/02#7St2vcASAm">
+      <title>[Web] [氷見] 2026-03-02 まじか… 許し難い。 😠 おれ、ここの 360 画像を up してたんだけど、今は見えなくな ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/02#7St2vcASAm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,氷見,Web,氷見]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-03-02T00:22:18.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6">
       <title>[モンハンNow] 2026-03-01 次元変異の rare6 でない… 眠い目をこすりながら 30 分ぐらい粘ったんだぜ？ひとつも ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/01#9x_NyKwEt6</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-01T12:18:07.53Z</dc:date>
+      <dc:date>2026-03-01T19:54:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/02#R6bHonudbz">
+      <title>[ポケモンgo] 2026-03-02 これも何か珍しいみたいだね。ルチャブル？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/02#R6bHonudbz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-03-01T13:42:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#4V8uQnu0AS">
       <title>[ポケモンgo] 2026-03-01 カイリューのメガエナジーは昨日でとりあえず溜まったので、今日はメガカイリューレイドに一度だけ ...</title>
@@ -45,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-01T07:35:29.00Z</dc:date>
+      <dc:date>2026-03-01T09:10:10.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/01#PZGn_wwaR9">
       <title>[ポケモンgo] [生活] [金沢] 2026-03-01 金沢は人がいっぱい。選挙カーがやかましい。駅中は相変わらずポケモン勢があちこちにいらっしゃる ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-24T20:19:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-02-21.htm">
-      <title>[食事] [奥能登] 2026-02-21 お散歩 輪島</title>
-      <link>https://kagura2718.github.io/Diary/essay/2026/2026-02-21.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,食事,奥能登,食事,奥能登]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-21T17:23:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/23#8gkau2GHdQ">
-      <title>[Web] [AI] 2026-02-23 AI 生成、か…？ 分からん。 😅 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/23#8gkau2GHdQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,AI,Web,AI]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-24T05:02:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/02/24#LfY3-3Dm1p">
-      <title>[モンハンNow] 2026-02-24 武器強化の儀 ケマなんたらの弓 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/02/24#LfY3-3Dm1p</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-23T23:21:57.00Z</dc:date>
     </item>
   </rdf:RDF>
