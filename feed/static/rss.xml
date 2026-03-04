@@ -4,12 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-04T02:29:36.80Z</dc:date>
+    <dc:date>2026-03-04T08:12:34.06Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uO/uOjHnrKlkW.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/77/77h2l1S-m9.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8R/8RlJVBnsp8.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qi/QiCqPaBqbI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EL/ELRGZSaoHH.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p7/p7R5Znovmc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_g/_g-UkbAf8d.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uo/uo5rTKUOaG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fr/Fr4_Vx6f5m.htm"/>
@@ -24,10 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/T-/T-sduJafRK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DC/DC2Ambj0Gf.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kk/kkSRyVrMIY.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_C/_Cq8v7_cyX.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,31 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-04T02:29:36.80Z</dc:date>
+    <dc:date>2026-03-04T08:12:34.06Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/77/77h2l1S-m9.htm">
+    <title>[Web] [時事] [国際] 2026-03-04 割と最近のドバイの様子。ミサイルが常時降り注いでる様子ではなさそうだね。現地の人にとっては、 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/77/77h2l1S-m9.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,時事,国際,Web,時事,国際</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-04T08:12:34.06Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8R/8RlJVBnsp8.htm">
+    <title>[生活] [料理] 2026-03-04 昨日は朝からほとんど何も食ってなかったので、晩ご飯で取り戻した。  マカロニグラタン  残り ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/8R/8RlJVBnsp8.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,料理,生活,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-04T08:12:34.06Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Qi/QiCqPaBqbI.htm">
+    <title>[ポケモンgo] 2026-03-04 スーパーメガレイド、今さらに調べてるのだけど、みんなよく分からないみたいだ。未だにまともそう ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Qi/QiCqPaBqbI.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-04T07:14:15.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/EL/ELRGZSaoHH.htm">
     <title>[Web] [文化] 2026-03-03 防衛大に割と育ちが普通で頭のまともな人が入ってきても長続きはしないだろうなぁ。  なかなかの ...</title>
@@ -46,6 +70,14 @@
         日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-03-03T05:34:46.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/p7/p7R5Znovmc.htm">
+    <title>[モンハンNow] 2026-03-04 ティガ ⭐ 10  に勝てた！  割と勝てるぞ。  最後にミスったりもしたけど、まずまずの勝 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/p7/p7R5Znovmc.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-03T17:07:33.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_g/_g-UkbAf8d.htm">
     <title>[ポケモンgo] 2026-03-03 ルート達成、途切れてしまった… 😭 完了を押し忘れてたのかしら？マテオ(？)は出てたんだけど ...</title>
@@ -158,37 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-02-28T22:57:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/_C/_Cq8v7_cyX.htm">
-    <title>[ポケモンgo] [生活] [金沢] 2026-02-28 本日はメガカイリューデイということでちょっと遅くなったけど、金沢駅まで出撃。カイリューはポケ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/_C/_Cq8v7_cyX.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-27T21:55:05.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm">
-    <title>[ポケモンgo] 2026-02-28 なんか… 今日がメガカイリューデイかと思ってたんだけど、湧いてない。俺、なんか勘違いしてた気 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/QS/QS5VFS5ttv.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-27T14:15:42.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm">
-    <title>[ポケモンgo] [生活] [金沢] 2026-02-25 最近、お昼がなぜか忙しくてね… あんまり調べる時間がないのだけど、ゲンシカイオーガとグラード ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/TY/TYrE6ihfUR.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-26T19:01:38.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm">
-    <title>[料理] 2026-02-27 輪島の町野にある谷内の豆腐だけど、ボロボロに荷崩れるのが売りなのかしらね？ </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/q9/q9cMS06g4L.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,料理,料理</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-26T21:20:21.00Z</dc:date>
   </item>
 </rdf:RDF>
