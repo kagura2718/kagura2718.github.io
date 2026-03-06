@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-06T13:53:00.04Z</dc:date>
+    <dc:date>2026-03-06T14:04:25.59Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3R/3R93P5XrGY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NW/NWnf4IYzGe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3P/3PKytVkRjb.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1j/1jroki96sM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xU/xUIES4a1lz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/59/59BCA-gjo0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WF/WFOGVXOQyP.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/_g/_g-UkbAf8d.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uo/uo5rTKUOaG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fr/Fr4_Vx6f5m.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sg/sgIxUkyS-X.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-06T13:53:00.04Z</dc:date>
+    <dc:date>2026-03-06T14:04:25.59Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/NW/NWnf4IYzGe.htm">
     <title>[時事] [国際] 2026-03-06 イランって山勝ちな地形なんだな。登山やる人はいるんやろか…？前に乗鞍でクロスした中東系？のカ ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,時事,国際,時事,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-06T13:53:00.04Z</dc:date>
+    <dc:date>2026-03-06T14:04:25.59Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/3P/3PKytVkRjb.htm">
     <title>[七尾] 2026-03-05 わくらーわくらー  ちょっと前よりも風呂に入る外国人の姿が減ったな。解体作業はまだまだこれか ...</title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,七尾,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-03-06T07:03:57.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/1j/1jroki96sM.htm">
+    <title>[料理] 2026-03-06 ホルモン肉を get したので、試験的にこてっちゃんもどきにしてみた。  初回としてもしょっ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/1j/1jroki96sM.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-06T05:46:13.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xU/xUIES4a1lz.htm">
     <title>[モンハンNow] 2026-03-06 おお！次はジンオウガの次元変異がくる。  そして新種モンスター、セルレギオス、トビカガチ亜種 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-03-03T11:56:05.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/sg/sgIxUkyS-X.htm">
-    <title>[ポケモンgo] 2026-03-03 先週は 76km </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/sg/sgIxUkyS-X.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-03T10:17:35.00Z</dc:date>
   </item>
 </rdf:RDF>
