@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-08T13:03:10.53Z</dc:date>
+    <dc:date>2026-03-08T13:52:52.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#oDM7tVgRJN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#e2wkespJ7l"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#1zjIlxUH2y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-03-07.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#Cx3Gd0yq4T"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/04#LejwtU4KF8"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/04#p4A6Zy4y_J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/04#1blp5sX8QU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/03#0k7gAvrvCE"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,NHK,登山,NHK]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-08T13:03:10.53Z</dc:date>
+      <dc:date>2026-03-08T13:52:52.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#e2wkespJ7l">
+      <title>[Web] [炎上] [文化] 2026-03-08 はぁ…  だよねぇ。クズほど人生の再起を図るときに、なぜか公職を選ぶ… 不思議なもんだ。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/08#e2wkespJ7l</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-03-08T13:52:52.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/08#1zjIlxUH2y">
       <title>[登山] [生活] [宝達山] 2026-03-08 自宅のタスクが終了して、我慢できず登ってきた。   本日の登頂  カモシカさん、おそらく番い ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-08T13:03:10.53Z</dc:date>
+      <dc:date>2026-03-08T13:52:52.91Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-03-07.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-03-07 金沢walk</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,料理,生活,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-03-04T13:06:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/03#0k7gAvrvCE">
-      <title>[アニメ] [呪術廻戦] 2026-03-03 呪術廻戦の女の子がかわいくないというポストを見かけた。たぶん、真希を念頭に置いたものじゃない ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/03#0k7gAvrvCE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,アニメ,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-02T23:18:41.00Z</dc:date>
     </item>
   </rdf:RDF>
