@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-15T11:51:52.70Z</dc:date>
+    <dc:date>2026-03-15T13:41:44.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/to/toTyvBaRPp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/n4/n4KhVnVosP.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cB/cB-W3vRFbA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Gb/GbzXlrn2Sm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dP/dP1UtPMTyu.htm"/>
@@ -31,13 +31,21 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm">
+    <title>[野球] 2026-03-15 WBC は日本はベネズエラに 8-5 で負けたか。野球はね… 一回勝負だと、やっぱり揺蕩うも ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,野球,野球</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-15T13:41:44.16Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/to/toTyvBaRPp.htm">
     <title>[モンハンNow] 2026-03-15 うーん？なかなか稼げないのだよな… チャアク以外の上位は全部ソロで出した記録。  金沢駅でや ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/to/toTyvBaRPp.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-15T11:51:52.70Z</dc:date>
+    <dc:date>2026-03-15T13:41:44.16Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/n4/n4KhVnVosP.htm">
     <title>[食事] [自転車] [奥能登] 2026-03-12 珠洲周回</title>
@@ -47,21 +55,13 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-03-14T16:27:51.00Z</dc:date>
   </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm">
-    <title>[野球] 2026-03-15 WBC は日本はベネズエラに 8-5 で負けたか。野球はね… 一回勝負だと、やっぱり揺蕩うも ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ih/ihVZ-um3Pg.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,野球,野球</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-15T11:51:52.70Z</dc:date>
-  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cB/cB-W3vRFbA.htm">
     <title>[モンハンNow] 2026-03-15 HR357 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/cB/cB-W3vRFbA.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-15T11:51:52.70Z</dc:date>
+    <dc:date>2026-03-15T13:41:44.16Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Gb/GbzXlrn2Sm.htm">
     <title>[ポケモンgo] [生活] [金沢] 2026-03-14 はぁ… 今日も疲れた。  まさかのザシアン、ラティアスと二連荘色違い。でも交換要員。   予 ...</title>
