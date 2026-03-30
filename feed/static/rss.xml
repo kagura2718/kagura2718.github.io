@@ -4,17 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-30T10:08:40.33Z</dc:date>
+    <dc:date>2026-03-30T11:03:44.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oi/oiCdBTpMFo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nu/Nu1pkin7MX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bk/bkziIz75Tq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/EY/EYM-cRrxBW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9X/9XZIqTKSj_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vj/vj9GO_Kof1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Iy/IyouZmFOra.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Es/EsegDRlpaZ.htm"/>
@@ -31,13 +31,21 @@
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm">
+    <title>[ポケモンgo] [生活] [食事] [金沢] 2026-03-28 金沢</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm</link>
+    <description>
+        日記,随筆,簡約版,ポケモンgo,生活,食事,金沢,ポケモンgo,生活,食事,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-03-29T16:34:07.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oi/oiCdBTpMFo.htm">
     <title>[ポケモンgo] 2026-03-30 先週は 58km </title>
     <link>https://kagura2718.github.io/Gitwee/jump/oi/oiCdBTpMFo.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-30T10:08:40.33Z</dc:date>
+    <dc:date>2026-03-30T11:03:44.07Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nu/Nu1pkin7MX.htm">
     <title>[モンハンNow] 2026-03-30 このポーズ、ええな。買わんけど、タダでもらえるなら、ほしい… </title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-30T10:08:40.33Z</dc:date>
+    <dc:date>2026-03-30T11:03:44.07Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm">
     <title>山旅と AR と一人旅と</title>
@@ -78,14 +86,6 @@
         日記,つぶやき,雑記帳,告知,告知</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-03-29T18:06:47.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm">
-    <title>[ポケモンgo] [生活] [食事] [金沢] 2026-03-28 金沢</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/7o/7o1KtCeT9k.htm</link>
-    <description>
-        日記,随筆,簡約版,ポケモンgo,生活,食事,金沢,ポケモンgo,生活,食事,金沢</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-29T16:34:07.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vj/vj9GO_Kof1.htm">
     <title>[ポケモンgo] 2026-03-29 お？こいつ進化できねぇぞ。あんだけ強くて厄介なのに、やっぱりネタじゃねぇかww   その内、 ...</title>
