@@ -4,11 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-03-31T04:01:34.67Z</dc:date>
+    <dc:date>2026-04-01T02:25:40.20Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#qoh65afedj"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#umrfFbn-sF"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#xLA77ftg4A"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#Uc58gkAdLh"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#tT6Ynejz5Z"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#bOEPD1pdlk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-03-28.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/30#FVbUaAPqJT"/>
@@ -23,21 +28,56 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#os5A7uvoMU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#kVGMNuGsXS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/28#lM88aPT1gb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#aqb4MdE-Mb"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#8xnaColGHB"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/28#SNGAkzX2uM"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#_o9LPO0Ytg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/27#GfHWWQHyK1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#qoh65afedj">
+      <title>[モンハンNow] 2026-04-01 武器強化の儀 整いました！時間かかったなぁ。  最大スタイル強化  これでジンオウガ兄貴を殴 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/01#qoh65afedj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#umrfFbn-sF">
+      <title>[モンハンNow] 2026-03-31 ここまで出ると倍化したくなる… しないけど。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/31#umrfFbn-sF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#xLA77ftg4A">
+      <title>[ポケモンgo] [生活] [金沢] 2026-03-31 これ、人気ないんですってよ。ポケモンギフトのスタンプを一応、集めに寄ってみたんだけど。  今 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/31#xLA77ftg4A</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#Uc58gkAdLh">
+      <title>[Web] 2026-04-01 どれとは言わないけど Abema のニュース、気持ち悪いな。 しかし、あれが日本国内の中央値 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/01#Uc58gkAdLh</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T01:51:55.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#tT6Ynejz5Z">
+      <title>[ポケモンgo] 2026-04-01 海外民からお誘いをいただいたので乗ってみた。EU はポケスト濃度はどんなもんなんだろ… </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/01#tT6Ynejz5Z</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T00:35:20.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0">
       <title>[ポケモンgo] 2026-03-31 本日の最大強化 (PL50) </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-31T04:01:34.67Z</dc:date>
+      <dc:date>2026-03-31T17:01:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#bOEPD1pdlk">
       <title>[Web] [炎上] 2026-03-31 やたらと閉鎖的な奴らが騒いでるみたいだけど、こういうことらしい。  ☺️   でもね、外国人 ...</title>
@@ -45,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-31T04:01:34.67Z</dc:date>
+      <dc:date>2026-03-31T16:46:06.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-03-28.htm">
       <title>[ポケモンgo] [生活] [食事] [金沢] 2026-03-28 金沢</title>
@@ -150,45 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-03-28T23:54:20.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#aqb4MdE-Mb">
-      <title>[アニメ] [呪術廻戦] 2026-03-29 アニメでデフォルメしたんだろうが。  やっぱり荒々しめの筆致が、あの漫画作品の真髄だったと思 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/29#aqb4MdE-Mb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,アニメ,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-29T00:13:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#8xnaColGHB">
-      <title>[Web] [炎上] [文化] 2026-03-29 平民ってさすがに考えることが平民だよね。 😑  どうやったら、令和の今の時代に、こんなゴミが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/29#8xnaColGHB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-28T23:10:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/28#SNGAkzX2uM">
-      <title>[Web] 2026-03-28 ほほう。これは結構意外性のある発言が色々と。はっきり言ってくれる方が嬉しいね。  共産党、も ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/28#SNGAkzX2uM</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-28T21:49:03.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#_o9LPO0Ytg">
-      <title>[アニメ] [鬼滅の刃] 2026-03-29 Abema で鬼滅が無料配信。 テレビアニメ「鬼滅の刃」 - 柱稽古編 - 8話 (アニメ) ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/29#_o9LPO0Ytg</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,鬼滅の刃,アニメ,鬼滅の刃]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-28T17:22:24.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/27#GfHWWQHyK1">
-      <title>[Web] [炎上] [NHK] 2026-03-27 ほう… これでも不起訴。まさか、 NHK 続けたりしないよな… いや、いつものように「元」チ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/27#GfHWWQHyK1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,NHK,Web,炎上,NHK]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-28T11:10:14.00Z</dc:date>
     </item>
   </rdf:RDF>
