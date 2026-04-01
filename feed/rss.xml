@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+    <dc:date>2026-04-01T03:44:40.52Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#qoh65afedj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#umrfFbn-sF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#xLA77ftg4A"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#nOywQcDsLL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#Uc58gkAdLh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#tT6Ynejz5Z"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#R0K7gb4Gk0"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#-OEy09esgY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#os5A7uvoMU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/29#kVGMNuGsXS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/03/28#lM88aPT1gb"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+      <dc:date>2026-04-01T03:44:40.52Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#umrfFbn-sF">
       <title>[モンハンNow] 2026-03-31 ここまで出ると倍化したくなる… しないけど。 </title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+      <dc:date>2026-04-01T03:44:40.52Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/31#xLA77ftg4A">
       <title>[ポケモンgo] [生活] [金沢] 2026-03-31 これ、人気ないんですってよ。ポケモンギフトのスタンプを一応、集めに寄ってみたんだけど。  今 ...</title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-01T02:25:40.20Z</dc:date>
+      <dc:date>2026-04-01T03:44:40.52Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#nOywQcDsLL">
+      <title>[登山] [Web] 2026-04-01 ほー。あそこ、登山道というか遊歩道だけど広いから、車？が走れると。  5 年ぐらい前に上高地 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/01#nOywQcDsLL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,登山,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-01T03:44:40.52Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/01#Uc58gkAdLh">
       <title>[Web] 2026-04-01 どれとは言わないけど Abema のニュース、気持ち悪いな。 しかし、あれが日本国内の中央値 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-03-29T13:48:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/03/28#lM88aPT1gb">
-      <title>[料理] 2026-03-28 豆腐とアボカドのサラダ。これは死ぬほど美味かった…  レシピはこれ。 アボカドと豆腐の和風や ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/03/28#lM88aPT1gb</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-03-28T23:54:20.00Z</dc:date>
     </item>
   </rdf:RDF>
