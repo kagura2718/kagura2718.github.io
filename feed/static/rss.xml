@@ -4,12 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-02T02:44:43.75Z</dc:date>
+    <dc:date>2026-04-02T03:31:58.86Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tf/tfRAARcSev.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OZ/OZd8CcBj1p.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lu/luEwp5uCmY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BM/BM3ZskAfkW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/nm/nm_4nw4JFK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KG/KG5AWsDszc.htm"/>
@@ -27,17 +28,16 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Rl/RlmqhwgBLI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nu/Nu1pkin7MX.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bX/bXkBMlFFaC.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bk/bkziIz75Tq.htm"/>
       </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tf/tfRAARcSev.htm">
-    <title>[ポケモンgo] 2026-04-02 そろそろウントダウン。 TL73 は 4 月半ばぐらいになるだろう。  プラチナメダル 30 ...</title>
+    <title>[ポケモンgo] 2026-04-02 そろそろカウントダウン。 TL73 は 4 月半ばぐらいになるだろう。  プラチナメダル 3 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/tf/tfRAARcSev.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-04-02T02:44:43.75Z</dc:date>
+    <dc:date>2026-04-02T03:31:58.86Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OZ/OZd8CcBj1p.htm">
     <title>[モンハンNow] 2026-04-02 HR360 </title>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-04-01T22:24:31.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lu/luEwp5uCmY.htm">
+    <title>[アニメ] [文化] 2026-04-01 先週のでひとまず今期の最終回ということで、次は 2027 年の秋って出てた気がする。結構、期 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/lu/luEwp5uCmY.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,文化,アニメ,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-04-01T08:16:52.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BM/BM3ZskAfkW.htm">
     <title>[モンハンNow] 2026-04-01 武器強化の儀 整いました！時間かかったなぁ。  最大スタイル強化  これでジンオウガ兄貴を殴 ...</title>
@@ -182,13 +190,5 @@
         ingress, ポケモンGo, Pokémon GO, モンハンNow, 登山, 一人旅, 旅行, 外食, 料理, 運動</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-06T06:13:15.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bk/bkziIz75Tq.htm">
-    <title>[モンハンNow] 2026-03-30 スタイル強化の儀 第一段階、整った。  なるほろ、ジンオウガ武器は他の同格武器 (レイギエナ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/bk/bkziIz75Tq.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-03-29T23:57:12.00Z</dc:date>
   </item>
 </rdf:RDF>
