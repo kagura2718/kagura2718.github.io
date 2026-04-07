@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-07T02:55:36.15Z</dc:date>
+    <dc:date>2026-04-07T09:57:34.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dy/dy18oAmGig.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TB/TB1ymcFq3i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xs/XsNT25BHGT.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dy/dy18oAmGig.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0D/0Dva1K42QT.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/mQ/mQGjlySHEg.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/TB/TB1ymcFq3i.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JI/JIYWCcf4aG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ZW/ZWzyllzmCs.htm"/>
@@ -26,11 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dv/dvN5T3n_hM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xS/xS71m_kqHF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tf/tfRAARcSev.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iT/iTbfsZodmR.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xs/XsNT25BHGT.htm">
+    <title>[モンハンNow] 2026-04-07 結構、安定して勝てる… うーん？なんだろ。不思議… 勇猛が効いてるかな？レイアの大刀の属性強 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Xs/XsNT25BHGT.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-04-07T09:57:34.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/dy/dy18oAmGig.htm">
     <title>[モンハンNow] 2026-04-06 とうとうレイギエナ ⭐ 10 に勝てたのだけど… ミスって咆哮もくらったし、被弾もしたのに、 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/dy/dy18oAmGig.htm</link>
@@ -39,6 +47,22 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-04-06T16:59:51.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0D/0Dva1K42QT.htm">
+    <title>[時事] [NHK] 2026-04-07 嘘を吐きまくるだけでも、世間を騙せると確信した顔をしている。 🤮  たぶん、勝手に好転すると ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/0D/0Dva1K42QT.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,時事,NHK,時事,NHK</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-04-07T05:45:03.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/mQ/mQGjlySHEg.htm">
+    <title>[生活] [金沢] 2026-04-07 春ですな。  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/mQ/mQGjlySHEg.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,金沢,生活,金沢</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-04-07T03:40:29.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/TB/TB1ymcFq3i.htm">
     <title>[モンハンNow] 2026-04-07 武器強化の儀 セルレギオスの槍   ベニカガチ 操虫棍  操虫棍が、おじさんには難しすぎて…</title>
     <link>https://kagura2718.github.io/Gitwee/jump/TB/TB1ymcFq3i.htm</link>
@@ -46,14 +70,6 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-04-07T00:16:02.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xs/XsNT25BHGT.htm">
-    <title>[モンハンNow] 2026-04-07 結構、安定して勝てる… うーん？なんだろ。不思議… 勇猛が効いてるかな？  次元変異 ⭐ 1 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Xs/XsNT25BHGT.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-04-06T20:54:00.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/JI/JIYWCcf4aG.htm">
     <title>[生活] [かほく] 2026-04-06 高松エリアだけど、人がまったく… いない…  いない… とネタにしているけど、車で入ったとき ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-04-02T06:01:14.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm">
-    <title>Gitfire Login</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/hy/hyl5jJyUrt.htm</link>
-    <description>
-        ログインシステム</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-02-22T01:54:06.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iT/iTbfsZodmR.htm">
-    <title>[モンハンNow] 2026-04-02 武器強化の儀 ジンオウガ大剣  </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/iT/iTbfsZodmR.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-04-01T22:01:11.00Z</dc:date>
   </item>
 </rdf:RDF>
