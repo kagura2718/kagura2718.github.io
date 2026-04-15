@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-14T14:29:50.80Z</dc:date>
+    <dc:date>2026-04-15T04:16:13.07Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zzWBDr_sDV"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/15#q_9fD3w4T_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/15#BlUNwkMyZY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zzWBDr_sDV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#GrStP73tpL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#KZq_Wgyu1a"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#932EEGPngP"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/10#xezo6uWfYC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/11#II8ED4Ofyr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitfire/settings.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/10#fZnwsOsM2n"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/11#WZ6y3dNsjp"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zzWBDr_sDV">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/15#q_9fD3w4T_">
+      <title>[モンハンNow] 2026-04-15 今までで一番あっさり稼ぎ終わった。準備してたからね。  これ、上手い人、どれぐらい取れるんだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/15#q_9fD3w4T_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-15T04:16:13.07Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/15#BlUNwkMyZY">
+      <title>[時事] [文化] [国際] 2026-04-15 それにしても、この状況下で台湾有事なんて発生したら、燃料もない日本で対処可能なんだろうかね。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/15#BlUNwkMyZY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,文化,国際,時事,文化,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-15T04:16:13.07Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zzWBDr_sDV">
       <title>[アニメ] [呪術廻戦] 2026-04-14 呪術廻戦に限らずだけど、漫画よりもアニメが好きなポイントがあるとしたら、こういう視線の動きで ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zzWBDr_sDV</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,アニメ,呪術廻戦]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-14T14:29:50.80Z</dc:date>
+      <dc:date>2026-04-14T18:17:50.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#GrStP73tpL">
       <title>[料理] 2026-04-14 麻婆豆腐を錬成 </title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-14T14:29:50.80Z</dc:date>
+      <dc:date>2026-04-14T17:46:56.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#KZq_Wgyu1a">
       <title>[ポケモンgo] 2026-04-13 先週は 41km </title>
@@ -174,21 +190,5 @@
         <![CDATA[ユーザー設定]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-02-22T02:21:27.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/10#fZnwsOsM2n">
-      <title>[モンハンNow] 2026-04-10 スタイル最大強化完了。ジンオウガ兄貴の武器は最強じゃないといけません。   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/10#fZnwsOsM2n</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-10T00:48:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/11#WZ6y3dNsjp">
-      <title>[モンハンNow] 2026-04-11 長らく一番の難敵だったレイギエナをぼこせるようになった今、ストーリーをすすめてもいいかもしれ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/11#WZ6y3dNsjp</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-10T09:16:08.00Z</dc:date>
     </item>
   </rdf:RDF>
