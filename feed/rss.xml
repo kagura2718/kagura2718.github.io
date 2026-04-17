@@ -4,13 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-16T12:41:55.31Z</dc:date>
+    <dc:date>2026-04-17T03:00:33.53Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#YCYEZLdgYV"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#AkX-BzNLoP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#23uIUrudUe"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#YCYEZLdgYV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#EBY8MO74Gv"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#0Gbd3zrT4i"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#_PErffXODG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#Fd3iBOW6hn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#JpMI4VahN2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-04-15.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#qdfXZ87kMP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#NgxxH4NxCo"/>
@@ -23,21 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#932EEGPngP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#TxOAoCHJUK"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/14#zVNSJ-edjg"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#yPOnwAN5AP"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#HLXf1noOcl"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#_vf33nxJaa"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-04-12.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitfire/login.htm"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#YCYEZLdgYV">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#AkX-BzNLoP">
+      <title>[ポケモンgo] [奥能登] 2026-04-17 来たか。これはさすがに来るだろうと思ってた。  志賀町は富来エリア、七尾市は和倉エリアか。他 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/17#AkX-BzNLoP</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,奥能登,ポケモンgo,奥能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-17T03:00:33.53Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#23uIUrudUe">
+      <title>[中能登] [能登] 2026-04-17 を？前に行ったばかりのとこじゃん。 県文化財でも銅板盗　中能登・石動山の神社｜社会｜石川のニ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/17#23uIUrudUe</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,中能登,能登,中能登,能登]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-17T03:00:33.53Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#YCYEZLdgYV">
       <title>[モンハンNow] 2026-04-16 昨日、傘さしながらポチポチしてたから、間違って掌で回復薬を何度も押してしまって、この有り様よ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/16#YCYEZLdgYV</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-16T12:41:55.31Z</dc:date>
+      <dc:date>2026-04-17T02:19:41.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#EBY8MO74Gv">
+      <title>[飛騨高山] 2026-04-17 高山祭は春と秋にあるのか。春の方が豪華な祭りみたいな雰囲気。 高山祭り春と秋の違いは？見どこ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/17#EBY8MO74Gv</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,飛騨高山,飛騨高山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-17T01:36:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#0Gbd3zrT4i">
       <title>[ポケモンgo] 2026-04-16 ギフトを送った相手が黒抜きになると思ってた現象は…  どうやらアバターの円の周囲が薄ら青くな ...</title>
@@ -45,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-16T12:41:55.31Z</dc:date>
+      <dc:date>2026-04-17T00:23:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#_PErffXODG">
+      <title>[時事] [炎上] 2026-04-16 山古志村での行方不明事件での経緯から、家族、親族が疑われたりするケースでもすべての記事や報道 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/16#_PErffXODG</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,炎上,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-16T23:42:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/16#Fd3iBOW6hn">
       <title>[料理] 2026-04-16 春野菜でアラビアータ。我ながらめっちゃうまかった。パスタがうめぇぜ。 </title>
@@ -53,7 +85,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-16T12:41:55.31Z</dc:date>
+      <dc:date>2026-04-16T17:22:42.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/17#JpMI4VahN2">
+      <title>[ポケモンgo] 2026-04-17 前のリモート交換のときに「交換ポケモンを見る」で相手のリモートタグがついてるポケモンが見れる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/17#JpMI4VahN2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-16T16:03:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-04-15.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-04-15 金沢</title>
@@ -150,45 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-14T01:59:26.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#yPOnwAN5AP">
-      <title>[モンハンNow] 2026-04-13 HR362 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/13#yPOnwAN5AP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-13T21:37:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#HLXf1noOcl">
-      <title>[アニメ] [呪術廻戦] 2026-04-13 プロペラ女の声はどこかで聞いたことあると思ったけど、誰だろう？羽生というキャラだったらしいが ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/13#HLXf1noOcl</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,アニメ,呪術廻戦,アニメ,呪術廻戦]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-13T21:27:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/13#_vf33nxJaa">
-      <title>[モンハンNow] 2026-04-13 武器強化の儀 ベニカガチの操虫棍 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/13#_vf33nxJaa</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-13T20:50:31.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-04-12.htm">
-      <title>[生活] [七尾] 2026-04-12 和倉 - 七尾</title>
-      <link>https://kagura2718.github.io/Diary/essay/2026/2026-04-12.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,生活,七尾,生活,七尾]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-13T16:54:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitfire/login.htm">
-      <title>Gitfire Login</title>
-      <link>https://kagura2718.github.io/Gitfire/login.htm</link>
-      <description>
-        <![CDATA[ログインシステム]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-02-22T01:54:06.00Z</dc:date>
     </item>
   </rdf:RDF>
