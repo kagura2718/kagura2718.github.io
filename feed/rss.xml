@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-25T21:01:04.00Z</dc:date>
+    <dc:date>2026-04-26T03:13:04.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-04-25.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/26#lrkXuvaW8M"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-04-25.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/25#FL3NV01mFc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#Y2kUxICFw-"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#tIbdHw6Y41"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#hzsv3XAWEO"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/23#ObDri5hHUj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/21#juYcrEVI34"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/20#dEAeRcijyr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#qGagAHBAbq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#kTOHzrZHOh"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-04-25.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/26#lrkXuvaW8M">
+      <title>[モンハンNow] 2026-04-26 パオウルムー亜種 こいつ、部位破壊が難しいな。素材が集まらない… </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/26#lrkXuvaW8M</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-26T03:13:04.96Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-04-25.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-04-25 お散歩金沢</title>
       <link>https://kagura2718.github.io/Diary/essay/2026/2026-04-25.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-25T21:01:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/25#FL3NV01mFc">
+      <title>[ポケモンgo] 2026-04-25 リモート交換！  なんじゃ、この背景は… かっこええ  キラの背景と切り替わる  個体値はい ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/25#FL3NV01mFc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-25T13:31:46.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#Y2kUxICFw-">
       <title>[Web] [国際] 2026-04-24 アラビア語みたいだ。日本人なら、髪の毛を結ばないで調理をしている段階で、なんか変な店だと気付 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-21T16:53:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#qGagAHBAbq">
-      <title>[ポケモンgo] 2026-04-22 ソロでいけるみたいな話書いてあったけど、絶対無理だろ、こんなもん。  あるいは、タンク役によ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/22#qGagAHBAbq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-21T15:30:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#kTOHzrZHOh">
-      <title>[モンハンNow] 2026-04-22 武器強化の儀 マガマガ 操虫棍    パオウルムー亜種 操虫棍  プケ亜種ハンマー   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/22#kTOHzrZHOh</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-21T14:34:05.00Z</dc:date>
     </item>
   </rdf:RDF>
