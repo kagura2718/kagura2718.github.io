@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-04-28T03:01:32.68Z</dc:date>
+    <dc:date>2026-04-28T11:40:04.21Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#ELnRet-hdT"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#ELnRet-hdT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#CWTCOjYa92"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/27#AFLSUXCnOC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#XfkHnUKabE"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#bGdslrUEb6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/27#ZaXNJQRi3X"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/27#NHiMPW0poU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/26#05ThOGFFfP"/>
@@ -25,19 +27,25 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/26#lShDA9JokI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/25#FL3NV01mFc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#Y2kUxICFw-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#tIbdHw6Y41"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#hzsv3XAWEO"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#gN5LJieAbW"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#ELnRet-hdT">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v">
+      <title>[料理] 2026-04-28 久々に手ごねハンバーグ。何回か失敗した。ハンバーグ難しい。  基本は強火で表面を焼いてから  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-28T11:40:04.21Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#ELnRet-hdT">
       <title>[モンハンNow] 2026-04-28 攻撃境地と攻撃活性での倍化ができるようになったので、属性強化だけに拘る意味はなくなってきた。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/28#ELnRet-hdT</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T03:01:32.68Z</dc:date>
+      <dc:date>2026-04-28T11:40:04.21Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#CWTCOjYa92">
       <title>[Web] [北陸] [石川] 2026-04-28 石川県警は完全にナメられてる。市民で○そう。 </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,北陸,石川,Web,北陸,石川]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T03:01:32.68Z</dc:date>
+      <dc:date>2026-04-28T11:40:04.21Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/27#AFLSUXCnOC">
       <title>[ポケモンgo] 2026-04-27 オーロンゲがやってきた  今頃気付いたけど、フェアリー + 悪タイプ。へー  こいつは PL ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T03:01:32.68Z</dc:date>
+      <dc:date>2026-04-28T04:18:04.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#XfkHnUKabE">
       <title>[モンハンNow] 2026-04-28 武器強化の儀 イベント武器っぽいので適当に </title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T03:01:32.68Z</dc:date>
+      <dc:date>2026-04-28T03:30:18.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#bGdslrUEb6">
+      <title>[生活] [Web] [金沢] 2026-04-28 前の陥没事故の近くだ。  ↓ここか。  このガードレールが入ってるところの下を暗渠が通ってる ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/28#bGdslrUEb6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,Web,金沢,生活,Web,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-04-27T23:39:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/27#ZaXNJQRi3X">
       <title>[ポケモンgo] 2026-04-27 先週は 44km </title>
@@ -167,14 +183,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-25T01:43:25.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/22#tIbdHw6Y41">
-      <title>[Web] [野球] 2026-04-22 打ったけど、また緩い球を強振だ。現状ではバッターとしても、どうしても大谷よりも見劣りがしてし ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/22#tIbdHw6Y41</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-22T23:08:25.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#hzsv3XAWEO">
       <title>[Web] [国際] 2026-04-24 これは本当かねぇ？ 🤔 日本人は食べられる量だけ頼んで完食する、韓国、中国はそれぞれ多めに頼 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/24#hzsv3XAWEO</link>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-24T20:20:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/24#gN5LJieAbW">
-      <title>[モンハンNow] 2026-04-24 イソネミクニとバフバロはほぼスルーだ。特に、いらん。 アケノシルムの次元変異 + スタイル強 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/24#gN5LJieAbW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-24T16:22:25.00Z</dc:date>
     </item>
   </rdf:RDF>
