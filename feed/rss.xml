@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-05-02T06:06:04.00Z</dc:date>
+    <dc:date>2026-05-02T13:38:54.95Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#DY5vni1kJH"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#NSAdhEDRBb"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/01#sU3t5qyPqC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#ad4meV9_Sc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/01#dQRCaLu-Os"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/30#uRPlRYRKu1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/30#wElSm5GFOu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/29#YL8V-GwCX8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/29#PDOdu42CTj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#YCdxHNPfdG"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM">
+      <title>[ポケモンgo] [生活] [複垢] 2026-05-02 なんかものすげぇところ (ポケジム) に停車してるなーと思って、数分後に見に戻ってみるとね。 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,複垢,ポケモンgo,生活,複垢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-02T13:38:54.95Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk">
       <title>[Web] [野球] 2026-05-02 うおお… サムネ、何の状況かと思った。 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-05-02T06:06:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#DY5vni1kJH">
+      <title>[ポケモンgo] 2026-05-02 これでいいのか？と思ったけど。ふーん、なるほろ。ベイビーポケモンの類の色違いは難易度が高いか ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/02#DY5vni1kJH</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-01T22:31:24.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#NSAdhEDRBb">
+      <title>[ポケモンgo] 2026-05-02 まぁまぁのペースだと思うのだけど、フィールドタスクはあんまり処理できてないな。  とにかく慌 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/02#NSAdhEDRBb</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-01T22:06:59.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/01#sU3t5qyPqC">
       <title>[ポケモンgo] 2026-05-01 本日のリモートでやってきた。ルギア 色違いダイマックス  色違いでダイマックスということで許 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,四国,Web,四国]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-29T18:57:08.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/29#PDOdu42CTj">
-      <title>[ポケモンgo] 2026-04-29 ふーむ。さすがにこの手持ちでリモート交換を挑んでこられたら… どうしたらいいのだろうか。 😅 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/29#PDOdu42CTj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T14:24:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v">
-      <title>[料理] 2026-04-28 久々に手ごねハンバーグ。何回か失敗した。ハンバーグ難しい。  基本は強火で表面を焼いてから  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/28#W481Q1El5v</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-28T21:05:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/28#YCdxHNPfdG">
-      <title>[ポケモンgo] 2026-04-28 本日のリモートキラ。無念…  こっちは昨日…  溜まってきても、博士送りするタイミングがなくてな…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/28#YCdxHNPfdG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-29T06:43:16.00Z</dc:date>
     </item>
   </rdf:RDF>
