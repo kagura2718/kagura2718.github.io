@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-05-02T13:46:51.12Z</dc:date>
+    <dc:date>2026-05-03T14:14:01.91Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/03#evBZ6VEYHM"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#DY5vni1kJH"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#NSAdhEDRBb"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/30#hGwDY_ryTI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/30#uRPlRYRKu1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/30#wElSm5GFOu"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/04/29#YL8V-GwCX8"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/03#evBZ6VEYHM">
+      <title>[生活] [金沢] 2026-05-03 前にもきっと書いたと思うけど、このデザイナーはきっと有能。ひゃくまんさんみたいな「ゴミ」を生 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/03#evBZ6VEYHM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-03T14:14:01.91Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM">
       <title>[ポケモンgo] [生活] [複垢] 2026-05-02 なんかものすげぇところ (ポケジム) に停車してるなーと思って、数分後に見に戻ってみるとね。 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7faKIo6TGM</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,複垢,ポケモンgo,生活,複垢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-02T13:46:51.12Z</dc:date>
+      <dc:date>2026-05-02T15:00:08.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/02#7Hhymcd_Fk">
       <title>[Web] [野球] 2026-05-02 うおお… サムネ、何の状況かと思った。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-04-29T20:16:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/04/29#YL8V-GwCX8">
-      <title>[Web] [四国] 2026-04-29 え？？？どういう人だろう。なんだか悪くはなさそうな人ばかり辞める事態になってしまうなぁ。 契 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/04/29#YL8V-GwCX8</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,四国,Web,四国]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-04-29T18:57:08.00Z</dc:date>
     </item>
   </rdf:RDF>
