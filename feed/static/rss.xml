@@ -4,13 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-05-12T02:56:57.53Z</dc:date>
+    <dc:date>2026-05-12T03:16:50.40Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kD/kDBGy75F-r.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/V1/V1EDxkWRpy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/fh/fhGXsCgP9B.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ra/raTji9WbZh.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/u9/u90y4vqbob.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Q4/Q48GXW8Ifm.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/T6/T6KX9JXNMp.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ou/OuVC6ERKrt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g1/g1a3V7wP9m.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/b0/b0sl0bswhf.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/e4/e4JLCV7HaW.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-05-12T02:56:57.53Z</dc:date>
+    <dc:date>2026-05-12T03:16:50.40Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/V1/V1EDxkWRpy.htm">
     <title>[ポケモンgo] [北海道] 2026-05-12 台湾の人、ものすごく日本旅行してるな… </title>
@@ -54,6 +54,14 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-05-11T18:37:48.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ra/raTji9WbZh.htm">
+    <title>[ポケモンgo] 2026-05-12 昨日のリモートキラ。ほんとにもらってええの？  高固体を引いた！  それにしてもリモートキラ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/ra/raTji9WbZh.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-05-11T15:10:01.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/u9/u90y4vqbob.htm">
     <title>[登山] [Web] 2026-05-11 明らかに双六小屋じゃないなーと思いつつ。どちらかというと槍 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,野球,Web,野球</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-05-09T16:57:22.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/e4/e4JLCV7HaW.htm">
-    <title>[Web] [国際] 2026-05-09 構造は日本と一緒に見えるのだけど、やっぱり何か違いそう。  ↓こういう感じかな？  イギリス ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/e4/e4JLCV7HaW.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-05-09T16:28:41.00Z</dc:date>
   </item>
 </rdf:RDF>
