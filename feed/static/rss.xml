@@ -10,6 +10,7 @@
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rW/rWnC7sBbcg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/G_/G_yfhtzY3Z.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fd/FdhfxUPx0h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/IN/IN1SmpPxUI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YY/YYisl5DNED.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bl/Bl2qRu3vYD.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ss/ssGYIjygnk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/dt/dtbG7FjP-h.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/A-/A-IjnvulL_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UB/UB0NMJb0X_.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -46,6 +46,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-05-17T20:10:11.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fd/FdhfxUPx0h.htm">
+    <title>[登山] [生活] [Web] 2026-05-18 山頂まで 2.5H っておそらく標準 CT で、なおかつ低山だから、若い高校生だったら 1. ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Fd/FdhfxUPx0h.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,登山,生活,Web,登山,生活,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-05-17T15:41:15.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/IN/IN1SmpPxUI.htm">
     <title>[モンハンNow] 2026-05-17 セルレギオス ⭐ 9 も当たりが良ければ割と討伐できる。 ⭐ 10 もそう遠くはないかな。 </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-05-14T12:39:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/UB/UB0NMJb0X_.htm">
-    <title>[食事] [Web] [白山] 2026-05-15 ここは行ってみたい… 最近、加賀の方にまったく縁がないなぁ。 Ingress をやめたから、 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/UB/UB0NMJb0X_.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,食事,Web,白山,食事,Web,白山</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-05-13T21:57:29.00Z</dc:date>
   </item>
 </rdf:RDF>
