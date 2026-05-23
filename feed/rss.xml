@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-05-23T01:14:33.00Z</dc:date>
+    <dc:date>2026-05-23T15:42:48.50Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-05-23.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#1EC1o16Tub"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/21#75FGr93gM5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#suSHObsQFZ"/>
@@ -26,12 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#pdQeR2hBuQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/19#LhNrOQCDKt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/18#58QUdxjV1T"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#akstE31558"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#3k5HidZ37e"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR">
+      <title>[Web] [ゲーム] [AI] 2026-05-23 このゲームの動画、目にする度に、すぐに側溝と雨樋に目が行くようになった。電柱と電線もかな。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,AI,Web,ゲーム,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-23T15:42:48.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-05-23.htm">
+      <title>[ポケモンgo] [生活] [金沢] 2026-05-23 お散歩 金沢</title>
+      <link>https://kagura2718.github.io/Diary/essay/2026/2026-05-23.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-23T15:42:48.50Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_">
       <title>[モンハンNow] 2026-05-22 武器強化の儀 ディノバルド大剣    プケプケ弓   ベニカガチ大刀  </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_</link>
       <description>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,AI,Web,ゲーム,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-05-18T11:54:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#akstE31558">
-      <title>[モンハンNow] 2026-05-20 スタイルで属性強化したレイアの大刀よりも G10-5 どまりの金レイア大刀の方がさらに削れる ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/20#akstE31558</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-19T19:32:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#3k5HidZ37e">
-      <title>[ポケモンgo] 2026-05-20 見た目の変更がいくつか施されてるが、多くは私にとってどうでもいいものだ。それよりも、何やらア ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/20#3k5HidZ37e</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-19T18:56:35.00Z</dc:date>
     </item>
   </rdf:RDF>
