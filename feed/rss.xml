@@ -4,12 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-05-23T15:42:48.50Z</dc:date>
+    <dc:date>2026-05-24T06:30:11.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#VmwBzG0eE_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-05-23.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#wAbPD7ha23"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#EJjnZS5mIo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#1EC1o16Tub"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/21#75FGr93gM5"/>
@@ -25,19 +28,16 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#4lv2n4BIHB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#3glsZtySgX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/21#Cxp5Ow6uiA"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#pdQeR2hBuQ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/19#LhNrOQCDKt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/05/18#58QUdxjV1T"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR">
-      <title>[Web] [ゲーム] [AI] 2026-05-23 このゲームの動画、目にする度に、すぐに側溝と雨樋に目が行くようになった。電柱と電線もかな。  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR</link>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#VmwBzG0eE_">
+      <title>[モンハンNow] 2026-05-24 武器強化の儀 ベニカガチ大刀  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/24#VmwBzG0eE_</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,AI,Web,ゲーム,AI]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-23T15:42:48.50Z</dc:date>
+      <dc:date>2026-05-24T06:30:11.83Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-05-23.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-05-23 お散歩 金沢</title>
@@ -45,7 +45,31 @@
       <description>
         <![CDATA[日記,随筆,簡約版,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-23T15:42:48.50Z</dc:date>
+      <dc:date>2026-05-24T06:30:11.83Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR">
+      <title>[Web] [ゲーム] [AI] 2026-05-23 このゲームの動画、目にする度に、すぐに側溝と雨樋に目が行くようになった。電柱と電線もかな。  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/23#AcuhGo13XR</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,AI,Web,ゲーム,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-24T05:26:04.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#wAbPD7ha23">
+      <title>[ポケモンgo] [Web] 2026-05-24 なんかチラチラとザワついてる様子があったのは、これか 😂 7500 エナジー 😂 😂 【ポケ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/24#wAbPD7ha23</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,ポケモンgo,Web]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-24T00:39:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/24#EJjnZS5mIo">
+      <title>[Web] [文化] [女性] [東京] 2026-05-24 実際にみたことはないけど、こんな感じじゃろうなぁ 😂 でも、なんだね。夏だけはイスラムのヒジ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/24#EJjnZS5mIo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,女性,東京,Web,文化,女性,東京]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-05-23T21:46:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/22#-1lWRVw7d_">
       <title>[モンハンNow] 2026-05-22 武器強化の儀 ディノバルド大剣    プケプケ弓   ベニカガチ大刀  </title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-05-20T10:48:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/20#pdQeR2hBuQ">
-      <title>[モンハンNow] 2026-05-20 武器強化の儀 ディノバルド 大剣  オオナズチ ガンス    ベニカガチ 大刀     </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/20#pdQeR2hBuQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-20T10:35:53.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/19#LhNrOQCDKt">
-      <title>[ポケモンgo] [生活] [小矢部] 2026-05-19 小矢部へ寄り道   火曜が、おひろめになったのかな… その日のうちに置かないといかんので、か ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/19#LhNrOQCDKt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,小矢部,ポケモンgo,生活,小矢部]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-20T04:26:55.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/05/18#58QUdxjV1T">
-      <title>[Web] [ゲーム] [AI] 2026-05-18 しばらく前からちらほらと流れてくるゲーム。 すごいとは思うけど、「見事に表現」というほどでは ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/05/18#58QUdxjV1T</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,ゲーム,AI,Web,ゲーム,AI]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-05-18T11:54:29.00Z</dc:date>
     </item>
   </rdf:RDF>
