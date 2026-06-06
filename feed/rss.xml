@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-05T14:58:01.27Z</dc:date>
+    <dc:date>2026-06-06T03:04:51.73Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-06-05.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/06#PYZp5f9OOo"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/05#-uL6o_YYxX"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/06#YGa-1wrbl9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-06-05.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/04#OO9j7k7sdI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/04#PjWEpvyyyA"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/04#9uYwZOrzP_"/>
@@ -24,20 +28,48 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/04#TsOnvF66H6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/02#kBUXq1gkDV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/02#2DRGZglKz5"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/03#U6vzZUUyeq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/01#iXqvuAxbH2"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/03#eNxLtH1Ivi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/02#Y5GnX8mSsB"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-06-05.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/06#PYZp5f9OOo">
+      <title>[ポケモンgo] [Wayfarer] 2026-06-06 おお！野谷荘司山  そろそろ白山行きてぇな…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/06#PYZp5f9OOo</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Wayfarer,ポケモンgo,Wayfarer]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-06T03:04:51.73Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/05#-uL6o_YYxX">
+      <title>[モンハンNow] 2026-06-05 ジンオウガ亜種！  基本的に炎属性になるのか。武器もきっと炎になる。防具のスキルは炎の倍化が ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/05#-uL6o_YYxX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-06T03:04:51.73Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+      <title>随筆(長編日記)</title>
+      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
+      <description>
+        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/06#YGa-1wrbl9">
+      <title>[モンハンNow] 2026-06-06 やっと出た… 「後の先」。「ごのせん」だよね。「あとのさき」って言ってる動画がちらほらあるけ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/06#YGa-1wrbl9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-05T17:38:18.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-06-05.htm">
       <title>[自転車] [奥能登] 2026-06-05 門前 - 大沢 - 輪島 周回</title>
       <link>https://kagura2718.github.io/Diary/essay/2026/2026-06-05.htm</link>
       <description>
         <![CDATA[日記,随筆,簡約版,自転車,奥能登,自転車,奥能登]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-05T14:58:01.27Z</dc:date>
+      <dc:date>2026-06-05T17:09:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/04#OO9j7k7sdI">
       <title>[モンハンNow] 2026-06-04 オオナヅチ、現状ではソロは厳しそう。  前半戦もクリアできない。前半だけなら 1/10 ぐら ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-02T15:09:42.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/03#U6vzZUUyeq">
-      <title>[モンハンNow] 2026-06-03 HR371 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/03#U6vzZUUyeq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-02T12:19:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/01#iXqvuAxbH2">
-      <title>[Web] [歴史] [地理] 2026-06-01 久々に面白い読み物だった。安土城 + 楽市楽座で教えられてたけど、本能寺の変、その後のことは ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/01#iXqvuAxbH2</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,歴史,地理,Web,歴史,地理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-02T12:06:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/03#eNxLtH1Ivi">
-      <title>[モンハンNow] 2026-06-03 めんどくせぇ奴がきた。  ⭐ 10 勝てる気がしねぇ…  なお、名前はなかなか思い出せない。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/03#eNxLtH1Ivi</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-02T11:56:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/02#Y5GnX8mSsB">
-      <title>[Web] 2026-06-02 俺が登った昼にはまったく SSTR の影も形もなかったのだけどな… 最終日、宝達山山頂でもて ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/02#Y5GnX8mSsB</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-02T05:57:56.00Z</dc:date>
     </item>
   </rdf:RDF>
