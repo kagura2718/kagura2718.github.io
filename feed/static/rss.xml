@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-07T08:44:47.51Z</dc:date>
+    <dc:date>2026-06-08T03:10:04.78Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l4/l4OENpTBkz.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/R5/R5wL43OGsP.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9Q0mHr6Tpq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9F/9FTESv9RY4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ot/otOd3bcPtD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gD/gDRcyqhcIW.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FR/FRKwPVOzVg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ko/Ko9baA3pXq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Cb/Cb409ZH66n.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fb/Fbo8D6KG0w.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cc/ccHVm8WVJw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-07T08:44:47.51Z</dc:date>
+    <dc:date>2026-06-08T03:10:04.78Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/R5/R5wL43OGsP.htm">
+    <title>[生活] [羽咋] 2026-06-07 なんか変わったね。  閉館後はこんな感じかね。さすがに明るくしすぎじゃないかな。  こいつ  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/R5/R5wL43OGsP.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-06-08T03:10:04.78Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9Q0mHr6Tpq.htm">
+    <title>[モンハンNow] 2026-06-08 ようやっと出たよ… 今イベントで、二つ目  防具錬成剤が欲しかったので、こっちもギリでなんと ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9Q0mHr6Tpq.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-06-08T03:10:04.78Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9F/9FTESv9RY4.htm">
     <title>[モンハンNow] 2026-06-06 武器強化の儀 ディノバルド 大剣    ライボ  ナルガクルガ ハンマー  </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-06-03T22:10:14.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fb/Fbo8D6KG0w.htm">
-    <title>[モンハンNow] 2026-06-02 ベニカガチ 大刀   プケ弓    メル・ゼナ チャアク    素材も余りつつあるので、余計 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Fb/Fbo8D6KG0w.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-03T20:04:57.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cc/ccHVm8WVJw.htm">
-    <title>[Web] [アニメ] 2026-06-02 を？結構面白いぞ。少年ジャンプで女子主人公か。ながら作業でみてたけど、ストーリーの土台は分か ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/cc/ccHVm8WVJw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,アニメ,Web,アニメ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-03T19:03:52.00Z</dc:date>
   </item>
 </rdf:RDF>
