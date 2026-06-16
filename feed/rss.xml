@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-15T12:41:53.71Z</dc:date>
+    <dc:date>2026-06-16T02:56:21.76Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#YgqSJmlm3X"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#sxp2c0b6eP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/14#yTTT0xaVLL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/12#sKFU3aVWoD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#imY7ONL1-P"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#t77tZkwN0e"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/10#FJ8eJ9VxT0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/11#1y4z7TJcUC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/10#EQRfIclZVV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/09#35D7-XUU6U"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/09#cfhiEnQm5N"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#YgqSJmlm3X">
+      <title>[ポケモンgo] 2026-06-15 先週は 30km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/15#YgqSJmlm3X</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-16T02:56:21.76Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit">
       <title>[Web] [炎上] 2026-06-15 なんじゃこいつ… 自分の instagram アカウントで公開してるのか？  逮捕されろ 💢</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-15T12:41:53.71Z</dc:date>
+      <dc:date>2026-06-15T19:43:42.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#sxp2c0b6eP">
       <title>[モンハンNow] 2026-06-13 ディノバルド スラアク   ベニカガチ操虫棍 </title>
@@ -46,6 +54,14 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-13T09:51:02.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/14#yTTT0xaVLL">
+      <title>[モンハンNow] 2026-06-14 ベニカガチ 操虫棍     </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/14#yTTT0xaVLL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-15T10:09:54.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/12#sKFU3aVWoD">
       <title>[生活] [北陸] 2026-06-12 もしかして、今年も北陸は空梅雨？？ 空梅雨で終わると、夏場の水が足りなくなるのだよな。</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-09T19:49:45.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/09#35D7-XUU6U">
-      <title>[モンハンNow] 2026-06-09 割と楽に 160 万越えたと思ったら、何かシステム変わったみたいだね。なんかボヤいてる人の投 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/09#35D7-XUU6U</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-09T17:07:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/09#cfhiEnQm5N">
-      <title>[ポケモンgo] 2026-06-09 久々のメガマックス  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/09#cfhiEnQm5N</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-09T16:59:56.00Z</dc:date>
     </item>
   </rdf:RDF>
