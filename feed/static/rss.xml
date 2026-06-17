@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-16T13:28:13.31Z</dc:date>
+    <dc:date>2026-06-17T03:01:04.17Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Um/UmIx0fa3ZQ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pN/pNqGXxI7U6.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/CQ/CQxYynmpMG.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2y/2yb5GwJ0rc.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/RN/RNTwLznKyv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/E2/E21tROYvLT.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/31/31XUeJu3aX.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/rj/rjPxPDR3eA.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -39,13 +39,21 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2025-10-02T22:49:36.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Um/UmIx0fa3ZQ.htm">
+    <title>[ポケモンgo] 2026-06-17 メガライチュウてこれとかは無理なんだろうね。アローラライチュウ   こういう帽子つきとかはど ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Um/UmIx0fa3ZQ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-06-17T02:52:57.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/pN/pNqGXxI7U6.htm">
     <title>[モンハンNow] 2026-06-14 HR373 </title>
     <link>https://kagura2718.github.io/Gitwee/jump/pN/pNqGXxI7U6.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-16T13:28:13.31Z</dc:date>
+    <dc:date>2026-06-17T00:49:48.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/CQ/CQxYynmpMG.htm">
     <title>[ポケモンgo] 2026-06-15 先週は 30km </title>
@@ -53,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-16T13:28:13.31Z</dc:date>
+    <dc:date>2026-06-16T15:45:21.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/2y/2yb5GwJ0rc.htm">
     <title>[ポケモンgo] 2026-06-16 また高固体が出た。  パワースポットのマックスバトルでは高固体でやすいのかな。 🤔  さすが ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-06-13T03:41:08.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/rj/rjPxPDR3eA.htm">
-    <title>[ポケモンgo] 2026-06-13 お、全部集まってた。石川県内  富山も  福井もぼちぼち   東北以北や関西より西側のフレン ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/rj/rjPxPDR3eA.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-12T14:26:07.00Z</dc:date>
   </item>
 </rdf:RDF>
