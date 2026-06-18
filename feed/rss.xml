@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+    <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#6IrpNsVKBs"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#llSiIUvuWQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#TtjNOBFR_J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#K2Emt5IfQV"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#GZ-8YiYvTF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#JE7pgwheUd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#t0BYYvuPAx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r">
+      <title>[時事] [国際] 2026-06-18 まだ一般的にはあんまり騒いでないみたいだけど、どうやらモスクワが攻撃されてるみたいだ。ウクラ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#llSiIUvuWQ">
       <title>[モンハンNow] 2026-06-18 新シーズン。ヘタレなので ⭐ 8 までとりあえず下げる。クリアスピードを最優先とする。  と ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#TtjNOBFR_J">
       <title>[モンハンNow] 2026-06-18 武器強化の儀 バゼルギウス 大刀    </title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#K2Emt5IfQV">
       <title>[モンハンNow] 2026-06-18 何回はずれんねん…  通常の石から後の先が出たのは二回ぐらいか。精霊の加護か氷耐性ばかり出る ...</title>
@@ -61,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#G7q2-pJi_C">
       <title>[ポケモンgo] [七尾] 2026-06-17 前に七尾のレイドでスライドしたこの方、何者だろうな。なんとなく、ここを観ているような気がする ...</title>
@@ -69,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,七尾,ポケモンgo,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T08:26:30.56Z</dc:date>
+      <dc:date>2026-06-18T08:37:35.78Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#UUNKRm5DY8">
       <title>[モンハンNow] 2026-06-17 レイギエナの要撃戦は終わったかな。結局、最終的には 230 万止まりで予想通りの結果となった ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-15T19:55:25.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit">
-      <title>[Web] [炎上] 2026-06-15 なんじゃこいつ… 自分の instagram アカウントで公開してるのか？  逮捕されろ 💢</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/15#lF5UaKcjit</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-15T19:43:42.00Z</dc:date>
     </item>
   </rdf:RDF>
