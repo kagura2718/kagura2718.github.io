@@ -4,16 +4,18 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-18T12:46:12.85Z</dc:date>
+    <dc:date>2026-06-18T12:53:27.96Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#6IrpNsVKBs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#7s-R8ZWBpV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#llSiIUvuWQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#TtjNOBFR_J"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#K2Emt5IfQV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#G7q2-pJi_C"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#NsUqwZVbld"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#xRUAZT3KSP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#g4pW0HTSob"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-06-15.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#7JPTPVairt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#H-mp7IiNnr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#w4EDsKt0e9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#e1SNLp2fnS"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T12:46:12.85Z</dc:date>
+      <dc:date>2026-06-18T12:53:27.96Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r">
       <title>[時事] [国際] 2026-06-18 まだ一般的にはあんまり騒いでないみたいだけど、どうやらモスクワが攻撃されてるみたいだ。ウクラ ...</title>
@@ -45,7 +45,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,時事,国際,時事,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T12:46:12.85Z</dc:date>
+      <dc:date>2026-06-18T12:53:27.96Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#7s-R8ZWBpV">
+      <title>[モンハンNow] 2026-06-18 これも ⭐ 8 だとさすがに物足りない…   失敗したかな…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/18#7s-R8ZWBpV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-18T12:53:27.96Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#llSiIUvuWQ">
       <title>[モンハンNow] 2026-06-18 新シーズン。ヘタレなので ⭐ 8 までとりあえず下げる。クリアスピードを最優先とする。  と ...</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T12:46:12.85Z</dc:date>
+      <dc:date>2026-06-18T12:53:27.96Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#TtjNOBFR_J">
       <title>[モンハンNow] 2026-06-18 武器強化の儀 バゼルギウス 大刀    </title>
@@ -78,6 +86,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,七尾,ポケモンgo,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-18T10:37:09.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ">
+      <title>[サッカー] 2026-06-18 活躍できない、などと思っていたメッシはハットトリック決めたとか… 本当に人間なのだろうか。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,サッカー,サッカー]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-18T04:04:48.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#NsUqwZVbld">
       <title>[モンハンNow] 2026-06-18 ジンオウガ亜種、はやくやりたい。人気ありすぎてフレンドリンクにはまったく入れない 😂 そして ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,アニメ,アニメ]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-16T10:36:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/16#w4EDsKt0e9">
-      <title>[Web] [音楽] 2026-06-16 おおー IRIS OUT。 バックダンサーがすげぇや 😂  これだけ密集してると女の匂いが強 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/16#w4EDsKt0e9</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,音楽,Web,音楽]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-15T19:55:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/13#e1SNLp2fnS">
-      <title>[モンハンNow] 2026-06-13 おお！かっこええ。ジンオウガ亜種  手前の JK コスもいいな… 欲しい… しかし、このルー ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/13#e1SNLp2fnS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-13T04:39:09.00Z</dc:date>
     </item>
   </rdf:RDF>
