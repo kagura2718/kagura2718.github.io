@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-20T13:12:05.87Z</dc:date>
+    <dc:date>2026-06-21T01:42:53.80Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gfMJWTzhjy"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#mFsRrGN7yB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#WIm3Ih5SQD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gd3KUzsNyU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#8SSb1vQhV3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#6IrpNsVKBs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r"/>
@@ -26,18 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#xRUAZT3KSP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#g4pW0HTSob"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#UUNKRm5DY8"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#VJzXbkAsXK"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gfMJWTzhjy">
-      <title>[登山] [生活] [宝達山] [AI] 2026-06-20 ほんとは今日はどっか遠出するつもりだったんだ。帰宅時間に豪雨になって予想つかないので、諦めた ...</title>
+      <title>[登山] [生活] [宝達山] [AI] 2026-06-20 ほんとは今日はどっか遠出するつもりだったんだ。帰宅時間が豪雨予報になって予想つかないので、諦 ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gfMJWTzhjy</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,AI,登山,生活,宝達山,AI]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-20T13:12:05.87Z</dc:date>
+      <dc:date>2026-06-21T01:42:53.80Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC">
+      <title>[食事] [文化] 2026-06-19 いただきものは銀座の店のブツだ。可食部分の素材は山形の白桃。入れ物は瓶。味は  普通に  美 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,文化,食事,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-20T23:04:00.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq">
+      <title>[モンハンNow] 2026-06-21 武器強化の儀 ジンオウガ亜種 大刀     バゼル 大刀   </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-20T18:51:32.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#mFsRrGN7yB">
+      <title>[ポケモンgo] [羽咋] 2026-06-21 こいつはギリで二人でいけそう。強者となら楽にいけるかなぁ。  昨日は羽咋の道の駅で参加できた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/21#mFsRrGN7yB</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,羽咋,ポケモンgo,羽咋]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-20T11:28:15.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#WIm3Ih5SQD">
       <title>[ポケモンgo] [生活] [羽咋] 2026-06-20 遠出の替わりに来たのは、羽咋。ほんとは県境を越えてどっかに行きたかった。それぐらいの準備をし ...</title>
@@ -54,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,音楽,Web,炎上,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-19T19:16:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC">
-      <title>[食事] [文化] 2026-06-19 いただきものは銀座の店のブツだ。可食部分の素材は山形の白桃。入れ物は瓶。味は  普通に  美 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,文化,食事,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-19T13:04:02.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#8SSb1vQhV3">
       <title>[ポケモンgo] 2026-06-19 セグレイブは… 特殊技が氷技じゃないのだな。タイプ一致で氷戦力になれないなら、いまいちじゃね ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-17T18:41:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
-      <title>随筆(長編日記)</title>
-      <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
-      <description>
-        <![CDATA[ゲーム,日記,記録,随筆,エッセイ,一人旅]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2025-10-02T22:49:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#VJzXbkAsXK">
-      <title>[ポケモンgo] 2026-06-17 メガライチュウてこれとかは無理なんだろうね。アローラライチュウ   こういう帽子つきとかはど ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/17#VJzXbkAsXK</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-17T02:52:57.00Z</dc:date>
     </item>
   </rdf:RDF>
