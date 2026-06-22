@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-22T03:17:00.65Z</dc:date>
+    <dc:date>2026-06-22T03:24:03.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Bt/BtPube2BzN.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g7/g7l2Prlb-w.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xO/xO0zHfc8d1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0d/0dZCbraF_G.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/hm/hmLYuTeb6u.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ns/nsPQeC23GI.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vD/vD_y5iKdJS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/D1/D1pA_ZL2e_.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WN/WNTGHaBqU0.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-22T03:17:00.65Z</dc:date>
+    <dc:date>2026-06-22T03:24:03.11Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/g7/g7l2Prlb-w.htm">
+    <title>[Web] [アニメ] [鬼滅の刃] 2026-06-22 やっと猗窩座編の dvd 情報が出た。 7/29 か。俺はせいぜいがレンタルなんだけどさ。  ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/g7/g7l2Prlb-w.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,アニメ,鬼滅の刃,Web,アニメ,鬼滅の刃</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-06-22T01:09:12.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/xO/xO0zHfc8d1.htm">
     <title>[Web] [七尾] 2026-06-21 これ、俺は触らなかったから素材がどうかは分からないけど、きっと金かけてなさすぎて壊れやすいん ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,ポケモンgo,七尾,ポケモンgo,七尾</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-06-18T10:37:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/WN/WNTGHaBqU0.htm">
-    <title>[モンハンNow] 2026-06-18 ジンオウガ亜種、はやくやりたい。人気ありすぎてフレンドリンクにはまったく入れない 😂 そして ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/WN/WNTGHaBqU0.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-06-18T03:18:10.00Z</dc:date>
   </item>
 </rdf:RDF>
