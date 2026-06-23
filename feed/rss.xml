@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-23T03:43:03.34Z</dc:date>
+    <dc:date>2026-06-23T03:57:13.38Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#vafGas_ISn"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#CQgj4qIK64"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#TEwqcUdJ_A"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gfMJWTzhjy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/22#zTDLH1QOyn"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/17#6IrpNsVKBs"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#JzYp09rt8r"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#7s-R8ZWBpV"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,自転車,炎上,Web,自転車,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-23T03:43:03.34Z</dc:date>
+      <dc:date>2026-06-23T03:57:13.38Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#CQgj4qIK64">
+      <title>[Web] [地理] [岐阜] 2026-06-23 たまたま気付いた。 国道 418 かな？途中で切れてる。しかしよく観ると着工はしてるみたいだ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/23#CQgj4qIK64</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,地理,岐阜,Web,地理,岐阜]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-23T03:57:13.38Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#TEwqcUdJ_A">
       <title>[モンハンNow] 2026-06-23 こっちはクリア。前のアンジャナフ ⭐ 10 じゃなかった？？  これ、なんだろね。全然交換ア ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-18T21:21:44.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ">
-      <title>[サッカー] 2026-06-18 活躍できない、などと思っていたメッシはハットトリック決めたとか… 彼は本当に人間なのだろうか ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/18#fhkEkKp0cQ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,サッカー,サッカー]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-18T18:58:02.00Z</dc:date>
     </item>
   </rdf:RDF>
