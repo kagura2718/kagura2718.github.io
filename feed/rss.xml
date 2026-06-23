@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-23T08:12:18.08Z</dc:date>
+    <dc:date>2026-06-23T13:51:54.51Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,6 +12,7 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#vafGas_ISn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#hFfUa0Jxsu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#CQgj4qIK64"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#m0WnoPJZoF"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#TEwqcUdJ_A"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gfMJWTzhjy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/22#zTDLH1QOyn"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#mFsRrGN7yB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#WIm3Ih5SQD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/20#gd3KUzsNyU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#8SSb1vQhV3"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-23T08:12:18.08Z</dc:date>
+      <dc:date>2026-06-23T13:51:54.51Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#vafGas_ISn">
       <title>[Web] [自転車] [炎上] 2026-06-23 左折専用レーンがある場合の自転車の正解(？)はこれらしい。 😨 これは法律にバグがあるパター ...</title>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,自転車,炎上,Web,自転車,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-23T08:12:18.08Z</dc:date>
+      <dc:date>2026-06-23T13:44:45.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#hFfUa0Jxsu">
       <title>[長野] 2026-06-23 地図を眺めてたら長野にある山間？の聞いたことない村を見つけた。麻績村(おみむら)と読むらしい ...</title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,長野,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-23T08:12:18.08Z</dc:date>
+      <dc:date>2026-06-23T10:11:39.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#CQgj4qIK64">
       <title>[Web] [地理] [岐阜] 2026-06-23 たまたま気付いた。 国道 418 かな？途中で切れてる。しかしよく観ると着工はしてるみたいだ ...</title>
@@ -62,6 +62,14 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,地理,岐阜,Web,地理,岐阜]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-23T06:04:05.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#m0WnoPJZoF">
+      <title>[漫画] [アニメ] [鬼滅の刃] 2026-06-23 捕獲された録画を眺めていた。   で、これと。    原作に概ね忠実にいったけど、ナレーショ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/23#m0WnoPJZoF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,漫画,アニメ,鬼滅の刃]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-23T03:54:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#TEwqcUdJ_A">
       <title>[モンハンNow] 2026-06-23 こっちはクリア。前のアンジャナフ ⭐ 10 じゃなかった？？  これ、なんだろね。全然交換ア ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,音楽,Web,炎上,音楽]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-19T19:16:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#8SSb1vQhV3">
-      <title>[ポケモンgo] 2026-06-19 セグレイブは… 特殊技が氷技じゃないのだな。タイプ一致で氷戦力になれないなら、いまいちじゃね ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/19#8SSb1vQhV3</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-19T09:07:11.00Z</dc:date>
     </item>
   </rdf:RDF>
