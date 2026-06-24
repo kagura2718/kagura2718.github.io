@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-06-24T12:13:07.38Z</dc:date>
+    <dc:date>2026-06-24T14:31:04.63Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/24#nBQOkK26oA"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/24#FbzLhReq1H"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/24#rjzOKI4Rtc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#Zaa_xfv6r4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/23#vafGas_ISn"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#4hWygzraW_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#U14Ds82IQV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/19#aUSZ2A7lYC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,Web,北アルプス,登山,Web,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-24T12:13:07.38Z</dc:date>
+      <dc:date>2026-06-24T14:31:04.63Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/24#FbzLhReq1H">
+      <title>[Web] [炎上] [文化] 2026-06-24 またキャリア官僚ですか。国の官庁て痰壷じゃないの。  こういうことやったらしい。  未だにど ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/24#FbzLhReq1H</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-06-24T14:31:04.63Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/24#rjzOKI4Rtc">
       <title>[モンハンNow] 2026-06-24 武器強化の儀 ジンオウガ亜種 大刀     バゼルギウス 大刀    既存の龍属性大刀 G1 ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,食事,文化,食事,文化]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-20T23:04:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq">
-      <title>[モンハンNow] 2026-06-21 武器強化の儀 ジンオウガ亜種 大刀     バゼル 大刀   </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/21#2Jt7wrPLUq</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-20T18:51:32.00Z</dc:date>
     </item>
   </rdf:RDF>
