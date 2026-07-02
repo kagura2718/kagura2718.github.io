@@ -4,12 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-02T03:27:46.93Z</dc:date>
+    <dc:date>2026-07-02T12:11:52.34Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#8ZfJikVCRp"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#fq2iX0N_iN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#8ZfJikVCRp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#tx1Q3WGy6m"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#BvNkfEi56S"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#KpmA_EpQsZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#mjOeogy0wG"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/26#eRbt-WAHE3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/27#YM5EieRAQB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/27#1ZL5unojwI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/27#04nK_DvCK6"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/06/28#2Zs3cE2N8b"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#8ZfJikVCRp">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#fq2iX0N_iN">
+      <title>[Web] [炎上] 2026-07-02 やっぱりこういう事故もあるよなぁ。無事で何よりだ。 😨 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/02#fq2iX0N_iN</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-02T12:11:52.34Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#8ZfJikVCRp">
       <title>[モンハンNow] 2026-07-01 武器強化の儀 ベニカガチ 操虫棍 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/01#8ZfJikVCRp</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-02T03:27:46.93Z</dc:date>
+      <dc:date>2026-07-02T12:11:52.34Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#tx1Q3WGy6m">
       <title>[サッカー] [野球] 2026-07-02 本田佳祐に監督なんてマネージングをやらせるべきではない、と書いたものの、よくよく考えてみると ...</title>
@@ -45,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,サッカー,野球,サッカー,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-02T03:27:46.93Z</dc:date>
+      <dc:date>2026-07-02T12:11:52.34Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm">
+      <title>[モンハンNow] 2026-07-02 モンハンNow 実績の解析</title>
+      <link>https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm</link>
+      <description>
+        <![CDATA[記録,ドキュメント,簡約版,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-02T10:10:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#BvNkfEi56S">
       <title>[ポケモンgo] 2026-07-01 一度も達成できず… 私のせいではない。  フィールドリサーチが、めんどうくさいせいだ。私のせ ...</title>
@@ -53,7 +69,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-02T03:27:46.93Z</dc:date>
+      <dc:date>2026-07-02T07:13:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/02#KpmA_EpQsZ">
       <title>[ポケモンgo] 2026-07-02 とりあえずの最大強化 (PL40) </title>
@@ -61,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-02T03:27:46.93Z</dc:date>
+      <dc:date>2026-07-02T06:10:16.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/01#mjOeogy0wG">
       <title>[モンハンNow] 2026-07-01 ほう、こういうこともあるのか。  一生分の運を使い果たしてしまいそうだ。</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-06-27T17:45:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/27#04nK_DvCK6">
-      <title>[モンハンNow] 2026-06-27 武器強化の儀 ティガレックス スラアク   プケ弓   ジンオウガ亜種 大刀    </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/27#04nK_DvCK6</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-27T17:00:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/06/28#2Zs3cE2N8b">
-      <title>[モンハンNow] 2026-06-28 まだ苦手… スマホが発熱すると後半はかなりきつい。  それでもゲーム初期の通常ジンオウガほど ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/06/28#2Zs3cE2N8b</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-06-27T12:59:00.00Z</dc:date>
     </item>
   </rdf:RDF>
