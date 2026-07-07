@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-07T04:50:10.00Z</dc:date>
+    <dc:date>2026-07-07T12:51:31.29Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#hp8_f0zre4"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#7LavDWojS2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#5TJ4CgoXAN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/06#9IFoZhxwj7"/>
@@ -27,11 +28,18 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/03#lXyQoioZsk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/03#ubMDoyKWGp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/04#S6X1aHtM9o"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/04#tl4qDJD2Nv"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#hp8_f0zre4">
+      <title>[Web] [国際] [サッカー] 2026-07-07 4-1 か。ざまぁという言葉が一番だな。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/07#hp8_f0zre4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,国際,サッカー,Web,国際,サッカー]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-07T12:51:31.29Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm">
       <title>[モンハンNow] 2026-07-02 モンハンNow 実績の解析</title>
       <link>https://kagura2718.github.io/Diary/series/MHNowAnalyze/index.htm</link>
       <description>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-04T03:10:17.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/04#tl4qDJD2Nv">
-      <title>[生活] [金沢] 2026-07-04 シャドウパルキア、まだ取ってない。ということで用事のついでに駅前に出動。  なんか当たりが悪 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/04#tl4qDJD2Nv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-04T02:44:39.00Z</dc:date>
     </item>
   </rdf:RDF>
