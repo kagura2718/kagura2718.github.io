@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-11T02:49:07.57Z</dc:date>
+    <dc:date>2026-07-11T03:32:00.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/11#Z4y82Uxd9-"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/11#5Z1m744eca"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/10#7-PZpuAVDP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/10#B3tLh9RHb4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/10#lyA0ksYfQi"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/08#QMpNpl6Xo_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#7LavDWojS2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/07#5TJ4CgoXAN"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/06#9IFoZhxwj7"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-11T02:49:07.57Z</dc:date>
+      <dc:date>2026-07-11T03:32:00.75Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/11#5Z1m744eca">
+      <title>[Web] [文化] 2026-07-11 周辺からみると、かなり飛ばしてますなぁ。そして、わざわざ相手に声かけたのか… 後続車が迫って ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/11#5Z1m744eca</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,文化,Web,文化]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-11T03:32:00.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/10#7-PZpuAVDP">
       <title>[モンハンNow] 2026-07-10 整いました！イビルジョー大刀のスタイル強化は最大到達。おそらくリーチから数ヶ月ストップしてた。 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-07T01:31:51.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/06#9IFoZhxwj7">
-      <title>[ポケモンgo] 2026-07-06 とうとう、このイベントが…  アプリ再起動したら出たぞ。 😁  しかし、手持ちを見てみても、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/06#9IFoZhxwj7</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-06T22:04:43.00Z</dc:date>
     </item>
   </rdf:RDF>
