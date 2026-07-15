@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-15T03:24:57.80Z</dc:date>
+    <dc:date>2026-07-15T03:31:50.14Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,6 +14,7 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/aB/aByA9FUq-D.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/n2/n2ar1lWDbj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YI/YI9hoZvkY5.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zg/Zgsw7FbWqq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WO/WO62rMcSHZ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2K/2KfkGjxo7v.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9C/9CY3Dt4MjT.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ep/Ep8DXeXagc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Er/ErTPhTDtLo.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/pz/pzzu5oNrED.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p0/p0iHsjJ4Iw.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-07-15T03:24:57.80Z</dc:date>
+    <dc:date>2026-07-15T03:31:50.14Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Vo/Vo1KszLDAm.htm">
     <title>[ポケモンgo] [モンハンNow] 2026-07-15 へー。面倒くさそうだけど、結構余裕がある。   こんなに何回も再生しなくても、聖なる剣テラキ ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-07-15T03:24:57.80Z</dc:date>
+    <dc:date>2026-07-15T03:31:50.14Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/r5/r5UJ5CQ5qW.htm">
     <title>[サッカー] 2026-07-15 おおー、スペインがフランスを降した。フランスが勝つと思ってた。これで前回の再戦はなくなった。 ...</title>
@@ -78,6 +78,14 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-07-14T12:16:17.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Zg/Zgsw7FbWqq.htm">
+    <title>[モンハンNow] 2026-07-15 武器強化の儀 バゼルギウス 大刀 最大強化  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Zg/Zgsw7FbWqq.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-07-14T10:47:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/WO/WO62rMcSHZ.htm">
     <title>[モンハンNow] 2026-07-14 ライゼクス大刀  ドシュー  バゼルギウス ライボ  ドシューは今回の要撃戦に間に合うかな。 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,漫画,Web,文化,漫画,Web,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-07-11T00:16:00.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/p0/p0iHsjJ4Iw.htm">
-    <title>[ポケモンgo] [生活] [金沢] [モンハンNow] 2026-07-11 ミュウツーのイベントとあれば、聖地金沢駅へ向かわざるを得ません。たぶん、金沢駅にいる人の半分 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/p0/p0iHsjJ4Iw.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,モンハンNow,ポケモンgo,生活,金沢,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-07-11T08:29:27.00Z</dc:date>
   </item>
 </rdf:RDF>
