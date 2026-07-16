@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-16T10:35:21.82Z</dc:date>
+    <dc:date>2026-07-16T11:56:31.45Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#bSzUND5z5P"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#BJT1ByD1zc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#u8ILcsQluk"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#Oh16jjJSOf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/14#JmRh9gJWzO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/14#RppwyEKOgF"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/13#0IASQuOZIj"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#bSzUND5z5P">
+      <title>[北陸] [関西] 2026-07-16 まじで、ここをぶち抜くつもりなのか… なんで米原じゃなかったのか、調べてたんだけど、どうも  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/16#bSzUND5z5P</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,北陸,関西,北陸,関西]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-16T11:56:31.45Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR">
       <title>[ポケモンgo] 2026-07-16 おや、このマップだと、ジムの色まで確認できる。気付いてなかった。 マップ - Pokémon ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-16T10:35:21.82Z</dc:date>
+      <dc:date>2026-07-16T11:56:31.45Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO">
       <title>[生活] [北陸] 2026-07-16 昨晩、結構降ったみたいだ。地面に大部しみこんでる。ほっと一息… さて、そろそろどっか行きてぇ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-14T02:39:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/13#0IASQuOZIj">
-      <title>[モンハンNow] 2026-07-13 なんか、今日はすごいスワイプ入力が外されるんだけど、なんだろう？そして、バフバロ、走り出すの ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/13#0IASQuOZIj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-13T12:27:13.00Z</dc:date>
     </item>
   </rdf:RDF>
