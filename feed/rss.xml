@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-16T10:34:46.30Z</dc:date>
+    <dc:date>2026-07-16T10:35:21.82Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#9vCFJooZnR"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#BJT1ByD1zc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#u8ILcsQluk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#zkA05XW6Yr"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#VGWp4BdX9c"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#29JqbYypZ5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#IIaJqONdO7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#CxUfPVc7U-"/>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-16T10:34:46.30Z</dc:date>
+      <dc:date>2026-07-16T10:35:21.82Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO">
+      <title>[生活] [北陸] 2026-07-16 昨晩、結構降ったみたいだ。地面に大部しみこんでる。ほっと一息… さて、そろそろどっか行きてぇ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-16T05:27:55.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#BJT1ByD1zc">
       <title>[モンハンNow] 2026-07-16 フレンドの中で Ranking 100 内で大刀の人、一人だけみつけた。それでもバゼルの大刀 ...</title>
@@ -70,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,北陸,関西,北陸,関西]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-15T23:24:05.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO">
-      <title>[生活] [北陸] 2026-07-16 昨晩、結構降ったみたいだ。地面に大部しみこんでる。ほっと一息…</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/16#sJ4BlkBWhO</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-15T22:10:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/15#29JqbYypZ5">
       <title>[生活] [七尾] 2026-07-15 あそこの橋の名前は知らないけど、平成橋というのだな。冠水により通行止めっていうから、すぐにこ ...</title>
