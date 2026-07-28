@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-28T03:03:26.46Z</dc:date>
+    <dc:date>2026-07-28T03:08:40.05Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -14,8 +14,10 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#pDGFvlwxIk"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#BMf_-uAJzW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#M2qAV-OHpN"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#_9as7wOweM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#m_QxtM9Xsf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#N97TOBiPF2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#Df1_FCg_BU"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#uVZT38id7-"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/26#YOxPWZ9oUx"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/25#hyZTkW50sf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/25#qD8y9j4oJq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/25#kz-4gk7C64"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/24#eKIWs3ExpJ"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-28T03:03:26.46Z</dc:date>
+      <dc:date>2026-07-28T03:08:40.05Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/23#dxGl8utF9A">
       <title>[登山] [剱岳] 2026-07-23 本日の登頂  さらば。登るの年々辛くなるけど、また来るで。 </title>
@@ -53,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-28T03:03:26.46Z</dc:date>
+      <dc:date>2026-07-28T03:08:40.05Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#pDGFvlwxIk">
       <title>[ポケモンgo] 2026-07-27 やっぱりガチの人はすごい。赤い… ほしい。 </title>
@@ -79,6 +79,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-27T21:38:01.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#_9as7wOweM">
+      <title>[登山] [生活] [宝達山] 2026-07-28 まだ除去しないの…？ キモいのだけど。名物になられるとほんとに嫌 🤮  気分悪くも、本日の登頂 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/28#_9as7wOweM</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-27T20:06:37.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI">
       <title>[モンハンNow] 2026-07-27 HR381 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI</link>
@@ -94,6 +102,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,ポケモンgo,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-27T15:18:01.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E">
+      <title>[ポケモンgo] 2026-07-28 次はクスネ 2026年8月の「コミュニティ・デイ」：「クスネ」 — Pokémon GO 悪 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-27T12:25:05.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#N97TOBiPF2">
       <title>[ポケモンgo] 2026-07-27 先週は 60km  今週はちゃんと出た。</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,剱岳,剱岳]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-25T17:49:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/25#kz-4gk7C64">
-      <title>[Web] [炎上] [文化] 2026-07-25 我が国の一部の人達、アホなのかな… 最新鋭レタス工場、電源は隣の水田　イネの上に太陽光パネル ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/25#kz-4gk7C64</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-25T14:57:12.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/24#eKIWs3ExpJ">
-      <title>[Web] [炎上] [東北] 2026-07-24 なんか覚えがある… 一審で無罪だったの？  【速報】猪苗代湖ボート事故、二審判決見直しか|4 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/24#eKIWs3ExpJ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,東北,Web,炎上,東北]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-25T11:05:06.00Z</dc:date>
     </item>
   </rdf:RDF>
