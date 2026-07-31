@@ -4,11 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-07-30T03:47:40.27Z</dc:date>
+    <dc:date>2026-07-31T04:53:03.63Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#V9VWVKtBzm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#RgMd4obzH6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/31#svYGji3NO6"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/31#Y5lNOEtrkm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#V9VWVKtBzm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#M9_9UhHAlK"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#UmHQTojMgF"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#rD99MXm9oZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#WZWz2vvv-M"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#Q7rhDhPBZB"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#o9TJTp-qci"/>
@@ -22,22 +28,64 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#_9as7wOweM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#Rt-RrokUMO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#VKxV9eMlZY"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#pDGFvlwxIk"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#BMf_-uAJzW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#M2qAV-OHpN"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#iEou1H88TZ"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#V9VWVKtBzm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#RgMd4obzH6">
+      <title>[NHK] [九州] 2026-07-30 熊本の氷川町長さん、田舎の町長と思えないほど喋りがうまい。すげぇぞ。 😲  地元の農業高校か ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/30#RgMd4obzH6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,NHK,九州,NHK,九州]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-31T04:53:03.63Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/31#svYGji3NO6">
+      <title>[ポケモンgo] 2026-07-31 手持ちの 💯 + 色違いを調べてみると、これだけだった。  しかも、まだ最大強化すらしてないし。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/31#svYGji3NO6</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-31T04:53:03.63Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/31#Y5lNOEtrkm">
+      <title>[食事] [富山] 2026-07-31 全国を巡ってるらしい Ramen Japan という番組が捕獲されてて、富山ブラックラーメン ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/31#Y5lNOEtrkm</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,食事,富山,食事,富山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-31T01:11:58.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#V9VWVKtBzm">
       <title>[ポケモンgo] 2026-07-30 ミュウツー 157 だから総数はごく普通ぐらいだよねぇ。無料パスとかイベントで頑張るとできる ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/30#V9VWVKtBzm</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-30T03:47:40.27Z</dc:date>
+      <dc:date>2026-07-30T20:22:42.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#M9_9UhHAlK">
+      <title>[料理] 2026-07-30 本日の漬け丼。横はナメコ汁。うめぇ 😋 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/30#M9_9UhHAlK</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-30T18:50:49.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#UmHQTojMgF">
+      <title>[ポケモンgo] 2026-07-30 18:00 台は忙しくて手が離せず、 ゴミを捨てる  博士に送ることは叶わなかった… また来 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/30#UmHQTojMgF</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-30T16:29:13.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#rD99MXm9oZ">
+      <title>[Web] [九州] 2026-07-30 すげぇよな、こいつら。積極的に支持してる奴らも馬鹿みたいに凄いな。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/30#rD99MXm9oZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-07-30T03:14:01.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/30#WZWz2vvv-M">
       <title>[ポケモンgo] 2026-07-30 これ、最近みかけるようになったと思ったら、オーロンゲの赤ちゃんだ。  【ポケモンGO】ベロバ ...</title>
@@ -142,53 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,九州,Web,九州]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-07-28T00:39:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#pDGFvlwxIk">
-      <title>[ポケモンgo] 2026-07-27 やっぱりガチの人はすごい。赤い… ほしい。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/27#pDGFvlwxIk</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T22:49:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#BMf_-uAJzW">
-      <title>[モンハンNow] 2026-07-27 武器強化の儀 ビシュテンゴ ライボ </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/27#BMf_-uAJzW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T22:30:49.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#M2qAV-OHpN">
-      <title>[ポケモンgo] [位置偽装] [Web] [炎上] [文化] 2026-07-27 先日の  スプーを疑われた人  のご友人らしい。俺の直感ではスプーじゃないだろうね。がんばっ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/27#M2qAV-OHpN</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,位置偽装,Web,炎上,文化,ポケモンgo,位置偽装,Web,炎上,文化]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T21:38:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#iEou1H88TZ">
-      <title>[ポケモンgo] 2026-07-28 これ (アンノーン) 、全部揃ったんだろうね。特に集めてたわけじゃないんだけど。  これ、何 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/28#iEou1H88TZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T20:36:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI">
-      <title>[モンハンNow] 2026-07-27 HR381 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/27#9Ws6a27zaI</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T18:12:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E">
-      <title>[ポケモンgo] 2026-07-28 次はクスネ 2026年8月の「コミュニティ・デイ」：「クスネ」 — Pokémon GO 悪 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/07/28#33UqORG-_E</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-07-27T12:25:05.00Z</dc:date>
     </item>
   </rdf:RDF>
