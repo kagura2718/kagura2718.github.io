@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-06T08:47:43.63Z</dc:date>
+    <dc:date>2026-08-06T10:06:09.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0I/0I6yHcT5Dj.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/iu/iuHEiL1k7v.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Fr/Fr1xw43bho.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zq/zqCvufIbvd.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VQ/VQHtD_zPGe.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/XB/XBVqYSzTqC.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/7Q/7QAFvuSTVz.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JU/JUZ3KCIf17.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/GH/GHZQkXFemo.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qT/qTNYDRyR3k.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yv/Yv1fO97oEH.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/p2/p27yc4iG0d.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uP/uPEELu8HEW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nb/NbRGfEKivl.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -45,7 +45,15 @@
     <description>
         日記,つぶやき,雑記帳,料理,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-06T08:47:43.63Z</dc:date>
+    <dc:date>2026-08-06T10:06:09.16Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/iu/iuHEiL1k7v.htm">
+    <title>[Web] [富山] 2026-08-06 青い街灯があったの、この辺りだったかな。昨晩、通った。なんとも閑静な住宅並びにしか見えない… ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/iu/iuHEiL1k7v.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,富山,Web,富山</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-06T10:06:09.16Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Fr/Fr1xw43bho.htm">
     <title>[富山] 2026-08-06 へー、立山町が 80% 越え。こうしてみると、町の人口規模に対して立山アルペンルートの効果が ...</title>
@@ -70,6 +78,14 @@
         日記,随筆,簡約版,登山,北アルプス,登山,北アルプス</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-06T02:07:18.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/XB/XBVqYSzTqC.htm">
+    <title>[生活] [Web] 2026-08-06 Google Map の通行止め情報、基幹道路で迷惑してる人も多そうなのに、一日経過しても修 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/XB/XBVqYSzTqC.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,Web,生活,Web</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-05T18:19:14.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/7Q/7QAFvuSTVz.htm">
     <title>[生活] [富山] 2026-08-04 前に夜ぐらいの時間に走ってるとき、どこだったかはっきり覚えてないが、砺波あたり？街灯が青い光 ...</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,歴史,地理,九州,歴史,地理,九州</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-03T04:46:04.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uP/uPEELu8HEW.htm">
-    <title>[Web] [スポーツ] 2026-08-03 おおー。この下半身の動きもすごいが、それに対して上半身がまったく動いてない。すげぇぜ。 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/uP/uPEELu8HEW.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-03T01:49:12.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nb/NbRGfEKivl.htm">
-    <title>[Web] [映画] 2026-08-01 ここ数日、ものすごいバズり方で流れてくる「田中裕子」さんという女優。知らなかったのだけど、当 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Nb/NbRGfEKivl.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,映画,Web,映画</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-02T19:25:24.00Z</dc:date>
   </item>
 </rdf:RDF>
