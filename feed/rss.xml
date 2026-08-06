@@ -4,16 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-06T10:06:09.16Z</dc:date>
+    <dc:date>2026-08-06T10:27:37.16Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#MAWgvzfE3x"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#_u2AmR6Oss"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#YksKI39-C6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#unGMkgROJ2"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#b9yMf626bj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/04#HAOAb0Fvkh"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/03#eXgqT35D6F"/>
@@ -45,7 +45,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-06T10:06:09.16Z</dc:date>
+      <dc:date>2026-08-06T10:27:37.16Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#_u2AmR6Oss">
       <title>[Web] [富山] 2026-08-06 青い街灯があったの、この辺りだったかな。昨晩、通った。なんとも閑静な住宅並びにしか見えない… ...</title>
@@ -53,7 +53,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,富山,Web,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-06T10:06:09.16Z</dc:date>
+      <dc:date>2026-08-06T10:27:37.16Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm">
+      <title>[登山] [北アルプス] 2026-08-05 笠ヶ岳</title>
+      <link>https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,北アルプス,登山,北アルプス]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-06T07:22:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#YksKI39-C6">
       <title>[富山] 2026-08-06 へー、立山町が 80% 越え。こうしてみると、町の人口規模に対して立山アルペンルートの効果が ...</title>
@@ -70,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-06T03:00:59.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm">
-      <title>[登山] [北アルプス] 2026-08-05 笠ヶ岳</title>
-      <link>https://kagura2718.github.io/Diary/essay/2026/2026-08-05.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,北アルプス,登山,北アルプス]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-06T02:07:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/06#b9yMf626bj">
       <title>[生活] [Web] 2026-08-06 Google Map の通行止め情報、基幹道路で迷惑してる人も多そうなのに、一日経過しても修 ...</title>
