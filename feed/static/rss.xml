@@ -4,7 +4,7 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-09T14:15:09.66Z</dc:date>
+    <dc:date>2026-08-09T14:18:45.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
@@ -12,9 +12,9 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VQ/VQHtD_zPGe.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6G/6Gl0ZxzqQD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ng/ng1Gl4TiEY.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vb/vbGyzRl9zk.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/kO/kO5kAW-8yW.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/be/bepQeMrvBp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/LP/LPunv-uqLv.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/2l/2lhw5uisE4.htm"/>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,生活,モンハンNow,ポケモンgo,生活,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-09T14:15:09.66Z</dc:date>
+    <dc:date>2026-08-09T14:18:45.11Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/VQ/VQHtD_zPGe.htm">
     <title>[登山] [北アルプス] 2026-08-05 笠ヶ岳</title>
@@ -63,6 +63,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-08T20:35:28.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm">
+    <title>[Web] [技術] [AI] 2026-08-09 どうやら AI 生成の動画みたいだな。Community Note がついてる。そっちで騙さ ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,技術,AI,Web,技術,AI</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-08T20:06:25.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vb/vbGyzRl9zk.htm">
     <title>[生活] [北陸] 2026-08-08 暑すぎ。エアコン部屋以外でのすべての作業を拒否したいレベルだ。 🥵</title>
     <link>https://kagura2718.github.io/Gitwee/jump/vb/vbGyzRl9zk.htm</link>
@@ -78,14 +86,6 @@
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-08T18:44:55.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm">
-    <title>[Web] [技術] [AI] 2026-08-09 このレベルの二足歩行技術 (+ 上半身運動) を実現してるの、かなりすごいぜ。 😲 モチーフ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/6t/6thZDYV-qJ.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,技術,AI,Web,技術,AI</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-08T08:28:20.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/be/bepQeMrvBp.htm">
     <title>[Web] [長野] 2026-08-07 しばらく前からときどき流れてくる話。諏訪湖辺りの漁業権はどうなってるのだろうね。   映像の ...</title>
