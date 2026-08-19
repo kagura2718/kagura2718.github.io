@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-19T12:24:03.36Z</dc:date>
+    <dc:date>2026-08-19T13:54:23.87Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/sb/sbiye4-Oq2.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Xg/XgyD_DwVgL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/lF/lFLSNd6RYp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/D5/D5y6ZkXdiW.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/QB/QBGj-Ecwqx.htm"/>
@@ -27,7 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/KR/KRwVTygfdD.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Lh/Lhuiz0-Z5D.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qc/QcuDhitJIV.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/AV/AVZlbmAhrB.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,Web,ポケモンgo,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-19T12:24:03.36Z</dc:date>
+    <dc:date>2026-08-19T13:54:23.87Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Xg/XgyD_DwVgL.htm">
+    <title>[Web] [AI] 2026-08-19 😲   おおー、これも… </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Xg/XgyD_DwVgL.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,AI,Web,AI</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-19T13:54:23.87Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/lF/lFLSNd6RYp.htm">
     <title>[ポケモンgo] 2026-08-19 昨日、おひろめ 4 つは出場できたみたいなんだけど、なんか変化したのかね。  告知されてたっ ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,食事,羽咋,食事,羽咋</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-17T00:43:52.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/AV/AVZlbmAhrB.htm">
-    <title>[生活] [食事] [羽咋] 2026-08-17 昨日くったラーメン、羽咋の「大和屋」なんだけど、もしかして、田舎の羽咋に合わせて最適化された ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/AV/AVZlbmAhrB.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,食事,羽咋,生活,食事,羽咋</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-16T22:03:58.00Z</dc:date>
   </item>
 </rdf:RDF>
