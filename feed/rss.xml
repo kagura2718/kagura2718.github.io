@@ -4,15 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-19T13:54:23.87Z</dc:date>
+    <dc:date>2026-08-20T03:33:07.88Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#tS1wFT1iLZ"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#osjnBjHYWj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#QctxJJlNYx"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#tS1wFT1iLZ"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#x-cKg-ga6F"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#fXqusQuZ0h"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#luY03SFBmN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/18#Jk7RvYNv5E"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/18#Bx1pcLDfim"/>
@@ -27,25 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/16#oX0SQD_a0X"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#_1YmJpLpyW"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#tptwa109ox"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/16#BfR4mzjhzF"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#tS1wFT1iLZ">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#osjnBjHYWj">
+      <title>[モンハンNow] 2026-08-20 ジンオウガ ガンス   ミツネ ガンス    ショーグンギザミ チャアク    </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/20#osjnBjHYWj</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-20T03:33:07.88Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#QctxJJlNYx">
+      <title>[Web] [AI] 2026-08-19 😲   おおー、これも…   しかし、表情や仕草もろもろに、やっぱりところどころ違和感がある ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/19#QctxJJlNYx</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,AI,Web,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-20T03:33:07.88Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#tS1wFT1iLZ">
       <title>[ポケモンgo] [Web] 2026-08-19 ほー。ソロでいけるんだ。だが、俺にこの面子は揃えられん。 30 秒ぐらい残してるから、回復で ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/19#tS1wFT1iLZ</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Web,ポケモンgo,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-19T13:54:23.87Z</dc:date>
+      <dc:date>2026-08-20T03:33:07.88Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#QctxJJlNYx">
-      <title>[Web] [AI] 2026-08-19 😲   おおー、これも… </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/19#QctxJJlNYx</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng">
+      <title>[Web] [国際] 2026-08-19 マルタ共和国… 聞いたことあるけど、場所を知らなかった。シチリアよりもさらに南下する島国のよ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,AI,Web,AI]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-19T13:54:23.87Z</dc:date>
+      <dc:date>2026-08-19T17:54:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#x-cKg-ga6F">
       <title>[ポケモンgo] 2026-08-19 昨日、おひろめ 4 つは出場できたみたいなんだけど、なんか変化したのかね。  告知されてたっ ...</title>
@@ -62,14 +78,6 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-19T01:16:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng">
-      <title>[Web] [国際] 2026-08-19 マルタ共和国… 聞いたことあるけど、場所を知らなかった。シチリアよりもさらに南下する島国のよ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/19#aJht6VD8ng</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-18T22:22:25.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#luY03SFBmN">
       <title>[モンハンNow] 2026-08-17 武器強化の儀 ショーグンギザミ チャアク  タマミツネ ガンス 名前が唐突にかなり変わる…   </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-17T01:15:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/16#BfR4mzjhzF">
-      <title>[食事] [羽咋] 2026-08-16 久々に入ったら、なんか、家系っぽくなくなってた。普通の家庭ラーメンの趣きが強まった。田舎のラ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/16#BfR4mzjhzF</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,食事,羽咋,食事,羽咋]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-17T00:43:52.00Z</dc:date>
     </item>
   </rdf:RDF>
