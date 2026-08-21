@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-21T03:08:45.91Z</dc:date>
+    <dc:date>2026-08-21T03:14:31.36Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#0wJqD19BOP"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/21#sJl7y9U6yV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#e5JQj0EMFi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#P0fnSoZ9O5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#osjnBjHYWj"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/18#VXnzkmTAl9"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#yFu2k2zKeY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#UGkx_cYOAI"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#1DrMhMfxJE"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#0wJqD19BOP">
-      <title>[モンハンNow] 2026-08-20 武器強化の儀 バゼル ガンス   オロミドロ ガンス </title>
+      <title>[モンハンNow] 2026-08-20 武器強化の儀 バゼル ガンス   オロミドロ ガンス  ミツネ ガンス   </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/20#0wJqD19BOP</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-20T18:09:06.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/21#sJl7y9U6yV">
+      <title>[登山] [生活] [宝達山] 2026-08-21 登ってるときに雷の音が聞こえはじめた。山の中で雨雲レーダーを見る。どうやら宝達山よりもやや北 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/21#sJl7y9U6yV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-21T03:14:31.36Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#e5JQj0EMFi">
       <title>[生活] [七尾] 2026-08-20 わくらー   美湾荘で日帰り温泉もやってる。1000 円？ </title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,七尾,生活,七尾]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-21T03:08:45.91Z</dc:date>
+      <dc:date>2026-08-21T03:14:31.36Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/20#P0fnSoZ9O5">
       <title>[アニメ] [鬼滅の刃] 2026-08-20 この回は前にみたような気もする。   力入ってるんだよね。立志編(？)で一番コストをかけたこ ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-17T11:15:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/17#1DrMhMfxJE">
-      <title>[生活] [北陸] 2026-08-17 しばらく落ち着いてたのに、再び熱波襲来。ここしばらく、暑さで疲れがたまるのか、多少のお昼寝が ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/17#1DrMhMfxJE</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-17T10:55:43.00Z</dc:date>
     </item>
   </rdf:RDF>
