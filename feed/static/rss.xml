@@ -4,14 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-28T15:42:37.07Z</dc:date>
+    <dc:date>2026-08-29T02:38:41.31Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/xq/xq8UQncBQM.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/0H/0HIP-qN0z0.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/vS/vSvb8VIsdO.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/oq/oq-80XRHZ_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/x7/x7cAQRFOOV.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OX/OX3L06QPm1.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/PF/PFmkvlxCdj.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9b/9bItVwPobS.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DP/DPxEdO4plA.htm"/>
@@ -26,8 +28,6 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/J7/J71kTMmgOA.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/NP/NPCdAkbk2y.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Yx/YxaLBapaLI.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jw/jwIhJo4iTK.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
       </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,7 @@
     <description>
         日記,つぶやき,雑記帳,Web,炎上,南アルプス,Web,炎上,南アルプス</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-28T15:42:37.07Z</dc:date>
+    <dc:date>2026-08-29T02:38:41.31Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/0H/0HIP-qN0z0.htm">
     <title>[生活] [羽咋] 2026-08-28 羽咋方面がどうなってるか気になるから見に行きたかったが、9/1 からタイヤが高くなる。その前 ...</title>
@@ -45,7 +45,7 @@
     <description>
         日記,つぶやき,雑記帳,生活,羽咋,生活,羽咋</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-28T15:42:37.07Z</dc:date>
+    <dc:date>2026-08-29T02:38:41.31Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/vS/vSvb8VIsdO.htm">
     <title>[Web] [飛騨高山] [関西] 2026-08-28 ほー、大阪から飛騨高山への直行便があるというわけか。ここは人気あるだろう。とはいえ、二両編成 ...</title>
@@ -53,7 +53,15 @@
     <description>
         日記,つぶやき,雑記帳,Web,飛騨高山,関西,Web,飛騨高山,関西</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-28T15:42:37.07Z</dc:date>
+    <dc:date>2026-08-29T00:35:13.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/oq/oq-80XRHZ_.htm">
+    <title>[漫画] [Web] [炎上] 2026-08-29 途中で馬鹿馬鹿しくなって読むのを止めたけど、職業人口比と才能が比例すると思っていそうなので、 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/oq/oq-80XRHZ_.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,漫画,Web,炎上,漫画,Web,炎上</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-28T23:17:54.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/x7/x7cAQRFOOV.htm">
     <title>[登山] [生活] [宝達山] 2026-08-28 本日の登頂。登山道は何ら崩れたところはなく、ほぼ平常通り。山頂ではトイレの水が出なかったので ...</title>
@@ -61,7 +69,15 @@
     <description>
         日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-28T15:42:37.07Z</dc:date>
+    <dc:date>2026-08-28T22:18:58.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OX/OX3L06QPm1.htm">
+    <title>[料理] 2026-08-29 梅じゃこチャーハン  私は肉が好きだ。 </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/OX/OX3L06QPm1.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-08-28T17:37:34.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/PF/PFmkvlxCdj.htm">
     <title>[登山] [北アルプス] [新穂高] [奥飛騨] [富山] 2026-08-25 奥穂高 - ジャンダルム - 西穂高</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-08-27T00:36:27.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/jw/jwIhJo4iTK.htm">
-    <title>[Web] [国際] 2026-08-27 地震がトリガーになって氷河崩落で、土石流(というよりは、山津波という表現が適切っぽい)    ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/jw/jwIhJo4iTK.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,国際,Web,国際</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-08-26T22:13:33.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
-    <title>随筆(長編日記)</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
-    <description>
-        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2025-10-02T22:49:36.00Z</dc:date>
   </item>
 </rdf:RDF>
