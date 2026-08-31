@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-08-31T11:28:51.78Z</dc:date>
+    <dc:date>2026-08-31T14:24:55.94Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#VutIYJpeiY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#tCNYfv50IX"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#I1EiPEHmKg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#YRb_w2SdrR"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#w4FLlqZQBm"/>
@@ -25,19 +28,40 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/28#OLHxpBz1og"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/29#eIgVS1ypUu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/28#oRwuSzEV1o"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/29#SlszOiGWR-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/27#vHc5hCClJD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/28#mxBpjbKc25"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc">
+      <title>[生活] [金沢] 2026-08-31 ここ、ごく稀にしか通らないのだけど、他と較べてやけに古い高架だなーと思ってたら、ほんとに古い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-31T14:24:55.94Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa">
       <title>[登山] [北アルプス] 2026-08-31 先日のジャンダルム縦走の所感。数日経過して書き留めておこう。実況配信系の奴らは論外だから放っ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-31T11:28:51.78Z</dc:date>
+      <dc:date>2026-08-31T14:24:55.94Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#VutIYJpeiY">
+      <title>[ポケモンgo] 2026-08-31 イベントらしく、メガカイリューが出てるから、こんなもん田舎でできるわけないと思ったら、これは ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#VutIYJpeiY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-31T14:24:55.94Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#tCNYfv50IX">
+      <title>[登山] [Web] [新穂高] 2026-08-31 ここ、温泉あったのか。先日、ロープウェイを使ったときに初めて通ったのだけど、この施設はどうや ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#tCNYfv50IX</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,登山,Web,新穂高,登山,Web,新穂高]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-08-31T11:14:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#I1EiPEHmKg">
       <title>[Web] [炎上] 2026-08-31 2013 年なら SNS もあるから、表に出れば炎上してたはずなんだが…？ ここまでの異常者 ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-08-28T22:18:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/29#SlszOiGWR-">
-      <title>[料理] 2026-08-29 梅じゃこチャーハン  私は肉が好きだ。 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/29#SlszOiGWR-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-28T17:37:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/27#vHc5hCClJD">
-      <title>[登山] [Web] [女性] 2026-08-27 かなり無茶な登山をしている女性を見つけたのだけど、この子、いずれ山で○にそうだな。 記録をみ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/27#vHc5hCClJD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,Web,女性,登山,Web,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-28T04:07:54.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/28#mxBpjbKc25">
-      <title>[Web] [炎上] [文化] [女性] 2026-08-28 基本的にスルーするタイプのネタなんだけど、この匿名ポストは、他人の内面を知る、引いては自分を ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/28#mxBpjbKc25</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,女性,Web,炎上,文化,女性]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-08-28T03:46:30.00Z</dc:date>
     </item>
   </rdf:RDF>
