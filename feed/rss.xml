@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-09-06T12:36:07.05Z</dc:date>
+    <dc:date>2026-09-06T12:50:04.12Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#M64vIiSJqO"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#IBlNomWG8u"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#28k4xvV7O4"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/05#1xTdz7kHYN"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#OsQQMYzwOj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/05#vg-kKm61tp"/>
@@ -26,8 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/01#hVsRlaZ53t"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/01#RQdvD7IlL_"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#HYmpd-wBBr"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,23 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-06T12:36:07.05Z</dc:date>
+      <dc:date>2026-09-06T12:50:04.12Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#IBlNomWG8u">
+      <title>[料理] 2026-09-06 麻婆豆腐を錬成 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/06#IBlNomWG8u</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-06T12:50:04.12Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/06#28k4xvV7O4">
+      <title>[生活] [北陸] 2026-09-06 北陸は完全に大雨のターゲットから外れたな。それでもしとしと降り続けるみたいだ。さて、これから ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/06#28k4xvV7O4</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-06T05:54:13.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/05#1xTdz7kHYN">
       <title>[登山] [生活] [宝達山] 2026-09-05 本日の登頂  トイレ利用不可 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-01T12:38:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc">
-      <title>[生活] [金沢] 2026-08-31 ここ、ごく稀にしか通らないのだけど、他と較べてやけに古い高架だなーと思ってたら、ほんとに古い ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#ZbXFTn1uYc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-01T07:58:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa">
-      <title>[登山] [北アルプス] 2026-08-31 先日のジャンダルム縦走の所感。数日経過して書き留めておこう。実況配信系の奴らは論外だから放っ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/08/31#syqSFdTdRa</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,登山,北アルプス,登山,北アルプス]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-01T05:49:39.00Z</dc:date>
     </item>
   </rdf:RDF>
