@@ -4,13 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-09-14T02:14:20.85Z</dc:date>
+    <dc:date>2026-09-14T08:21:32.35Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#bOQq-8YOPp"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#vbOeYhkfDw"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#PzQZSePR_O"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#bOQq-8YOPp"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#sLthibTPnT"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#vbOeYhkfDw"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#whywok1l-m"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/13#KOVt0Xk7HP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/12#NMwiyO5L3Y"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/13#E7EiHA5PB5"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/09#IYyVOhYorE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/10#ubxjjCBUA6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/09#WoBSuZvuhq"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/10#x9cG2QTvaR"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/09#tzxAo3kki1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#bOQq-8YOPp">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#PzQZSePR_O">
+      <title>[アニメ] [AI] [呪術廻戦] 2026-09-14 あんまり貼りたくないんだけど、貼ってしまおう。アニメの AI 生成の動画もちらほら見かけるけ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/14#PzQZSePR_O</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,アニメ,AI,呪術廻戦,アニメ,AI,呪術廻戦]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-14T08:21:32.35Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#bOQq-8YOPp">
       <title>[モンハンNow] 2026-09-14 昨夜は更新できなかった。チャアクもよく分からんすぎる。  昨晩で終わりかと思ったら、後二日ぐ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/14#bOQq-8YOPp</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-14T02:14:20.85Z</dc:date>
+      <dc:date>2026-09-14T08:21:32.35Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#sLthibTPnT">
+      <title>[Web] [モンハンNow] 2026-09-14 ふーん、スプラッシュ画面にいるのがブラキディオスで爆破タイプかな。おそらく炎属性ではない…  ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/14#sLthibTPnT</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-14T08:21:32.35Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#vbOeYhkfDw">
       <title>[モンハンNow] 2026-09-14 昨晩、土砂降りしたりしたけど、ギリでなんとかなった… このタスク、いきなり湧いてきて時間も短 ...</title>
@@ -45,15 +61,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-14T02:14:20.85Z</dc:date>
+      <dc:date>2026-09-14T08:21:32.35Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#sLthibTPnT">
-      <title>[Web] [モンハンNow] 2026-09-14 ふーん、スプラッシュ画面にいるのがブラキディオスで爆破タイプか。炎属性ではない… 『モンスタ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/14#sLthibTPnT</link>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/14#whywok1l-m">
+      <title>[生活] [北陸] 2026-09-14 事前の予報よりも雨のタイミングは遅れてきたような気がする。大雨の雨雲は能登半島に近付いてきた ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/14#whywok1l-m</link>
       <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,モンハンNow,Web,モンハンNow]]></description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-14T02:14:20.85Z</dc:date>
+      <dc:date>2026-09-14T02:22:18.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/13#KOVt0Xk7HP">
       <title>[ポケモンgo] 2026-09-13 昨日は無料パス消化試合でこんなのも入ってきた。一段階進化済み。  ボーマンダの特別技イベント ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-10T02:39:33.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/10#x9cG2QTvaR">
-      <title>[ポケモンgo] 2026-09-10 なんかメガグソクムシャというのが話題になってたから調べてみたけど、この子、けっこう強いよね。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/10#x9cG2QTvaR</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-09T18:38:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/09#tzxAo3kki1">
-      <title>[モンハンNow] 2026-09-09 武器強化の儀 ジンオウガ亜種 弓    古龍武器は G10-5 リーチのもの以外は諦めよう。 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/09#tzxAo3kki1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-09T12:16:01.00Z</dc:date>
     </item>
   </rdf:RDF>
