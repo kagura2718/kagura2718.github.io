@@ -4,10 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-09-21T07:51:16.61Z</dc:date>
+    <dc:date>2026-09-21T10:14:55.64Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z8/z8361Eo2cX.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yb/ybBrnAWqDy.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ue/UeGalz7Eo_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9n/9ngC7zpTs7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/FD/FD43-8BBHE.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/eA/eAT7kzOBlL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Re/Reh9ah0di8.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yB/yBITvegaPj.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cY/cYHHgz1kXg.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/DX/DXkkrKOUCW.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/z8/z8361Eo2cX.htm">
+    <title>[料理] 2026-09-21 マグロを昆布締めして丼にする。  </title>
+    <link>https://kagura2718.github.io/Gitwee/jump/z8/z8361Eo2cX.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,料理,料理</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-09-21T10:14:55.64Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yb/ybBrnAWqDy.htm">
+    <title>[生活] [宝達志水町] 2026-09-21 里湯ちりはま、初めて入ったと思うが、なかなかいい湯だ。サウナはかなり狭いけど、熱さはこの辺り ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/yb/ybBrnAWqDy.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,宝達志水町,生活,宝達志水町</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-09-21T10:14:55.64Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ue/UeGalz7Eo_.htm">
     <title>[ポケモンgo] 2026-09-21 どうやら、ダイマックスでエネルギーを拾えないのは、バグみたいだな。だから言ったじゃないの N ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/Ue/UeGalz7Eo_.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-09-21T07:51:16.61Z</dc:date>
+    <dc:date>2026-09-21T10:14:55.64Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9n/9ngC7zpTs7.htm">
     <title>[関東] 2026-09-21 もしかして、千葉にもう一撃、くるのかね？ </title>
@@ -45,7 +61,7 @@
     <description>
         日記,つぶやき,雑記帳,関東,関東</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-09-21T07:51:16.61Z</dc:date>
+    <dc:date>2026-09-21T09:55:10.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/FD/FD43-8BBHE.htm">
     <title>[ポケモンgo] 2026-09-21 昨日のリモートキラ  を？鹿児島…？まぁリモートレイドかもしれんしね。 </title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,奥能登,文化,Web,奥能登,文化</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-09-17T16:28:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cY/cYHHgz1kXg.htm">
-    <title>[モンハンNow] 2026-09-17 武器強化の儀 ジンオウガ ガンス   バゼル ライボ  </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/cY/cYHHgz1kXg.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-09-17T15:50:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/DX/DXkkrKOUCW.htm">
-    <title>[ポケモンgo] 2026-09-17 え？？ドサイドンがワイドブレイカー！  意外性… PvP やらない俺には関係ないやつかなぁ。</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/DX/DXkkrKOUCW.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-09-16T23:26:14.00Z</dc:date>
   </item>
 </rdf:RDF>
