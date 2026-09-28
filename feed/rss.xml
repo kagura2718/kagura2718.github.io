@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-09-28T08:30:47.96Z</dc:date>
+    <dc:date>2026-09-28T10:46:46.66Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#DD6X0dX1Dg"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#7D3AoaZXKY"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#yjwL4I7EIC"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#Vbb_lu9YRV"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#gorKrQxjTd"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-09-27.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/25#1e1G0woBh0"/>
@@ -25,9 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/25#MLXjotx_J3"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#XnwOt7l-bq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#hCGjjjFX_R"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#-0LFhrwRBv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/22#Z2h2JEr8-l"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#j4_KYEOWEo"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,31 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-28T08:30:47.96Z</dc:date>
+      <dc:date>2026-09-28T10:46:46.66Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#7D3AoaZXKY">
+      <title>[生活] [AI] 2026-09-28 これも画像と記事が関係ない… 最近、めっちゃ多くなってきた。 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/28#7D3AoaZXKY</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,AI,生活,AI]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-28T10:46:46.66Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#yjwL4I7EIC">
+      <title>[料理] 2026-09-28 麻婆豆腐を錬成 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/28#yjwL4I7EIC</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-28T06:51:27.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#Vbb_lu9YRV">
+      <title>[ポケモンgo] 2026-09-28 先週は 75km </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/28#Vbb_lu9YRV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-27T23:49:35.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#gorKrQxjTd">
       <title>[ポケモンgo] 2026-09-28 これ、難易度高い… ジムにゴーストがいないといけないか、レイドでゴーストタイプと？  と思っ ...</title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-24T08:38:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#-0LFhrwRBv">
-      <title>[ポケモンgo] [Wayfarer] [Ingress] [かほく] 2026-09-24 昨日、イオンかほく近辺で、ダイマックスのファイヤーとかを探してたのだけど、できそうなとこが見 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/24#-0LFhrwRBv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,Wayfarer,Ingress,かほく,ポケモンgo,Wayfarer,Ingress,かほく]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-23T21:49:40.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/22#Z2h2JEr8-l">
-      <title>[生活] [七尾] 2026-09-22 ななおー ななおー  開いてる時間には間に合わなかった。  さすがにシルバーウィークってこと ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/22#Z2h2JEr8-l</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,七尾,生活,七尾]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-23T16:22:32.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/24#j4_KYEOWEo">
-      <title>[Web] [炎上] [文化] [風土] [国際] 2026-09-24 「今上(きんじょう)」はニュースでもなかなか出てこない気がするが、普通にニュースを「観る」、 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/24#j4_KYEOWEo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,文化,風土,国際,Web,炎上,文化,風土,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-23T15:44:03.00Z</dc:date>
     </item>
   </rdf:RDF>
