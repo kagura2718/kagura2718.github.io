@@ -4,11 +4,14 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-09-30T08:15:51.63Z</dc:date>
+    <dc:date>2026-09-30T12:46:39.48Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#KVQjdGRsOa"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#eT_NhkfzB_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#WsNnJMeD_V"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#jziHJ1nK0G"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#6PP3dWm-UI"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#iRDJabbiuf"/>
@@ -25,13 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#7D3AoaZXKY"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#AzR6BFFNQo"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#A0k0KrC8FW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#rvcW3ixcyU"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#w0PiimBoUW"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#wN59HOSNR1"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#KVQjdGRsOa">
+      <title>[Web] [炎上] [奥能登] [文化] [石川] 2026-09-30 さて、金沢工業大学 (=金工大) の誰だろう？   準公人だから、追及はやむなし。↓10 人 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/30#KVQjdGRsOa</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,奥能登,文化,石川,Web,炎上,奥能登,文化,石川]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-30T12:46:39.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#eT_NhkfzB_">
+      <title>[ポケモンgo] 2026-09-30 本日のリモートキラ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/30#eT_NhkfzB_</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-30T12:46:39.48Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -39,13 +55,21 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#WsNnJMeD_V">
+      <title>[モンハンNow] 2026-09-30 ブラキディオス 弓   花火 ライボ  また金がなくなってきたぞ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/30#WsNnJMeD_V</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-09-30T12:46:39.48Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#jziHJ1nK0G">
       <title>[ポケモンgo] 2026-09-30 昨日のリモートキラ </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/30#jziHJ1nK0G</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-30T08:15:51.63Z</dc:date>
+      <dc:date>2026-09-30T12:46:39.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#6PP3dWm-UI">
       <title>[Web] [北海道] 2026-09-30 おおう… 子連れヒグマだ。 </title>
@@ -53,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,北海道,Web,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-30T08:15:51.63Z</dc:date>
+      <dc:date>2026-09-30T12:46:39.48Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#iRDJabbiuf">
       <title>[モンハンNow] 2026-09-30 ブラキディオス 弓  </title>
@@ -166,29 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,富山,Web,炎上,富山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-28T21:03:22.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#rvcW3ixcyU">
-      <title>[モンハンNow] 2026-09-28 武器強化の儀 粘着爆弾糞野郎 弓 (名前が覚えられない)  ライゼクス ガンス </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/28#rvcW3ixcyU</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-28T19:01:52.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#w0PiimBoUW">
-      <title>[Web] [炎上] 2026-09-29 あまりの酷さに絶句してしまうね。 「タイムズカーWebサイト」への不正アクセスに関する調査結 ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/29#w0PiimBoUW</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-28T13:13:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#wN59HOSNR1">
-      <title>[Web] [バスケ] 2026-09-29 ビンス・カーターのダンク主体の動画は何度観ても、全然飽きない。かっこええ。マイケル・ジョーダ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/29#wN59HOSNR1</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-28T09:45:06.00Z</dc:date>
     </item>
   </rdf:RDF>
