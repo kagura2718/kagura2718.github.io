@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-01T13:13:19.01Z</dc:date>
+    <dc:date>2026-10-02T03:10:56.89Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#lPTIqzEwfG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#xFCd8cw9C2"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#nWCNItqNAj"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-09-27.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#KVQjdGRsOa"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#kAHzsBfjC0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#gx8ScowpxZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#Ld5P8OGqHH"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#gcfGOzIwoP"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-01T13:13:19.01Z</dc:date>
+      <dc:date>2026-10-02T03:10:56.89Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#xFCd8cw9C2">
+      <title>[モンハンNow] 2026-10-02 武器強化の儀 蒼レウス 大刀   ギエナ ランス   ミクニ亜種 チャアク  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/02#xFCd8cw9C2</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-01T15:34:11.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#nWCNItqNAj">
       <title>[複垢] [PerazziBeretta] [かほく] 2026-10-01 久々に通りかかった、能勢 - 興津、河合谷のラインは PB おじさんの複垢タワーだらけだった ...</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-29T05:54:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#gcfGOzIwoP">
-      <title>[モンハンNow] 2026-09-29 武器強化の儀 ライゼクス ガンス  バゼル ライボ   アケノシルム の操虫棍(？)     ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/29#gcfGOzIwoP</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-29T03:51:02.00Z</dc:date>
     </item>
   </rdf:RDF>
