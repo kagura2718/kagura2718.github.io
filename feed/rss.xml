@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-02T11:49:19.61Z</dc:date>
+    <dc:date>2026-10-03T14:29:29.37Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#SBR7GENhol"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#SBR7GENhol"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#cG4iWm07YL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#wEp1JcSmUq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#lPTIqzEwfG"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#NVhptLAc0b"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#aeg2-Lc2w5"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/28#XRjbaDB4jP"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#YkQjRkdNFC"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#MGe9zPwX5v"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#kAHzsBfjC0"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#SBR7GENhol">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD">
+      <title>[生活] [北陸] 2026-10-03 金木犀燻る秋  ☺️  はやくどっか行きてぇぜ。</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-03T14:29:29.37Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#SBR7GENhol">
       <title>[ポケモンgo] 2026-10-02 なんか、アセットのリセットダウンロードが必要になったバージョンあたりから、いつも以上に表示が ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/02#SBR7GENhol</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-02T11:49:19.61Z</dc:date>
+      <dc:date>2026-10-03T08:28:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#cG4iWm07YL">
+      <title>[生活] [金沢] 2026-10-03 キョダイマックスエースバーンてことで、駅前まで出動。ついでの買い物。そんなに人気はないような ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/03#cG4iWm07YL</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,金沢,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-02T23:52:23.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#wEp1JcSmUq">
       <title>[Web] [北海道] 2026-10-02 これ、何回も流れてる。ヒグマの親子が横を走ってる段階でスピードを緩めないの、かなりおかしい挙 ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,北海道,Web,北海道]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-02T11:49:19.61Z</dc:date>
+      <dc:date>2026-10-02T17:56:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#lPTIqzEwfG">
       <title>[モンハンNow] 2026-10-01 これは、もう楽勝。 ⭐ 9 で勝率は 80% は越えてることだろう。  次は、しばらく、こい ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-09-29T19:10:00.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/29#MGe9zPwX5v">
-      <title>[Web] [国際] 2026-09-29 産経記事だけど、まじかねぇ？さすがに、イングランドの他は小国すぎて、あんまりメリットがなくな ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/29#MGe9zPwX5v</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,国際,Web,国際]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-29T12:03:50.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/09/30#kAHzsBfjC0">
-      <title>[モンハンNow] 2026-09-30 HR393 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/09/30#kAHzsBfjC0</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-09-29T08:11:38.00Z</dc:date>
     </item>
   </rdf:RDF>
