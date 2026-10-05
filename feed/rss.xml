@@ -4,18 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-05T09:46:21.37Z</dc:date>
+    <dc:date>2026-10-05T11:57:50.59Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#alcBRG3z79"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#x_tTQGHlDE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ELXYGHJhYJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#etlmWwq5ne"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#7IzW0c3p7s"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#F3ACIDx78E"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#IzcuexpF4q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#Q5EL8Trw7E"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ZnCBP1GSME"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#H0V-dlyPBi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD"/>
@@ -27,7 +28,6 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#cG4iWm07YL"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#wEp1JcSmUq"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/01#lPTIqzEwfG"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#NVhptLAc0b"/>
         </rdf:Seq>
     </items>
   </channel>
@@ -37,7 +37,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-05T09:46:21.37Z</dc:date>
+      <dc:date>2026-10-05T11:57:50.59Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#x_tTQGHlDE">
+      <title>[Web] [バスケ] 2026-10-05 久々に観たけど、すげぇな。ワンハンド + バックハンドで反対側サイドまでノーバウンドで届くの ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/05#x_tTQGHlDE</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-05T11:57:50.59Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ELXYGHJhYJ">
       <title>[Web] [サッカー] 2026-10-05 これは知らなかった… ハーフラインをディフェンス側の全員が越えてると、オフサイドにならないの ...</title>
@@ -45,7 +53,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-05T09:46:21.37Z</dc:date>
+      <dc:date>2026-10-05T10:08:51.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#etlmWwq5ne">
       <title>[Web] [NHK] 2026-10-05 Ayase は NHK が NG って話だったけど、そんなことないよね？   31:00 ぐ ...</title>
@@ -62,6 +70,14 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-04T22:09:22.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ">
+      <title>[漫画] [生活] [アニメ] [鬼滅の刃] 2026-10-05 昨日、たまたま GEO を訪れたら、鬼滅のレンタル開始に気付いた。鬼滅のおかげなのか知らんけ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,漫画,生活,アニメ,鬼滅の刃,漫画,生活,アニメ,鬼滅の刃]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-04T22:00:19.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#F3ACIDx78E">
       <title>[Web] [炎上] [文化] 2026-10-04 ちょっと前からバズってたのは、これのことかな。 </title>
@@ -86,14 +102,6 @@
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-04T20:33:38.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ">
-      <title>[漫画] [アニメ] [鬼滅の刃] 2026-10-05 昨日、たまたま GEO を訪れたら、鬼滅のレンタル開始に気付いた。鬼滅のおかげなのか知らんけ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/05#vNdeT0plsZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,漫画,アニメ,鬼滅の刃,漫画,アニメ,鬼滅の刃]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-04T20:27:37.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ZnCBP1GSME">
       <title>[登山] [生活] [宝達山] 2026-10-05 本日の登頂 </title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-02T07:06:01.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/02#NVhptLAc0b">
-      <title>[モンハンNow] 2026-10-02 武器強化の儀 ジンオウガ亜種 弓   アケノシルム 操虫棍  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/02#NVhptLAc0b</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-02T06:01:56.00Z</dc:date>
     </item>
   </rdf:RDF>
