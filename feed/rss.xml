@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-06T03:03:18.41Z</dc:date>
+    <dc:date>2026-10-07T06:02:37.47Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#VAIjLM6KCD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#x_tTQGHlDE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#lSoTaVaqFf"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#NAegmJAxtc"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#SRyMKsh1c_"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#_VjAqTkmGS"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#DE5WEXm7Ol"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt">
+      <title>[ポケモンgo] 2026-10-07 昨日のリモートキラ  このときも表示がくずれまくる…</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-07T06:02:37.47Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf">
+      <title>[モンハンNow] 2026-10-07 武器強化の儀 バゼル ガンス   ブラキディオス 弓  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-07T06:02:37.47Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0">
       <title>[Ingress] [宝達志水町] 2026-10-06 おや、懐しい… 末森山の攻撃通知 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Ingress,宝達志水町,Ingress,宝達志水町]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-06T03:03:18.41Z</dc:date>
+      <dc:date>2026-10-06T16:11:00.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#VAIjLM6KCD">
       <title>[モンハンNow] 2026-10-06 武器強化の儀 ナルガクルガ ハンマー   ジンオウガ ガンス     間違えて防具強化しちゃ ...</title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-06T03:03:18.41Z</dc:date>
+      <dc:date>2026-10-06T10:26:41.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#x_tTQGHlDE">
       <title>[Web] [バスケ] 2026-10-05 久々に観たけど、すげぇな。ワンハンド + バックパスで反対側サイドまでノーバウンドで届くの意 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-03T20:26:48.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#_VjAqTkmGS">
-      <title>[モンハンNow] 2026-10-04 HR394 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/04#_VjAqTkmGS</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-03T19:27:58.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#DE5WEXm7Ol">
-      <title>[ポケモンgo] 2026-10-04 昨日のキョダイマックスでこんなん入ってた。  しかし、ダイマックスで PL50 作ってしまっ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/04#DE5WEXm7Ol</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-03T17:49:23.00Z</dc:date>
     </item>
   </rdf:RDF>
