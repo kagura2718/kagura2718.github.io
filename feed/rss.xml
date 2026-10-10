@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-07T06:02:37.47Z</dc:date>
+    <dc:date>2026-10-10T15:41:08.11Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#YlXifnYbrz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#VAIjLM6KCD"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ZnCBP1GSME"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#H0V-dlyPBi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#NAegmJAxtc"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#SRyMKsh1c_"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS">
+      <title>[生活] [時事] 2026-10-11 三日ほど、ニュースは一部しか見聞きしてなかったのだけど、驚くほど三日前とネタに変化がない。農 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,生活,時事,生活,時事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-10T15:41:08.11Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt">
       <title>[ポケモンgo] 2026-10-07 昨日のリモートキラ  このときも表示がくずれまくる…</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-07T06:02:37.47Z</dc:date>
+      <dc:date>2026-10-07T20:22:20.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#YlXifnYbrz">
+      <title>[ポケモンgo] 2026-10-07 残り 40 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/07#YlXifnYbrz</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-07T13:16:17.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf">
       <title>[モンハンNow] 2026-10-07 武器強化の儀 バゼル ガンス   ブラキディオス 弓  </title>
@@ -45,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-07T06:02:37.47Z</dc:date>
+      <dc:date>2026-10-07T08:01:58.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/06#MavmclC8T0">
       <title>[Ingress] [宝達志水町] 2026-10-06 おや、懐しい… 末森山の攻撃通知 </title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-03T23:50:18.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#NAegmJAxtc">
-      <title>[ポケモンgo] 2026-10-04 フレンド周辺の画面がこんな感じで崩れる。俺だけか…？   ギフト画面も全体的におかしい。イラ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/04#NAegmJAxtc</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-03T22:05:14.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#SRyMKsh1c_">
-      <title>[モンハンNow] 2026-10-04 武器強化の儀 ミツネ 亜種 チャアク  </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/04#SRyMKsh1c_</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-03T20:26:48.00Z</dc:date>
     </item>
   </rdf:RDF>
