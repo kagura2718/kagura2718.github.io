@@ -4,11 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-10T15:41:08.11Z</dc:date>
+    <dc:date>2026-10-11T03:27:18.74Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#HhtMHvtGv9"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/08#oC8VrQNvtn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#YlXifnYbrz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#AnVy6lYiAf"/>
@@ -26,18 +28,32 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#IzcuexpF4q"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#Q5EL8Trw7E"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/05#ZnCBP1GSME"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#H0V-dlyPBi"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD"/>
         </rdf:Seq>
     </items>
   </channel>
   <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS">
-      <title>[生活] [時事] 2026-10-11 三日ほど、ニュースは一部しか見聞きしてなかったのだけど、驚くほど三日前とネタに変化がない。農 ...</title>
+      <title>[生活] [時事] 2026-10-11 この三日ほど、ニュースは一部しか見聞きしてなかったのだけど、驚くほど三日前とネタに変化がない ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,生活,時事,生活,時事]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-10T15:41:08.11Z</dc:date>
+      <dc:date>2026-10-11T03:27:18.74Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#HhtMHvtGv9">
+      <title>[歴史] [長野] [飛騨高山] 2026-10-11 たぶん、人生始めての信州上田だったのだけど、あそこまで「真田」推しをしているのは知らなかった ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/11#HhtMHvtGv9</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,歴史,長野,飛騨高山,歴史,長野,飛騨高山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-11T03:27:18.74Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/08#oC8VrQNvtn">
+      <title>[モンハンNow] 2026-10-08 武器強化の儀 ドシュー   </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/08#oC8VrQNvtn</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-10T11:21:22.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/07#vJBRS6Sfwt">
       <title>[ポケモンgo] 2026-10-07 昨日のリモートキラ  このときも表示がくずれまくる…</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,登山,生活,宝達山,登山,生活,宝達山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-04T15:08:35.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/04#H0V-dlyPBi">
-      <title>[料理] 2026-10-04 牛挽き肉が半額だったので雑に 150g 級のハンバーグとしてみた。適当に作ったのにうめぇ…  ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/04#H0V-dlyPBi</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-04T00:38:11.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD">
-      <title>[生活] [北陸] 2026-10-03 金木犀燻る秋  ☺️  はやくどっか行きてぇぜ。</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/03#UySYShqJAD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,北陸,生活,北陸]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-03T23:50:18.00Z</dc:date>
     </item>
   </rdf:RDF>
