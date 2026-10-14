@@ -4,19 +4,21 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-14T03:05:34.24Z</dc:date>
+    <dc:date>2026-10-14T14:32:24.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#kdkQWm6ZyM"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#BbJC_bYq1v"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#kdkQWm6ZyM"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-09.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#9efhZcVLf7"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#vKMEYZN3-_"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#7hJ9vCOknu"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#aaGGd9Xz4K"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-08.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#34PrmMhbT9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-10.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#rcgWUxWfsn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#HqhH44qowe"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#ufhDSx9shQ"/>
@@ -26,18 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#4ODQDMq3ZS"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#HhtMHvtGv9"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#p2JuAuajhD"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#px-TOE_iOC"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#kdkQWm6ZyM">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#BbJC_bYq1v">
+      <title>[Web] [時事] [炎上] 2026-10-14 😑 </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/14#BbJC_bYq1v</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,炎上,Web,時事,炎上]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-14T14:32:24.75Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#kdkQWm6ZyM">
       <title>[ポケモンgo] 2026-10-14 相変わらずこれだよ…   個体値は 93 </title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/14#kdkQWm6ZyM</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-14T03:05:34.24Z</dc:date>
+      <dc:date>2026-10-14T14:32:24.75Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-10-09.htm">
       <title>[登山] [食事] [紅葉] [長野] [群馬] 2026-10-09 四阿山(あずまやさん) - 信州上田</title>
@@ -53,7 +61,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,食事,Web,食事,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-14T03:05:34.24Z</dc:date>
+      <dc:date>2026-10-14T05:52:57.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#vKMEYZN3-_">
       <title>[Web] [サッカー] 2026-10-13 これはこれで、観る側としては面白そうじゃね？天気に左右されるのって、サッカーなどの屋外スポー ...</title>
@@ -61,7 +69,15 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,サッカー,Web,サッカー]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-14T03:05:34.24Z</dc:date>
+      <dc:date>2026-10-14T05:03:52.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#7hJ9vCOknu">
+      <title>[ポケモンgo] 2026-10-14 へー、リモート交換リクエスト中にローカル交換で特別交換しても大丈夫、ということだ。しかし、こ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/14#7hJ9vCOknu</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-13T21:07:32.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#aaGGd9Xz4K">
       <title>[モンハンNow] 2026-10-14 イベント武器 片手剣    花火    </title>
@@ -87,14 +103,6 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-13T17:15:11.00Z</dc:date>
     </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07">
-      <title>[Web] [スポーツ] 2026-10-13 ↓これ、まだ出たての頃だろうけど、前にも観たことある。今じゃすっかり有名になったけど、未だこ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-13T15:22:31.00Z</dc:date>
-    </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-10-10.htm">
       <title>[食事] [岐阜] [飛騨高山] 2026-10-10 飛騨高山 (秋祭り)</title>
       <link>https://kagura2718.github.io/Diary/essay/2026/2026-10-10.htm</link>
@@ -102,6 +110,14 @@
         <![CDATA[日記,随筆,簡約版,食事,岐阜,飛騨高山,食事,岐阜,飛騨高山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-11T01:28:26.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07">
+      <title>[Web] [スポーツ] 2026-10-13 ↓これ、まだ出たての頃だろうけど、前にも観たことある。今じゃすっかり有名になったけど、未だこ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/13#KZPxmW6k07</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,スポーツ,Web,スポーツ]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-13T15:22:31.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/14#rcgWUxWfsn">
       <title>[モンハンNow] 2026-10-14 昨晩もマルチでやったけど、やっぱりあんまり稼げない。対象が多くてモンスターが離れちゃうのと、 ...</title>
@@ -174,21 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,歴史,長野,飛騨高山,歴史,長野,飛騨高山]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-11T06:02:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#p2JuAuajhD">
-      <title>[Web] 2026-10-11 やっぱり『山月記』を思い浮かべるよなぁ。 😅 </title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/11#p2JuAuajhD</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-11T02:38:29.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/11#px-TOE_iOC">
-      <title>[ポケモンgo] [モンハンNow] 2026-10-11 カウントダウン。残り 26。おでかけ中に到達するか？と思ったら、思ってた以上に、ポケモンとモ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/11#px-TOE_iOC</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-10T17:05:55.00Z</dc:date>
     </item>
   </rdf:RDF>
