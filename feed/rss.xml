@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-17T09:23:24.98Z</dc:date>
+    <dc:date>2026-10-17T12:30:20.02Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#cPj6FeRX9V"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-16.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#cPj6FeRX9V"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#EmUZ-3mzFn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#9q8f6dDYow"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#mu3RIAFqST"/>
@@ -39,6 +39,14 @@
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2025-10-02T22:49:36.00Z</dc:date>
     </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-10-16.htm">
+      <title>[登山] [白山] 2026-10-16 白山 - 白山市</title>
+      <link>https://kagura2718.github.io/Diary/essay/2026/2026-10-16.htm</link>
+      <description>
+        <![CDATA[日記,随筆,簡約版,登山,白山,登山,白山]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-17T09:16:22.00Z</dc:date>
+    </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#cPj6FeRX9V">
       <title>[生活] [Web] [時事] [炎上] 2026-10-17 そうなんだ… 昨日、入山中に警報がなってた。ちらっとみると、北海道、ロシア方面だから、とりあ ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/17#cPj6FeRX9V</link>
@@ -46,14 +54,6 @@
         <![CDATA[日記,つぶやき,雑記帳,生活,Web,時事,炎上,生活,Web,時事,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-17T08:09:04.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-10-16.htm">
-      <title>[登山] [白山] 2026-10-16 白山 - 白山市</title>
-      <link>https://kagura2718.github.io/Diary/essay/2026/2026-10-16.htm</link>
-      <description>
-        <![CDATA[日記,随筆,簡約版,登山,白山,登山,白山]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-17T08:43:14.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/17#EmUZ-3mzFn">
       <title>[モンハンNow] 2026-10-17 武器強化の儀 ギエナ ランス  </title>
