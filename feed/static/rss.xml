@@ -4,13 +4,16 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-17T12:30:20.02Z</dc:date>
+    <dc:date>2026-10-18T00:51:35.00Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/UV/UVoPzbh2Vg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/qz/qzifK1VjGm.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/MK/MKBrH9KI98.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/JT/JTR6IKhZ8i.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bu/buC_1G4O4f.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/K3/K3YX7YwH6T.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/00/00aW-BYq0a.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jz/jzgyLC-_UH.htm"/>
@@ -25,12 +28,17 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yw/ywqHOgmpi_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/e2/e2O9tGLXz_.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/g7/g7HjIhci3j.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Qh/QhqBnBGDqv.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/bz/bzraasPL6D.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/ej/ej4UY70Xn9.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/UV/UVoPzbh2Vg.htm">
+    <title>[アニメ] [薬屋のひとりごと] 2026-10-17 第三期は意外と面白い。前期は無理矢理な展開が多過ぎて好きじゃなかった。妓楼の近くや町住まいの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/UV/UVoPzbh2Vg.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,薬屋のひとりごと,アニメ,薬屋のひとりごと</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-10-17T18:28:38.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
     <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
@@ -47,6 +55,14 @@
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-10-17T09:16:22.00Z</dc:date>
   </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/MK/MKBrH9KI98.htm">
+    <title>[生活] 2026-10-17 前の信州上田の市街地での運転もなかなか恐怖感があったが、昨日の白山市エリアの運転も怖かった。 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/MK/MKBrH9KI98.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,生活</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-10-17T13:51:53.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/JT/JTR6IKhZ8i.htm">
     <title>[生活] [Web] [時事] [炎上] 2026-10-17 そうなんだ… 昨日、入山中に警報がなってた。ちらっとみると、北海道、ロシア方面だから、とりあ ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/JT/JTR6IKhZ8i.htm</link>
@@ -54,6 +70,14 @@
         日記,つぶやき,雑記帳,生活,Web,時事,炎上,生活,Web,時事,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-10-17T08:09:04.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bu/buC_1G4O4f.htm">
+    <title>[アニメ] 2026-10-18 オープニングはヨルシカ 『雲を抜け風下へ私だけ』 ヨルシカはたしかフリーレンの曲にもなってた ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/bu/buC_1G4O4f.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,アニメ,アニメ</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-10-16T21:10:09.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/K3/K3YX7YwH6T.htm">
     <title>[モンハンNow] 2026-10-17 武器強化の儀 ギエナ ランス  </title>
@@ -166,29 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-10-14T18:13:19.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Qh/QhqBnBGDqv.htm">
-    <title>[ポケモンgo] 2026-10-14 相変わらずこれだよ…   個体値は 93 </title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Qh/QhqBnBGDqv.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-14T18:07:03.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/bz/bzraasPL6D.htm">
-    <title>[ポケモンgo] [モンハンNow] 2026-10-15 次はメガシャンデラがやってくるようだ。 「シャンデラ」の「スーパーメガレイド・デイ」で、不思 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/bz/bzraasPL6D.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,ポケモンgo,モンハンNow,ポケモンgo,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-14T15:45:51.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/ej/ej4UY70Xn9.htm">
-    <title>[食事] [Web] 2026-10-13 へー、そうなのか？一店舗味わってもう二度と行かないと思ったけど、店舗によって違いがあるなら… ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/ej/ej4UY70Xn9.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,食事,Web,食事,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-14T05:52:57.00Z</dc:date>
   </item>
 </rdf:RDF>
