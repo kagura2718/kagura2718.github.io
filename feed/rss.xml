@@ -4,15 +4,19 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-10-30T15:06:15.32Z</dc:date>
+    <dc:date>2026-10-31T14:00:05.35Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#tVBLg4FPtf"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#gMrpHtWnaG"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/index.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-29.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#-K0KM0Dy31"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#yxhKuz8eNy"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#a_xq3lOeHD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-10-28.htm"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#iL6IA1j1wi"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/27#A5262EePxf"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/27#orH6P-QNMz"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#08UzsSHzc8"/>
@@ -24,14 +28,26 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#KKrzpyXtMO"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#3V_efWcFK6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#uEQyFrhOAj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#Dv0hKnAHU-"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#o-hgEWPPAj"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#64YfvAu1gG"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#8Wk7npOFMV"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#tVBLg4FPtf">
+      <title>[ポケモンgo] [生活] [金沢] 2026-10-31 おじさんは金沢駅前へやってきた。  おじさんは、スーパーメガレイドが嫌いだ。  しばらく荒れ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/31#tVBLg4FPtf</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-31T14:00:05.35Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#gMrpHtWnaG">
+      <title>[雑学] [料理] 2026-10-30 長野からの帰り、サーモンがやたらと売れ残っていたので、買ってみた。車で 4H 以上、保冷剤の ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/30#gMrpHtWnaG</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,雑学,料理,雑学,料理]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-31T14:00:05.35Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Diary/essay/index.htm">
       <title>随筆(長編日記)</title>
       <link>https://kagura2718.github.io/Diary/essay/index.htm</link>
       <description>
@@ -45,7 +61,15 @@
       <description>
         <![CDATA[日記,随筆,簡約版,登山,食事,北アルプス,長野,登山,食事,北アルプス,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-30T15:06:15.32Z</dc:date>
+      <dc:date>2026-10-31T08:08:28.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#-K0KM0Dy31">
+      <title>[ポケモンgo] 2026-10-31 リモートキラはこれ… これ、なんだっけ？ </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/31#-K0KM0Dy31</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-31T01:36:27.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#yxhKuz8eNy">
       <title>[Web] [長野] 2026-10-30 諏訪の守屋山から見えるでっかい建造物、何かと思ったら、ドコモの中継施設だった。ということは歩 ...</title>
@@ -53,7 +77,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-30T15:06:15.32Z</dc:date>
+      <dc:date>2026-10-30T20:13:52.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/30#a_xq3lOeHD">
       <title>[Web] 2026-10-30 へー、なるほどだね。慣れも必要だろうし、高さがあれば恐怖感を克服するのが大変だろうけど、登山 ...</title>
@@ -61,7 +85,7 @@
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,Web]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-30T15:06:15.32Z</dc:date>
+      <dc:date>2026-10-30T18:09:29.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-10-28.htm">
       <title>[Ingress] [登山] [食事] [紅葉] [長野] 2026-10-28 霧訪山 - 塩尻</title>
@@ -70,6 +94,14 @@
         <![CDATA[日記,随筆,簡約版,Ingress,登山,食事,紅葉,長野,Ingress,登山,食事,紅葉,長野]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-30T13:01:10.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/31#iL6IA1j1wi">
+      <title>[Web] [長野] 2026-10-31 通ったときは既に暗かったから、はっきり分からなかったけど、このエリアも面白そうなエリア。古い ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/31#iL6IA1j1wi</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-10-30T10:05:28.00Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/27#A5262EePxf">
       <title>[Web] [炎上] [AI] 2026-10-27 画質がやや悪い。若い女の子に見えるけど、しゃべるのが巧い。ついつい AI 生成も疑ってしまう ...</title>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,Web,野球,Web,野球]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-10-25T19:54:34.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#Dv0hKnAHU-">
-      <title>[料理] 2026-10-25 サーモン丼としてみた。  サーモン、久々。うめぇ</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/25#Dv0hKnAHU-</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,料理,料理]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-25T18:16:36.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/26#o-hgEWPPAj">
-      <title>[Web] [長野] 2026-10-26 へー、そういうもんか… 木曽路は中山道を歩いてみた感じ、相当な過疎地だとは思ったが、「マトモ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/26#o-hgEWPPAj</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-25T16:43:19.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#64YfvAu1gG">
-      <title>[ポケモンgo] 2026-10-25 【ポケモンGO】エムリットの色違いとおすすめ技・弱点 - ゲームウィズ 【ポケモンGO】アグ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/25#64YfvAu1gG</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-25T15:09:37.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/10/25#8Wk7npOFMV">
-      <title>[生活] 2026-10-25 予報ほど土砂降りじゃないなーと思ったら、台風の動きが変化したのか？ 31 号が発生したからか ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/10/25#8Wk7npOFMV</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,生活,生活]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-10-25T11:08:07.00Z</dc:date>
     </item>
   </rdf:RDF>
