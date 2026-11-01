@@ -4,15 +4,17 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-01T03:06:08.47Z</dc:date>
+    <dc:date>2026-11-01T03:58:48.85Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/l5/l53Jnt4oXa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/uo/uoyqPSN-bC.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/tG/tG_6b9S4vF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/to/to87yWMFYt.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/53/53NenTFg22.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BZ/BZBIVHj7G7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/YL/YLW_cR8q_N.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/BZ/BZBIVHj7G7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/1i/1iBVNo8NT9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/60/601bdQ4k2E.htm"/>
@@ -26,18 +28,32 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Wn/Wndkv0fyGF.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gC/gC4HTybBVu.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Tr/TrTmeSIztl.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/gb/gb-s-TMVQM.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cV/cVFiYGSZWp.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/l5/l53Jnt4oXa.htm">
+    <title>[Web] [文化] 2026-11-01 夏季に軽トラの荷台にホイール付きの夏タイヤ (おそらく別の軽トラの) が載っていて、それをス ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/l5/l53Jnt4oXa.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,文化,Web,文化</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-11-01T03:58:48.85Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/uo/uoyqPSN-bC.htm">
     <title>[ポケモンgo] [生活] [金沢] 2026-10-31 おじさんは、金沢駅前へやってきた。登山で数日溶かすと、しばらくはそれ以外のタスクで忙しい。私 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/uo/uoyqPSN-bC.htm</link>
     <description>
         日記,つぶやき,雑記帳,ポケモンgo,生活,金沢,ポケモンgo,生活,金沢</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-01T03:06:08.47Z</dc:date>
+    <dc:date>2026-11-01T03:58:48.85Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/tG/tG_6b9S4vF.htm">
+    <title>[地理] [長野] 2026-11-01 塩尻から小野駅へ通じる道は三州街道というみたいだ。聞いたことはある。ここから辰野を経由して、 ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/tG/tG_6b9S4vF.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,地理,長野,地理,長野</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-11-01T03:58:48.85Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/to/to87yWMFYt.htm">
     <title>[登山] [食事] [北アルプス] [長野] 2026-10-29 守屋山 - 上諏訪 - 下諏訪</title>
@@ -45,7 +61,7 @@
     <description>
         日記,随筆,簡約版,登山,食事,北アルプス,長野,登山,食事,北アルプス,長野</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-01T03:06:08.47Z</dc:date>
+    <dc:date>2026-11-01T03:58:48.85Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/53/53NenTFg22.htm">
     <title>[登山] [Web] 2026-11-01 あー、ありがち 😂 いっぱい個人情報は集めたもんね… </title>
@@ -53,7 +69,15 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,登山,Web</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-01T03:06:08.47Z</dc:date>
+    <dc:date>2026-11-01T03:44:58.00Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YL/YLW_cR8q_N.htm">
+    <title>[生活] [アニメ] [薬屋のひとりごと] 2026-11-01 泥酔状態で薬屋を眺める、この楽しみ。このアニメ、むしろ酔いどれ状態で眺める方がちょうどいいん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/YL/YLW_cR8q_N.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,生活,アニメ,薬屋のひとりごと,生活,アニメ,薬屋のひとりごと</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-10-31T21:55:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/BZ/BZBIVHj7G7.htm">
     <title>[雑学] [料理] 2026-10-30 長野からの帰り、サーモンがやたらと売れ残っていたので、買ってみた。車で 4H 以上、保冷剤の ...</title>
@@ -62,14 +86,6 @@
         日記,つぶやき,雑記帳,雑学,料理,雑学,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-10-31T15:52:11.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/YL/YLW_cR8q_N.htm">
-    <title>[生活] [アニメ] [薬屋のひとりごと] 2026-11-01 泥酔状態で薬屋を眺める、この楽しみ。この映画、むしろ酔いどれ状態で眺める方がちょうどいいんじ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/YL/YLW_cR8q_N.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,アニメ,薬屋のひとりごと,生活,アニメ,薬屋のひとりごと</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-31T08:59:58.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
     <title>随筆(長編日記)</title>
@@ -174,21 +190,5 @@
         日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-10-25T15:08:21.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/gb/gb-s-TMVQM.htm">
-    <title>[生活] 2026-10-26 巨大台風とやら、消えたんだ 😂 なんで？？ しかし、次は前線の影響がどうなるか、か？</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/gb/gb-s-TMVQM.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,生活,生活</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-25T23:48:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/cV/cVFiYGSZWp.htm">
-    <title>[Web] [バスケ] 2026-10-26 バスケに関しては、どのレジェンド級選手でもルーキーシーズンかそれに準ずるぐらいのシーズンの方 ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/cV/cVFiYGSZWp.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,バスケ,Web,バスケ</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-10-25T23:47:13.00Z</dc:date>
   </item>
 </rdf:RDF>
