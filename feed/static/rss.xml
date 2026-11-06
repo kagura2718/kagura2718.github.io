@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-06T08:38:17.36Z</dc:date>
+    <dc:date>2026-11-06T10:59:07.42Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Zl/ZlvpP_sbRE.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/F3/F3CWLXRdhg.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WB/WBqxG-f0Xq.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Jq/JqU5-dRshv.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wh/whDWTVVHAO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/jx/jxH6QkaByU.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/cx/cxBBQPOkCr.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ko/KoES11SJk1.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Zl/ZlvpP_sbRE.htm">
+    <title>[モンハンNow] 2026-11-06 破壊王はやっぱりいっぱい壊せる。しかし、ダメージが稼げるわけじゃないらしいから、討伐が早くな ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Zl/ZlvpP_sbRE.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-11-06T10:59:07.42Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/F3/F3CWLXRdhg.htm">
     <title>[Web] [時事] 2026-11-06 特に記述がないが、自死か…？それぐらいやっても不思議はないが。 「全東信」社長の死亡判明　破 ...</title>
     <link>https://kagura2718.github.io/Gitwee/jump/F3/F3CWLXRdhg.htm</link>
     <description>
         日記,つぶやき,雑記帳,Web,時事,Web,時事</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-06T08:38:17.36Z</dc:date>
+    <dc:date>2026-11-06T10:59:07.42Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/WB/WBqxG-f0Xq.htm">
     <title>[モンハンNow] 2026-11-06 古龍は『アマツマガツチ』。弱点は龍属性みたいだけど、この子も火っぽくない… 火属性の倍化スキ ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-06T08:38:17.36Z</dc:date>
+    <dc:date>2026-11-06T10:41:35.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Jq/JqU5-dRshv.htm">
     <title>[モンハンNow] 2026-11-05 久々の武器強化の儀 バゼル ライボ  </title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,Web,南アルプス,Web,南アルプス</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-11-02T17:54:46.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ko/KoES11SJk1.htm">
-    <title>[モンハンNow] 2026-11-03 ほう、アクセサリ… 前からちらほらと話題にはなっていた。  しかし、なんだか分かりづらそうだ ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ko/KoES11SJk1.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-02T14:00:28.00Z</dc:date>
   </item>
 </rdf:RDF>
