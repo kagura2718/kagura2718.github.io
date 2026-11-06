@@ -4,11 +4,15 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-05T20:47:43.00Z</dc:date>
+    <dc:date>2026-11-06T08:38:17.36Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/04#Dqvy6eCWNT"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#UFCsbD1JG5"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#HFbItzvJzD"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/05#GddIYDT0_0"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#BojzZmuLzl"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/04#Dqvy6eCWNT"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/05#baLRv0oqmn"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/05#Lory9nioHJ"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/05#ltI5SyM7KP"/>
@@ -24,14 +28,42 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/03#aKnn4rtuPa"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#gGpC1_xSsg"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/03#CEXlNtugFx"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#AuTEr_cRlv"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#F0qSjRvRwt"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#madQKeoFNo"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#9dBFiwiNik"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/04#Dqvy6eCWNT">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#UFCsbD1JG5">
+      <title>[Web] [時事] 2026-11-06 特に記述がないが、自死か…？それぐらいやっても不思議はないが。 「全東信」社長の死亡判明　破 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/06#UFCsbD1JG5</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,Web,時事,Web,時事]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-11-06T08:38:17.36Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#HFbItzvJzD">
+      <title>[モンハンNow] 2026-11-06 古龍は『アマツマガツチ』。弱点は龍属性みたいだけど、この子も火っぽくない… 火属性の倍化スキ ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/06#HFbItzvJzD</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-11-06T08:38:17.36Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/05#GddIYDT0_0">
+      <title>[モンハンNow] 2026-11-05 久々の武器強化の儀 バゼル ライボ  </title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/05#GddIYDT0_0</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-11-05T23:29:29.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/06#BojzZmuLzl">
+      <title>[モンハンNow] 2026-11-06 武器強化の儀 ジンオウガ ガンス    竜玉が足りない… すでに雑魚の吐き出す珠になっている ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/06#BojzZmuLzl</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-11-05T22:10:05.00Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/04#Dqvy6eCWNT">
       <title>[モンハンNow] [料理] 2026-11-04 昨晩は海鮮焼きそばとした。 🍺  泥酔したので 2km ぐらい歩いて、キリンを狩りに行ったが ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/04#Dqvy6eCWNT</link>
       <description>
@@ -158,37 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-11-02T14:00:28.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#AuTEr_cRlv">
-      <title>[Web] [炎上] 2026-11-02 謝罪の部分はほとんど聞けなくて、途中から聞いてたんだけど、全部 AI のせいということにして ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/02#AuTEr_cRlv</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-02T13:54:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#F0qSjRvRwt">
-      <title>[ポケモンgo] 2026-11-02 教えてもらって、なんとか気付いた。  しかし、まだ 4 日もあったのか。この辺りもタブが増え ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/02#F0qSjRvRwt</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-02T09:54:09.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#madQKeoFNo">
-      <title>[ポケモンgo] 2026-11-02 ちょうど旅先にいるときに、こういう嫌がらせイベント発生するとイラっとするよね。こっちはイベン ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/02#madQKeoFNo</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-02T06:57:30.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/02#9dBFiwiNik">
-      <title>[Web] [長野] 2026-11-02 イオン諏訪のクチコミ評価、低いにも程がある。行ったときはめっちゃ車あったけどね。評価が 3. ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/02#9dBFiwiNik</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,Web,長野,Web,長野]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-02T04:46:47.00Z</dc:date>
     </item>
   </rdf:RDF>
