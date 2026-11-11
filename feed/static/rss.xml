@@ -4,13 +4,13 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-11T03:50:42.89Z</dc:date>
+    <dc:date>2026-11-11T14:07:54.15Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WD/WDVMvRYOfn.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OB/OBwuVb4OF9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ik/Ik4n84daPp.htm"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/OB/OBwuVb4OF9.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ev/EvAef_5aeL.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/3F/3FoHhkDqAp.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Sj/SjTCmfpma4.htm"/>
@@ -37,7 +37,15 @@
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-11T03:50:42.89Z</dc:date>
+    <dc:date>2026-11-11T14:07:54.15Z</dc:date>
+  </item>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ik/Ik4n84daPp.htm">
+    <title>[地理] [長野] 2026-11-11 一日市場駅って見つけてびっくりしたなど。読み方は「ひといちばえき」。   一日の部分が二つの ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/Ik/Ik4n84daPp.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,地理,長野,地理,長野</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-11-11T05:35:41.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/OB/OBwuVb4OF9.htm">
     <title>[Web] [料理] 2026-11-11 ということで、昨晩、晩ご飯を食った後だけど、軽く一品作って食べたみた。パセリが物足りないけど ...</title>
@@ -46,14 +54,6 @@
         日記,つぶやき,雑記帳,Web,料理,Web,料理</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-11-11T03:14:09.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ik/Ik4n84daPp.htm">
-    <title>[地理] [長野] 2026-11-11 一日市場駅って見つけてびっくりしたなど。読み方は「ひといちばえき」。   一日の部分が二つの ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/Ik/Ik4n84daPp.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,地理,長野,地理,長野</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-11T01:50:57.00Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ev/EvAef_5aeL.htm">
     <title>[登山] [生活] [紅葉] [宝達山] 2026-11-10 紅葉観察 お散歩 宝達山</title>
