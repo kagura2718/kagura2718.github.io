@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-13T08:23:00.65Z</dc:date>
+    <dc:date>2026-11-13T08:40:54.83Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/8s/8srcc1qqF4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Nj/NjyFMR5Cfc.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/WD/WDVMvRYOfn.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/O_/O_xqZ65SEV.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/50/50br0GrMnY.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/i0/i0HFS7YLxl.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/06/06ITqaYgYj.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm">
+    <title>随筆(長編日記)</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/9Q/9QUJzq_pcK.htm</link>
+    <description>
+        ゲーム,日記,記録,随筆,エッセイ,一人旅</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2025-10-02T22:49:36.00Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/8s/8srcc1qqF4.htm">
-    <title>[食事] [紅葉] [飛騨高山] 2026-11-12 里山歩き -&gt; 高山 -&gt; 古川</title>
+    <title>[食事] [紅葉] [飛騨高山] 2026-11-12 里山歩き - 高山 - 古川</title>
     <link>https://kagura2718.github.io/Gitwee/jump/8s/8srcc1qqF4.htm</link>
     <description>
         日記,随筆,簡約版,食事,紅葉,飛騨高山,食事,紅葉,飛騨高山</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-13T08:23:00.65Z</dc:date>
+    <dc:date>2026-11-13T08:40:54.83Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Nj/NjyFMR5Cfc.htm">
     <title>[Web] [時事] 2026-11-13 CM を眺めてるだけでも、やばい企業だと分かるもんな… ここ、割と若い社長さんがコロナのとき ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-11-08T17:01:23.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/06/06ITqaYgYj.htm">
-    <title>[漫画] [Web] 2026-11-09 アイシールド21 に関するネタがやけに流れてるが、何かあったのかね。割と読んでた記憶もあるし ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/06/06ITqaYgYj.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,漫画,Web,漫画,Web</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-09T01:07:18.00Z</dc:date>
   </item>
 </rdf:RDF>
