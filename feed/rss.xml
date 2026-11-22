@@ -4,11 +4,12 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-22T10:38:39.44Z</dc:date>
+    <dc:date>2026-11-22T10:44:01.92Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/21#jQi4wl8XzD"/>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/22#hzgSz2NEoV"/>
+          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/21#jQi4wl8XzD"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Diary/essay/2026/2026-11-21-6153f.htm"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/21#B1b0Pm6Fx6"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/22#SVDVwiVdo1"/>
@@ -27,17 +28,24 @@
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/18#ge7o5L4nS1"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/18#pZTsmIANpE"/>
           <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/17#-QqZJxE2Ck"/>
-          <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/timeline/2026/11/18#ZzvOAoGIBZ"/>
         </rdf:Seq>
     </items>
   </channel>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/21#jQi4wl8XzD">
+  <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/22#hzgSz2NEoV">
+      <title>[ポケモンgo] 2026-11-22 ムゲンダイナは伝説のポケモン枠らしい。幻ではなく。なのに、交換できない？？？  この幻枠の子 ...</title>
+      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/22#hzgSz2NEoV</link>
+      <description>
+        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
+      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+      <dc:date>2026-11-22T10:44:01.92Z</dc:date>
+    </item>
+    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/21#jQi4wl8XzD">
       <title>[Web] [炎上] 2026-11-21 ほほう… これは知らないネタだね。   クライマーに山を教えてもらいつつ、クライマーの人達と ...</title>
       <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/21#jQi4wl8XzD</link>
       <description>
         <![CDATA[日記,つぶやき,雑記帳,Web,炎上,Web,炎上]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-22T10:38:39.44Z</dc:date>
+      <dc:date>2026-11-22T10:44:01.92Z</dc:date>
     </item>
     <item rdf:about="https://kagura2718.github.io/Diary/essay/2026/2026-11-21-6153f.htm">
       <title>[ポケモンgo] [生活] [金沢] 2026-11-21 金沢</title>
@@ -182,13 +190,5 @@
         <![CDATA[日記,つぶやき,雑記帳,モンハンNow,モンハンNow]]></description>
       <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
       <dc:date>2026-11-18T05:53:23.00Z</dc:date>
-    </item>
-    <item rdf:about="https://kagura2718.github.io/Gitwee/timeline/2026/11/18#ZzvOAoGIBZ">
-      <title>[ポケモンgo] 2026-11-18 どうやら今週末はムゲンダイナがやってきて、キリキザンを進化するイベントらしい。悪でも鋼でもタ ...</title>
-      <link>https://kagura2718.github.io/Gitwee/timeline/2026/11/18#ZzvOAoGIBZ</link>
-      <description>
-        <![CDATA[日記,つぶやき,雑記帳,ポケモンgo,ポケモンgo]]></description>
-      <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-      <dc:date>2026-11-18T02:15:36.00Z</dc:date>
     </item>
   </rdf:RDF>
