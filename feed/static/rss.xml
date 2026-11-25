@@ -4,10 +4,11 @@
     <title>山旅と AR と一人旅と</title>
     <link>https://kagura2718.github.io/</link>
     <description>登山,生活,PokémonGo,Ingress,時事,日常,スポーツ,ランニング,自転車,ゲーム,位置ゲーム,ネットwatch,炎上,北陸,雪国</description>
-    <dc:date>2026-11-25T10:05:49.08Z</dc:date>
+    <dc:date>2026-11-25T12:55:36.75Z</dc:date>
     <dc:language>ja</dc:language>
     <items>
       <rdf:Seq>
+        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/yB/yBwoZDuONa.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ws/WsvDOu_a9P.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Ox/OxxT5WPZBO.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/zi/zi_i5NdA4Z.htm"/>
@@ -27,17 +28,24 @@
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/Y-/Y-QQmcFCO4.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/VB/VBPVjLZFE7.htm"/>
         <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/z2/z28IeFOGf9.htm"/>
-        <rdf:li rdf:resource="https://kagura2718.github.io/Gitwee/jump/wc/wcZlvbTzEf.htm"/>
       </rdf:Seq>
     </items>
   </channel>
+  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/yB/yBwoZDuONa.htm">
+    <title>[Web] [奥能登] 2026-11-25 えー… これはさすがに… ちょっと引いちゃうね。ここ有名なデカ盛りの店で、人気店ではあったん ...</title>
+    <link>https://kagura2718.github.io/Gitwee/jump/yB/yBwoZDuONa.htm</link>
+    <description>
+        日記,つぶやき,雑記帳,Web,奥能登,Web,奥能登</description>
+    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
+    <dc:date>2026-11-25T12:55:36.75Z</dc:date>
+  </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ws/WsvDOu_a9P.htm">
     <title>[モンハンNow] 2026-11-25 武器強化の儀 プケ亜種ハンマー     ライボ   桜レイア ガンス  </title>
     <link>https://kagura2718.github.io/Gitwee/jump/Ws/WsvDOu_a9P.htm</link>
     <description>
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-25T10:05:49.08Z</dc:date>
+    <dc:date>2026-11-25T12:55:36.75Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/Ox/OxxT5WPZBO.htm">
     <title>[登山] [Web] [長野] 2026-11-25 へー、守屋って、今年登った守屋山だろう。こういうランクに入ってくるほど有名な山だったのか。て ...</title>
@@ -45,7 +53,7 @@
     <description>
         日記,つぶやき,雑記帳,登山,Web,長野,登山,Web,長野</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-25T10:05:49.08Z</dc:date>
+    <dc:date>2026-11-25T12:55:36.75Z</dc:date>
   </item>
   <item rdf:about="https://kagura2718.github.io/Gitwee/jump/zi/zi_i5NdA4Z.htm">
     <title>[Web] [炎上] [文化] 2026-11-25 ついつい馬鹿なポストに反応してしまうが、野口建を大谷翔平と同一視… 🤮   なんとなくの直感 ...</title>
@@ -182,13 +190,5 @@
         日記,つぶやき,雑記帳,モンハンNow,モンハンNow</description>
     <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
     <dc:date>2026-11-21T04:34:19.00Z</dc:date>
-  </item>
-  <item rdf:about="https://kagura2718.github.io/Gitwee/jump/wc/wcZlvbTzEf.htm">
-    <title>[Web] [炎上] 2026-11-20 消えとるね…  へー、こんな感じになってるのか。隈ってそんなに著名ということでもある。今のと ...</title>
-    <link>https://kagura2718.github.io/Gitwee/jump/wc/wcZlvbTzEf.htm</link>
-    <description>
-        日記,つぶやき,雑記帳,Web,炎上,Web,炎上</description>
-    <dc:creator>e神楽 &lt;kagura2718@gmail.com&gt;</dc:creator>
-    <dc:date>2026-11-20T22:32:37.00Z</dc:date>
   </item>
 </rdf:RDF>
